@@ -30,8 +30,14 @@ This repository contains the AI-powered intelligence platform for Mindtickle sal
    cd frontend
    python3 -m http.server 8888
    ```
-3. **Access**: Open **[http://localhost:8888](http://localhost:8888)** in your browser.
+3. **Access**:
+   - **Local**: Open **[http://localhost:8888](http://localhost:8888)**
+   - **Web**: **[Live Dashboard URL](https://akshaymehndiratta93.github.io/git-antigravity-mindtickle/)**
 
-## AI Copilot
+## Deployment
+This project is set up for GitHub Pages. To push your local changes and make them live, run:
+```bash
+git push origin main
+```
 
 The integrated copilot provides evidence-grounded answers. It automatically builds context from the active brand's call data and cites specific Sr Nos. and URLs for every claim.
