@@ -1,0 +1,500 @@
+{
+  "brand": "Story Health",
+  "slug": "story_health",
+  "kpis": {
+    "total_calls": 4,
+    "calls_with_summary": 4,
+    "calls_with_debrief": 4,
+    "stage_distribution": {
+      "Unknown": 2,
+      "X4 – Closed Won (Contract Executed)": 1,
+      "X1 - BANT Qualified": 1
+    },
+    "budget_clarity_rate": 100.0,
+    "budget_defined": 4,
+    "budget_undefined": 0,
+    "timeline_clarity_rate": 100.0,
+    "timeline_defined": 4,
+    "timeline_undefined": 0,
+    "multi_threaded_rate": 100.0,
+    "multi_threaded_count": 4,
+    "growth_mention_rate": 75.0,
+    "growth_mention_count": 3
+  },
+  "qualification_by_stage": {
+    "X4 – Closed Won (Contract Executed)": {
+      "total": 1,
+      "budget_clear_pct": 100.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "Unknown": {
+      "total": 2,
+      "budget_clear_pct": 100.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "X1 - BANT Qualified": {
+      "total": 1,
+      "budget_clear_pct": 100.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    }
+  },
+  "account_health": [
+    {
+      "name": "CarePoint Health - DAP, InGraph",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "45"
+      ]
+    },
+    {
+      "name": "Lean Business Services_PHM_Value_International",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "354"
+      ]
+    }
+  ],
+  "call_list": [
+    {
+      "sr_no": "45",
+      "title": "Innovaccer and Mt. Sinai",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5420889311048212243",
+      "stages": [
+        "X4 – Closed Won (Contract Executed)"
+      ],
+      "opportunity": "CarePoint Health - DAP, InGraph",
+      "attendees": "Nikhil Roy, Ankit Maheshwari, Achintya Moulick, anu, Derek Pineda, Brandon Taylor, Vengrenyuk, Andriy, Ashul Govil, MD",
+      "brand": "Story Health",
+      "summary": "The meeting centered around the integration of advanced technology in healthcare, specifically focusing on cardiology and emergency response systems.\n\nTopics Discussed:\nIntroduction and Team Introductions\nAchintya Moulick introduced the purpose of the meeting and the participants, including Dr. Kinn",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "94",
+      "title": "Arunab Mehta <> Story Health",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5126494539830754876",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Arunab Mehta, David Chedester, Keg Avakian",
+      "brand": "Story Health",
+      "summary": "The meeting centered on discussing the implementation and benefits of Story Health's platform for managing heart failure patients, with a focus on remote monitoring and cost-effectiveness.\n\nTopics Discussed:\nTechnical Issues and Introductions\nDavid Chedester experienced camera issues due to a recent",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "119",
+      "title": "Neil Tantingco and Team Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8370820116012641275",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Neil, Kshitij Joshi",
+      "brand": "Story Health",
+      "summary": "The meeting was centered around discussing the CMS access and the integration of remote care solutions with Kshitij Joshi and Neil. The conversation highlighted the potential collaboration between their organizations.\n\nTopics Discussed:\nIntroduction and Background\nNeil shared his background in remot",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "354",
+      "title": "Innovaccer - PHM",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1297005316547107734",
+      "stages": [
+        "X1 - BANT Qualified"
+      ],
+      "opportunity": "Lean Business Services_PHM_Value_International",
+      "attendees": "Jatin Dalal, Shatha Alshaibi, Jeev Sahni",
+      "brand": "Story Health",
+      "summary": "The meeting centered on discussing the scope of work and opportunities related to population health management (PHM) with Innovaccer's Ambient AI, focusing on care coordination and strategic partnerships.\n\nTopics Discussed:\nPHM Opportunities and Proposals\nShatha Alshaibi introduced the meeting's pur",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    }
+  ],
+  "pain_clusters": [
+    {
+      "theme": "Inadequate Technology & Ineffective Tools",
+      "description": "Existing systems and tools are outdated, non-existent, or functionally limited, leading to false alarms and an inability to manage patient care proactively.",
+      "count": 3,
+      "representative_sr_nos": [
+        "45",
+        "119",
+        "354"
+      ],
+      "stage_distribution": "Typically surfaces during early-stage needs discovery and qualification calls."
+    },
+    {
+      "theme": "Staffing Constraints & High Workload",
+      "description": "A lack of sufficient human resources, such as case managers or APPs, creates high workloads and limits the capacity for effective patient outreach and management.",
+      "count": 2,
+      "representative_sr_nos": [
+        "94",
+        "354"
+      ],
+      "stage_distribution": "A core operational pain point often identified in initial discovery conversations."
+    },
+    {
+      "theme": "Poor Clinical & Performance Outcomes",
+      "description": "Current processes are failing to meet critical healthcare metrics, leading to increased patient mortality, high readmission rates, and treatment delays.",
+      "count": 2,
+      "representative_sr_nos": [
+        "45",
+        "94"
+      ],
+      "stage_distribution": "Often the primary business driver for seeking a new solution, discussed in early stages."
+    },
+    {
+      "theme": "Lack of Patient Data Visibility",
+      "description": "Providers cannot access basic, timely information about their patient populations, such as screening eligibility or true health status.",
+      "count": 2,
+      "representative_sr_nos": [
+        "354",
+        "119"
+      ],
+      "stage_distribution": "A foundational problem uncovered during process and workflow analysis."
+    },
+    {
+      "theme": "Financial & Budgetary Hurdles",
+      "description": "Cost is a primary concern, with stakeholders questioning the return on investment and whether the benefits of a new program justify the expense.",
+      "count": 1,
+      "representative_sr_nos": [
+        "94"
+      ],
+      "stage_distribution": "Becomes a key consideration during the solution evaluation and proposal stages."
+    },
+    {
+      "theme": "Inefficient Processes & Bureaucracy",
+      "description": "Complex organizational structures and bureaucratic layers impede efforts to improve critical systems like emergency communication and care coordination.",
+      "count": 1,
+      "representative_sr_nos": [
+        "45"
+      ],
+      "stage_distribution": "A deep-seated organizational challenge explored during detailed discovery."
+    },
+    {
+      "theme": "Low Patient Technology Adoption",
+      "description": "The success of patient monitoring is undermined by low compliance, as patients dislike and refuse to use devices like wearables.",
+      "count": 1,
+      "representative_sr_nos": [
+        "119"
+      ],
+      "stage_distribution": "A specific challenge raised when discussing patient-centric solutions."
+    }
+  ],
+  "deal_pain_clusters": [
+    {
+      "theme": "Disconnected and Siloed Systems",
+      "description": "The current technology stack lacks integration, forcing users to access multiple disconnected systems and preventing a unified view of patient data.",
+      "count": 1,
+      "representative_sr_nos": [
+        "354"
+      ],
+      "stage_distribution": "Problem Identification"
+    },
+    {
+      "theme": "Staffing Constraints and Manual Burden",
+      "description": "Limited headcount and resources place a high manual workload on clinical staff, hindering proactive and effective patient management.",
+      "count": 2,
+      "representative_sr_nos": [
+        "94",
+        "354"
+      ],
+      "stage_distribution": "Resource Planning, ROI Justification"
+    },
+    {
+      "theme": "Ineffective Existing Technology",
+      "description": "Current solutions, like basic wearables or rule-based apps, have significant functional limitations that lead to missed events, false alarms, and poor user adoption.",
+      "count": 2,
+      "representative_sr_nos": [
+        "119",
+        "45"
+      ],
+      "stage_distribution": "Competitive Analysis, Solution Design"
+    },
+    {
+      "theme": "Failure of Proactive Care",
+      "description": "Inability to identify at-risk patients and care gaps leads to reactive, emergency-based interventions rather than preventative health management.",
+      "count": 3,
+      "representative_sr_nos": [
+        "119",
+        "354",
+        "94"
+      ],
+      "stage_distribution": "Value Proposition, Needs Analysis"
+    },
+    {
+      "theme": "Inefficient Communication Workflows",
+      "description": "Complex, multi-layered communication processes between different care teams and departments slow down time-critical responses and patient throughput.",
+      "count": 1,
+      "representative_sr_nos": [
+        "45"
+      ],
+      "stage_distribution": "Problem Identification"
+    }
+  ],
+  "business_impacts": {
+    "categories": {
+      "Cost": {
+        "count": 3,
+        "key_themes": [
+          "High costs from rehospitalizations and readmissions",
+          "Inefficient case management increasing operational spend",
+          "Financial penalties for poor performance"
+        ],
+        "is_quantified_pct": 67,
+        "representative_sr_nos": [
+          "94",
+          "119",
+          "45"
+        ]
+      },
+      "Time": {
+        "count": 3,
+        "key_themes": [
+          "Delays in patient treatment and transfer",
+          "Inefficiency and increased time spent by staff due to fragmented systems",
+          "Desire for quick wins and shorter timelines for results"
+        ],
+        "is_quantified_pct": 0,
+        "representative_sr_nos": [
+          "45",
+          "119"
+        ]
+      },
+      "Revenue": {
+        "count": 1,
+        "key_themes": [
+          "Financial penalties directly impacting profitability",
+          "Avoiding revenue loss from readmissions"
+        ],
+        "is_quantified_pct": 0,
+        "representative_sr_nos": [
+          "94"
+        ]
+      },
+      "Risk": {
+        "count": 2,
+        "key_themes": [
+          "Increased patient mortality due to care delays",
+          "Financial risk from penalties on disease-specific readmissions"
+        ],
+        "is_quantified_pct": 0,
+        "representative_sr_nos": [
+          "45",
+          "94"
+        ]
+      },
+      "Operational": {
+        "count": 4,
+        "key_themes": [
+          "Fragmented data and lack of system integration",
+          "Inefficient workflows and communication",
+          "Limited staff capacity and inability to manage patient load"
+        ],
+        "is_quantified_pct": 25,
+        "representative_sr_nos": [
+          "354",
+          "119",
+          "45"
+        ]
+      },
+      "Patient/Customer Experience": {
+        "count": 4,
+        "key_themes": [
+          "Negative health outcomes (ER visits, rehospitalization, mortality)",
+          "Lack of access to timely and adequate care",
+          "Unmet care needs and reduced patient well-being"
+        ],
+        "is_quantified_pct": 0,
+        "representative_sr_nos": [
+          "119",
+          "45",
+          "354"
+        ]
+      }
+    },
+    "total_analyzed": 4
+  },
+  "growth_clusters": [
+    {
+      "theme": "Roadmap for Advanced AI Features",
+      "description": "Discussion of future product development focused on incorporating advanced AI, automation, and clinical autonomy features.",
+      "count": 3,
+      "representative_sr_nos": [
+        "354",
+        "45",
+        "119"
+      ],
+      "stage_distribution": "Vision Setting / Late Stage"
+    },
+    {
+      "theme": "Expanding Product Scope & Upselling",
+      "description": "Opportunities to broaden product application into new departments or upgrade from basic modules to comprehensive solutions.",
+      "count": 2,
+      "representative_sr_nos": [
+        "354",
+        "45"
+      ],
+      "stage_distribution": "Expansion / Renewal"
+    },
+    {
+      "theme": "Integrating Data and Systems",
+      "description": "Growth opportunities centered on unifying data from multiple sources, platforms, and EMR systems for a cohesive view.",
+      "count": 2,
+      "representative_sr_nos": [
+        "354",
+        "119"
+      ],
+      "stage_distribution": "Technical Scoping / Implementation"
+    },
+    {
+      "theme": "Entering New Markets or Demographics",
+      "description": "Plans to extend services to untapped customer segments, such as different payer markets or underserved geographic regions.",
+      "count": 2,
+      "representative_sr_nos": [
+        "119",
+        "45"
+      ],
+      "stage_distribution": "Strategic Planning"
+    },
+    {
+      "theme": "Leveraging Strategic Partnerships",
+      "description": "Growth centered on forming alliances with other organizations to combine technologies, leverage programs, and accelerate market entry.",
+      "count": 1,
+      "representative_sr_nos": [
+        "119"
+      ],
+      "stage_distribution": "Partnership Exploration"
+    },
+    {
+      "theme": "New Infrastructure & Facility Build-out",
+      "description": "Large-scale capital investment plans for building new physical locations, such as hospitals, integrated with the core technology.",
+      "count": 1,
+      "representative_sr_nos": [
+        "45"
+      ],
+      "stage_distribution": "Long-term Strategic Planning"
+    }
+  ],
+  "messaging": {
+    "repeated_value_props": [
+      {
+        "theme": "Improved Care Coordination & Communication",
+        "frequency": 3,
+        "sr_nos": [
+          "45",
+          "119",
+          "354"
+        ]
+      },
+      {
+        "theme": "Positive Financial Impact (Cost Savings & ROI)",
+        "frequency": 2,
+        "sr_nos": [
+          "45",
+          "94"
+        ]
+      },
+      {
+        "theme": "Enhanced Patient Outcomes (Reduced Mortality/Rehospitalization)",
+        "frequency": 2,
+        "sr_nos": [
+          "45",
+          "119"
+        ]
+      },
+      {
+        "theme": "Identifying & Filling Gaps in Care",
+        "frequency": 2,
+        "sr_nos": [
+          "119",
+          "354"
+        ]
+      },
+      {
+        "theme": "Leveraging Remote Patient Monitoring (RPM)",
+        "frequency": 2,
+        "sr_nos": [
+          "94",
+          "119"
+        ]
+      }
+    ],
+    "inconsistent_narratives": [
+      {
+        "conflict": "Broad Platform vs. Niche Solution: The narrative shifts between positioning the product as a broad 'Ambient AI' and 'Population Health Management' platform (354) versus a highly specific tool for 'heart failure patients' (94) or 'fall detection' (119). This creates ambiguity about the core offering.",
+        "sr_nos": [
+          "94",
+          "119",
+          "354"
+        ]
+      },
+      {
+        "conflict": "Value Driver (Clinical vs. Financial): The core value proposition is framed differently. In some calls, the focus is on dramatic clinical outcomes like saving lives and reducing rehospitalizations by 75% (45, 119). In another, the key benefit is purely financial, positioning the service as 'cost positive' based on RPM reimbursement codes (94).",
+        "sr_nos": [
+          "45",
+          "94",
+          "119"
+        ]
+      }
+    ],
+    "proof_signals": [
+      {
+        "type": "Quantitative Clinical Metrics",
+        "description": "Specific, compelling data on improved patient outcomes was referenced.",
+        "sr_nos": [
+          "119"
+        ]
+      },
+      {
+        "type": "Quantitative Financial Metrics",
+        "description": "Specific dollar amounts related to reimbursement were used to prove financial viability.",
+        "sr_nos": [
+          "94"
+        ]
+      },
+      {
+        "type": "Reimbursement Model Alignment",
+        "description": "The business model's value was directly tied to existing reimbursement codes (e.g., for RPM), serving as a proof point for ROI.",
+        "sr_nos": [
+          "94"
+        ]
+      }
+    ],
+    "content_gaps": [
+      {
+        "gap": "ROI / Cost-Benefit Analysis Asset",
+        "description": "A buyer explicitly asked to understand if the cost was 'worth the benefit', indicating a need for a clear ROI calculator, a financial impact one-pager, or a dedicated case study.",
+        "sr_nos": [
+          "94"
+        ]
+      },
+      {
+        "gap": "Use-Case Demonstration Assets",
+        "description": "The seller in call 354 asked multiple basic questions about the potential benefits of core features (care gap identification, dashboards). This suggests a lack of targeted content like role-specific demo videos or use-case documents that could proactively demonstrate this value.",
+        "sr_nos": [
+          "354"
+        ]
+      }
+    ]
+  },
+  "risk_signals": []
+}

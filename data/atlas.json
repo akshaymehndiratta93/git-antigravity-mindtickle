@@ -1,0 +1,707 @@
+{
+  "brand": "Atlas",
+  "slug": "atlas",
+  "kpis": {
+    "total_calls": 21,
+    "calls_with_summary": 21,
+    "calls_with_debrief": 21,
+    "stage_distribution": {
+      "Unknown": 15,
+      "Upcoming Meeting": 3,
+      "Nurture": 2,
+      "X2 - Shortlisted (Not a VOC)": 2,
+      "X3 - VOC & Contracting": 2,
+      "Closed Lost": 2,
+      "Engaged": 1,
+      "X4 – Closed Won (Contract Executed)": 1,
+      "BANT Discovery": 1
+    },
+    "budget_clarity_rate": 52.4,
+    "budget_defined": 11,
+    "budget_undefined": 10,
+    "timeline_clarity_rate": 81.0,
+    "timeline_defined": 17,
+    "timeline_undefined": 4,
+    "multi_threaded_rate": 100.0,
+    "multi_threaded_count": 21,
+    "growth_mention_rate": 100.0,
+    "growth_mention_count": 21
+  },
+  "qualification_by_stage": {
+    "Unknown": {
+      "total": 15,
+      "budget_clear_pct": 66.7,
+      "timeline_clear_pct": 93.3,
+      "key_players_clear_pct": 100.0
+    },
+    "Nurture": {
+      "total": 2,
+      "budget_clear_pct": 0.0,
+      "timeline_clear_pct": 50.0,
+      "key_players_clear_pct": 100.0
+    },
+    "X2 - Shortlisted (Not a VOC)": {
+      "total": 2,
+      "budget_clear_pct": 0.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "Engaged": {
+      "total": 1,
+      "budget_clear_pct": 100.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "Upcoming Meeting": {
+      "total": 3,
+      "budget_clear_pct": 33.3,
+      "timeline_clear_pct": 66.7,
+      "key_players_clear_pct": 100.0
+    },
+    "X3 - VOC & Contracting": {
+      "total": 2,
+      "budget_clear_pct": 50.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "X4 – Closed Won (Contract Executed)": {
+      "total": 1,
+      "budget_clear_pct": 0.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "Closed Lost": {
+      "total": 2,
+      "budget_clear_pct": 0.0,
+      "timeline_clear_pct": 50.0,
+      "key_players_clear_pct": 100.0
+    },
+    "BANT Discovery": {
+      "total": 1,
+      "budget_clear_pct": 0.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    }
+  },
+  "account_health": [
+    {
+      "name": "Cleveland Clinic Health System_Gravity, Cleveland Clinic Health System-Provider-Xccelerate Conference, Cleveland Clinic Health System_Value_Provider",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "68"
+      ]
+    },
+    {
+      "name": "Complete Health_Productivity_Provider, Complete Health_Flow",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "47"
+      ]
+    },
+    {
+      "name": "Mosaic Health/Apree Enterprise Platform",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "49"
+      ]
+    },
+    {
+      "name": "Ascension Health_Post Acute Analytics, Ascension Health_Sara for Provider, Ascension Health_IntelliH, Ascension - Population Health Platform, Ascension Health_Quality Reporting (eCQM/GPRO) for TX Market, Network Health - Risk Adjustment, Ascension_Pop Health_Co-Pilot, Ascension_Value_Provider, Ascension_Pre Production Environment, Ascension-Provider-Xccelerate Conference, Ascension _Mini-Xccelerate Conference, Ascension - Performance Incentives at POC, Ascension_Productivity_Provider, Ascension_Productivity_Flow - Coding",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "230"
+      ]
+    },
+    {
+      "name": "Cincinnati Childrens Hospital Medical Center - Peter Margolis",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "330"
+      ]
+    },
+    {
+      "name": "Memorial Hermann Health System_VBC_PHM with Story",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "419"
+      ]
+    }
+  ],
+  "call_list": [
+    {
+      "sr_no": "26",
+      "title": "Memorial Healthcare - Innovaccer Planning Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7842782131088262514",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Mitch Anderson, Kessler Brown, Connor Johnson, Gyarbrough, Jonathan Brown",
+      "brand": "Atlas",
+      "summary": "The meeting centered around discussing strategic plans and solutions for enhancing primary care growth and addressing challenges faced by the organization.\n\nTopics Discussed:\nIntroduction and Vision\nMitch Anderson introduced the meeting's purpose, focusing on discussing a five-year plan and addressi",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "27",
+      "title": "Dr. Silverstein - Aisha Sync for CPCA",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6597560820122245925",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Aisha F Iqbal, Brian Silverstein, MD, Baz Patel",
+      "brand": "Atlas",
+      "summary": "The meeting was centered around planning and organizing a presentation for an upcoming conference, focusing on population health and value-based care.\n\nTopics Discussed:\nPresentation Content\nDiscussion on the abstract and the main themes of the presentation, which include the integration of third-pa",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "28",
+      "title": "Mark l Joe l Kessler l Touch Base",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8198208809327933086",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Kessler Brown, Scharioma, Joseph Thompson",
+      "brand": "Atlas",
+      "summary": "The meeting centered around planning and preparation for an upcoming demonstration and potential partnership, with discussions on logistics, presentation content, and strategic alignment.\n\nTopics Discussed:\nEvent Planning\nJoseph Thompson confirmed plans for a meeting next week, with key individuals ",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "47",
+      "title": "Kristine Ledlow (Complete Health) <> Innovaccer Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8874248801559308666",
+      "stages": [
+        "Nurture"
+      ],
+      "opportunity": "Complete Health_Productivity_Provider, Complete Health_Flow",
+      "attendees": "Kristine Ledlow, Ashish Gupta, Arun Maithani",
+      "brand": "Atlas",
+      "summary": "The meeting was centered around discussing the capabilities and offerings of Innovacer, a health tech cloud organization, with Kristine Ledlow, the Director of Operations at Complete Health.\n\nTopics Discussed:\nIntroduction to Innovacer\nAshish Gupta introduced Innovacer as a health tech cloud organiz",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": true
+    },
+    {
+      "sr_no": "49",
+      "title": "Joint Product w/Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7672509368936075388",
+      "stages": [
+        "X2 - Shortlisted (Not a VOC)"
+      ],
+      "opportunity": "Mosaic Health/Apree Enterprise Platform",
+      "attendees": "Nikita Sharma, Jim Campbell, Brett Phillips, Brandon Taylor, Irene Logis, Andrea Mcauliffe, Nicole Fink",
+      "brand": "Atlas",
+      "summary": "The meeting was convened to discuss collaboration strategies and align the teams on a joint project involving population health solutions.\n\nTopics Discussed:\nTeam Introductions\nParticipants introduced themselves, highlighting their roles and experiences in healthcare and technology sectors.\nCollabor",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "68",
+      "title": "Ben / Joe",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2145740150105425485",
+      "stages": [
+        "Engaged",
+        "Upcoming Meeting",
+        "X3 - VOC & Contracting"
+      ],
+      "opportunity": "Cleveland Clinic Health System_Gravity, Cleveland Clinic Health System-Provider-Xccelerate Conference, Cleveland Clinic Health System_Value_Provider",
+      "attendees": "Ben Grothe, Joseph Thompson",
+      "brand": "Atlas",
+      "summary": "The meeting between Joseph Thompson and Ben Grothe focused on discussing various aspects of their ongoing projects and collaborations, particularly around data integration and contract management.\n\nTopics Discussed:\nTravel and Meetings\nJoseph Thompson mentioned traveling to Detroit with Priyanka and",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "81",
+      "title": "Family Medical Center (MI) <> Story Health, by Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8780317089355579888",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Ashul Govil, Ellen Mcginnis, Loneal",
+      "brand": "Atlas",
+      "summary": "The meeting centered around discussing the collaboration between Story Health and a medical practice to enhance patient care through remote patient monitoring and care management.\n\nTopics Discussed:\nIntroduction to Story Health\nEllen McGinnis introduced Story Health's programs focused on heart failu",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "210",
+      "title": "Innovaccer Gravity demo",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5455134912107518123",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "John Hickey, Amcclellan, Clayson Willis, Shiatt, Ashish Singh, Maddie Schults, Sandeep Mantri, Kvenugopal, Smriti Kirubanandan",
+      "brand": "Atlas",
+      "summary": "The meeting centered around the demonstration and discussion of the Gravity platform, focusing on its capabilities and potential use cases within healthcare.\n\nTopics Discussed:\nIntroduction and Platform Overview\nIntroduction of key participants, including Krishna Venugopal, CTO at CC&C, and Adam McC",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "230",
+      "title": "Innovaccer Med Reconciliation and Adherance",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5895401842476455981",
+      "stages": [
+        "Nurture",
+        "X4 – Closed Won (Contract Executed)",
+        "X2 - Shortlisted (Not a VOC)",
+        "Closed Lost",
+        "X3 - VOC & Contracting",
+        "Upcoming Meeting",
+        "BANT Discovery"
+      ],
+      "opportunity": "Ascension Health_Post Acute Analytics, Ascension Health_Sara for Provider, Ascension Health_IntelliH, Ascension - Population Health Platform, Ascension Health_Quality Reporting (eCQM/GPRO) for TX Market, Network Health - Risk Adjustment, Ascension_Pop Health_Co-Pilot, Ascension_Value_Provider, Ascension_Pre Production Environment, Ascension-Provider-Xccelerate Conference, Ascension _Mini-Xccelerate Conference, Ascension - Performance Incentives at POC, Ascension_Productivity_Provider, Ascension_Productivity_Flow - Coding",
+      "attendees": "Sumit Choudhary, Sheila Jackson, John Hickey, Erin Carter, Christopher Hollberg, Bhandari Ashmit, Natalie DeVellis, Afrah Khan, Ashley Van Allen",
+      "brand": "Atlas",
+      "summary": "The meeting was centered around discussing the integration and capabilities of the Innovaccer platform, particularly focusing on medication management and care management functionalities.\n\nTopics Discussed:\nTechnical Issues and Introductions\nInitial technical difficulties with video and audio were a",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "233",
+      "title": "Internal Debrief - OhioHealth",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3942691912020301398",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Sheenu Kachru, Anil Jain, Keg Avakian",
+      "brand": "Atlas",
+      "summary": "The meeting centered around strategic discussions on managing client relationships and optimizing business presentations, with a focus on Ohio Health.\n\nTopics Discussed:\nClient Engagement Strategy\nEmphasis on maintaining distinct client interactions unless bundling makes technical or market sense.\nC",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "330",
+      "title": "Primary Care Data/Analytics Subcommittee - Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1480874453909848872",
+      "stages": [
+        "Closed Lost"
+      ],
+      "opportunity": "Cincinnati Childrens Hospital Medical Center - Peter Margolis",
+      "attendees": "Rasheed Baqai, Jcerto, Mitch Anderson, Kessler Brown, Goldman, Jennifer, DO, Amy Stevens, Gyarbrough, Makiti",
+      "brand": "Atlas",
+      "summary": "The meeting was centered around a presentation by Innovator to showcase their platform's capabilities in supporting health systems with data integration, analytics, and population health management.\n\nTopics Discussed:\nIntroductions and Meeting Purpose\nThe meeting began with introductions from both t",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": true
+    },
+    {
+      "sr_no": "334",
+      "title": "Innovaccer Introduction For Megan",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2147170360221833723",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "David Friederichs, Brian Strok, Jimmy Bresee III, Kevin Arlington, Mlc9cn",
+      "brand": "Atlas",
+      "summary": "The meeting was centered around introducing Megan to the team and discussing the capabilities of Innovaccer's platform in supporting value-based care initiatives.\n\nTopics Discussed:\nIntroductions and Background\nKevin Arlington, Jimmy Bresee III, and David Friederichs introduced themselves and their ",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "360",
+      "title": "John Dylewski - Larkin Community Hospital <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4568104062073190663",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "iPhone, I_gunpreet Kour, Alex Garcia",
+      "brand": "Atlas",
+      "summary": "The meeting was a discussion between Alex Garcia and a doctor, focusing on healthcare innovation and the potential collaboration on healthcare delivery models.\n\nTopics Discussed:\nIntroduction and Background\nAlex Garcia introduced themselves as the Vice President at Innovate, with a background in med",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": true
+    },
+    {
+      "sr_no": "369",
+      "title": "Innovaccer / Kidneylink Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8724046150070813353",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Wilson Brown, Sean Bugbee, Sandeep Mantri, Badal Mangla, Will Pettinger",
+      "brand": "Atlas",
+      "summary": "The meeting centered around potential partnership opportunities and strategic discussions between USRC and InnoVaser, focusing on expanding services in Arizona and Colorado.\n\nTopics Discussed:\nIntroduction and Background\nParticipants introduced themselves and their roles within their respective orga",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "378",
+      "title": "Innovaccer / Topmed training",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7163801096432558476",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Ahmed Mohamed Ragab, Muhammad Hasballah, Maliwaly, Swapnil (Innovaccer), Jeev Sahni, Vishal Thakur, Amragab",
+      "brand": "Atlas",
+      "summary": "The meeting was centered around the functionalities and features of the Cohort Builder and Actionable Dashboard within the Gravity platform, with a focus on data management and visualization.\n\nTopics Discussed:\nCohort Builder\nSwapnil provided a detailed explanation of the Cohort Builder, which allow",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "380",
+      "title": "HCA St. David's <> Innovaccer | Quality Management Demo",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6799464505291596244",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Bhupendra Awasthi, dko9143, Arlene Constantino, Irene Logis, Greg, Jimmy Bresee III, Danielle Strother",
+      "brand": "Atlas",
+      "summary": "The meeting primarily focused on discussing the quality management solutions and the integration of data feeds for healthcare management.\n\nTopics Discussed:\nWeather and Travel Updates\nDanielle Strother shared updates on weather conditions in Nashville and her travel experiences to San Francisco for ",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "419",
+      "title": "Innovaccer - Memorial Herman PHM Demo with Story",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8536150175642490359",
+      "stages": [
+        "Upcoming Meeting"
+      ],
+      "opportunity": "Memorial Hermann Health System_VBC_PHM with Story",
+      "attendees": "Jill Marie Shewmake, Jimmy Bresee III, David Overton, Amarjit Rai, John Hickey, Irene Logis, Jonathan Owens, Nikita Sharma, Ashul Govil, David Friederichs, Heather Galanis, Brian Silverstein, MD",
+      "brand": "Atlas",
+      "summary": "The meeting was centered around a comprehensive demonstration of Innovaccer's healthcare platform, focusing on population health management, analytics, and care management workflows.\n\nTopics Discussed:\nIntroduction and Team Overview\nJohn Hickey introduced the Innovaccer team and outlined the meeting",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": true
+    },
+    {
+      "sr_no": "423",
+      "title": "Lea Carino <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7115519284845495401",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Kshitij Joshi, LeaCarino, I_nandini Sharma",
+      "brand": "Atlas",
+      "summary": "The meeting was centered around discussing potential collaboration and solutions for healthcare management and technology integration between Innovator and a healthcare practice.\n\nTopics Discussed:\nIntroductions\nI_nandini Sharma introduced Kshitij Joshi, a regional director at Innovator, to Leah Car",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "428",
+      "title": "Care Integration-HP",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8340683377721818121",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Kane, Sheryl M, Donald B Rindal, Weidner, Heather A, Mark W Jurkovich, DeFor, Teri A, Connor Johnson, Amallick",
+      "brand": "Atlas",
+      "summary": "The meeting centered on structuring a productive discussion regarding integrated medical and dental care, focusing on research aims and objectives.\n\nTopics Discussed:\nMeeting Structure and Focus\nHeather Weidner emphasized the importance of structuring the meeting to maintain focus and productivity.\n",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "438",
+      "title": "Innovaccer X Community Care Network Kansas",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/305489262686362340",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Tkennedy, Heather - Community Care KS, Vaibhav Kapil",
+      "brand": "Atlas",
+      "summary": "The meeting centered around discussing the Atlas platform, a population health management tool designed to provide healthcare providers with comprehensive patient information to enhance value-based care delivery.\n\nTopics Discussed:\nRecap of Previous Meeting\nDiscussion on the use of EHR systems like ",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "445",
+      "title": "John Hickey",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2498295441945632438",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "John Hickey, mlarrieu",
+      "brand": "Atlas",
+      "summary": "The meeting underscored the challenges of recruitment and retention, the importance of strategic growth, and the need for careful management of organizational changes.",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    }
+  ],
+  "pain_clusters": [],
+  "deal_pain_clusters": [],
+  "business_impacts": {
+    "categories": {
+      "Cost": {
+        "count": 16,
+        "key_themes": [
+          "Operational inefficiencies driving up costs",
+          "Wasted investment and redundant spending",
+          "Reducing total cost of care"
+        ],
+        "is_quantified_pct": 0,
+        "representative_sr_nos": [
+          "68",
+          "233",
+          "428"
+        ]
+      },
+      "Time": {
+        "count": 13,
+        "key_themes": [
+          "Manual processes and administrative burden on staff",
+          "Delays in implementation or data access",
+          "Reduced staff productivity and efficiency"
+        ],
+        "is_quantified_pct": 8,
+        "representative_sr_nos": [
+          "47",
+          "233",
+          "445"
+        ]
+      },
+      "Revenue": {
+        "count": 12,
+        "key_themes": [
+          "Revenue leakage and billing/coding issues",
+          "Impact on value-based care performance and reimbursement",
+          "Losing market share or contracts"
+        ],
+        "is_quantified_pct": 0,
+        "representative_sr_nos": [
+          "26",
+          "47",
+          "438"
+        ]
+      },
+      "Risk": {
+        "count": 12,
+        "key_themes": [
+          "Compliance, regulatory, and audit risk",
+          "Financial risk (e.g., downside contracts, funding)",
+          "Competitive threats and strategic positioning"
+        ],
+        "is_quantified_pct": 0,
+        "representative_sr_nos": [
+          "210",
+          "334",
+          "423"
+        ]
+      },
+      "Operational": {
+        "count": 15,
+        "key_themes": [
+          "Data integration challenges and fragmented systems",
+          "Inefficient workflows and manual processes",
+          "Low provider/user adoption and engagement"
+        ],
+        "is_quantified_pct": 0,
+        "representative_sr_nos": [
+          "230",
+          "330",
+          "419"
+        ]
+      },
+      "Patient/Customer Experience": {
+        "count": 12,
+        "key_themes": [
+          "Negative impact on patient outcomes and quality of care",
+          "Poor care coordination and management",
+          "Low patient engagement and satisfaction"
+        ],
+        "is_quantified_pct": 0,
+        "representative_sr_nos": [
+          "81",
+          "360",
+          "428"
+        ]
+      }
+    },
+    "total_analyzed": 21
+  },
+  "growth_clusters": [],
+  "messaging": {
+    "repeated_value_props": [
+      {
+        "theme": "Automation & Efficiency to Reduce Burden",
+        "frequency": 9,
+        "representative_sr_nos": [
+          "26",
+          "47",
+          "81",
+          "210",
+          "334",
+          "380",
+          "419",
+          "445",
+          "233"
+        ]
+      },
+      {
+        "theme": "Unified Data & Comprehensive Patient View",
+        "frequency": 8,
+        "representative_sr_nos": [
+          "27",
+          "49",
+          "230",
+          "330",
+          "369",
+          "419",
+          "423",
+          "438"
+        ]
+      },
+      {
+        "theme": "Improved Care Management & Coordination",
+        "frequency": 7,
+        "representative_sr_nos": [
+          "28",
+          "81",
+          "210",
+          "334",
+          "369",
+          "419",
+          "423"
+        ]
+      },
+      {
+        "theme": "Supporting Value-Based Care & Population Health",
+        "frequency": 6,
+        "representative_sr_nos": [
+          "27",
+          "49",
+          "330",
+          "419",
+          "423",
+          "438"
+        ]
+      },
+      {
+        "theme": "Actionable Insights at the Point of Care",
+        "frequency": 4,
+        "representative_sr_nos": [
+          "27",
+          "49",
+          "330",
+          "438"
+        ]
+      }
+    ],
+    "inconsistent_narratives": [
+      {
+        "conflict_description": "The positioning shifts between a 'do-it-for-you' managed service and a 'do-it-yourself' self-service platform. In one call (419), a 'managed service for data connections' is highlighted to reduce the client's IT burden. In another (210), 'self-service platform capabilities' are promoted to empower the client's teams and reduce dependency on the vendor.",
+        "sr_nos": [
+          "210",
+          "419"
+        ]
+      },
+      {
+        "conflict_description": "There is a conflict between the internal sales strategy and the value proposition presented to clients. An internal discussion (233) suggests 'keeping solutions distinct' to 'preserve deal value'. However, multiple client conversations (28, 423) reveal that buyers see significant value in a 'single analytics platform to cover multiple use cases' and a 'comprehensive platform' that reduces reliance on disparate tools.",
+        "sr_nos": [
+          "233",
+          "28",
+          "423"
+        ]
+      }
+    ],
+    "proof_signals": [
+      {
+        "type": "Case Studies & Peer Outcomes",
+        "sr_nos": [
+          "28",
+          "233"
+        ]
+      },
+      {
+        "type": "Metrics, Analytics & Predictive Models",
+        "sr_nos": [
+          "230",
+          "334",
+          "423"
+        ]
+      }
+    ],
+    "content_gaps": [
+      {
+        "gap_description": "Request for a granular implementation timeline. A buyer explicitly stated a need for a more detailed timeline to better manage project activities and expectations, suggesting that current materials are too high-level.",
+        "sr_nos": [
+          "68"
+        ]
+      },
+      {
+        "gap_description": "Lack of detailed information on specific features. A buyer expressed interest in learning more about 'provider incentives and scorecards,' indicating a need for dedicated content (e.g., one-pagers, feature briefs) on this topic.",
+        "sr_nos": [
+          "334"
+        ]
+      },
+      {
+        "gap_description": "Need for materials on advanced use cases and platform flexibility. A buyer provided specific feedback on enhancing the 'cohort builder' with advanced filters and configurability, suggesting that the standard demo does not sufficiently address the needs of power users or complex population health scenarios.",
+        "sr_nos": [
+          "378"
+        ]
+      }
+    ]
+  },
+  "risk_signals": [
+    {
+      "type": "late_stage_no_budget",
+      "sr_no": "49",
+      "title": "Joint Product w/Innovaccer",
+      "stages": [
+        "X2 - Shortlisted (Not a VOC)"
+      ],
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7672509368936075388"
+    },
+    {
+      "type": "late_stage_no_budget",
+      "sr_no": "230",
+      "title": "Innovaccer Med Reconciliation and Adherance",
+      "stages": [
+        "Nurture",
+        "X4 – Closed Won (Contract Executed)",
+        "X2 - Shortlisted (Not a VOC)",
+        "Closed Lost",
+        "X3 - VOC & Contracting",
+        "Upcoming Meeting",
+        "BANT Discovery"
+      ],
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5895401842476455981"
+    }
+  ]
+}

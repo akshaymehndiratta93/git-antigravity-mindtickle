@@ -1,0 +1,71 @@
+{
+  "brands": [
+    {
+      "brand": "Flow",
+      "slug": "flow",
+      "total_calls": 145,
+      "budget_clarity_rate": 58.6,
+      "timeline_clarity_rate": 90.3,
+      "growth_mention_rate": 95.2
+    },
+    {
+      "brand": "Cured",
+      "slug": "cured",
+      "total_calls": 30,
+      "budget_clarity_rate": 43.3,
+      "timeline_clarity_rate": 86.7,
+      "growth_mention_rate": 90.0
+    },
+    {
+      "brand": "Comet",
+      "slug": "comet",
+      "total_calls": 30,
+      "budget_clarity_rate": 63.3,
+      "timeline_clarity_rate": 86.7,
+      "growth_mention_rate": 96.7
+    },
+    {
+      "brand": "Atlas",
+      "slug": "atlas",
+      "total_calls": 21,
+      "budget_clarity_rate": 52.4,
+      "timeline_clarity_rate": 81.0,
+      "growth_mention_rate": 100.0
+    },
+    {
+      "brand": "Gravity",
+      "slug": "gravity",
+      "total_calls": 19,
+      "budget_clarity_rate": 63.2,
+      "timeline_clarity_rate": 89.5,
+      "growth_mention_rate": 100.0
+    },
+    {
+      "brand": "PQS",
+      "slug": "pqs",
+      "total_calls": 10,
+      "budget_clarity_rate": 70.0,
+      "timeline_clarity_rate": 100.0,
+      "growth_mention_rate": 100.0
+    },
+    {
+      "brand": "Galaxy",
+      "slug": "galaxy",
+      "total_calls": 8,
+      "budget_clarity_rate": 62.5,
+      "timeline_clarity_rate": 100.0,
+      "growth_mention_rate": 100.0
+    },
+    {
+      "brand": "Story Health",
+      "slug": "story_health",
+      "total_calls": 4,
+      "budget_clarity_rate": 100.0,
+      "timeline_clarity_rate": 100.0,
+      "growth_mention_rate": 75.0
+    }
+  ],
+  "total_calls": 999,
+  "total_with_brand": 267,
+  "generated_at": "2026-03-05T00:53:26"
+}

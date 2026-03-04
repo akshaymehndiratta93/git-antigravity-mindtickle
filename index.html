@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BrandLens Copilot | Sales Intelligence Platform</title>
+    <meta name="description"
+        content="AI-powered brand intelligence platform. Interactive dashboards, deal qualification insights, and evidence-grounded Q&A from Mindtickle call data.">
+    <link rel="stylesheet" href="index.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+
+<body>
+    <!-- ───────── Top Nav ───────── -->
+    <nav class="top-nav">
+        <div class="nav-left">
+            <div class="logo">
+                <i data-lucide="scan-eye" class="logo-icon"></i>
+                <span>BrandLens</span>
+            </div>
+            <div class="brand-selector">
+                <select id="brandSelect">
+                    <option value="">Select a Brand…</option>
+                </select>
+            </div>
+        </div>
+        <div class="nav-tabs" id="navTabs">
+            <button class="nav-tab active" data-view="overview" id="tab-overview">
+                <i data-lucide="layout-dashboard"></i> <span>Overview</span>
+            </button>
+            <button class="nav-tab" data-view="stage" id="tab-stage">
+                <i data-lucide="git-branch"></i> <span>Stages</span>
+            </button>
+            <button class="nav-tab" data-view="accounts" id="tab-accounts">
+                <i data-lucide="heart-pulse"></i> <span>Account Health</span>
+            </button>
+            <button class="nav-tab" data-view="qualification" id="tab-qualification">
+                <i data-lucide="shield-check"></i> <span>Qualification</span>
+            </button>
+            <button class="nav-tab" data-view="messaging" id="tab-messaging">
+                <i data-lucide="message-square-text"></i> <span>Messaging</span>
+            </button>
+        </div>
+        <div class="nav-right">
+            <button class="btn-copilot" id="copilotToggle">
+                <i data-lucide="bot"></i> Ask Copilot
+            </button>
+        </div>
+    </nav>
+
+    <!-- ───────── Brand Landing (no brand selected) ───────── -->
+    <div class="brand-landing" id="brandLanding">
+        <div class="landing-content">
+            <div class="landing-icon">
+                <i data-lucide="scan-eye"></i>
+            </div>
+            <h1>BrandLens Copilot</h1>
+            <p class="landing-subtitle">AI-powered intelligence from your Mindtickle sales calls</p>
+            <div class="brand-grid" id="brandGrid">
+                <!-- Populated by JS -->
+            </div>
+        </div>
+    </div>
+
+    <!-- ───────── Stats Strip ───────── -->
+    <div class="stats-strip" id="statsStrip" style="display:none;">
+        <div class="stat-pill">
+            <span class="stat-label">Total Calls</span>
+            <span class="stat-value" id="stat-total">—</span>
+        </div>
+        <div class="stat-pill highlight">
+            <span class="stat-label">Budget Clarity</span>
+            <span class="stat-value" id="stat-budget">—</span>
+        </div>
+        <div class="stat-pill">
+            <span class="stat-label">Timeline Clarity</span>
+            <span class="stat-value" id="stat-timeline">—</span>
+        </div>
+        <div class="stat-pill highlight-green">
+            <span class="stat-label">Growth Signals</span>
+            <span class="stat-value" id="stat-growth">—</span>
+        </div>
+        <div class="stat-pill">
+            <span class="stat-label">Multi-Threaded</span>
+            <span class="stat-value" id="stat-multithread">—</span>
+        </div>
+    </div>
+
+    <!-- ───────── Main Content ───────── -->
+    <main class="main-content" id="mainContent" style="display:none;">
+
+        <!-- VIEW 1: Brand Overview -->
+        <section class="view active" id="view-overview">
+            <div class="view-header">
+                <div>
+                    <h2 id="overviewTitle">Brand Overview</h2>
+                    <p class="view-subtitle">Comprehensive intelligence across all deal stages</p>
+                </div>
+            </div>
+
+            <div class="dashboard-grid">
+                <!-- Stage Distribution -->
+                <div class="dash-card wide">
+                    <h3><i data-lucide="bar-chart-3"></i> Stage Distribution</h3>
+                    <div id="stageDistribution" class="chart-area"></div>
+                </div>
+
+                <!-- Pain Clusters -->
+                <div class="dash-card">
+                    <h3><i data-lucide="alert-circle"></i> Top Pain Clusters</h3>
+                    <div id="painClusters" class="cluster-area"></div>
+                </div>
+
+                <!-- Business Impact -->
+                <div class="dash-card">
+                    <h3><i data-lucide="trending-up"></i> Business Impact Themes</h3>
+                    <div id="businessImpacts" class="cluster-area"></div>
+                </div>
+
+                <!-- Growth Signals -->
+                <div class="dash-card">
+                    <h3><i data-lucide="rocket"></i> Growth Signals</h3>
+                    <div id="growthSignals" class="cluster-area"></div>
+                </div>
+
+                <!-- Qualification Health Snapshot -->
+                <div class="dash-card">
+                    <h3><i data-lucide="shield-check"></i> Qualification Snapshot</h3>
+                    <div id="qualSnapshot" class="cluster-area"></div>
+                </div>
+
+                <!-- Evidence Call List -->
+                <div class="dash-card full-width">
+                    <div class="card-header-row">
+                        <h3><i data-lucide="phone-call"></i> Call Evidence</h3>
+                        <div class="drill-filters" id="overviewDrillFilters"></div>
+                    </div>
+                    <div class="table-container">
+                        <table class="data-table" id="overviewCallTable">
+                            <thead>
+                                <tr>
+                                    <th>Sr No.</th>
+                                    <th>Title</th>
+                                    <th>Stage</th>
+                                    <th>Opportunity</th>
+                                    <th>Budget</th>
+                                    <th>Timeline</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody id="overviewCallBody"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- VIEW 2: Stage Intelligence -->
+        <section class="view" id="view-stage">
+            <div class="view-header">
+                <div>
+                    <h2 id="stageTitle">Stage Intelligence</h2>
+                    <p class="view-subtitle">Deep-dive into deal stage patterns</p>
+                </div>
+                <div class="filters">
+                    <select class="filter-select" id="stageFilter">
+                        <option value="">All Stages</option>
+                    </select>
+                </div>
+            </div>
+            <div class="dashboard-grid">
+                <div class="dash-card">
+                    <h3><i data-lucide="alert-circle"></i> Common Pain Themes</h3>
+                    <div id="stagePainThemes" class="cluster-area"></div>
+                </div>
+                <div class="dash-card">
+                    <h3><i data-lucide="target"></i> Business Impact Framing</h3>
+                    <div id="stageImpactFraming" class="cluster-area"></div>
+                </div>
+                <div class="dash-card">
+                    <h3><i data-lucide="gem"></i> Value Framing Patterns</h3>
+                    <div id="stageValueFraming" class="cluster-area"></div>
+                </div>
+                <div class="dash-card">
+                    <h3><i data-lucide="alert-triangle"></i> Qualification Gaps</h3>
+                    <div id="stageQualGaps" class="cluster-area"></div>
+                </div>
+                <div class="dash-card full-width">
+                    <h3><i data-lucide="phone-call"></i> Stage Evidence</h3>
+                    <div class="table-container">
+                        <table class="data-table" id="stageCallTable">
+                            <thead>
+                                <tr>
+                                    <th>Sr No.</th>
+                                    <th>Title</th>
+                                    <th>Stage</th>
+                                    <th>Budget</th>
+                                    <th>Timeline</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody id="stageCallBody"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- VIEW 3: Account Health -->
+        <section class="view" id="view-accounts">
+            <div class="view-header">
+                <div>
+                    <h2 id="accountsTitle">Account Health</h2>
+                    <p class="view-subtitle">Relationship strength, engagement quality & growth readiness</p>
+                </div>
+            </div>
+            <div class="dashboard-grid">
+                <div class="dash-card wide">
+                    <h3><i data-lucide="users"></i> Account Health Overview</h3>
+                    <div id="accountHealthGrid" class="account-cards"></div>
+                </div>
+                <div class="dash-card">
+                    <h3><i data-lucide="trophy"></i> Customer Wins</h3>
+                    <div id="customerWins" class="cluster-area"></div>
+                </div>
+                <div class="dash-card">
+                    <h3><i data-lucide="rocket"></i> Growth Opportunities</h3>
+                    <div id="accountGrowth" class="cluster-area"></div>
+                </div>
+                <div class="dash-card full-width">
+                    <h3><i data-lucide="phone-call"></i> Account Call Evidence</h3>
+                    <div class="table-container">
+                        <table class="data-table" id="accountCallTable">
+                            <thead>
+                                <tr>
+                                    <th>Sr No.</th>
+                                    <th>Title</th>
+                                    <th>Opportunity</th>
+                                    <th>Stage</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody id="accountCallBody"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- VIEW 4: Qualification Health -->
+        <section class="view" id="view-qualification">
+            <div class="view-header">
+                <div>
+                    <h2 id="qualTitle">Qualification Maturity</h2>
+                    <p class="view-subtitle">Budget, timeline, key player & pain clarity analysis</p>
+                </div>
+            </div>
+            <div class="dashboard-grid">
+                <div class="dash-card">
+                    <h3><i data-lucide="wallet"></i> Budget Clarity</h3>
+                    <div id="budgetClarity" class="chart-area"></div>
+                </div>
+                <div class="dash-card">
+                    <h3><i data-lucide="clock"></i> Timeline Certainty</h3>
+                    <div id="timelineClarity" class="chart-area"></div>
+                </div>
+                <div class="dash-card">
+                    <h3><i data-lucide="user-check"></i> Key Players Completeness</h3>
+                    <div id="keyPlayersClarity" class="chart-area"></div>
+                </div>
+                <div class="dash-card">
+                    <h3><i data-lucide="brain"></i> Pain Clarity Score</h3>
+                    <div id="painClarity" class="chart-area"></div>
+                </div>
+                <!-- Risk Summary -->
+                <div class="dash-card full-width risk-card">
+                    <h3><i data-lucide="shield-alert"></i> Risk Signals</h3>
+                    <div id="riskSummary" class="risk-area"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- VIEW 5: Messaging & Positioning -->
+        <section class="view" id="view-messaging">
+            <div class="view-header">
+                <div>
+                    <h2 id="messagingTitle">Messaging Intelligence</h2>
+                    <p class="view-subtitle">Value propositions, narrative consistency & content gaps</p>
+                </div>
+            </div>
+            <div class="dashboard-grid">
+                <div class="dash-card wide">
+                    <h3><i data-lucide="repeat"></i> Repeated Value Propositions</h3>
+                    <div id="valueProps" class="cluster-area"></div>
+                </div>
+                <div class="dash-card">
+                    <h3><i data-lucide="shuffle"></i> Inconsistent Narratives</h3>
+                    <div id="inconsistentNarratives" class="cluster-area"></div>
+                </div>
+                <div class="dash-card">
+                    <h3><i data-lucide="badge-check"></i> Proof Signals</h3>
+                    <div id="proofSignals" class="cluster-area"></div>
+                </div>
+                <div class="dash-card full-width">
+                    <h3><i data-lucide="file-question"></i> Content Gaps</h3>
+                    <div id="contentGaps" class="cluster-area"></div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- ───────── AI Copilot Panel ───────── -->
+    <div class="copilot-overlay" id="copilotOverlay"></div>
+    <div class="copilot-panel" id="copilotPanel">
+        <div class="copilot-header">
+            <div class="copilot-title">
+                <i data-lucide="bot"></i>
+                <span>BrandLens Copilot</span>
+            </div>
+            <button class="copilot-close" id="copilotClose"><i data-lucide="x"></i></button>
+        </div>
+        <div class="copilot-messages" id="copilotMessages">
+            <div class="copilot-welcome">
+                <div class="copilot-welcome-icon"><i data-lucide="sparkles"></i></div>
+                <h3>Ask me anything about your brand data</h3>
+                <p>I'll provide evidence-grounded answers with call references and follow-up prompts.</p>
+                <div class="suggested-prompts" id="suggestedPrompts">
+                    <button class="suggested-btn" data-prompt="What are the top pain points?">Top pain points?</button>
+                    <button class="suggested-btn" data-prompt="Show me deals at risk">Deals at risk?</button>
+                    <button class="suggested-btn" data-prompt="Which accounts have growth potential?">Growth potential?</button>
+                    <button class="suggested-btn" data-prompt="Summarize qualification health">Qualification health?</button>
+                </div>
+            </div>
+        </div>
+        <div class="copilot-input-area">
+            <input type="text" id="copilotInput" placeholder="Ask about your brand data…" autocomplete="off">
+            <button class="copilot-send" id="copilotSend"><i data-lucide="send"></i></button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+    <script src="copilot.js"></script>
+    <script>lucide.createIcons();</script>
+</body>
+
+</html>
