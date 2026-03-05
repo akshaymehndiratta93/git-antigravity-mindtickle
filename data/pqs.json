@@ -6,44 +6,93 @@
     "calls_with_summary": 10,
     "calls_with_debrief": 10,
     "stage_distribution": {
-      "Unknown": 7,
-      "BANT Discovery": 2,
+      "BANT Discovery": 4,
+      "Unknown": 4,
+      "Nurture": 2,
+      "X1 - BANT Qualified": 2,
+      "Upcoming Meeting": 2,
+      "X4 – Closed Won (Contract Executed)": 1,
+      "X2 - Shortlisted (Not a VOC)": 1,
+      "Closed Lost": 1,
+      "X3 - VOC & Contracting": 1,
       "Engaged": 1
     },
-    "budget_clarity_rate": 70.0,
-    "budget_defined": 7,
-    "budget_undefined": 3,
+    "budget_clarity_rate": 40.0,
+    "budget_defined": 4,
+    "budget_undefined": 6,
     "timeline_clarity_rate": 100.0,
     "timeline_defined": 10,
     "timeline_undefined": 0,
     "multi_threaded_rate": 100.0,
     "multi_threaded_count": 10,
-    "growth_mention_rate": 100.0,
-    "growth_mention_count": 10
+    "growth_mention_rate": 90.0,
+    "growth_mention_count": 9
   },
   "qualification_by_stage": {
+    "BANT Discovery": {
+      "total": 4,
+      "budget_clear_pct": 50.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
     "Unknown": {
-      "total": 7,
-      "budget_clear_pct": 71.4,
+      "total": 4,
+      "budget_clear_pct": 50.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "Nurture": {
+      "total": 2,
+      "budget_clear_pct": 50.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "X1 - BANT Qualified": {
+      "total": 2,
+      "budget_clear_pct": 50.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "X4 – Closed Won (Contract Executed)": {
+      "total": 1,
+      "budget_clear_pct": 0.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "X2 - Shortlisted (Not a VOC)": {
+      "total": 1,
+      "budget_clear_pct": 0.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "Closed Lost": {
+      "total": 1,
+      "budget_clear_pct": 0.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "X3 - VOC & Contracting": {
+      "total": 1,
+      "budget_clear_pct": 0.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "Upcoming Meeting": {
+      "total": 2,
+      "budget_clear_pct": 0.0,
       "timeline_clear_pct": 100.0,
       "key_players_clear_pct": 100.0
     },
     "Engaged": {
       "total": 1,
-      "budget_clear_pct": 100.0,
-      "timeline_clear_pct": 100.0,
-      "key_players_clear_pct": 100.0
-    },
-    "BANT Discovery": {
-      "total": 2,
-      "budget_clear_pct": 50.0,
+      "budget_clear_pct": 0.0,
       "timeline_clear_pct": 100.0,
       "key_players_clear_pct": 100.0
     }
   },
   "account_health": [
     {
-      "name": "RWJBarnabas Health_Meridian_340B_speciality_pharmacy",
+      "name": "USC_PQS, Keck Medicine Of USC_PQS, Keck Medicine Of USC_Pharmacy Network_Atlas",
       "call_count": 1,
       "health_score": 100.0,
       "status": "healthy",
@@ -53,21 +102,7 @@
       "growth_signals": 1,
       "budget_clarity_pct": 100.0,
       "sr_nos": [
-        "127"
-      ]
-    },
-    {
-      "name": "TriHealth_340B",
-      "call_count": 1,
-      "health_score": 100.0,
-      "status": "healthy",
-      "relationship_pct": 100.0,
-      "engagement_pct": 100.0,
-      "wins_count": 1,
-      "growth_signals": 1,
-      "budget_clarity_pct": 100.0,
-      "sr_nos": [
-        "216"
+        "151"
       ]
     },
     {
@@ -81,35 +116,123 @@
       "growth_signals": 1,
       "budget_clarity_pct": 0.0,
       "sr_nos": [
-        "343"
+        "79"
+      ]
+    },
+    {
+      "name": "Ascension Health_Post Acute Analytics, Ascension Health_Sara for Provider, Ascension Health_IntelliH, Ascension - Population Health Platform, Ascension Health_Quality Reporting (eCQM/GPRO) for TX Market, Network Health - Risk Adjustment, Ascension_Pop Health_Co-Pilot, Ascension_Value_Provider, Ascension_Pre Production Environment, Ascension-Provider-Xccelerate Conference, Ascension _Mini-Xccelerate Conference, Ascension - Performance Incentives at POC, Ascension_Productivity_Provider, Ascension_Productivity_Flow - Coding",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "230"
+      ]
+    },
+    {
+      "name": "Priority Health-Pharmacy Prior Auth",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "300"
+      ]
+    },
+    {
+      "name": "INTEGRIS Health_340B, Integris Health_Gravity",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "328"
+      ]
+    },
+    {
+      "name": "HCSC__HEDIS_PQS",
+      "call_count": 1,
+      "health_score": 33.3,
+      "status": "at_risk",
+      "relationship_pct": 0.0,
+      "engagement_pct": 0.0,
+      "wins_count": 0,
+      "growth_signals": 0,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "87"
       ]
     }
   ],
   "call_list": [
     {
-      "sr_no": "58",
-      "title": "Molly X Innovaccer",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7621391709745342959",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Mreed, Vaibhav Kapil",
+      "sr_no": "79",
+      "title": "UHHS <> Innovaccer | Demonstration",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6212165053709193124",
+      "stages": [
+        "BANT Discovery"
+      ],
+      "opportunity": "UHHS_Custom_Medical Adherence & SUPD",
+      "attendees": "Lena Abdul-aziz, Sara Bonenfant, Kessler Brown, Jimmy Bresee III, Richard Romaniszyn, Keg Avakian",
       "brand": "PQS",
-      "summary": "The meeting was a discussion between Vaibhav Kapil and Mreed, focusing on healthcare data management and potential solutions for clinical operations.\n\nTopics Discussed:\nIntroduction and Background\nVaibhav Kapil introduced himself as a business consultant specializing in healthcare data challenges.\nM",
+      "summary": "The meeting was centered around discussing medication adherence solutions and exploring potential collaborations to enhance healthcare operations.\n\nTopics Discussed:\nMedication Adherence Challenges\nRichard Romaniszyn highlighted the bottleneck in managing medication adherence with only two dedicated",
       "has_budget": false,
       "has_timeline": true,
       "has_growth": true
     },
     {
-      "sr_no": "127",
-      "title": "Bryan McCormick < RBJBarnabas> || Innovaccer",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/835291275350847965",
+      "sr_no": "87",
+      "title": "PQS / HCSC",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8071671465421657098",
       "stages": [
-        "Engaged"
+        "BANT Discovery"
       ],
-      "opportunity": "RWJBarnabas Health_Meridian_340B_speciality_pharmacy",
-      "attendees": "Bryan Mccormick, Brian Ednie, David Friederichs",
+      "opportunity": "HCSC__HEDIS_PQS",
+      "attendees": "Emily Endres, Lin, Tracy T (CTR), Austin Albaugh, Mitch_weishaar, Jeffrey Tunney, Alen Pajazetovic, Joanne_wilson",
       "brand": "PQS",
-      "summary": "The meeting centered around discussing the 340b program, its current management, and potential improvements through technology solutions.\n\nTopics Discussed:\n340b Program Management\nDiscussion on the eligibility of hospitals for the 340b program, with most being eligible, including seven Passionate s",
+      "summary": "The meeting was centered around introductions and discussions on pharmacy engagement strategies, particularly focusing on the LAMP program and its integration with health plans.\n\nTopics Discussed:\nIntroductions\nEmily Endres introduced herself as the Vice President of Pharmacy at PQS, along with Aust",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "149",
+      "title": "Internal PREP - UHHS Demo | Med Adherence and SUPD",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6424310757238504884",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Jill Marie Shewmake, Emily Endres, Jennifer Lynn Ray, Kessler Brown, Jimmy Bresee III, Keg Avakian",
+      "brand": "PQS",
+      "summary": "The meeting centered around discussing medication adherence measures and the preparation for an upcoming demo related to pharmacy operations and quality management.\n\nTopics Discussed:\nNew Role and Responsibilities\nJennifer Lynn Ray expressed excitement about her new role, which involves engaging wit",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "151",
+      "title": "Jessica Abraham( Keck Hospital of USC) & Innovaccer Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7484900903592982929",
+      "stages": [
+        "Nurture",
+        "BANT Discovery",
+        "X1 - BANT Qualified"
+      ],
+      "opportunity": "USC_PQS, Keck Medicine Of USC_PQS, Keck Medicine Of USC_Pharmacy Network_Atlas",
+      "attendees": "Hannah Schulyer, Jessica Abraham, David Willyard, Ruchira Mishra",
+      "brand": "PQS",
+      "summary": "The meeting primarily focused on discussing pharmacy programs and potential collaborations to enhance medication adherence and healthcare services.\n\nTopics Discussed:\nTime Management and Travel Plans\nParticipants discussed how quickly time is passing and shared their travel plans, including work tri",
       "has_budget": true,
       "has_timeline": true,
       "has_growth": true
@@ -128,30 +251,38 @@
       "has_growth": true
     },
     {
-      "sr_no": "216",
-      "title": "TriHealth <> Innovaccer",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8208360185821523666",
+      "sr_no": "230",
+      "title": "Innovaccer Med Reconciliation and Adherance",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5895401842476455981",
       "stages": [
+        "Nurture",
+        "X4 – Closed Won (Contract Executed)",
+        "X2 - Shortlisted (Not a VOC)",
+        "Closed Lost",
+        "X3 - VOC & Contracting",
+        "Upcoming Meeting",
         "BANT Discovery"
       ],
-      "opportunity": "TriHealth_340B",
-      "attendees": "Greg_nocito, Kessler Brown, Shivam Chaddha, Keg Avakian",
+      "opportunity": "Ascension Health_Post Acute Analytics, Ascension Health_Sara for Provider, Ascension Health_IntelliH, Ascension - Population Health Platform, Ascension Health_Quality Reporting (eCQM/GPRO) for TX Market, Network Health - Risk Adjustment, Ascension_Pop Health_Co-Pilot, Ascension_Value_Provider, Ascension_Pre Production Environment, Ascension-Provider-Xccelerate Conference, Ascension _Mini-Xccelerate Conference, Ascension - Performance Incentives at POC, Ascension_Productivity_Provider, Ascension_Productivity_Flow - Coding",
+      "attendees": "Sumit Choudhary, Sheila Jackson, John Hickey, Erin Carter, Christopher Hollberg, Bhandari Ashmit, Natalie DeVellis, Afrah Khan, Ashley Van Allen",
       "brand": "PQS",
-      "summary": "The meeting centered around discussing the 340b program, pharmacy management, and potential collaboration opportunities.\n\nTopics Discussed:\n340b Program\nGreg Nocito shared that their health system has two covered entities eligible for the 340b program, including a newly acquired hospital, Clinton Re",
-      "has_budget": true,
+      "summary": "The meeting was centered around discussing the integration and capabilities of the Innovaccer platform, particularly focusing on medication management and care management functionalities.\n\nTopics Discussed:\nTechnical Issues and Introductions\nInitial technical difficulties with video and audio were a",
+      "has_budget": false,
       "has_timeline": true,
       "has_growth": true
     },
     {
-      "sr_no": "243",
-      "title": "Brent Aldrich<>Innovaccer",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6137700441366114949",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Brent, Evan Boldt, Rasheed Baqai",
+      "sr_no": "300",
+      "title": "Innovaccer Connect - Introductory Call",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8291916148640673321",
+      "stages": [
+        "Engaged"
+      ],
+      "opportunity": "Priority Health-Pharmacy Prior Auth",
+      "attendees": "David Kaskoun, Loriann Collins, Sonali Dabas, Drake Reiter",
       "brand": "PQS",
-      "summary": "The meeting was centered around exploring potential solutions for improving safety event reporting and quality management systems at a critical access hospital.\n\nTopics Discussed:\nHospital Overview\nThe hospital is an independent community critical access hospital with 14 clinics, including five rura",
-      "has_budget": true,
+      "summary": "The meeting was an introductory call with Drake Reiter, the Director of Pharmacy Operations at Priority Health, to discuss potential synergies and collaboration opportunities with Innovacer.\n\nTopics Discussed:\nIntroduction and Background\nDavid Kaskoun introduced Innovacer, highlighting its focus on ",
+      "has_budget": false,
       "has_timeline": true,
       "has_growth": true
     },
@@ -169,16 +300,17 @@
       "has_growth": true
     },
     {
-      "sr_no": "343",
-      "title": "Innovaccer <> University Hospitals",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3667209043053601917",
+      "sr_no": "328",
+      "title": "Innovaccer & INTEGRIS | Gravity & 340B Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1478856815113327595",
       "stages": [
-        "BANT Discovery"
+        "Upcoming Meeting",
+        "X1 - BANT Qualified"
       ],
-      "opportunity": "UHHS_Custom_Medical Adherence & SUPD",
-      "attendees": "Lena Abdul-aziz, Sara Bonenfant, Kessler Brown, Keg Avakian",
+      "opportunity": "INTEGRIS Health_340B, Integris Health_Gravity",
+      "attendees": "Puneet Kochhar, David Friederichs, Thomas Mcquillan, Madhu Palkar, BoxAJ, Clayson Willis, Kessler Brown, Smriti Kirubanandan",
       "brand": "PQS",
-      "summary": "The meeting was centered around discussing the capabilities of Innovator's platform and its potential application in managing medication adherence and related healthcare metrics.\n\nTopics Discussed:\nIntroduction to Innovator\nInnovator's background and experience in healthcare data management.\nEmphasi",
+      "summary": "The meeting centered around the demonstration and discussion of the Gravity platform, focusing on its capabilities in supply chain management and data integration.\n\nTopics Discussed:\nIntroduction and Setup\nInitial greetings and technical setup issues were addressed.\nParticipants included David Fried",
       "has_budget": false,
       "has_timeline": true,
       "has_growth": true
@@ -195,311 +327,31 @@
       "has_budget": true,
       "has_timeline": true,
       "has_growth": true
-    },
-    {
-      "sr_no": "429",
-      "title": "Innovaccer/CC [In-person]",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2733904014338821196",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Wolfew, Grotheb, Medinam, Brian Silverstein, MD",
-      "brand": "PQS",
-      "summary": "The meeting centered around the strategic planning and implementation of a new platform for Cleveland Clinic, focusing on risk adjustment and data management.\n\nTopics Discussed:\nPlatform Implementation\nDiscussion on the integration of a new platform to replace the current vendor, Arcadia, with a foc",
-      "has_budget": true,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "444",
-      "title": "Jeannette Currie / Tom Sweeny",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6520102621797687519",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Jcurrie, Mike Sutten, Tom Sweeny",
-      "brand": "PQS",
-      "summary": "The meeting centered around discussions on upcoming events, strategic priorities, and technological innovations within the healthcare sector.\n\nTopics Discussed:\nEvent Participation\nMike Sutten discussed his potential participation in the HIMSS event, pending ticket approval from the marketing team.\n",
-      "has_budget": true,
-      "has_timeline": true,
-      "has_growth": true
     }
   ],
-  "pain_clusters": [
-    {
-      "theme": "Poor Data Integration & Quality",
-      "description": "Difficulties with data being siloed, inconsistent, slow to ingest, and hard to match across different software platforms.",
-      "count": 3,
-      "representative_sr_nos": [
-        "192",
-        "343",
-        "311"
-      ],
-      "stage_distribution": "Mid-Stage (Technical Validation, Scoping)"
-    },
-    {
-      "theme": "Inadequate Systems & Manual Work",
-      "description": "Current software lacks crucial, specialty-specific features and user-friendliness, forcing staff into time-consuming manual workarounds.",
-      "count": 2,
-      "representative_sr_nos": [
-        "243",
-        "311"
-      ],
-      "stage_distribution": "Early-Stage (Discovery)"
-    },
-    {
-      "theme": "Low Patient Engagement & Adherence",
-      "description": "Challenges in communicating with patients and ensuring they follow clinical recommendations, complete screenings, and adhere to visit schedules.",
-      "count": 1,
-      "representative_sr_nos": [
-        "58"
-      ],
-      "stage_distribution": "Early-Stage (Discovery)"
-    },
-    {
-      "theme": "Pharmacy Program Optimization",
-      "description": "Struggles with efficiently managing pharmacy programs like 340b, including financial leakage, overhead costs, and overall optimization.",
-      "count": 2,
-      "representative_sr_nos": [
-        "127",
-        "216"
-      ],
-      "stage_distribution": "Mid-Stage (Scoping, ROI Calculation)"
-    },
-    {
-      "theme": "Technology Adoption & Management Risks",
-      "description": "Concerns about the complexities of implementing new solutions, including provider adoption, alert fatigue, contract management, and avoiding unused 'shelfware'.",
-      "count": 1,
-      "representative_sr_nos": [
-        "429"
-      ],
-      "stage_distribution": "Late-Stage (Evaluation, Negotiation)"
-    },
-    {
-      "theme": "Strategic & Future Technology Gaps",
-      "description": "High-level needs for future capabilities like AI governance, multilingual support, and specific system modules to support long-term goals.",
-      "count": 1,
-      "representative_sr_nos": [
-        "444"
-      ],
-      "stage_distribution": "Early-Stage (Discovery) or Expansion"
-    },
-    {
-      "theme": "Resource Constraints & Staff Overload",
-      "description": "Increased workload, long hours, and insufficient resources due to organizational changes are causing staff burnout and operational challenges.",
-      "count": 2,
-      "representative_sr_nos": [
-        "405",
-        "216"
-      ],
-      "stage_distribution": "Early-Stage (Discovery)"
-    }
-  ],
+  "pain_clusters": [],
   "deal_pain_clusters": [],
   "business_impacts": {
-    "categories": {
-      "Cost": {
-        "count": 7,
-        "key_themes": [
-          "Wasted spend and poor ROI on investments",
-          "Inefficient resource management and supply chain costs",
-          "Financial risk from regulatory changes or penalties"
-        ],
-        "is_quantified_pct": 14,
-        "representative_sr_nos": [
-          "429",
-          "127",
-          "311"
-        ]
-      },
-      "Time": {
-        "count": 8,
-        "key_themes": [
-          "Manual processes consuming employee hours",
-          "Delays in critical processes and reporting",
-          "Wasted effort and rework due to inefficiencies"
-        ],
-        "is_quantified_pct": 13,
-        "representative_sr_nos": [
-          "405",
-          "216",
-          "343"
-        ]
-      },
-      "Revenue": {
-        "count": 5,
-        "key_themes": [
-          "Missed sales opportunities and customer leakage",
-          "Ineffective sales processes reducing conversion",
-          "Impact of quality metrics on reimbursement/revenue"
-        ],
-        "is_quantified_pct": 20,
-        "representative_sr_nos": [
-          "192",
-          "58",
-          "343"
-        ]
-      },
-      "Risk": {
-        "count": 7,
-        "key_themes": [
-          "Compliance, audits, and reporting to governing bodies",
-          "Failure to meet quality, clinical, or performance metrics",
-          "Operational risks like data inaccuracy and employee burnout"
-        ],
-        "is_quantified_pct": 14,
-        "representative_sr_nos": [
-          "216",
-          "243",
-          "444"
-        ]
-      },
-      "Operational": {
-        "count": 10,
-        "key_themes": [
-          "Inefficient manual workflows and processes",
-          "Data silos, inaccuracy, and lack of visibility",
-          "Poor system integration and technology adoption"
-        ],
-        "is_quantified_pct": 20,
-        "representative_sr_nos": [
-          "243",
-          "311",
-          "429"
-        ]
-      },
-      "Patient/Customer Experience": {
-        "count": 2,
-        "key_themes": [
-          "Poor patient communication and follow-up",
-          "Disjointed care continuity",
-          "Data integrity issues impacting patient records"
-        ],
-        "is_quantified_pct": 0,
-        "representative_sr_nos": [
-          "58",
-          "444"
-        ]
-      }
-    },
-    "total_analyzed": 10
+    "categories": {},
+    "total_analyzed": 9
   },
   "growth_clusters": [],
-  "messaging": {
-    "repeated_value_props": [
-      {
-        "theme": "System & Data Integration",
-        "description": "Integrating data from multiple disparate sources (EMR, payer, claims, labs, Salesforce) into a single, unified source of truth.",
-        "frequency": 5,
-        "representative_sr_nos": [
-          "192",
-          "243",
-          "311",
-          "405",
-          "429"
-        ]
-      },
-      {
-        "theme": "Improved Operational Efficiency",
-        "description": "Automating manual tasks like data abstraction and reporting, reducing manual effort for analysts, and optimizing workflows.",
-        "frequency": 4,
-        "representative_sr_nos": [
-          "216",
-          "243",
-          "343",
-          "444"
-        ]
-      },
-      {
-        "theme": "Enhanced Patient Management & Tracking",
-        "description": "Providing capabilities to longitudinally track patients, manage gaps in care, and improve patient adherence.",
-        "frequency": 3,
-        "representative_sr_nos": [
-          "58",
-          "343",
-          "405"
-        ]
-      },
-      {
-        "theme": "Automation & Intelligent Recommendations",
-        "description": "Leveraging smart technology for tasks like rebate automation, providing intelligent ordering recommendations, and democratizing AI.",
-        "frequency": 3,
-        "representative_sr_nos": [
-          "127",
-          "311",
-          "444"
-        ]
-      },
-      {
-        "theme": "Specialized Program Management",
-        "description": "Offering solutions to efficiently manage complex compliance and financial programs, specifically the 340b program.",
-        "frequency": 2,
-        "representative_sr_nos": [
-          "127",
-          "216"
-        ]
-      }
-    ],
-    "inconsistent_narratives": [
-      {
-        "conflict_description": "Positioning as both a full platform replacement and a complementary enhancement tool. In one call (#429), the focus is on completely replacing an existing vendor (Arcadia). In another (#311), the buyer's explicit need is for a tool that integrates with and enhances their existing system (Cerner) *without* replacing it. This requires two distinct sales narratives.",
-        "sr_nos": [
-          "311",
-          "429"
-        ]
-      },
-      {
-        "conflict_description": "Pitched as a broad, all-in-one data platform vs. a niche, point solution. Calls #405 and #429 describe a comprehensive platform integrating claims, labs, and reporting for risk adjustment. In contrast, calls #127 and #216 focus narrowly on solving a single problem: 340b program management and rebate automation. This creates ambiguity about the product's core identity.",
-        "sr_nos": [
-          "127",
-          "216",
-          "405",
-          "429"
-        ]
-      }
-    ],
-    "proof_signals": [
-      {
-        "proof_type": "Case Studies / Performance Metrics",
-        "description": "Prospects are directly asking for proof of how the solution has improved specific outcomes, such as clinical compliance, for other similar organizations.",
-        "sr_nos": [
-          "58"
-        ]
-      },
-      {
-        "proof_type": "Industry Benchmarks / Pre-built Libraries",
-        "description": "A desire for evidence of domain expertise, shown through assets like 'specialty-based metrics libraries' that align with established industry standards.",
-        "sr_nos": [
-          "243"
-        ]
-      },
-      {
-        "proof_type": "Technical Integration Capabilities",
-        "description": "The value proposition relies heavily on integration with core systems like Cerner and Salesforce. Proof of seamless, successful integrations is a critical signal of viability.",
-        "sr_nos": [
-          "192",
-          "311"
-        ]
-      }
-    ],
-    "content_gaps": [
-      {
-        "gap_description": "Request for customer evidence on clinical outcomes: A prospect explicitly asked for examples of how the product improved clinical compliance in other organizations, suggesting a need for more accessible case studies or data sheets.",
-        "sr_nos": [
-          "58"
-        ]
-      },
-      {
-        "gap_description": "Request for specialty-specific content: A buyer expressed a desire for 'specialty-based metrics libraries,' indicating a content gap for materials that demonstrate deep, pre-built knowledge of specific clinical domains.",
-        "sr_nos": [
-          "243"
-        ]
-      },
-      {
-        "gap_description": "Need for educational/market landscape content: A buyer stated they 'want to be educated on what's out there,' signaling an opportunity for thought leadership or competitive analysis assets for prospects in the early stages of evaluation.",
-        "sr_nos": [
-          "127"
-        ]
-      }
-    ]
-  },
-  "risk_signals": []
+  "messaging": {},
+  "risk_signals": [
+    {
+      "type": "late_stage_no_budget",
+      "sr_no": "230",
+      "title": "Innovaccer Med Reconciliation and Adherance",
+      "stages": [
+        "Nurture",
+        "X4 – Closed Won (Contract Executed)",
+        "X2 - Shortlisted (Not a VOC)",
+        "Closed Lost",
+        "X3 - VOC & Contracting",
+        "Upcoming Meeting",
+        "BANT Discovery"
+      ],
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5895401842476455981"
+    }
+  ]
 }

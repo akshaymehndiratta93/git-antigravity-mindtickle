@@ -2,90 +2,97 @@
   "brand": "Galaxy",
   "slug": "galaxy",
   "kpis": {
-    "total_calls": 8,
-    "calls_with_summary": 8,
-    "calls_with_debrief": 8,
+    "total_calls": 36,
+    "calls_with_summary": 36,
+    "calls_with_debrief": 36,
     "stage_distribution": {
-      "Unknown": 3,
-      "Upcoming Meeting": 3,
-      "Closed Lost": 3,
-      "Nurture": 2,
-      "BANT Discovery": 2,
-      "X3 - VOC & Contracting": 2,
-      "Engaged": 1,
-      "X4 – Closed Won (Contract Executed)": 1,
-      "X2 - Shortlisted (Not a VOC)": 1
+      "Unknown": 14,
+      "Upcoming Meeting": 9,
+      "Closed Lost": 8,
+      "Nurture": 7,
+      "BANT Discovery": 7,
+      "X1 - BANT Qualified": 4,
+      "X2 - Shortlisted (Not a VOC)": 4,
+      "X4 – Closed Won (Contract Executed)": 3,
+      "Engaged": 3,
+      "X3 - VOC & Contracting": 3
     },
-    "budget_clarity_rate": 62.5,
-    "budget_defined": 5,
-    "budget_undefined": 3,
-    "timeline_clarity_rate": 100.0,
-    "timeline_defined": 8,
-    "timeline_undefined": 0,
-    "multi_threaded_rate": 87.5,
-    "multi_threaded_count": 7,
-    "growth_mention_rate": 100.0,
-    "growth_mention_count": 8
+    "budget_clarity_rate": 55.6,
+    "budget_defined": 20,
+    "budget_undefined": 16,
+    "timeline_clarity_rate": 88.9,
+    "timeline_defined": 32,
+    "timeline_undefined": 4,
+    "multi_threaded_rate": 97.2,
+    "multi_threaded_count": 35,
+    "growth_mention_rate": 94.4,
+    "growth_mention_count": 34
   },
   "qualification_by_stage": {
-    "Nurture": {
-      "total": 2,
-      "budget_clear_pct": 50.0,
-      "timeline_clear_pct": 100.0,
-      "key_players_clear_pct": 100.0
-    },
-    "BANT Discovery": {
-      "total": 2,
-      "budget_clear_pct": 50.0,
-      "timeline_clear_pct": 100.0,
-      "key_players_clear_pct": 100.0
-    },
     "Unknown": {
+      "total": 14,
+      "budget_clear_pct": 50.0,
+      "timeline_clear_pct": 92.9,
+      "key_players_clear_pct": 100.0
+    },
+    "Closed Lost": {
+      "total": 8,
+      "budget_clear_pct": 75.0,
+      "timeline_clear_pct": 87.5,
+      "key_players_clear_pct": 100.0
+    },
+    "Nurture": {
+      "total": 7,
+      "budget_clear_pct": 71.4,
+      "timeline_clear_pct": 85.7,
+      "key_players_clear_pct": 85.7
+    },
+    "X4 – Closed Won (Contract Executed)": {
+      "total": 3,
+      "budget_clear_pct": 100.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "X1 - BANT Qualified": {
+      "total": 4,
+      "budget_clear_pct": 75.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "X2 - Shortlisted (Not a VOC)": {
+      "total": 4,
+      "budget_clear_pct": 50.0,
+      "timeline_clear_pct": 75.0,
+      "key_players_clear_pct": 100.0
+    },
+    "Upcoming Meeting": {
+      "total": 9,
+      "budget_clear_pct": 55.6,
+      "timeline_clear_pct": 88.9,
+      "key_players_clear_pct": 100.0
+    },
+    "Engaged": {
+      "total": 3,
+      "budget_clear_pct": 33.3,
+      "timeline_clear_pct": 66.7,
+      "key_players_clear_pct": 100.0
+    },
+    "X3 - VOC & Contracting": {
       "total": 3,
       "budget_clear_pct": 66.7,
       "timeline_clear_pct": 100.0,
       "key_players_clear_pct": 100.0
     },
-    "Upcoming Meeting": {
-      "total": 3,
-      "budget_clear_pct": 33.3,
-      "timeline_clear_pct": 100.0,
-      "key_players_clear_pct": 100.0
-    },
-    "Engaged": {
-      "total": 1,
-      "budget_clear_pct": 0.0,
-      "timeline_clear_pct": 100.0,
-      "key_players_clear_pct": 100.0
-    },
-    "X3 - VOC & Contracting": {
-      "total": 2,
-      "budget_clear_pct": 0.0,
-      "timeline_clear_pct": 100.0,
-      "key_players_clear_pct": 100.0
-    },
-    "Closed Lost": {
-      "total": 3,
-      "budget_clear_pct": 33.3,
-      "timeline_clear_pct": 100.0,
-      "key_players_clear_pct": 100.0
-    },
-    "X4 – Closed Won (Contract Executed)": {
-      "total": 1,
-      "budget_clear_pct": 0.0,
-      "timeline_clear_pct": 100.0,
-      "key_players_clear_pct": 100.0
-    },
-    "X2 - Shortlisted (Not a VOC)": {
-      "total": 1,
-      "budget_clear_pct": 0.0,
-      "timeline_clear_pct": 100.0,
+    "BANT Discovery": {
+      "total": 7,
+      "budget_clear_pct": 57.1,
+      "timeline_clear_pct": 71.4,
       "key_players_clear_pct": 100.0
     }
   },
   "account_health": [
     {
-      "name": "Apex Health Solutions_Value_Speciality, Apex Health Solutions_Gravity",
+      "name": "Walgreens_VBC_SS partnerships, Walgreens_Sara for Insights, Walgreens_Value_Provider, Walgreens_Value_Provider_Additional Lives, Walgreens_ACO Reach",
       "call_count": 1,
       "health_score": 100.0,
       "status": "healthy",
@@ -95,11 +102,11 @@
       "growth_signals": 1,
       "budget_clarity_pct": 100.0,
       "sr_nos": [
-        "5"
+        "19"
       ]
     },
     {
-      "name": "Vytalize Health_Atlas",
+      "name": "Cleveland Clinic Health System_Gravity, Cleveland Clinic Health System-Provider-Xccelerate Conference, Cleveland Clinic Health System_Value_Provider",
       "call_count": 1,
       "health_score": 100.0,
       "status": "healthy",
@@ -109,7 +116,77 @@
       "growth_signals": 1,
       "budget_clarity_pct": 100.0,
       "sr_nos": [
-        "139"
+        "68"
+      ]
+    },
+    {
+      "name": "Bronx RHIO - New Deal",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "100"
+      ]
+    },
+    {
+      "name": "Trinity Health_PriorAuth Pilot",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "107"
+      ]
+    },
+    {
+      "name": "Intuitive Health_Atlas",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "117"
+      ]
+    },
+    {
+      "name": "AccessHope_Value_Speciality, Healthcare Systems of America_Value_Provider",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "181"
+      ]
+    },
+    {
+      "name": "Ascension Health_Post Acute Analytics, Ascension Health_Sara for Provider, Ascension Health_IntelliH, Ascension - Population Health Platform, Ascension Health_Quality Reporting (eCQM/GPRO) for TX Market, Network Health - Risk Adjustment, Ascension_Pop Health_Co-Pilot, Ascension_Pre Production Environment, Ascension-Provider-Xccelerate Conference, Ascension _Mini-Xccelerate Conference, Ascension - Performance Incentives at POC, Ascension_Productivity_Provider, Ascension_Productivity_Flow - Coding",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "258"
       ]
     },
     {
@@ -123,7 +200,93 @@
       "growth_signals": 1,
       "budget_clarity_pct": 100.0,
       "sr_nos": [
-        "178"
+        "286"
+      ]
+    },
+    {
+      "name": "Healthfirst_Gravity_Payer, healthfirst_MTM_PQS",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "308"
+      ]
+    },
+    {
+      "name": "Community Care of North Carolina-Provider-Xccelerate Conference, Community Care of North Carolina_PHM Platform, CCNC_Gravity, CCNC - InCare, CCNC- RAF",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "421"
+      ]
+    },
+    {
+      "name": "Bellin Health -VBC/PHM - New Deal, Bellin Health Systems - New Deal, Gundersen Health System CRM, Gundersen Health System_VBC",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "446"
+      ]
+    },
+    {
+      "name": "Integris Health_AI COA, -Provider-Xccelerate Conference, Integris Health_eCQM",
+      "call_count": 3,
+      "health_score": 88.9,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 3,
+      "growth_signals": 3,
+      "budget_clarity_pct": 66.7,
+      "sr_nos": [
+        "54",
+        "169",
+        "262"
+      ]
+    },
+    {
+      "name": "Mosaic Health/Apree Enterprise Platform",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "49"
+      ]
+    },
+    {
+      "name": "Intermountain Health-Payer-Xccelerate Conference, Select Health_Galaxy, SelectHealth_LAMP_PQS",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "57"
       ]
     },
     {
@@ -141,7 +304,7 @@
       ]
     },
     {
-      "name": "Ascension Health_Post Acute Analytics, Ascension Health_Sara for Provider, Ascension Health_IntelliH, Ascension - Population Health Platform, Ascension Health_Quality Reporting (eCQM/GPRO) for TX Market, Network Health - Risk Adjustment, Ascension_Pop Health_Co-Pilot, Ascension_Pre Production Environment, Ascension-Provider-Xccelerate Conference, Ascension _Mini-Xccelerate Conference, Ascension - Performance Incentives at POC, Ascension_Productivity_Provider, Ascension_Productivity_Flow - Coding",
+      "name": "Devoted Health_Risk & Quality, Devoted Health \"POC\" RA (St Lukes), Episource LLC_Value_Speciality",
       "call_count": 1,
       "health_score": 66.7,
       "status": "healthy",
@@ -151,52 +314,314 @@
       "growth_signals": 1,
       "budget_clarity_pct": 0.0,
       "sr_nos": [
-        "183"
+        "229"
+      ]
+    },
+    {
+      "name": "UHHS_Custom_Medical Adherence & SUPD",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "343"
+      ]
+    },
+    {
+      "name": "Advocare Doctors_Value_Provider",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "413"
+      ]
+    },
+    {
+      "name": "US Renal Care-Speciality-Xccelerate Conference",
+      "call_count": 1,
+      "health_score": 0.0,
+      "status": "critical",
+      "relationship_pct": 0.0,
+      "engagement_pct": 0.0,
+      "wins_count": 0,
+      "growth_signals": 0,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "125"
+      ]
+    },
+    {
+      "name": "-Provider-Xccelerate Conference, Integris Health_eCQM",
+      "call_count": 1,
+      "health_score": 0.0,
+      "status": "critical",
+      "relationship_pct": 0.0,
+      "engagement_pct": 0.0,
+      "wins_count": 0,
+      "growth_signals": 0,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "342"
       ]
     }
   ],
   "call_list": [
     {
-      "sr_no": "5",
-      "title": "RESCHEDULED: Apex / Innovaccer - Pilot Discussion",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7669718627530510907",
-      "stages": [
-        "Nurture",
-        "BANT Discovery"
-      ],
-      "opportunity": "Apex Health Solutions_Value_Speciality, Apex Health Solutions_Gravity",
-      "attendees": "Sammy Gershon, Seth Nye, Michael Duddy, Frank Fasano, Prasath Venkatraman, Will Pettinger, Smriti Kirubanandan",
-      "brand": "Galaxy",
-      "summary": "The meeting centered around discussing the CMS Access program and its potential impact on business operations, as well as exploring data infrastructure solutions.\n\nTopics Discussed:\nCMS Access Program\nThe potential impact of the CMS Access program on business operations was highlighted, with concern",
-      "has_budget": true,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "69",
-      "title": "Logan Ferrie and Team Innovaccer",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4733098034083120214",
+      "sr_no": "9",
+      "title": "James Morrison (Moberi Dental Specialists) <> Innovaccer Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3849750442810600795",
       "stages": [],
       "opportunity": "",
-      "attendees": "loganferrie, Ashish Gupta",
+      "attendees": "James Morrison Jr., Ashish Gupta",
       "brand": "Galaxy",
-      "summary": "The meeting centered around discussing the partnership between Ashish Gupta's organization and Logan Ferrie's company, focusing on the CMS program and the Access model.\n\nTopics Discussed:\nPartnership and Conference Insights\nLogan Ferrie expressed interest in learning more about the new racer and CMS",
+      "summary": "The meeting was a detailed discussion between James Morrison Jr. and Ashish Gupta, focusing on healthcare technology and potential collaboration opportunities.\n\nTopics Discussed:\nIntroduction and Background\nJames Morrison Jr., a dentist interested in healthcare tech, reached out to learn more about ",
       "has_budget": true,
       "has_timeline": true,
       "has_growth": true
     },
     {
-      "sr_no": "139",
-      "title": "Jessica Riccardo and Team Innovaccer",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4290864497334371644",
+      "sr_no": "19",
+      "title": "Finalize Scope for Horizon DSNP/MA expansion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5043270601803520853",
       "stages": [
+        "Closed Lost",
+        "Nurture",
+        "X4 – Closed Won (Contract Executed)",
+        "X1 - BANT Qualified"
+      ],
+      "opportunity": "Walgreens_VBC_SS partnerships, Walgreens_Sara for Insights, Walgreens_Value_Provider, Walgreens_Value_Provider_Additional Lives, Walgreens_ACO Reach",
+      "attendees": "James Robertshaw, Van Thanh Nguyen, Chelsea Christopher, Ishmeet Singh, Jay Levine, Shikha Sidana",
+      "brand": "Galaxy",
+      "summary": "The meeting centered around aligning on the scope of a new expansion initiative and discussing various technical aspects related to data management and reporting.\n\nTopics Discussed:\nScope Alignment\nIshmeet Singh and Shikha Sidana presented their understanding of the scope for the expansion, seeking ",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "36",
+      "title": "RE: Innovaccer/CK Data Sync Sessions",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3904196069034875406",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Shubham Katta, MagnanDavid, Jimit Chauhan, derek.waldron, Sandeep Kumar Ram, WendiMcNeilly, Epaminondas Sourlas, Hillary Fundin",
+      "brand": "Galaxy",
+      "summary": "The meeting centered on addressing data discrepancies and ensuring data quality in the shared files between the teams.\n\nTopics Discussed:\nData Discrepancies\nSandeep Kumar Ram highlighted noticeable gaps in the claims data, specifically missing columns and empty fields in the sample data provided.\nJi",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "49",
+      "title": "Joint Product w/Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7672509368936075388",
+      "stages": [
+        "X2 - Shortlisted (Not a VOC)"
+      ],
+      "opportunity": "Mosaic Health/Apree Enterprise Platform",
+      "attendees": "Nikita Sharma, Jim Campbell, Brett Phillips, Brandon Taylor, Irene Logis, Andrea Mcauliffe, Nicole Fink",
+      "brand": "Galaxy",
+      "summary": "The meeting was convened to discuss collaboration strategies and align the teams on a joint project involving population health solutions.\n\nTopics Discussed:\nTeam Introductions\nParticipants introduced themselves, highlighting their roles and experiences in healthcare and technology sectors.\nCollabor",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "54",
+      "title": "Integris/Innovaccer - Scheduling Weekly Check-In",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/917957170644529189",
+      "stages": [
+        "X1 - BANT Qualified",
         "Upcoming Meeting"
       ],
-      "opportunity": "Vytalize Health_Atlas",
-      "attendees": "Jessica Riccardo, Kshitij Joshi, Hasan Bayat, Jen Snider",
+      "opportunity": "Integris Health_AI COA, -Provider-Xccelerate Conference, Integris Health_eCQM",
+      "attendees": "Puneet Kochhar, David Friederichs, Kevin Arlington, Stephanie Nana, Galen Manning, Chelsea Kelley",
       "brand": "Galaxy",
-      "summary": "The meeting was primarily an introductory session to discuss potential collaboration and interest areas between the participants and Innovacare.\n\nTopics Discussed:\nIntroductions and Roles\nKshitij Joshi introduced themselves as the Regional Director at Innovacare, responsible for engaging with potent",
+      "summary": "The meeting primarily focused on project updates, scheduling, and data management related to IT and healthcare contracts.\n\nTopics Discussed:\nIntroduction of Stephanie Nana\nStephanie Nana, the IT project manager, was introduced to the team to help manage IT-related tasks and ensure smooth project exe",
       "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "57",
+      "title": "Select Health Galaxy Demo",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3052071262845168560",
+      "stages": [
+        "Upcoming Meeting",
+        "Engaged",
+        "X2 - Shortlisted (Not a VOC)"
+      ],
+      "opportunity": "Intermountain Health-Payer-Xccelerate Conference, Select Health_Galaxy, SelectHealth_LAMP_PQS",
+      "attendees": "Nakisa Mirrafie, Hannah Schulyer, Kim Barrus, Rich Fox, rwellin2, Robin McClendon, Amy Jack, Mike Eaton, Nakisa",
+      "brand": "Galaxy",
+      "summary": "The meeting was centered around discussing Innovaccer's Galaxy platform and its potential to streamline risk and quality processes for SelectHealth.\n\nTopics Discussed:\nIntroduction and Team Introductions\nHannah Schulyer introduced Innovaccer's team and outlined the meeting's goal to explore Galaxy's",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": true
+    },
+    {
+      "sr_no": "68",
+      "title": "Ben / Joe",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2145740150105425485",
+      "stages": [
+        "Engaged",
+        "Upcoming Meeting",
+        "X3 - VOC & Contracting"
+      ],
+      "opportunity": "Cleveland Clinic Health System_Gravity, Cleveland Clinic Health System-Provider-Xccelerate Conference, Cleveland Clinic Health System_Value_Provider",
+      "attendees": "Ben Grothe, Joseph Thompson",
+      "brand": "Galaxy",
+      "summary": "The meeting between Joseph Thompson and Ben Grothe focused on discussing various aspects of their ongoing projects and collaborations, particularly around data integration and contract management.\n\nTopics Discussed:\nTravel and Meetings\nJoseph Thompson mentioned traveling to Detroit with Priyanka and",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "97",
+      "title": "[Internal] The Health Plan <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7402678216752558422",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "mibrahim@healthplan.org, john.specht",
+      "brand": "Galaxy",
+      "summary": "The meeting centered around discussing the Galaxy platform, an AI-assisted system designed to streamline risk and quality management in healthcare plans.\n\nTopics Discussed:\nIntroduction to Galaxy Platform\nJohn Specht introduced the Galaxy platform, emphasizing its role in integrating risk and qualit",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "100",
+      "title": "Lexington Innovaccer VBC Deep Dive",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8356952581642869691",
+      "stages": [
+        "Closed Lost"
+      ],
+      "opportunity": "Bronx RHIO - New Deal",
+      "attendees": "Lindsey Giglio, Justin Goette, David Friederichs, Rasheed Baqai, Kathy Miller, jdcuzmar, Ryan Raess, Brian Strok",
+      "brand": "Galaxy",
+      "summary": "The meeting was centered around discussing the capabilities and integration of Innovaccer's tools with Epic, focusing on clinical decision support, CDI (Clinical Documentation Improvement), and risk adjustment solutions.\n\nTopics Discussed:\nIntroductions and Roles\nJorge Guzman introduced as the manag",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "107",
+      "title": "Innovaccer l Prior Auth l Update",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7013380853640067880",
+      "stages": [
+        "BANT Discovery"
+      ],
+      "opportunity": "Trinity Health_PriorAuth Pilot",
+      "attendees": "EmilyHuizenga, Joseph Thompson",
+      "brand": "Galaxy",
+      "summary": "The conversation primarily revolved around business updates and potential collaborations between the parties involved.\n\nTopics Discussed:\nWeather and Travel\nEmily and Joseph discussed recent weather conditions, including snowfall in their respective areas.\nJoseph mentioned travel plans to New York C",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "117",
+      "title": "Mason Deal (Intuitive Health) <> Innovaccer Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2702019368708304977",
+      "stages": [
+        "BANT Discovery"
+      ],
+      "opportunity": "Intuitive Health_Atlas",
+      "attendees": "Mason Deal, Ashish Gupta, Arun Maithani",
+      "brand": "Galaxy",
+      "summary": "The meeting centered around discussing the potential collaboration between Ashish Gupta's organization and Mason Deal from Intuitive Health, focusing on data analytics for Alzheimer's prevalence at the zip code level.\n\nTopics Discussed:\nIntroduction and Meeting Purpose\nArun Maithani introduced Ashis",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "125",
+      "title": "USRC | Cohort Builder - Follow up call",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4679212685493802998",
+      "stages": [
+        "Nurture"
+      ],
+      "opportunity": "US Renal Care-Speciality-Xccelerate Conference",
+      "attendees": "Justin Line, Rosie Simonetti, Maddie Schults",
+      "brand": "Galaxy",
+      "summary": "The meeting focused on discussing updates and timelines for addressing issues related to the cohort builder tool.\n\nTopics Discussed:\nEngineering Updates\nMaddie Schults provided updates on the engineering team's progress in addressing issues discussed in the previous meeting.\nA realistic timeline was",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "136",
+      "title": "Martins Point Alignment - Deals in Salesforce",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7935875572066653440",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Abhishek Gautam1, Rich Fox, Pankaj Deb, Varun Sirohi, Alex Keltner",
+      "brand": "Galaxy",
+      "summary": "The meeting primarily revolved around project challenges, client interactions, and strategic planning for ongoing and future engagements.\n\nTopics Discussed:\nProject Challenges\nVarun Sirohi and Rich Fox discussed the difficulties faced with a challenging client, highlighting issues with delivery time",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "147",
+      "title": "Follow up Discussion after Xccelerate'26 | Honest Medical Group",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8042634500967265543",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "David Friederichs, Mhiggins, Adeboer, Brandon Taylor, Ashish Gupta, JasonGaines, Danielle Strother",
+      "brand": "Galaxy",
+      "summary": "The meeting centered around exploring potential partnership opportunities between Innovator and Honest Health, focusing on technology integration and mutual benefits.\n\nTopics Discussed:\nCurrent Partnership Status\nDiscussion on the current state of the partnership between Innovator and Honest Health.",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "162",
+      "title": "Innovaccer Follow-up Meeting",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5015913995932794567",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Amy Stevens - Innovaccer, Mitch Anderson, Gyarbrough",
+      "brand": "Galaxy",
+      "summary": "The meeting centered around discussing strategies for integrating and managing healthcare networks, with a focus on pricing, capabilities, and the integration of technology systems.\n\nTopics Discussed:\nIntegration and Aggregation\nDiscussion on the importance of integrating and aggregating data from v",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "169",
+      "title": "Integris/Innovaccer - Scheduling Weekly Check-In",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/384479110257942949",
+      "stages": [
+        "X1 - BANT Qualified",
+        "Upcoming Meeting"
+      ],
+      "opportunity": "Integris Health_AI COA, -Provider-Xccelerate Conference, Integris Health_eCQM",
+      "attendees": "Puneet Kochhar, David Friederichs, mcclaz, Galen Manning, Chelsea Kelley",
+      "brand": "Galaxy",
+      "summary": "The meeting primarily focused on project updates, contract negotiations, and data management strategies.\n\nTopics Discussed:\nProject Updates\nPuneet Kochhar shared updates on the Q3 project, highlighting the completion of certain tasks and the preparation of the project charter, which is expected to b",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "175",
+      "title": "RE: Innovaccer/CK Data Sync Sessions",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8186529145178725500",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Whitney Wilson, MagnanDavid, Harsh Pathak, Sandeep Kumar Ram, WendiMcNeilly, Nondas",
+      "brand": "Galaxy",
+      "summary": "The meeting primarily focused on data sharing, hierarchy document updates, and the processing of quality measures for healthcare management.\n\nTopics Discussed:\nData Sharing and Release\nSandeep Kumar Ram sought clarification on the release of data from Dave, which was initially planned for today.\nDav",
+      "has_budget": false,
       "has_timeline": true,
       "has_growth": true
     },
@@ -219,24 +644,55 @@
       "has_growth": true
     },
     {
-      "sr_no": "178",
-      "title": "GHG | Humbi Weekly Check-In",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1914627532723999746",
+      "sr_no": "181",
+      "title": "COH/Innovaccer | Follow-up: Supporting City of Hope's Quality and Rankings Strategy",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7352311810776108277",
       "stages": [
-        "Closed Lost"
+        "BANT Discovery",
+        "Nurture"
       ],
-      "opportunity": "Humbi Health_Innovation",
-      "attendees": "Marcella Ruzicka, Alex Kim, Ehammond, Jmontesino, Puneet Budhiraja, Caguilar, Rajesh Manglani, Gmarrero",
+      "opportunity": "AccessHope_Value_Speciality, Healthcare Systems of America_Value_Provider",
+      "attendees": "Arichard, Mvandenbrink, Vjensen, Jay Levine, Marc Stewart, Jim Hong, Andy, David Nace, Mike Sutten, Mike Hill, Will Pettinger",
       "brand": "Galaxy",
-      "summary": "The meeting was centered around financial projections and budget planning, with a focus on the Medicare Shared Savings Program (MSSP) and Accountable Care Organization (ACO) models.\n\nTopics Discussed:\nWork Schedule Preferences\nDiscussion on the benefits of a four-day workweek with longer hours to en",
+      "summary": "The meeting centered on discussing strategies for improving City of Hope's rankings in the U.S. News & World Report, with a focus on data integration and analytics.\n\nTopics Discussed:\nIntroduction and Team Introductions\nParticipants introduced themselves, highlighting their roles and expertise.\nThe ",
       "has_budget": true,
       "has_timeline": true,
       "has_growth": true
     },
     {
-      "sr_no": "183",
-      "title": "Innovaccer eCQM Demonstration",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/658772117241479004",
+      "sr_no": "223",
+      "title": "Kick-off Agenda + Data Access Discussion <> VIVA & Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/663798213508075527",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "John Hickey, Varun Sirohi, Rhensley, Matthew Work",
+      "brand": "Galaxy",
+      "summary": "The meeting primarily focused on planning the kickoff for a new project implementation, discussing logistics, and setting priorities for the upcoming tasks.\n\nTopics Discussed:\nKickoff Planning\nDiscussion on the kickoff date and agenda, with a focus on aligning schedules and ensuring key stakeholders",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "229",
+      "title": "Devoted Health <> Innovaccer | Demo Call",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7461005034806554064",
+      "stages": [
+        "BANT Discovery",
+        "Closed Lost",
+        "Nurture"
+      ],
+      "opportunity": "Devoted Health_Risk & Quality, Devoted Health \"POC\" RA (St Lukes), Episource LLC_Value_Speciality",
+      "attendees": "Hannah Schulyer, Emery Hicks, Lisette Roman, Michelle Zilisch, Kaori Ego, Beth Coughlin",
+      "brand": "Galaxy",
+      "summary": "The meeting centered on discussing the integration of Innovator's Galaxy solution with Devoted's existing systems to enhance risk and quality management processes.\n\nTopics Discussed:\nIntroduction and Team Introductions\nHannah Schulyer introduced Innovator's team and outlined the meeting's goal to ex",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": true
+    },
+    {
+      "sr_no": "258",
+      "title": "[Bi-weekly] - Innovaccer<>Ascension - Medicaid capability connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5190275068752547515",
       "stages": [
         "Nurture",
         "X4 – Closed Won (Contract Executed)",
@@ -247,10 +703,56 @@
         "BANT Discovery"
       ],
       "opportunity": "Ascension Health_Post Acute Analytics, Ascension Health_Sara for Provider, Ascension Health_IntelliH, Ascension - Population Health Platform, Ascension Health_Quality Reporting (eCQM/GPRO) for TX Market, Network Health - Risk Adjustment, Ascension_Pop Health_Co-Pilot, Ascension_Pre Production Environment, Ascension-Provider-Xccelerate Conference, Ascension _Mini-Xccelerate Conference, Ascension - Performance Incentives at POC, Ascension_Productivity_Provider, Ascension_Productivity_Flow - Coding",
-      "attendees": "Sumit Choudhary, Ryan Mackman, John Hickey, Rasheed Baqai, Dhence, Christopher Hollberg, Antara Jha, Afrah Khan, Irene Logis, Aeron Sheeley, Deedee Baka, Danuta Lesnicki",
+      "attendees": "Sumit Choudhary, John Hickey, Christopher Hollberg, Afrah Khan, Rajeev Prashar, Viren Patel, Sandeep Duvvuru",
       "brand": "Galaxy",
-      "summary": "The meeting was centered around a demonstration by Innovator, the fourth and final vendor being considered for clinical quality reporting solutions. The session aimed to explore Innovator's capabilities in providing enterprise solutions for electronic clinical quality measures (eCQMs) and other qual",
-      "has_budget": false,
+      "summary": "The meeting was centered around discussing data integration, Medicaid restrictions, and strategic planning for healthcare data management.\n\nTopics Discussed:\nData Integration and Medicaid Restrictions\nDiscussion on the integration of clinical and claims data for Medicaid and uninsured patients.\nChal",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "262",
+      "title": "Integris/Innovaccer - Scheduling Weekly Check-In",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4980455458849219990",
+      "stages": [
+        "X1 - BANT Qualified",
+        "Upcoming Meeting"
+      ],
+      "opportunity": "Integris Health_AI COA, -Provider-Xccelerate Conference, Integris Health_eCQM",
+      "attendees": "Puneet Kochhar, David Friederichs, Galen Manning, Chelsea Kelley",
+      "brand": "Galaxy",
+      "summary": "The meeting primarily focused on discussing the progress and challenges related to project timelines, data acquisition, and reporting requirements.\n\nTopics Discussed:\nProject Timelines and Reporting\nDiscussion on the timeline for project releases, with a focus on the off-track status of certain prer",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "286",
+      "title": "Innovaccer Demo- Contract Modeling, Actuary Solutions, and Predictive Analytics",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/9091945721343808041",
+      "stages": [
+        "Closed Lost"
+      ],
+      "opportunity": "Humbi Health_Innovation",
+      "attendees": "mlarrieu, Ydelaune, John Hickey, Puneet Budhiraja, Irene Logis, Connor Johnson, Jimmy Bresee III, Andrew Principe",
+      "brand": "Galaxy",
+      "summary": "The meeting centered around discussing the integration of data analytics and actuarial intelligence into healthcare management systems, with a focus on improving care delivery and financial outcomes.\n\nTopics Discussed:\nMardi Gras Donuts and Personal Introductions\nLight-hearted discussion about Mardi",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "308",
+      "title": "[Internal] Healthfirst <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/260388636558541868",
+      "stages": [
+        "Nurture"
+      ],
+      "opportunity": "Healthfirst_Gravity_Payer, healthfirst_MTM_PQS",
+      "attendees": "Sandip Chandarana, Ritika Shaw, john.specht",
+      "brand": "Galaxy",
+      "summary": "The meeting primarily focused on discussing the capabilities and benefits of the Galaxy platform, particularly in relation to risk and quality management in healthcare.\n\nTopics Discussed:\nGalaxy Platform Overview\nIntroduction to the Galaxy platform, highlighting its recent recognition as the best sy",
+      "has_budget": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -268,14 +770,145 @@
       "has_growth": true
     },
     {
-      "sr_no": "399",
-      "title": "TEAMS: Innovaccer pricing follow up call",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5990560198491841659",
+      "sr_no": "327",
+      "title": "Dallas Renal Data Pull",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6774455317904827853",
       "stages": [],
       "opportunity": "",
-      "attendees": "Jcusimano, Andre Dias, Will Pettinger, Smriti Kirubanandan",
+      "attendees": "Jing Zheng, Rajesh Manglani, Sunny Sui, Will Pettinger",
       "brand": "Galaxy",
-      "summary": "The meeting centered around discussing a potential partnership and data monetization strategies between the parties involved.\n\nTopics Discussed:\nPartnership and Data Monetization\nThe team presented ideas to improve predictability and outcomes, focusing on platform license expansion and maintenance.\n",
+      "summary": "The meeting centered around discussions with the Dallas Renal Group and PSW, focusing on data analysis and strategic planning for healthcare services.\n\nTopics Discussed:\nDallas Renal Group Engagement\nThe group is interested in accessing data to identify patients at various stages of chronic kidney d",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "334",
+      "title": "Innovaccer Introduction For Megan",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2147170360221833723",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "David Friederichs, Brian Strok, Jimmy Bresee III, Kevin Arlington, Mlc9cn",
+      "brand": "Galaxy",
+      "summary": "The meeting was centered around introducing Megan to the team and discussing the capabilities of Innovaccer's platform in supporting value-based care initiatives.\n\nTopics Discussed:\nIntroductions and Background\nKevin Arlington, Jimmy Bresee III, and David Friederichs introduced themselves and their ",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "342",
+      "title": "National Network Service Order (INTEGRIS)",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/869562006304773301",
+      "stages": [
+        "Upcoming Meeting"
+      ],
+      "opportunity": "-Provider-Xccelerate Conference, Integris Health_eCQM",
+      "attendees": "Puneet Kochhar, David Friederichs, Galen Manning, Kevin Arlington",
+      "brand": "Galaxy",
+      "summary": "The meeting primarily focused on discussing amendments to service orders and clarifications regarding national networks, as well as addressing questions related to quality measures and data strategies.\n\nTopics Discussed:\nService Order Amendments\nDiscussion on the updated service order and its implic",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "343",
+      "title": "Innovaccer <> University Hospitals",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3667209043053601917",
+      "stages": [
+        "BANT Discovery"
+      ],
+      "opportunity": "UHHS_Custom_Medical Adherence & SUPD",
+      "attendees": "Lena Abdul-aziz, Sara Bonenfant, Kessler Brown, Keg Avakian",
+      "brand": "Galaxy",
+      "summary": "The meeting was centered around discussing the capabilities of Innovator's platform and its potential application in managing medication adherence and related healthcare metrics.\n\nTopics Discussed:\nIntroduction to Innovator\nInnovator's background and experience in healthcare data management.\nEmphasi",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "363",
+      "title": "IU health | Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3835538406995981210",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Brian Silverstein, MD, spfeffer, Joseph Thompson, Aternet",
+      "brand": "Galaxy",
+      "summary": "The meeting was an introductory discussion between Joseph Thompson from Innovation and representatives from IU Health, focusing on potential collaboration opportunities and understanding each other's capabilities.\n\nTopics Discussed:\nIntroductions and Background\nJoseph Thompson introduced himself and",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "367",
+      "title": "Kim Leinberger (CareOregon) <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8779713063411718264",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Hannah Schulyer, Kim, I Abhinav Pandey",
+      "brand": "Galaxy",
+      "summary": "The meeting was centered around understanding the roles and challenges at Care Oregon, particularly in the Medicare sector, and exploring potential support from Innovacare.\n\nTopics Discussed:\nIntroduction and Purpose\nHannah Schulyer introduced herself as an AVP at Innovacare, focusing on data and te",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": true
+    },
+    {
+      "sr_no": "385",
+      "title": "Dr. Bonnema (Kettering Health) <> Innovaccer Clinical Analytics Demo",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7021779932417850949",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Vivianne Lavicka, Ryan Grace, Rasheed Baqai, David Friederichs, Albert Bonnema, Jill Marie Shewmake",
+      "brand": "Galaxy",
+      "summary": "The meeting centered around discussing data management and integration solutions, focusing on the capabilities of the Gravity platform and its potential applications in healthcare data management.\n\nTopics Discussed:\nData Management and Integration\nAlbert Bonnema emphasized the need to inherit variou",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "413",
+      "title": "Innovaccer <> AdvoCare Doctors",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/9114438516229484185",
+      "stages": [
+        "BANT Discovery"
+      ],
+      "opportunity": "Advocare Doctors_Value_Provider",
+      "attendees": "Aloughnane, Hemant Jangir, Aprestifilippo, Msandberg, cheryl Harris",
+      "brand": "Galaxy",
+      "summary": "The meeting was centered around discussing the capabilities of Innovation's platform and exploring potential collaborations to enhance healthcare management and efficiency.\n\nTopics Discussed:\nIntroduction to Innovation's Offerings\nHemant Jangir introduced the purpose of the meeting, focusing on Inno",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": true
+    },
+    {
+      "sr_no": "421",
+      "title": "CCNC/Innovaccer - Nextsteps/Kevin Intro",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3112014289436579295",
+      "stages": [
+        "Upcoming Meeting",
+        "X4 – Closed Won (Contract Executed)",
+        "X2 - Shortlisted (Not a VOC)",
+        "Closed Lost"
+      ],
+      "opportunity": "Community Care of North Carolina-Provider-Xccelerate Conference, Community Care of North Carolina_PHM Platform, CCNC_Gravity, CCNC - InCare, CCNC- RAF",
+      "attendees": "Damedy, Kevin Arlington, John Hickey, Adam McClellan",
+      "brand": "Galaxy",
+      "summary": "The meeting primarily revolved around discussions on contract details, product implementation, and the challenges faced during the process. Participants included John Hickey, Kevin Arlington, Damedy, and Adam McClellan.\n\nTopics Discussed:\nContract and Pricing Details\nKevin Arlington discussed his ef",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "446",
+      "title": "Premier | Humbi - Demo ACO Analysis",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7581862996944058641",
+      "stages": [
+        "Closed Lost",
+        "Nurture"
+      ],
+      "opportunity": "Bellin Health -VBC/PHM - New Deal, Bellin Health Systems - New Deal, Gundersen Health System CRM, Gundersen Health System_VBC",
+      "attendees": "Bryan_smith, Will Pettinger, Chris Elfner, Richard_doane, Seth_edwards, Alex Kim, Alishah Rehman, Rajesh Manglani",
+      "brand": "Galaxy",
+      "summary": "The meeting was centered around introductions and discussions on actuarial intelligence and data capabilities, particularly focusing on Accountable Care Organizations (ACOs) and value-based care strategies.\n\nTopics Discussed:\nIntroductions\nParticipants introduced themselves, highlighting their roles",
       "has_budget": true,
       "has_timeline": true,
       "has_growth": true
@@ -285,124 +918,31 @@
   "deal_pain_clusters": [],
   "business_impacts": {
     "categories": {},
-    "total_analyzed": 7
+    "total_analyzed": 36
   },
   "growth_clusters": [],
-  "messaging": {
-    "repeated_value_props": [
-      {
-        "theme": "Actionable Insights & Proactive Management",
-        "frequency": 3,
-        "representative_sr_nos": [
-          "177",
-          "183",
-          "325"
-        ]
-      },
-      {
-        "theme": "Predictable Financial Models (Cost/Outcomes)",
-        "frequency": 2,
-        "representative_sr_nos": [
-          "5",
-          "399"
-        ]
-      },
-      {
-        "theme": "Revenue Enhancement & Cost Reduction",
-        "frequency": 2,
-        "representative_sr_nos": [
-          "69",
-          "178"
-        ]
-      },
-      {
-        "theme": "Partnership Models & Network Value",
-        "frequency": 2,
-        "representative_sr_nos": [
-          "69",
-          "399"
-        ]
-      },
-      {
-        "theme": "Data Control, Security & Scalability",
-        "frequency": 2,
-        "representative_sr_nos": [
-          "5",
-          "325"
-        ]
-      },
-      {
-        "theme": "Regulatory Compliance Assurance",
-        "frequency": 1,
-        "representative_sr_nos": [
-          "183"
-        ]
-      }
-    ],
-    "inconsistent_narratives": [
-      {
-        "conflict": "One narrative focuses on a defensive, cost-control message ('Predictable costs with capped compute usage'), while another emphasizes an offensive, growth-oriented message ('incremental revenue... enhance revenue opportunity'). This targets different buyer motivations and could dilute the core message.",
-        "sr_nos": [
-          "5",
-          "69"
-        ]
-      },
-      {
-        "conflict": "Positioning shifts between a traditional vendor relationship where the client maintains control ('Maintaining control and influence over data') and a deep partnership model with shared risk ('revenue share model... provides skin in the game'), which implies different levels of integration and shared decision-making.",
-        "sr_nos": [
-          "5",
-          "399"
-        ]
-      }
-    ],
-    "proof_signals": [
-      {
-        "type": "Quantifiable Performance Metrics",
-        "sr_nos": [
-          "183"
-        ]
-      },
-      {
-        "type": "Risk-Sharing Business Models",
-        "sr_nos": [
-          "399"
-        ]
-      },
-      {
-        "type": "Product Demonstration",
-        "sr_nos": [
-          "183"
-        ]
-      },
-      {
-        "type": "Access to Subject Matter Experts",
-        "sr_nos": [
-          "139"
-        ]
-      }
-    ],
-    "content_gaps": [
-      {
-        "gap_description": "Clients need clear documentation and definitions to understand, catalog, and interpret proprietary risk scores and models correctly.",
-        "sr_nos": [
-          "177"
-        ]
-      },
-      {
-        "gap_description": "A request for a 'template' to set up dashboards suggests a need for self-service tools, best-practice guides, or quick-start assets to simplify user onboarding and initial setup.",
-        "sr_nos": [
-          "325"
-        ]
-      },
-      {
-        "gap_description": "The desire to consult with 'tech experts or policy experts' indicates a need for content that codifies expert knowledge, such as technical whitepapers or policy briefs, to address complex questions.",
-        "sr_nos": [
-          "139"
-        ]
-      }
-    ]
-  },
+  "messaging": {},
   "risk_signals": [
+    {
+      "type": "late_stage_no_budget",
+      "sr_no": "49",
+      "title": "Joint Product w/Innovaccer",
+      "stages": [
+        "X2 - Shortlisted (Not a VOC)"
+      ],
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7672509368936075388"
+    },
+    {
+      "type": "late_stage_no_budget",
+      "sr_no": "57",
+      "title": "Select Health Galaxy Demo",
+      "stages": [
+        "Upcoming Meeting",
+        "Engaged",
+        "X2 - Shortlisted (Not a VOC)"
+      ],
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3052071262845168560"
+    },
     {
       "type": "late_stage_no_budget",
       "sr_no": "177",
@@ -414,21 +954,6 @@
         "Closed Lost"
       ],
       "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/606791661000339089"
-    },
-    {
-      "type": "late_stage_no_budget",
-      "sr_no": "183",
-      "title": "Innovaccer eCQM Demonstration",
-      "stages": [
-        "Nurture",
-        "X4 – Closed Won (Contract Executed)",
-        "X2 - Shortlisted (Not a VOC)",
-        "Closed Lost",
-        "X3 - VOC & Contracting",
-        "Upcoming Meeting",
-        "BANT Discovery"
-      ],
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/658772117241479004"
     }
   ]
 }

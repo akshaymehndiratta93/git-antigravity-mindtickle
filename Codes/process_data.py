@@ -24,6 +24,10 @@ TF_API_KEY = "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyR2VuTWlpWEhYREx4Ul
 TF_BASE_URL = "https://truefoundry.innovaccer.com/api/llm"
 TF_MODEL = "analytics-genai/gemini-2-5-pro"
 
+INNOVACCER_BRANDS = [
+    "Gravity", "Comet", "Flow", "Atlas", "Story Health", "Cured", "Humbi", "Galaxy", "PQS", "Unknown"
+]
+
 # ─── Helpers ─────────────────────────────────────────────────────────────────
 
 client = OpenAI(api_key=TF_API_KEY, base_url=TF_BASE_URL)
@@ -59,6 +63,7 @@ def call_gemini(prompt: str, max_tokens: int = 4000, max_retries: int = 3) -> st
                 extra_headers={
                     "X-TFY-METADATA": '{}',
                     "X-TFY-LOGGING-CONFIG": '{"enabled": true}',
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
                 },
             )
             content = response.choices[0].message.content
@@ -95,6 +100,102 @@ def parse_csv() -> list[dict]:
             rows.append(normalized)
     
     print(f"✅ Parsed {len(rows)} rows from CSV")
+    return rows
+
+
+# ─── Brand Classification (AI) ───────────────────────────────────────────────
+
+def classify_brands_batch(rows: list[dict], batch_size: int = 30) -> list[dict]:
+    """Intelligently tag 'Brand Discussed' using Gemini based on Pain Points."""
+    print(f"\n🧠 Reclassifying brands via AI AI for {len(rows)} calls...")
+    
+    # We will only send Sr No. and Pain Points to the LLM
+    data_to_classify = []
+    for r in rows:
+        pain = r.get("Debrief - Deal Qualification - Pain Points", "").strip()
+        if not pain or not is_defined(pain):
+            # Fallback to Summary if Pain Points is empty
+            pain = r.get("Summary", "").strip()[:300]
+            
+        data_to_classify.append({
+            "Sr No.": r.get("Sr No."),
+            "Context": pain
+        })
+
+    updates = {}
+    
+    prompt_template = """You are a healthcare AI product expert for Innovaccer.
+Analyze the following sales call excerpts (primarily pain points).
+For each call, determine the MOST LIKELY Innovaccer brand being discussed.
+
+You must choose EXACTLY ONE from this list: {brand_list}
+
+Definitions:
+- Gravity: Data Platform / CDAP / Foundation
+- Comet: Patient Access / Access Center / Contact Center
+- Flow: Revenue Cycle / Workflows / Care Management automation
+- Atlas: Population Health OS / Patient Relationship CRM
+- Story Health: Specialty Care Management (Cardiology, etc)
+- Cured: Healthcare CRM / Marketing & Campaigns
+- Humbi: Actuarial analytics / Risk Management / VBC Analytics
+- Galaxy: Payer platform / Risk adjustment / HEDIS compliance
+- PQS: Pharmacy Quality Solutions / Payer-Pharmacy performance
+- Unknown: If there is absolutely no signal to determine the product.
+
+Return a JSON object where the keys are the "Sr No." and the values are the exact brand name string from the list above. No markdown wrapping.
+
+Excerpts:
+{batch_json}
+"""
+
+    total_processed = 0
+    
+    for i in range(0, len(data_to_classify), batch_size):
+        batch = data_to_classify[i:i+batch_size]
+        batch_json = json.dumps(batch, indent=2)
+        
+        prompt = prompt_template.format(
+            brand_list=", ".join(INNOVACCER_BRANDS),
+            batch_json=batch_json
+        )
+        
+        print(f"  Batch {i//batch_size + 1}/{len(data_to_classify)//batch_size + 1} ({len(batch)} calls)...", end="", flush=True)
+        raw = call_gemini(prompt, max_tokens=8192)
+        
+        # Clean JSON
+        raw = raw.strip()
+        if raw.startswith("```"):
+            raw = re.sub(r'^```\w*\n?', '', raw)
+            raw = re.sub(r'\n?```$', '', raw)
+            
+        try:
+            mapping = json.loads(raw)
+            if isinstance(mapping, dict):
+                updates.update(mapping)
+                print(f" ✅ (got {len(mapping)} tags)")
+            else:
+                print(" ⚠️ (API returned non-dict JSON)")
+        except json.JSONDecodeError:
+            print(" ⚠️ (JSON parse error)")
+            
+        total_processed += len(batch)
+        time.sleep(1) # Rate limiting
+        
+    # Apply updates
+    tagged = 0
+    for r in rows:
+        sr = r.get("Sr No.")
+        if sr in updates:
+            new_brand = updates[sr]
+            if new_brand in INNOVACCER_BRANDS:
+                r["Brand Discussed"] = new_brand
+                tagged += 1
+            else:
+                r["Brand Discussed"] = "Unknown"
+        else:
+            r["Brand Discussed"] = "Unknown"
+
+    print(f"✅ AI Classification complete. Tagged {tagged}/{len(rows)} calls.")
     return rows
 
 
@@ -543,6 +644,9 @@ def main():
     
     # Parse CSV
     rows = parse_csv()
+    
+    # Reclassify Brands via AI (Disabled as user provided corrected v2 CSV)
+    # rows = classify_brands_batch(rows)
     
     # Group by brand
     brand_groups = group_by_brand(rows)

@@ -1,0 +1,618 @@
+{
+  "brand": "Humbi",
+  "slug": "humbi",
+  "kpis": {
+    "total_calls": 25,
+    "calls_with_summary": 18,
+    "calls_with_debrief": 18,
+    "stage_distribution": {
+      "Unknown": 15,
+      "Closed Lost": 5,
+      "Upcoming Meeting": 4,
+      "BANT Discovery": 2,
+      "Engaged": 2,
+      "X3 - VOC & Contracting": 2,
+      "Nurture": 2,
+      "X1 - BANT Qualified": 1
+    },
+    "budget_clarity_rate": 60.0,
+    "budget_defined": 15,
+    "budget_undefined": 10,
+    "timeline_clarity_rate": 72.0,
+    "timeline_defined": 18,
+    "timeline_undefined": 7,
+    "multi_threaded_rate": 72.0,
+    "multi_threaded_count": 18,
+    "growth_mention_rate": 68.0,
+    "growth_mention_count": 17
+  },
+  "qualification_by_stage": {
+    "X1 - BANT Qualified": {
+      "total": 1,
+      "budget_clear_pct": 100.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "Upcoming Meeting": {
+      "total": 4,
+      "budget_clear_pct": 50.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "Unknown": {
+      "total": 15,
+      "budget_clear_pct": 46.7,
+      "timeline_clear_pct": 53.3,
+      "key_players_clear_pct": 53.3
+    },
+    "BANT Discovery": {
+      "total": 2,
+      "budget_clear_pct": 100.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "Engaged": {
+      "total": 2,
+      "budget_clear_pct": 50.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "X3 - VOC & Contracting": {
+      "total": 2,
+      "budget_clear_pct": 50.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "Closed Lost": {
+      "total": 5,
+      "budget_clear_pct": 80.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "Nurture": {
+      "total": 2,
+      "budget_clear_pct": 100.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    }
+  },
+  "account_health": [
+    {
+      "name": "Integris Health_AI COA, -Provider-Xccelerate Conference, Integris Health_eCQM",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "54"
+      ]
+    },
+    {
+      "name": "Intuitive Health_Atlas",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "117"
+      ]
+    },
+    {
+      "name": "Humbi Health_Innovation",
+      "call_count": 3,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 3,
+      "growth_signals": 3,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "178",
+        "286",
+        "383"
+      ]
+    },
+    {
+      "name": "Cleveland Clinic Health System_Gravity, Cleveland Clinic Health System-Provider-Xccelerate Conference, Cleveland Clinic Health System_Value_Provider",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "211"
+      ]
+    },
+    {
+      "name": "University Of Texas System_Value_Provider, UTMB_Value_Provider",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "298"
+      ]
+    },
+    {
+      "name": "Bellin Health -VBC/PHM - New Deal, Bellin Health Systems - New Deal, Gundersen Health System CRM, Gundersen Health System_VBC",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "446"
+      ]
+    },
+    {
+      "name": "Cleveland Clinic Health System_Gravity, Cleveland Clinic Health System-Provider-Xccelerate Conference, Cleveland Clinic Health System_Value_Provider, Humbi Health_Innovation",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "177"
+      ]
+    },
+    {
+      "name": "-Provider-Xccelerate Conference, Integris Health_eCQM",
+      "call_count": 1,
+      "health_score": 0.0,
+      "status": "critical",
+      "relationship_pct": 0.0,
+      "engagement_pct": 0.0,
+      "wins_count": 0,
+      "growth_signals": 0,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "342"
+      ]
+    }
+  ],
+  "call_list": [
+    {
+      "sr_no": "54",
+      "title": "Integris/Innovaccer - Scheduling Weekly Check-In",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/917957170644529189",
+      "stages": [
+        "X1 - BANT Qualified",
+        "Upcoming Meeting"
+      ],
+      "opportunity": "Integris Health_AI COA, -Provider-Xccelerate Conference, Integris Health_eCQM",
+      "attendees": "Puneet Kochhar, David Friederichs, Kevin Arlington, Stephanie Nana, Galen Manning, Chelsea Kelley",
+      "brand": "Humbi",
+      "summary": "The meeting primarily focused on project updates, scheduling, and data management related to IT and healthcare contracts.\n\nTopics Discussed:\nIntroduction of Stephanie Nana\nStephanie Nana, the IT project manager, was introduced to the team to help manage IT-related tasks and ensure smooth project exe",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "92",
+      "title": "Innovaccer - Andy/Yvette/John",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1413715066370436448",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Ydelaune, John Hickey, Andrew Principe",
+      "brand": "Humbi",
+      "summary": "The meeting was a follow-up discussion focusing on the integration and capabilities of actuarial tools and pricing proposals for a healthcare network.\n\nTopics Discussed:\nActuarial Capabilities\nDiscussion on the need for deeper insights into actuarial capabilities, particularly in financial and cost ",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "117",
+      "title": "Mason Deal (Intuitive Health) <> Innovaccer Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2702019368708304977",
+      "stages": [
+        "BANT Discovery"
+      ],
+      "opportunity": "Intuitive Health_Atlas",
+      "attendees": "Mason Deal, Ashish Gupta, Arun Maithani",
+      "brand": "Humbi",
+      "summary": "The meeting centered around discussing the potential collaboration between Ashish Gupta's organization and Mason Deal from Intuitive Health, focusing on data analytics for Alzheimer's prevalence at the zip code level.\n\nTopics Discussed:\nIntroduction and Meeting Purpose\nArun Maithani introduced Ashis",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "177",
+      "title": "Innovaccer: Analytics & Benchmarking l Demonstration",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/606791661000339089",
+      "stages": [
+        "Engaged",
+        "Upcoming Meeting",
+        "X3 - VOC & Contracting",
+        "Closed Lost"
+      ],
+      "opportunity": "Cleveland Clinic Health System_Gravity, Cleveland Clinic Health System-Provider-Xccelerate Conference, Cleveland Clinic Health System_Value_Provider, Humbi Health_Innovation",
+      "attendees": "Pfohe, Don, Puneet Budhiraja, Kessler Brown, Connor Johnson, Ben Grothe, Joseph Thompson",
+      "brand": "Humbi",
+      "summary": "The meeting was centered around discussing data integration and predictive modeling capabilities with a focus on healthcare analytics.\n\nTopics Discussed:\nData Integration and Capabilities\nJoseph Thompson introduced the team and outlined the collaboration with Humvee, emphasizing the integration of p",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "178",
+      "title": "GHG | Humbi Weekly Check-In",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1914627532723999746",
+      "stages": [
+        "Closed Lost"
+      ],
+      "opportunity": "Humbi Health_Innovation",
+      "attendees": "Marcella Ruzicka, Alex Kim, Ehammond, Jmontesino, Puneet Budhiraja, Caguilar, Rajesh Manglani, Gmarrero",
+      "brand": "Humbi",
+      "summary": "The meeting was centered around financial projections and budget planning, with a focus on the Medicare Shared Savings Program (MSSP) and Accountable Care Organization (ACO) models.\n\nTopics Discussed:\nWork Schedule Preferences\nDiscussion on the benefits of a four-day workweek with longer hours to en",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "211",
+      "title": "Innovaccer l CCF l Opportunity Analysis",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3809974121759236472",
+      "stages": [
+        "Engaged",
+        "Upcoming Meeting",
+        "X3 - VOC & Contracting"
+      ],
+      "opportunity": "Cleveland Clinic Health System_Gravity, Cleveland Clinic Health System-Provider-Xccelerate Conference, Cleveland Clinic Health System_Value_Provider",
+      "attendees": "Daniel Watson, Ben Grothe, Joseph Thompson, Mike Hill",
+      "brand": "Humbi",
+      "summary": "The meeting centered around discussing the opportunity analysis for ACO and Medicare Advantage contracts, focusing on aligning product goals with customer outcomes.\n\nTopics Discussed:\nTechnical Issues and Personal Updates\nDaniel Watson experienced technical difficulties with his headphones.\nPersonal",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "256",
+      "title": "Oscar Mendez (Mendez Medical Center) <> Innovaccer Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3612599920387752613",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Arun Maithani, Oscar Mendez / support@mendezmedicalcenter.com, Kshitij Joshi",
+      "brand": "Humbi",
+      "summary": "The meeting was held to discuss potential collaboration between Mendez Medical Center and Innovacer for financial analytics solutions.\n\nTopics Discussed:\nIntroduction and Roles\nArun Maithani introduced Kshitij Joshi as the subject matter expert from Innovacer.\nJorge, representing Mendez Medical Cent",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "286",
+      "title": "Innovaccer Demo- Contract Modeling, Actuary Solutions, and Predictive Analytics",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/9091945721343808041",
+      "stages": [
+        "Closed Lost"
+      ],
+      "opportunity": "Humbi Health_Innovation",
+      "attendees": "mlarrieu, Ydelaune, John Hickey, Puneet Budhiraja, Irene Logis, Connor Johnson, Jimmy Bresee III, Andrew Principe",
+      "brand": "Humbi",
+      "summary": "The meeting centered around discussing the integration of data analytics and actuarial intelligence into healthcare management systems, with a focus on improving care delivery and financial outcomes.\n\nTopics Discussed:\nMardi Gras Donuts and Personal Introductions\nLight-hearted discussion about Mardi",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "298",
+      "title": "Innovaccer/UTMB Follow-Up Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3406489289221209446",
+      "stages": [
+        "Nurture",
+        "BANT Discovery"
+      ],
+      "opportunity": "University Of Texas System_Value_Provider, UTMB_Value_Provider",
+      "attendees": "Sandeep Prashar, David Friederichs, Travis Crum, Kent, Jimmy Bresee III, Kevin Arlington, Andrew Herndon, Sachin Kulkarni",
+      "brand": "Humbi",
+      "summary": "The meeting was centered around discussing the capabilities and potential implementation of a contract modeling and financial analytics tool for value-based care.\n\nTopics Discussed:\nIntroduction and Purpose\nThe meeting began with introductions and a brief discussion about the weather.\nThe main purpo",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "327",
+      "title": "Dallas Renal Data Pull",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6774455317904827853",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Jing Zheng, Rajesh Manglani, Sunny Sui, Will Pettinger",
+      "brand": "Humbi",
+      "summary": "The meeting centered around discussions with the Dallas Renal Group and PSW, focusing on data analysis and strategic planning for healthcare services.\n\nTopics Discussed:\nDallas Renal Group Engagement\nThe group is interested in accessing data to identify patients at various stages of chronic kidney d",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "334",
+      "title": "Innovaccer Introduction For Megan",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2147170360221833723",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "David Friederichs, Brian Strok, Jimmy Bresee III, Kevin Arlington, Mlc9cn",
+      "brand": "Humbi",
+      "summary": "The meeting was centered around introducing Megan to the team and discussing the capabilities of Innovaccer's platform in supporting value-based care initiatives.\n\nTopics Discussed:\nIntroductions and Background\nKevin Arlington, Jimmy Bresee III, and David Friederichs introduced themselves and their ",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "342",
+      "title": "National Network Service Order (INTEGRIS)",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/869562006304773301",
+      "stages": [
+        "Upcoming Meeting"
+      ],
+      "opportunity": "-Provider-Xccelerate Conference, Integris Health_eCQM",
+      "attendees": "Puneet Kochhar, David Friederichs, Galen Manning, Kevin Arlington",
+      "brand": "Humbi",
+      "summary": "The meeting primarily focused on discussing amendments to service orders and clarifications regarding national networks, as well as addressing questions related to quality measures and data strategies.\n\nTopics Discussed:\nService Order Amendments\nDiscussion on the updated service order and its implic",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "344",
+      "title": "Leon Sears <> Innovaccer Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5494423203119758703",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Nandini, Kshitij Joshi, Connor Johnson, Jill Marie Shewmake",
+      "brand": "Humbi",
+      "summary": "The meeting primarily focused on discussing the status of ongoing projects and potential opportunities with various clients. The team also addressed scheduling issues and the need to reschedule a meeting with a key prospect.\n\nTopics Discussed:\nProject Updates\nDiscussion on the status of a proposal s",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "363",
+      "title": "IU health | Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3835538406995981210",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Brian Silverstein, MD, spfeffer, Joseph Thompson, Aternet",
+      "brand": "Humbi",
+      "summary": "The meeting was an introductory discussion between Joseph Thompson from Innovation and representatives from IU Health, focusing on potential collaboration opportunities and understanding each other's capabilities.\n\nTopics Discussed:\nIntroductions and Background\nJoseph Thompson introduced himself and",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "383",
+      "title": "GHG / Humbi Weekly Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6321396584161149245",
+      "stages": [
+        "Closed Lost"
+      ],
+      "opportunity": "Humbi Health_Innovation",
+      "attendees": "Marcella Ruzicka, Alex Kim, Puneet Budhiraja, Caguilar, Rajesh Manglani, Gmarrero",
+      "brand": "Humbi",
+      "summary": "The meeting primarily focused on discussing the optimization of network models and budget projections for the upcoming years.\n\nTopics Discussed:\nNetwork Optimization\nDiscussion on the need to optimize network models, particularly MSSP and Reach, in light of upcoming changes and deadlines.\nEmphasis o",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "440",
+      "title": "SRHS/Innovaccer Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5918613012964929275",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Amy Stevens - Innovaccer, Pbutler, David Friederichs",
+      "brand": "Humbi",
+      "summary": "The meeting involved a detailed discussion on the history and current state of healthcare systems, focusing on value-based care and strategic partnerships.\n\nTopics Discussed:\nHealthcare System Evolution\nDavid Friederichs and Pbutler discussed the evolution of healthcare systems, particularly Advocat",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "445",
+      "title": "John Hickey",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2498295441945632438",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "John Hickey, mlarrieu",
+      "brand": "Humbi",
+      "summary": "The meeting underscored the challenges of recruitment and retention, the importance of strategic growth, and the need for careful management of organizational changes.",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "446",
+      "title": "Premier | Humbi - Demo ACO Analysis",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7581862996944058641",
+      "stages": [
+        "Closed Lost",
+        "Nurture"
+      ],
+      "opportunity": "Bellin Health -VBC/PHM - New Deal, Bellin Health Systems - New Deal, Gundersen Health System CRM, Gundersen Health System_VBC",
+      "attendees": "Bryan_smith, Will Pettinger, Chris Elfner, Richard_doane, Seth_edwards, Alex Kim, Alishah Rehman, Rajesh Manglani",
+      "brand": "Humbi",
+      "summary": "The meeting was centered around introductions and discussions on actuarial intelligence and data capabilities, particularly focusing on Accountable Care Organizations (ACOs) and value-based care strategies.\n\nTopics Discussed:\nIntroductions\nParticipants introduced themselves, highlighting their roles",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    }
+  ],
+  "pain_clusters": [],
+  "deal_pain_clusters": [],
+  "business_impacts": {
+    "categories": {},
+    "total_analyzed": 17
+  },
+  "growth_clusters": [],
+  "messaging": {
+    "repeated_value_props": [
+      {
+        "theme": "Financial Analytics & Cost/Revenue Optimization",
+        "description": "Providing tools for financial modeling, identifying cost-saving opportunities, reducing losses, and maximizing revenue through better data analysis.",
+        "frequency": 10,
+        "sr_nos": [
+          "92",
+          "117",
+          "178",
+          "256",
+          "286",
+          "298",
+          "363",
+          "383",
+          "440",
+          "446"
+        ]
+      },
+      {
+        "theme": "Actuarial & Predictive Modeling",
+        "description": "Offering actuarial intelligence and predictive analytics to forecast performance, model scenarios, and support strategic financial planning.",
+        "frequency": 6,
+        "sr_nos": [
+          "92",
+          "117",
+          "177",
+          "298",
+          "363",
+          "446"
+        ]
+      },
+      {
+        "theme": "Risk Stratification & Patient Identification",
+        "description": "Enabling clients to identify, segment, and target high-risk or undiagnosed patient populations for more effective care management and intervention.",
+        "frequency": 5,
+        "sr_nos": [
+          "117",
+          "177",
+          "286",
+          "327",
+          "334"
+        ]
+      },
+      {
+        "theme": "Data Integration & Operational Efficiency",
+        "description": "Improving workflows by integrating disparate data sources, automating data curation, and providing comprehensive dashboards to streamline operations.",
+        "frequency": 5,
+        "sr_nos": [
+          "54",
+          "92",
+          "177",
+          "286",
+          "445"
+        ]
+      },
+      {
+        "theme": "Network Performance & Optimization",
+        "description": "Tools and analytics to build, manage, and optimize provider networks by identifying high-performing physicians and improving program assignments.",
+        "frequency": 3,
+        "sr_nos": [
+          "344",
+          "383",
+          "440"
+        ]
+      }
+    ],
+    "inconsistent_narratives": [
+      {
+        "conflict": "Product vs. Service-Led Model for Actuarial Intelligence",
+        "description": "In one call, the solution is positioned as a self-service tool to replace external vendors/consultants. In another, it's sold as a consultative service package that includes hands-on support from actuaries, effectively positioning the company as the consultant.",
+        "sr_nos": [
+          "92",
+          "446"
+        ]
+      },
+      {
+        "conflict": "Strategic High-Level Insights vs. Granular Operational Data",
+        "description": "The narrative shifts between emphasizing high-level, 'directional' opportunity analysis for leadership discussions and focusing on detailed, 'patient and physician level' data for granular, operational cost-saving exercises. This suggests a conflict in defining the primary user and use case.",
+        "sr_nos": [
+          "211",
+          "256"
+        ]
+      }
+    ],
+    "proof_signals": [
+      {
+        "type": "Specific Quantifiable Metrics",
+        "description": "A specific data point was used to demonstrate product impact.",
+        "evidence": "Improved MSSP tool reducing member suppression from 15% to 2%",
+        "sr_nos": [
+          "383"
+        ]
+      },
+      {
+        "type": "In-Call Testimonials / Positive Feedback",
+        "description": "Direct positive feedback from the buyer during the call, validating the solution's appeal.",
+        "evidence": "Buyer called the solution 'fantastic' and appreciated the format and insights of the analysis.",
+        "sr_nos": [
+          "211",
+          "344"
+        ]
+      },
+      {
+        "type": "Specific Service Level Guarantees",
+        "description": "Highlighting concrete service details as proof of value and support.",
+        "evidence": "Mention of '10-15 hours per month of one-on-one support with actuaries'.",
+        "sr_nos": [
+          "446"
+        ]
+      }
+    ],
+    "content_gaps": [
+      {
+        "gap": "Need for Feature-Specific Materials on Provider Scorecards",
+        "description": "Multiple buyers expressed direct interest in learning more about provider scorecards and incentives, indicating a need for a dedicated feature brief, one-pager, or demo.",
+        "sr_nos": [
+          "334",
+          "342"
+        ]
+      },
+      {
+        "gap": "Lack of Clear Documentation for Risk Models",
+        "description": "A buyer stated a need for clear definitions and understanding of risk scores to properly interpret the models, suggesting a need for a glossary or technical documentation.",
+        "sr_nos": [
+          "177"
+        ]
+      },
+      {
+        "gap": "Insufficient Depth on Actuarial Capabilities",
+        "description": "Prospects are asking for 'deeper insights' into actuarial capabilities and examples of custom analyses, indicating that the initial overview is too high-level and lacks proof points.",
+        "sr_nos": [
+          "92",
+          "446"
+        ]
+      }
+    ]
+  },
+  "risk_signals": [
+    {
+      "type": "late_stage_no_budget",
+      "sr_no": "177",
+      "title": "Innovaccer: Analytics & Benchmarking l Demonstration",
+      "stages": [
+        "Engaged",
+        "Upcoming Meeting",
+        "X3 - VOC & Contracting",
+        "Closed Lost"
+      ],
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/606791661000339089"
+    }
+  ]
+}

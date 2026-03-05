@@ -2,102 +2,60 @@
   "brand": "Cured",
   "slug": "cured",
   "kpis": {
-    "total_calls": 30,
-    "calls_with_summary": 30,
-    "calls_with_debrief": 30,
+    "total_calls": 10,
+    "calls_with_summary": 10,
+    "calls_with_debrief": 10,
     "stage_distribution": {
-      "Unknown": 20,
-      "Engaged": 4,
-      "Nurture": 4,
-      "X2 - Shortlisted (Not a VOC)": 4,
-      "Closed Lost": 2,
-      "Upcoming Meeting": 2,
-      "X1 - BANT Qualified": 2,
-      "BANT Discovery": 1,
-      "X4 – Closed Won (Contract Executed)": 1
+      "Unknown": 5,
+      "X2 - Shortlisted (Not a VOC)": 3,
+      "Closed Lost": 1,
+      "Nurture": 1,
+      "Engaged": 1
     },
-    "budget_clarity_rate": 43.3,
-    "budget_defined": 13,
-    "budget_undefined": 17,
-    "timeline_clarity_rate": 86.7,
-    "timeline_defined": 26,
-    "timeline_undefined": 4,
-    "multi_threaded_rate": 93.3,
-    "multi_threaded_count": 28,
-    "growth_mention_rate": 90.0,
-    "growth_mention_count": 27
+    "budget_clarity_rate": 70.0,
+    "budget_defined": 7,
+    "budget_undefined": 3,
+    "timeline_clarity_rate": 90.0,
+    "timeline_defined": 9,
+    "timeline_undefined": 1,
+    "multi_threaded_rate": 100.0,
+    "multi_threaded_count": 10,
+    "growth_mention_rate": 100.0,
+    "growth_mention_count": 10
   },
   "qualification_by_stage": {
     "Unknown": {
-      "total": 20,
-      "budget_clear_pct": 40.0,
-      "timeline_clear_pct": 85.0,
-      "key_players_clear_pct": 95.0
-    },
-    "BANT Discovery": {
-      "total": 1,
-      "budget_clear_pct": 0.0,
+      "total": 5,
+      "budget_clear_pct": 80.0,
       "timeline_clear_pct": 100.0,
       "key_players_clear_pct": 100.0
     },
-    "Engaged": {
-      "total": 4,
-      "budget_clear_pct": 50.0,
-      "timeline_clear_pct": 75.0,
-      "key_players_clear_pct": 100.0
-    },
-    "Nurture": {
-      "total": 4,
-      "budget_clear_pct": 50.0,
-      "timeline_clear_pct": 75.0,
-      "key_players_clear_pct": 100.0
-    },
     "X2 - Shortlisted (Not a VOC)": {
-      "total": 4,
+      "total": 3,
       "budget_clear_pct": 100.0,
       "timeline_clear_pct": 100.0,
       "key_players_clear_pct": 100.0
     },
     "Closed Lost": {
-      "total": 2,
-      "budget_clear_pct": 50.0,
-      "timeline_clear_pct": 100.0,
-      "key_players_clear_pct": 100.0
-    },
-    "X4 – Closed Won (Contract Executed)": {
       "total": 1,
-      "budget_clear_pct": 100.0,
+      "budget_clear_pct": 0.0,
       "timeline_clear_pct": 100.0,
       "key_players_clear_pct": 100.0
     },
-    "Upcoming Meeting": {
-      "total": 2,
-      "budget_clear_pct": 50.0,
-      "timeline_clear_pct": 100.0,
+    "Nurture": {
+      "total": 1,
+      "budget_clear_pct": 0.0,
+      "timeline_clear_pct": 0.0,
       "key_players_clear_pct": 100.0
     },
-    "X1 - BANT Qualified": {
-      "total": 2,
-      "budget_clear_pct": 50.0,
-      "timeline_clear_pct": 100.0,
+    "Engaged": {
+      "total": 1,
+      "budget_clear_pct": 0.0,
+      "timeline_clear_pct": 0.0,
       "key_players_clear_pct": 100.0
     }
   },
   "account_health": [
-    {
-      "name": "LCMC Health_Value_Provider, LCMC Health_Flow_Gravity, Louisiana Childrens Medical Center Health System_Productivity_Provider",
-      "call_count": 1,
-      "health_score": 100.0,
-      "status": "healthy",
-      "relationship_pct": 100.0,
-      "engagement_pct": 100.0,
-      "wins_count": 1,
-      "growth_signals": 1,
-      "budget_clarity_pct": 100.0,
-      "sr_nos": [
-        "122"
-      ]
-    },
     {
       "name": "Kettering Health Network_Experience_Provider",
       "call_count": 2,
@@ -111,20 +69,6 @@
       "sr_nos": [
         "259",
         "348"
-      ]
-    },
-    {
-      "name": "Ascension Health - SMART Health RFP - Phase II - Platform and Solutions, Ascension - Population Health Platform, Ascension Health_Sara for Insights, Ascension Health_AI_Productivity, Ascension Health_Quality Reporting (eCQM/GPRO) for TX Market, Ascension Health_Quality Reporting (SDR) PMPM, Ascension Health_VBC_Contract Mgmt and Auditing, Network Health - Risk Adjustment, Ascension_Value_Provider, Ascension-Provider-Xccelerate Conference, Ascension_CMS Access, Ascension Health_Productivity_Provider, Ascension _Mini-Xccelerate Conference, Benchmarks (using APCD and NCQA), Ascension - Performance Incentives at POC, Third party risk model integration (JHU ACG), Additional resources, Ascension_Productivity_Provider, Ascension_Experience, Ascension_PQS_Xccelarate2025_14, Ascension Medicare FFS Lives, Ascension_RTMS_ISV, Ascension_FUTURE: Contract ManagementXccelarate2025_63, Ascension_TEAM, Ascension_In API, Ascension - CCDA for Medicare Pilot",
-      "call_count": 1,
-      "health_score": 100.0,
-      "status": "healthy",
-      "relationship_pct": 100.0,
-      "engagement_pct": 100.0,
-      "wins_count": 1,
-      "growth_signals": 1,
-      "budget_clarity_pct": 100.0,
-      "sr_nos": [
-        "305"
       ]
     },
     {
@@ -142,7 +86,7 @@
       ]
     },
     {
-      "name": "UVA Health System_Atlas",
+      "name": "Tulane University Medical Group_VBC",
       "call_count": 1,
       "health_score": 66.7,
       "status": "healthy",
@@ -152,49 +96,7 @@
       "growth_signals": 1,
       "budget_clarity_pct": 0.0,
       "sr_nos": [
-        "95"
-      ]
-    },
-    {
-      "name": "Alignment Healthcare_ Impactability Modeling, Episource LLC_Value_Speciality, Healthcare Systems of America_Value_Provider",
-      "call_count": 1,
-      "health_score": 66.7,
-      "status": "healthy",
-      "relationship_pct": 100.0,
-      "engagement_pct": 100.0,
-      "wins_count": 1,
-      "growth_signals": 1,
-      "budget_clarity_pct": 0.0,
-      "sr_nos": [
-        "111"
-      ]
-    },
-    {
-      "name": "Inspira Health Network_VBC, Rubicon-Hospice",
-      "call_count": 1,
-      "health_score": 66.7,
-      "status": "healthy",
-      "relationship_pct": 100.0,
-      "engagement_pct": 100.0,
-      "wins_count": 1,
-      "growth_signals": 1,
-      "budget_clarity_pct": 0.0,
-      "sr_nos": [
-        "267"
-      ]
-    },
-    {
-      "name": "Mediclinic Middle East_International, Mediclinic Middle East_Flow",
-      "call_count": 1,
-      "health_score": 66.7,
-      "status": "healthy",
-      "relationship_pct": 100.0,
-      "engagement_pct": 100.0,
-      "wins_count": 1,
-      "growth_signals": 1,
-      "budget_clarity_pct": 0.0,
-      "sr_nos": [
-        "310"
+        "303"
       ]
     },
     {
@@ -227,183 +129,6 @@
       "has_growth": true
     },
     {
-      "sr_no": "11",
-      "title": "Hackensack Debrief/ Strategy for future demos",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6691068012074979842",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Whitney Wilson, Irene Logis, Patrick Leonpacher",
-      "brand": "Cured",
-      "summary": "The meeting primarily focused on discussing recent challenges and feedback related to business deals and planning for future meetings.\n\nTopics Discussed:\nAttendance and Scheduling\nScott was unable to join the call due to travel commitments.\nDiscussion on rescheduling the meeting to include key team ",
-      "has_budget": false,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "32",
-      "title": "Comet cost reduction",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5347673343837995940",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Brian Cummins, Paulina Kaminski, Frank Fasano, Akash Valecha",
-      "brand": "Cured",
-      "summary": "The meeting centered around cost reduction strategies and pricing models for various services, with a focus on infrastructure and operational costs.\n\nTopics Discussed:\nCost Reduction Strategies\nDiscussion on creating a list of potential tracks to reduce costs, particularly focusing on infrastructure",
-      "has_budget": true,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "50",
-      "title": "Innovaccer / Quest - discuss needs to improve physician experinece",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3719114293566903096",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Rasheed Baqai, Jay Levine, Melanie M Kuderka, Brian Ednie",
-      "brand": "Cured",
-      "summary": "The meeting served as an introductory call to transition responsibilities to Brian Ednie and discuss potential collaborations between Quest and the team, focusing on physician marketing and strategic partnerships.\n\nTopics Discussed:\nTransition and Introductions\nJay Levine introduced Brian Ednie, who",
-      "has_budget": false,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "95",
-      "title": "John Hickey - Innovaccer",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8051252171232580857",
-      "stages": [
-        "BANT Discovery"
-      ],
-      "opportunity": "UVA Health System_Atlas",
-      "attendees": "John Hickey, Lacy Heiberger",
-      "brand": "Cured",
-      "summary": "The meeting between John Hickey and Lacy Heiberger focused on discussing the integration and capabilities of Innovaccer's platform for VCU, as well as Lacy's role in the process.\n\nTopics Discussed:\nIntroduction and Background\nJohn and Lacy discussed their previous interactions and Lacy's new role ak",
-      "has_budget": false,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "110",
-      "title": "Gravity Sandbox Feedback Call: Only for Topmed Gravity Users",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2881655468555129305",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Maddie Schults (Innovaccer), Mtaha, Shossam, Ashish Mishra, Arezk, Mabdulhamied, Ahmed Mohamed Ragab, Muhammad Hasballah, Maliwaly, Sanjay J. (Innovaccer)",
-      "brand": "Cured",
-      "summary": "The meeting was centered around gathering feedback on the Innovaccer Gravity platform, focusing on user experiences and areas for improvement.\n\nTopics Discussed:\nIntroduction and Purpose\nMaddie Schults introduced the session as a feedback gathering exercise to understand user experiences with the Gr",
-      "has_budget": false,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "111",
-      "title": "Innovaccer - Impactability Modeling",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7081868251022808771",
-      "stages": [
-        "Engaged",
-        "Nurture"
-      ],
-      "opportunity": "Alignment Healthcare_ Impactability Modeling, Episource LLC_Value_Speciality, Healthcare Systems of America_Value_Provider",
-      "attendees": "Dhanvir Singh, Rich Fox, Diem Trang Le, Smcbeth, Nikki Davis, Jim Hong, Michelle Zilisch, Abakshandeh, Nreams",
-      "brand": "Cured",
-      "summary": "The meeting was centered around introductions and discussions on predictive modeling and data integration for healthcare operations.\n\nTopics Discussed:\nIntroductions\nParticipants introduced themselves, highlighting their roles and responsibilities within their respective organizations.\nPredictive Mo",
-      "has_budget": false,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "122",
-      "title": "Dr. Aaron Thompson (LCMC Health) <DEMO> Innovaccer",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8406470179166889039",
-      "stages": [
-        "Nurture",
-        "Engaged"
-      ],
-      "opportunity": "LCMC Health_Value_Provider, LCMC Health_Flow_Gravity, Louisiana Childrens Medical Center Health System_Productivity_Provider",
-      "attendees": "Sandeep Prashar, Caitlin Spargo, Kevin Arlington, Aaron Thompson",
-      "brand": "Cured",
-      "summary": "The meeting centered around a demonstration of the CRM tool \"Cured\" and its potential integration with existing systems, particularly in comparison to the Epic Cheers module.\n\nTopics Discussed:\nIntroduction and Background\nKevin Arlington and Aaron Thompson discussed the previous consideration of the",
-      "has_budget": true,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "135",
-      "title": "Internal Debrief - UMMS",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3834279910538869266",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Scott Kehn, David Nace, Keg Avakian",
-      "brand": "Cured",
-      "summary": "The meeting primarily focused on discussing ongoing and future strategic engagements, particularly in the healthcare sector, and the importance of maintaining professional relationships.\n\nTopics Discussed:\nProfessional Titles and Cultural Norms\nDr. David Nace shared a story about the cultural signif",
-      "has_budget": false,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "142",
-      "title": "Snowflake/Innovaccer - MUSC & Amar Nagaram Discussion",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6175427951947950823",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Ashish Shukla, David Friederichs, Brian Strok, Adam Stewart, Zachary Rothenberg",
-      "brand": "Cured",
-      "summary": "The meeting centered around introductions and discussions on potential collaborations between the teams from Univac and Snowflake, focusing on healthcare data solutions.\n\nTopics Discussed:\nIntroductions and Roles\nBrian Strok introduced himself as a new member of Dave's team at Univac, covering MUSC.",
-      "has_budget": false,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "145",
-      "title": "Payer Pipeline Review",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7752884560628949760",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Ritika Shaw, Hannah Schulyer, Rich Fox, Pankaj Deb, David Kaskoun, Alex Keltner, John Specht, I Abhinav Pandey, Laura Kempf",
-      "brand": "Cured",
-      "summary": "The meeting primarily focused on discussing the progress and management of various deals and the importance of logging activities in Salesforce for better tracking and compliance.\n\nTopics Discussed:\nRFP and PQS Background\nDavid Kaskoun inquired about the RFP for courts and Hannah Schulyer provided b",
-      "has_budget": true,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "147",
-      "title": "Follow up Discussion after Xccelerate'26 | Honest Medical Group",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8042634500967265543",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "David Friederichs, Mhiggins, Adeboer, Brandon Taylor, Ashish Gupta, JasonGaines, Danielle Strother",
-      "brand": "Cured",
-      "summary": "The meeting centered around exploring potential partnership opportunities between Innovator and Honest Health, focusing on technology integration and mutual benefits.\n\nTopics Discussed:\nCurrent Partnership Status\nDiscussion on the current state of the partnership between Innovator and Honest Health.",
-      "has_budget": true,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "188",
-      "title": "Sync on BSIM next steps",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/901796936555634270",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Sandeep Kumar Ram, Hemant Jangir",
-      "brand": "Cured",
-      "summary": "The conversation between Hemant Jangir and Sandeep Kumar Ram primarily revolved around technical issues with meeting recordings and some personal discussions about their living arrangements.\n\nTopics Discussed:\nMeeting Recording Issues\nHemant and Sandeep discussed unexpected auto-recording during mee",
-      "has_budget": false,
-      "has_timeline": false,
-      "has_growth": false
-    },
-    {
-      "sr_no": "224",
-      "title": "Rachael Hill (North Mississippi Health Services) <> Innovaccer",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7644622892653111884",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Yash Bhandari, David Friederichs, Rhill, Kevin Arlington",
-      "brand": "Cured",
-      "summary": "The meeting primarily revolved around discussions on vendor relationships, value-based care, and upcoming engagements at the HIMSS conference.\n\nTopics Discussed:\nVendor Relationships and Challenges\nYash Bhandari discussed issues with vendor registration at Parkland and the need for updates on the ve",
-      "has_budget": false,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
       "sr_no": "240",
       "title": "HFHS Renewal Strategy (Unlock Partnership)",
       "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3590753535227215933",
@@ -415,32 +140,6 @@
       "has_budget": true,
       "has_timeline": true,
       "has_growth": true
-    },
-    {
-      "sr_no": "248",
-      "title": "Walkthrough of Salesforce Opportunity Creation",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1878210381253251111",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Whitney Wilson, Bryan Ness, John Hickey, Ryan Grace, David Friederichs, Samrat Mehta, Anant Saksena, Glenn Kunigan, Brian Ednie, Kevin Arlington, Scott Kehn, Will Pettinger, Keg Avakian",
-      "brand": "Cured",
-      "summary": "The meeting was centered around the opportunity creation process in Salesforce, with a detailed walkthrough provided by Samrat Mehta. The session aimed to clarify the steps involved and address any questions from the team.\n\nTopics Discussed:\nOpportunity Creation Process\nSamrat Mehta demonstrated how",
-      "has_budget": true,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "252",
-      "title": "Catching up: Neil Tantingco + Will Pettinger",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8927971723740439491",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Neil, Will Pettinger",
-      "brand": "Cured",
-      "summary": "The meeting concluded with a focus on potential collaborations and strategies to enhance service delivery and financial sustainability in the healthcare sector.",
-      "has_budget": true,
-      "has_timeline": true,
-      "has_growth": false
     },
     {
       "sr_no": "259",
@@ -458,79 +157,42 @@
       "has_growth": true
     },
     {
-      "sr_no": "266",
-      "title": "Covenant Health <> Innovaccer",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4932252805153938105",
+      "sr_no": "277",
+      "title": "Angela Blair ( Bassett Healthcare Network ) || Cured Health",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5573670898041382012",
       "stages": [],
       "opportunity": "",
-      "attendees": "Mitch Anderson, I Anadi Shukla",
+      "attendees": "Aditya Bhatt, David Friederichs, Brian Ednie, Angela Blair",
       "brand": "Cured",
-      "summary": "The meeting primarily revolved around personal updates and discussions on ongoing business opportunities and follow-ups.\n\nTopics Discussed:\nPersonal Updates\nMitch Anderson shared details about his son's wrist surgery follow-up. The son, who is almost 15, had a plate in his wrist that needs to be rem",
-      "has_budget": false,
+      "summary": "The meeting centered around discussing strategic marketing initiatives and exploring potential CRM solutions for healthcare services.\n\nTopics Discussed:\nStrategic Marketing and CRM Needs\nDavid Friederichs and Brian Ednie discussed the integration of strategic marketing with individualized care journ",
+      "has_budget": true,
       "has_timeline": true,
       "has_growth": true
     },
     {
-      "sr_no": "267",
-      "title": "BS&W, Mayo, etc discussion",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8490899518105948490",
+      "sr_no": "291",
+      "title": "QC Kinetix X Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7492600280990378862",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Utkarsh Sriram, Vaibhav Kapil, Drollins",
+      "brand": "Cured",
+      "summary": "The meeting was an introductory session between Vaibhav Kapil and Drollins, focusing on understanding each other's roles and discussing potential collaboration opportunities.\n\nTopics Discussed:\nIntroductions\nVaibhav Kapil introduced themselves as a business analyst at Innovation, with a background i",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "303",
+      "title": "2026 Goals & Planning | Innovaccer + North Oaks",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/200285948877548866",
       "stages": [
         "Closed Lost"
       ],
-      "opportunity": "Inspira Health Network_VBC, Rubicon-Hospice",
-      "attendees": "John Hickey, David Nace, Joseph Thompson, David Johnson",
+      "opportunity": "Tulane University Medical Group_VBC",
+      "attendees": "Alex Garcia, Rohit Narayan, North Oaks Health System, Christine Albert, Ari Natansohn",
       "brand": "Cured",
-      "summary": "The meeting primarily focused on discussing strategic partnerships and initiatives with Mayo Clinic and Baylor Scott & White, as well as addressing patient care concerns.\n\nTopics Discussed:\nPatient Care Concerns\nDavid Johnson expressed frustration over his wife's discharge from Northwestern with a c",
-      "has_budget": false,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "278",
-      "title": "Valecia Watson(Chorus Community)<>Innovaccer",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3068583484713365189",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Valecia Watson- CCHP Milwaukee, WI, Hannah Schulyer, I Abhinav Pandey",
-      "brand": "Cured",
-      "summary": "The meeting was centered around exploring potential collaboration opportunities between Innovator and CCHP Milwaukee, focusing on data and technology solutions to support quality improvement and member engagement.\n\nTopics Discussed:\nMeeting Scheduling\nAbhinav Pandey discussed scheduling a meeting wi",
-      "has_budget": true,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "305",
-      "title": "Connect with Ascension on CMS ACCESS, LEAD",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5439365520780372841",
-      "stages": [
-        "Closed Lost",
-        "X4 – Closed Won (Contract Executed)",
-        "Nurture",
-        "X2 - Shortlisted (Not a VOC)",
-        "Upcoming Meeting",
-        "X1 - BANT Qualified",
-        "Engaged"
-      ],
-      "opportunity": "Ascension Health - SMART Health RFP - Phase II - Platform and Solutions, Ascension - Population Health Platform, Ascension Health_Sara for Insights, Ascension Health_AI_Productivity, Ascension Health_Quality Reporting (eCQM/GPRO) for TX Market, Ascension Health_Quality Reporting (SDR) PMPM, Ascension Health_VBC_Contract Mgmt and Auditing, Network Health - Risk Adjustment, Ascension_Value_Provider, Ascension-Provider-Xccelerate Conference, Ascension_CMS Access, Ascension Health_Productivity_Provider, Ascension _Mini-Xccelerate Conference, Benchmarks (using APCD and NCQA), Ascension - Performance Incentives at POC, Third party risk model integration (JHU ACG), Additional resources, Ascension_Productivity_Provider, Ascension_Experience, Ascension_PQS_Xccelarate2025_14, Ascension Medicare FFS Lives, Ascension_RTMS_ISV, Ascension_FUTURE: Contract ManagementXccelarate2025_63, Ascension_TEAM, Ascension_In API, Ascension - CCDA for Medicare Pilot",
-      "attendees": "Craig Carroll, Pranali Trivedi, John Hickey, Ravina Singh, Vibhor Jain, Joyce Colton, Brandon Taylor",
-      "brand": "Cured",
-      "summary": "The meeting was a discussion among various team members about the Access program and its implications for healthcare management and technology integration.\n\nTopics Discussed:\nIntroduction and Team Introductions\nParticipants introduced themselves, sharing their roles and backgrounds.\nBrandon Taylor, ",
-      "has_budget": true,
-      "has_timeline": true,
-      "has_growth": true
-    },
-    {
-      "sr_no": "310",
-      "title": "Sravan Kumar (Mediclinic) <> Innovaccer || Introductory Call",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4767542780664685758",
-      "stages": [
-        "X1 - BANT Qualified",
-        "Upcoming Meeting"
-      ],
-      "opportunity": "Mediclinic Middle East_International, Mediclinic Middle East_Flow",
-      "attendees": "Sravan Kumar, Eashow Jacob, Jeev Sahni",
-      "brand": "Cured",
-      "summary": "The meeting was centered around introducing a health intelligence company and its capabilities in the GCC region, with a focus on innovative healthcare solutions.\n\nTopics Discussed:\nCompany Introduction\nJeev Sahni introduced the company as a unified health intelligence layer operating in the UAE and",
+      "summary": "The meeting centered around introductions, strategic planning, and marketing initiatives for North Oaks Health System, with a focus on leveraging technology and data integration.\n\nTopics Discussed:\nIntroductions and Backgrounds\nParticipants introduced themselves, including Ari Natansohn, Alex Garcia",
       "has_budget": false,
       "has_timeline": true,
       "has_growth": true
@@ -566,19 +228,6 @@
       "has_growth": true
     },
     {
-      "sr_no": "367",
-      "title": "Kim Leinberger (CareOregon) <> Innovaccer",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8779713063411718264",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Hannah Schulyer, Kim, I Abhinav Pandey",
-      "brand": "Cured",
-      "summary": "The meeting was centered around understanding the roles and challenges at Care Oregon, particularly in the Medicare sector, and exploring potential support from Innovacare.\n\nTopics Discussed:\nIntroduction and Purpose\nHannah Schulyer introduced herself as an AVP at Innovacare, focusing on data and te",
-      "has_budget": false,
-      "has_timeline": false,
-      "has_growth": true
-    },
-    {
       "sr_no": "374",
       "title": "St. Luke's/Innovaccer",
       "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5728982589790035894",
@@ -606,39 +255,161 @@
       "has_budget": true,
       "has_timeline": true,
       "has_growth": true
-    },
-    {
-      "sr_no": "430",
-      "title": "Deborah <> Akshay | Director of Events-Marketing | Innovaccer",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5979244248453693799",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Debizsmith, Akshay Mehndiratta",
-      "brand": "Cured",
-      "summary": "The meeting was a discussion between Akshay Mehndiratta and Debizsmith, focusing on event management strategies and potential collaboration opportunities.\n\nTopics Discussed:\nIntroduction and Roles\nAkshay introduced himself as part of the marketing strategy and operations at Visa, involved in leaders",
-      "has_budget": false,
-      "has_timeline": false,
-      "has_growth": true
-    },
-    {
-      "sr_no": "431",
-      "title": "Axis 5 Weekly",
-      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3962240600934391566",
-      "stages": [],
-      "opportunity": "",
-      "attendees": "Phalya Jhamb, Whitney Wilson",
-      "brand": "Cured",
-      "summary": "The meeting primarily focused on account management strategies, conference planning, and understanding healthcare networks.\n\nTopics Discussed:\nAccount Management\nWhitney Wilson discussed the need to focus on specific account plans and requested login details for definitive Healthcare.\nPhalya Jhamb m",
-      "has_budget": false,
-      "has_timeline": true,
-      "has_growth": false
     }
   ],
-  "pain_clusters": [],
+  "pain_clusters": [
+    {
+      "theme": "Current Tool Inadequacy & Frustration",
+      "description": "Buyers express significant frustration with their existing CRM or marketing tools, citing a lack of necessary features, manual workarounds, and overall dissatisfaction.",
+      "count": 4,
+      "representative_sr_nos": [
+        "240",
+        "320",
+        "374"
+      ],
+      "stage_distribution": "Early to Mid-stage (Discovery, Evaluation)"
+    },
+    {
+      "theme": "Fragmented Systems & Data Silos",
+      "description": "Organizations struggle with multiple disconnected systems, leading to manual data integration, operational inefficiencies, and a fragmented view of the customer or patient journey.",
+      "count": 4,
+      "representative_sr_nos": [
+        "259",
+        "374",
+        "382"
+      ],
+      "stage_distribution": "Mid-stage (Problem Identification, Scoping)"
+    },
+    {
+      "theme": "Failed Implementations & Resource Constraints",
+      "description": "Previous attempts to implement solutions failed due to a lack of dedicated internal resources or excessive IT dependency, creating hesitancy for new projects.",
+      "count": 3,
+      "representative_sr_nos": [
+        "277",
+        "303",
+        "291"
+      ],
+      "stage_distribution": "Mid to Late-stage (Evaluation, Justification)"
+    },
+    {
+      "theme": "Inability to Measure Marketing ROI",
+      "description": "Marketing teams cannot effectively attribute their campaigns to business outcomes like appointments or revenue, making it difficult to prove value and optimize spending.",
+      "count": 2,
+      "representative_sr_nos": [
+        "277",
+        "382"
+      ],
+      "stage_distribution": "Mid-stage (Justification, Scoping)"
+    },
+    {
+      "theme": "Poor Data Quality & Contactibility",
+      "description": "Fundamental issues with database accuracy, such as out-of-service numbers and unclear roles, prevent basic outreach and scheduling with key contacts.",
+      "count": 1,
+      "representative_sr_nos": [
+        "2"
+      ],
+      "stage_distribution": "Early-stage (Prospecting, Qualification)"
+    },
+    {
+      "theme": "Internal Misalignment & Process Inefficiency",
+      "description": "Challenges stem from internal organizational issues, including departmental silos, communication breakdowns, and difficulty coordinating teams for evaluation and decision-making.",
+      "count": 2,
+      "representative_sr_nos": [
+        "259",
+        "348"
+      ],
+      "stage_distribution": "All stages"
+    }
+  ],
   "deal_pain_clusters": [],
   "business_impacts": {
-    "categories": {},
-    "total_analyzed": 27
+    "categories": {
+      "Cost": {
+        "count": 4,
+        "key_themes": [
+          "Difficulty measuring and justifying marketing ROI",
+          "Unsustainable system costs impacting cash flow",
+          "Increased workload on staff leading to higher operational costs"
+        ],
+        "is_quantified_pct": 0,
+        "representative_sr_nos": [
+          "291",
+          "303",
+          "277"
+        ]
+      },
+      "Time": {
+        "count": 6,
+        "key_themes": [
+          "Inefficiencies and delays from manual processes",
+          "Slow campaign planning and execution",
+          "Wasted staff time on administrative tasks"
+        ],
+        "is_quantified_pct": 0,
+        "representative_sr_nos": [
+          "382",
+          "303",
+          "291"
+        ]
+      },
+      "Revenue": {
+        "count": 7,
+        "key_themes": [
+          "Patient leakage and outmigration to competitors",
+          "Lost revenue from underutilized capacity and missed appointments",
+          "Limited ability to attract and reach new patients"
+        ],
+        "is_quantified_pct": 14,
+        "representative_sr_nos": [
+          "277",
+          "303",
+          "291"
+        ]
+      },
+      "Risk": {
+        "count": 5,
+        "key_themes": [
+          "Risks associated with manual processes (e.g., data errors)",
+          "Potential negative impact on patient care quality and outcomes",
+          "Security concerns due to lack of automation and integration"
+        ],
+        "is_quantified_pct": 0,
+        "representative_sr_nos": [
+          "240",
+          "382",
+          "320"
+        ]
+      },
+      "Operational": {
+        "count": 7,
+        "key_themes": [
+          "Inefficiencies from data silos and lack of system integration",
+          "Burdensome manual processes and workflows",
+          "Lack of alignment and poor communication across departments"
+        ],
+        "is_quantified_pct": 0,
+        "representative_sr_nos": [
+          "291",
+          "259",
+          "382"
+        ]
+      },
+      "Patient/Customer Experience": {
+        "count": 6,
+        "key_themes": [
+          "Confusing or frustrating patient communications",
+          "Negative impact on patient care and quality outcomes",
+          "Poor patient access and engagement experience"
+        ],
+        "is_quantified_pct": 0,
+        "representative_sr_nos": [
+          "374",
+          "303",
+          "320"
+        ]
+      }
+    },
+    "total_analyzed": 8
   },
   "growth_clusters": [],
   "messaging": {},

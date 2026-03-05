@@ -1,0 +1,2244 @@
+{
+  "brand": "Unknown",
+  "slug": "unknown",
+  "kpis": {
+    "total_calls": 611,
+    "calls_with_summary": 132,
+    "calls_with_debrief": 97,
+    "stage_distribution": {
+      "Unknown": 593,
+      "Upcoming Meeting": 6,
+      "Engaged": 5,
+      "X4 – Closed Won (Contract Executed)": 5,
+      "X3 - VOC & Contracting": 4,
+      "Nurture": 3,
+      "X1 - BANT Qualified": 3,
+      "X2 - Shortlisted (Not a VOC)": 2,
+      "Closed Lost": 2,
+      "BANT Discovery": 2
+    },
+    "budget_clarity_rate": 3.6,
+    "budget_defined": 22,
+    "budget_undefined": 589,
+    "timeline_clarity_rate": 9.5,
+    "timeline_defined": 58,
+    "timeline_undefined": 553,
+    "multi_threaded_rate": 9.3,
+    "multi_threaded_count": 57,
+    "growth_mention_rate": 8.3,
+    "growth_mention_count": 51
+  },
+  "qualification_by_stage": {
+    "Upcoming Meeting": {
+      "total": 6,
+      "budget_clear_pct": 66.7,
+      "timeline_clear_pct": 66.7,
+      "key_players_clear_pct": 66.7
+    },
+    "Unknown": {
+      "total": 593,
+      "budget_clear_pct": 2.4,
+      "timeline_clear_pct": 8.1,
+      "key_players_clear_pct": 7.4
+    },
+    "X2 - Shortlisted (Not a VOC)": {
+      "total": 2,
+      "budget_clear_pct": 50.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 50.0
+    },
+    "Engaged": {
+      "total": 5,
+      "budget_clear_pct": 80.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "X3 - VOC & Contracting": {
+      "total": 4,
+      "budget_clear_pct": 100.0,
+      "timeline_clear_pct": 100.0,
+      "key_players_clear_pct": 100.0
+    },
+    "Nurture": {
+      "total": 3,
+      "budget_clear_pct": 33.3,
+      "timeline_clear_pct": 33.3,
+      "key_players_clear_pct": 33.3
+    },
+    "X4 – Closed Won (Contract Executed)": {
+      "total": 5,
+      "budget_clear_pct": 40.0,
+      "timeline_clear_pct": 40.0,
+      "key_players_clear_pct": 40.0
+    },
+    "Closed Lost": {
+      "total": 2,
+      "budget_clear_pct": 50.0,
+      "timeline_clear_pct": 50.0,
+      "key_players_clear_pct": 50.0
+    },
+    "BANT Discovery": {
+      "total": 2,
+      "budget_clear_pct": 0.0,
+      "timeline_clear_pct": 0.0,
+      "key_players_clear_pct": 50.0
+    },
+    "X1 - BANT Qualified": {
+      "total": 3,
+      "budget_clear_pct": 33.3,
+      "timeline_clear_pct": 33.3,
+      "key_players_clear_pct": 66.7
+    }
+  },
+  "account_health": [
+    {
+      "name": "Lexington Medical Center_Experience_Provider",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "12"
+      ]
+    },
+    {
+      "name": "OrthoNebraska-Speciality-Xccelerate Conference, OrthoNebraska_Experience_AccessCenter_Speciality, OrthoNebraska_Experience_DAP_Lite_upsell, OrthoNebraska_Experience_Speciality, OrthoNebraska_Experience_Innovation",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "118"
+      ]
+    },
+    {
+      "name": "Healogics_Gravity",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "171"
+      ]
+    },
+    {
+      "name": "Coforge_Gravity",
+      "call_count": 1,
+      "health_score": 100.0,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "432"
+      ]
+    },
+    {
+      "name": "Longitude Health_Productivity_Provider",
+      "call_count": 2,
+      "health_score": 83.3,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 2,
+      "growth_signals": 2,
+      "budget_clarity_pct": 50.0,
+      "sr_nos": [
+        "158",
+        "326"
+      ]
+    },
+    {
+      "name": "Cleveland Clinic Health System_Gravity, Cleveland Clinic Health System-Provider-Xccelerate Conference, Cleveland Clinic Health System_Value_Provider",
+      "call_count": 3,
+      "health_score": 77.8,
+      "status": "healthy",
+      "relationship_pct": 66.7,
+      "engagement_pct": 66.7,
+      "wins_count": 2,
+      "growth_signals": 2,
+      "budget_clarity_pct": 100.0,
+      "sr_nos": [
+        "30",
+        "46",
+        "226"
+      ]
+    },
+    {
+      "name": "Caduceus Medical Group-Provider-Xccelerate Conference",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 1,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "1"
+      ]
+    },
+    {
+      "name": "Dallas Renal Group_Value_Speciality_Humbi",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 0,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "66"
+      ]
+    },
+    {
+      "name": "CareCentrix_PriorAuth/UM, CareCentrix_platform, Walgreens-Provider-Xccelerate Conference",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 0,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "161"
+      ]
+    },
+    {
+      "name": "Fresenius Kidney Care_Innovation",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 0,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "167"
+      ]
+    },
+    {
+      "name": "Westminster Medical clinic_Value_Provider",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 0,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "187"
+      ]
+    },
+    {
+      "name": "Northwestern Medicine_Story RFP",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 0,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "285"
+      ]
+    },
+    {
+      "name": "Trinity Health_MSO",
+      "call_count": 1,
+      "health_score": 66.7,
+      "status": "healthy",
+      "relationship_pct": 100.0,
+      "engagement_pct": 100.0,
+      "wins_count": 1,
+      "growth_signals": 0,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "309"
+      ]
+    },
+    {
+      "name": "Viva Health_PQS, UAB Medicine_Value_Provider, UAB Medicine-Payer-Xccelerate Conference, UAB Medicine_Value_Provider_Viva Health, Viva Health_InNote, UAB Medicine_VBC",
+      "call_count": 1,
+      "health_score": 0.0,
+      "status": "critical",
+      "relationship_pct": 0.0,
+      "engagement_pct": 0.0,
+      "wins_count": 0,
+      "growth_signals": 0,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "52"
+      ]
+    },
+    {
+      "name": "Henry Ford Health System_Experience_Provider",
+      "call_count": 1,
+      "health_score": 0.0,
+      "status": "critical",
+      "relationship_pct": 0.0,
+      "engagement_pct": 0.0,
+      "wins_count": 0,
+      "growth_signals": 0,
+      "budget_clarity_pct": 0.0,
+      "sr_nos": [
+        "96"
+      ]
+    }
+  ],
+  "call_list": [
+    {
+      "sr_no": "1",
+      "title": "Innovaccer <> Caduceus InterMountain RFP Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3804912500374828519",
+      "stages": [
+        "Upcoming Meeting"
+      ],
+      "opportunity": "Caduceus Medical Group-Provider-Xccelerate Conference",
+      "attendees": "Baz Patel, Grant Knaggs, Jonathan Brown, Patrick Easterling",
+      "brand": "Unknown",
+      "summary": "The meeting centered around the preparation and submission of a Request for Proposal (RFP) due on the fourth, with discussions on the necessary steps and resources required to meet the deadline.\n\nTopics Discussed:\nRFP Submission Timeline\nThe RFP was received on the morning of the meeting and is due ",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": true
+    },
+    {
+      "sr_no": "7",
+      "title": "Shelly Brown - Iredell Health System || Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7115631780031299778",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Diya Sharma, Wesley Sgroi",
+      "brand": "Unknown",
+      "summary": "The conversation between Wesley Sgroi and Diya Sharma centered around follow-ups with potential prospects and scheduling meetings.\n\nTopics Discussed:\nProspect Follow-up\nDiya expressed uncertainty about prospects showing up and mentioned she has been following up via email and calls but hasn't receiv",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "11",
+      "title": "Hackensack Debrief/ Strategy for future demos",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6691068012074979842",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Whitney Wilson, Irene Logis, Patrick Leonpacher",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on discussing recent challenges and feedback related to business deals and planning for future meetings.\n\nTopics Discussed:\nAttendance and Scheduling\nScott was unable to join the call due to travel commitments.\nDiscussion on rescheduling the meeting to include key team ",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "12",
+      "title": "Lexington Health <> Innovaccer | Updated Proposal Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1455829058638843651",
+      "stages": [
+        "X2 - Shortlisted (Not a VOC)"
+      ],
+      "opportunity": "Lexington Medical Center_Experience_Provider",
+      "attendees": "Ryan Raess, Sarah Boozer, allisonsanford",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on discussing pricing proposals and contract details for a potential collaboration between the parties involved.\n\nTopics Discussed:\nConference and Travel Plans\nRyan Raess shared excitement about upcoming conferences in the south and discussed travel plans to Charleston,",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "18",
+      "title": "Discuss Prisma opportunity (LRx / Innovaccer)",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8901538451601555086",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Kessler Brown, Sinthusinnadurai",
+      "brand": "Unknown",
+      "summary": "The conversation primarily revolved around potential collaboration opportunities and upcoming meetings with key stakeholders.\n\nTopics Discussed:\nCollaboration Opportunities\nDiscussion on a potential opportunity with LifePoint, a large company, involving a VP of Pharmacy Operations.\nConsideration of ",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "20",
+      "title": "Gianna Papa (Acadia Healthcare) <> Innovaccer Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/421729746699335786",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Arun Maithani, Ashish Gupta",
+      "brand": "Unknown",
+      "summary": "The conversation between Arun Maithani and Ashish Gupta appears to be informal and fragmented, with references to scheduling and communication challenges.\n\nTopics Discussed:\nScheduling and Communication\nArun and Ashish discuss scheduling, with Arun mentioning a false knee and a basic schedule.\nAshis",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "25",
+      "title": "HMG Costing Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7438715065476917245",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Akhter Mubarki, Bharat Sobti",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on discussing various aspects of project implementation, resource management, and contract negotiations.\n\nTopics Discussed:\nProject Implementation\nDiscussion on the Atomic hmd value RFP and its implications.\nConsideration of license or implementation strategies for the ",
+      "has_budget": true,
+      "has_timeline": false,
+      "has_growth": true
+    },
+    {
+      "sr_no": "29",
+      "title": "Monthly KP <> Innovaccer Pipeline Sync",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5140673073291971555",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Alina X Esquenazi, Baz Patel",
+      "brand": "Unknown",
+      "summary": "The meeting involved a brief interaction between Baz Patel and Alina X Esquenazi, focusing on a minor technical issue.\n\nTopics Discussed:\nTechnical Issue\nBaz Patel mentioned accidentally clicking the wrong button.\nAlina X Esquenazi reassured Baz that it was not a problem.\nConclusion:\n\nThe interactio",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "30",
+      "title": "CCF l Innovaccer l Scope l Pricing l Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/96184968151431295",
+      "stages": [
+        "Engaged",
+        "Upcoming Meeting",
+        "X3 - VOC & Contracting"
+      ],
+      "opportunity": "Cleveland Clinic Health System_Gravity, Cleveland Clinic Health System-Provider-Xccelerate Conference, Cleveland Clinic Health System_Value_Provider",
+      "attendees": "Bryan Ness, Kessler Brown, Dichted, Ben Grothe, Joseph Thompson",
+      "brand": "Unknown",
+      "summary": "The meeting centered around the ongoing RFP process and contract negotiations for transitioning from Arcadia to Innovacer, with a focus on cost management and timeline considerations.\n\nTopics Discussed:\nIntroductions and Roles\nBryan Ness, Kessler Brown, and Danielle introduced themselves and their r",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "37",
+      "title": "Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8963867403594843484",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nInnovaccer\nFeb 26, 2026\nShare\nAdd to library\n10\n10\n00:00 / 01:50\nSkip inactivity\n1x\nSummary\nDebrief\nAction items\nKey moments\nTranscript\nSummary unavailable\nWe can't generate",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "38",
+      "title": "Innovaccer <> Holzer Health System",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8053140826710235623",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Shivam Chaddha, Keg Avakian",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on discussing the challenges and strategies related to engaging with a potential client who is currently using an EMR platform that is not ideal but functional.\n\nTopics Discussed:\nClient Engagement\nShivam Chaddha and Keg Avakian discussed the difficulty in reaching a cl",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "39",
+      "title": "MindTickle Manager workflow",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3271043466747637210",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Ananth Bhaskarla, Sudhanshu Shekhar, Anant Saksena, Adrienne White",
+      "brand": "Unknown",
+      "summary": "The meeting was centered around the implementation and usage of the MindTickle platform, focusing on coaching, analytics, and user interface customization.\n\nTopics Discussed:\nIntroduction and Roles\nAnanth Bhaskarla introduced as the Customer Success Manager for MindTickle, responsible for product ad",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": true
+    },
+    {
+      "sr_no": "42",
+      "title": "Case Discussion #472855880",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5729511825157397260",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nCase Discussion #472855880\nFeb 26, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:18\nSkip inactivity\n1x\nSummary\nDebrief\nAction items\nKey moments\nTranscript\nSummary unavailable\nW",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "46",
+      "title": "Ben / Joe",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3356484218547380628",
+      "stages": [
+        "Engaged",
+        "Upcoming Meeting",
+        "X3 - VOC & Contracting"
+      ],
+      "opportunity": "Cleveland Clinic Health System_Gravity, Cleveland Clinic Health System-Provider-Xccelerate Conference, Cleveland Clinic Health System_Value_Provider",
+      "attendees": "Ben Grothe, Joseph Thompson",
+      "brand": "Unknown",
+      "summary": "The conversation touched on future opportunities and the importance of maintaining regular communication with key stakeholders like Todd and Rohit.\nConclusion:\n\nThe call concluded with both parties agreeing to continue discussions in a future meeting, focusing on aligning project scope, timeline, an",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "52",
+      "title": "Innovaccer <> Viva Health - Kick Off (In Person)",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7408352036184523182",
+      "stages": [
+        "Nurture",
+        "X4 – Closed Won (Contract Executed)",
+        "Closed Lost"
+      ],
+      "opportunity": "Viva Health_PQS, UAB Medicine_Value_Provider, UAB Medicine-Payer-Xccelerate Conference, UAB Medicine_Value_Provider_Viva Health, Viva Health_InNote, UAB Medicine_VBC",
+      "attendees": "Arianaljackson, Matthew Parker",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nInnovaccer <> Viva Health - Kick Off (In Person)\nFeb 25, 2026\nShare\nAdd to library\n10\n10\n00:00 / 2:36:28\nSkip inactivity\n1x\nThemes timeline\nMatthew Parker\n100%\nArianaljackso",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "60",
+      "title": "Jay (Innovaccer) / Jada - connect and catch up",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8044289978298680664",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Jay Levine",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nJay (Innovaccer) / Jada - connect and catch up\nFeb 25, 2026\nShare\nAdd to library\n10\n10\n00:00 / 01:50\nSkip inactivity\n1x\nThemes timeline\nJay Levine\n100%\nAsk Copilot for insig",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "61",
+      "title": "Scott Sutton <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6852177881069355151",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Kshitij Joshi, I_nandini Sharma",
+      "brand": "Unknown",
+      "summary": "The meeting involved a brief interaction among participants, primarily focusing on attendance and participation logistics.\n\nTopics Discussed:\nAttendance and Participation\nDiscussion on whether participants need to have their video on during the meeting.\nConsideration for participants to leave the me",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "62",
+      "title": "Innovaccer <> McLaren Health Care",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4505170250354449733",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Keg Avakian, Shivam Chaddha",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on coordinating communication efforts and attempting to connect with an absent participant.\n\nTopics Discussed:\nCommunication Efforts\nShivam Chaddha and Keg Avakian discussed the need to make an introduction and overview of the company and its solutions.\nShivam Chaddha a",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "63",
+      "title": "David Ralston (Huntsville Hospital System) <INTRO : FLOW> Innovaccer (Kevin)",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/548998737440596431",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Sandeep Prashar, Yash Bhandari, David Friederichs, Brian Strok",
+      "brand": "Unknown",
+      "summary": "The meeting involved a discussion among David Friederichs, Yash Bhandari, and Brian Strok, focusing on attendance and participation at a conference, as well as communication issues with a contact.\n\nTopics Discussed:\nConference Attendance\nDavid Friederichs expressed concerns about the low attendance ",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "66",
+      "title": "Dallas Renal + Innovaccer Actuarial Intelligence: Next Steps",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5834692952572454502",
+      "stages": [
+        "BANT Discovery"
+      ],
+      "opportunity": "Dallas Renal Group_Value_Speciality_Humbi",
+      "attendees": "Rajesh Manglani, srinivas.danda",
+      "brand": "Unknown",
+      "summary": "The conversation was a casual exchange between Rajesh Manglani and Srinivas Danda, focusing on personal locations and travel plans.\n\nTopics Discussed:\nPersonal Locations\nRajesh Manglani mentioned being based in Charleston, South Carolina.\nSrinivas Danda inquired about Rajesh's location and shared th",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "74",
+      "title": "Amazon OneMedical Innovaccer Weekly Project Meeting",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2548000406800820441",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Tpetrosian, Yazan Rizeq",
+      "brand": "Unknown",
+      "summary": "The meeting began with a brief exchange among participants, setting the tone for the discussion.\n\nTopics Discussed:\nMeeting Introduction\nInitial greetings and remarks on the meeting's start.\nMention of the meeting being recorded.\nConclusion:\n\nThe meeting commenced with participants acknowledging the",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "76",
+      "title": "Matthew Marrington <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1655085039501564585",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Kshitij Joshi, I_nandini Sharma",
+      "brand": "Unknown",
+      "summary": "The conversation involved coordination and communication efforts between I_nandini Sharma and Kshitij Joshi regarding a meeting and related tasks.\n\nTopics Discussed:\nMeeting Coordination\nI_nandini Sharma and Kshitij Joshi discussed the confirmation of a meeting.\nI_nandini Sharma mentioned having ema",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "78",
+      "title": "🥓 Lets chat about Agent Frank",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4434066692902374711",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Akvile",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\n🥓 Lets chat about Agent Frank\nFeb 24, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:16\nSkip inactivity\n1x\nAkvile\n100%\nAsk Copilot for insights on this call\nSummary\nDebrief\nActi",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "89",
+      "title": "Lifebridge Strategy/Gameplan",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4064401636950666328",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nLifebridge Strategy/Gameplan\nFeb 23, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:09\nSkip inactivity\n1x\nSummary\nDebrief\nAction items\nKey moments\nTranscript\nSummary unavailable",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "91",
+      "title": "John Hickey - Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/887533279954542813",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nAn error occurred\nSorry, your request couldn't be completed.\nPlease try again later.\nGo to home",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "96",
+      "title": "Innovaccer_Cured <> HFHS Sync",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/903770332584482277",
+      "stages": [
+        "X4 – Closed Won (Contract Executed)"
+      ],
+      "opportunity": "Henry Ford Health System_Experience_Provider",
+      "attendees": "Mitch Holdwick, James Bobalik",
+      "brand": "Unknown",
+      "summary": "The conversation between Mitch Holdwick and James Bobalik was informal and focused on the recording status of their call.\n\nTopics Discussed:\nCall Recording\nDiscussion about the call being recorded automatically.\nMitch Holdwick mentioned there was no particular reason for the recording.\nConclusion:\n\n",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "98",
+      "title": "PHMI Platform Advisory Council",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4838853360951565821",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nPHMI Platform Advisory Council\nFeb 23, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:12\nSkip inactivity\n1x\nSummary\nDebrief\nAction items\nKey moments\nTranscript\nSummary unavailab",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "109",
+      "title": "Ryan Raess and Daniel Hudgins",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1862916148079851181",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Rohit Ranjan, Prakhar Singh, Dhudgins",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on discussing the technical aspects and support mechanisms for the Comet platform, particularly in relation to remote access, access control, and data management.\n\nTopics Discussed:\nRemote Access and Support\nDiscussion on the use of TeamViewer for remote support, especi",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "113",
+      "title": "Apoorv Broor (Houston Methodist Baytown) <INTRO CALL> Innovaccer (Kevin Arlington)",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2681090346350570908",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Kevin Arlington, Sandeep Prashar",
+      "brand": "Unknown",
+      "summary": "The meeting involved a discussion between Sandeep Prashar and Kevin Arlington, focusing on scheduling and previous interactions with a client.\n\nTopics Discussed:\nClient Interaction\nSandeep Prashar mentioned a past connection with a client that resulted in a no-show.\nThe client proposed a new meeting",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "114",
+      "title": "COA Demos - Touch Base",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2703653166632081155",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Hannah Schulyer, Laura Kempf",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nCOA Demos - Touch Base\nFeb 20, 2026\nShare\nAdd to library\n10\n10\n00:00 / 01:21\nSkip inactivity\n1x\nThemes timeline\nLaura Kempf\n79%\nHannah Schulyer\n21%\nAsk Copilot for insights ",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "115",
+      "title": "Fatima Motiwala <> Innovaccer Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2098788725185091423",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Aarti Wadhwa, Tom Sweeny",
+      "brand": "Unknown",
+      "summary": "The conversation involved Tom Sweeny and Aarti Wadhwa discussing a scheduling issue and a personal update.\n\nTopics Discussed:\nScheduling Conflict\nAarti Wadhwa mentioned that a participant could not attend due to urgent matters with a patient.\nTom Sweeny suggested being respectful and understanding i",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "118",
+      "title": "Contract Follow Up",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4723379470228707024",
+      "stages": [
+        "Upcoming Meeting",
+        "X3 - VOC & Contracting",
+        "Closed Lost",
+        "Nurture",
+        "X4 – Closed Won (Contract Executed)"
+      ],
+      "opportunity": "OrthoNebraska-Speciality-Xccelerate Conference, OrthoNebraska_Experience_AccessCenter_Speciality, OrthoNebraska_Experience_DAP_Lite_upsell, OrthoNebraska_Experience_Speciality, OrthoNebraska_Experience_Innovation",
+      "attendees": "Bill Citro, Ryan Raess, Miranda Harrahill",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on addressing legal concerns related to contract negotiations and ensuring alignment on various contractual elements.\n\nTopics Discussed:\nPatient Appointment Confusion\nDiscussion on a patient's claim about being asked to come earlier for an appointment and the subsequent",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "121",
+      "title": "Charles Pitts (UAB Medicine) <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7246751621148845437",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "John Hickey, Ravina Singh",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nCharles Pitts (UAB Medicine) <> Innovaccer\nFeb 20, 2026\nShare\nAdd to library\n10\n10\n00:00 / 18:08\nSkip inactivity\n1x\nThemes timeline\nJohn Hickey\n80%\nRavina Singh\n20%\nAsk Copi",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "123",
+      "title": "Quartz RFP Touch Base",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1310763620958851548",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "David Kaskoun",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nQuartz RFP Touch Base\nFeb 20, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:15\nSkip inactivity\n1x\nDavid Kaskoun\n100%\nAsk Copilot for insights on this call\nSummary\nDebrief\nActio",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "126",
+      "title": "LaNita (The University of Texas Health Science Center at Houston) <Intro> Innovaccer (Flow)",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5803865421838327329",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Kevin Arlington, Sandeep Prashar",
+      "brand": "Unknown",
+      "summary": "The conversation was a brief check-in between Sandeep Prashar and Kevin Arlington, primarily discussing scheduling and updates.\n\nTopics Discussed:\nScheduling Update\nSandeep mentioned receiving an email from Lenita indicating her unavailability for the day.\nPlans to reschedule with Cahill in the comi",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "128",
+      "title": "Cassie Taylor - Phillips County Hospital <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1530793913111409154",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "I_gunpreet Kour, Alex Garcia",
+      "brand": "Unknown",
+      "summary": "The meeting primarily revolved around the anticipation of Cassie's participation and discussions on sales strategies and personal updates.\n\nTopics Discussed:\nCassie's Participation\nAlex and I_gunpreet discussed the expectation of Cassie joining the meeting.\nMultiple attempts were made to contact Cas",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "129",
+      "title": "Innovaccer<>Salesforce: RCA Demo",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5113148336748225767",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Ashish Grover, Anand Asokan, Sourav Bhattacharya, Ratankumar Nampelly, Tvashisth, Adwait Gore, Akash Valecha",
+      "brand": "Unknown",
+      "summary": "The meeting was centered around demonstrating a proof of concept (POC) for an automated Statement of Work (SOW) generation and its integration with a quoting process.\n\nTopics Discussed:\nSOW Generation and Customization\nThe team demonstrated the automatic generation of SOWs attached to quotes, using ",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "133",
+      "title": "Quick Sync Up",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5899874634167180135",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Divyansh Mahajan, Ashish Mishra, Ravi Manik, Ankit Maheshwari, Krishna Kumar, Dhruv Singhal, Harshit Kohli",
+      "brand": "Unknown",
+      "summary": "The meeting centered around technical discussions on code deployment, security, and system architecture improvements.\n\nTopics Discussed:\nCode Deployment and Security\nAnkit Maheshwari discussed the compliance checklist and deployment strategies, emphasizing the importance of code readability, maintai",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": true
+    },
+    {
+      "sr_no": "137",
+      "title": "Gad | Adwait- Catchup",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/9165825478427108877",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Adwait Gore, Gadallon",
+      "brand": "Unknown",
+      "summary": "The conversation between Adwait Gore and Gadallon primarily revolved around the challenges and strategies related to business growth and succession planning for a specific business unit.\n\nTopics Discussed:\nBusiness Unit Overview\nThe business unit in question, acquired two years ago, operates in a ni",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "140",
+      "title": "MGB/Innovaccer ~ Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4818520600313242227",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Ekim5",
+      "brand": "Unknown",
+      "summary": "The meeting involved a brief interaction regarding the use of external AI tools during discussions.\n\nTopics Discussed:\nUse of External AI Tools\nEkim5 mentioned a policy against using external AI tools in meetings.\nDecision to remove ambient AI from the meeting was communicated.\nConclusion:\n\nThe meet",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "144",
+      "title": "Adrienne White and Taylor Davis",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7671527871699016888",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nAdrienne White and Taylor Davis\nFeb 19, 2026\nShare\nAdd to library\n10\n10\n00:00 / 30:01\nSkip inactivity\n1x\nSummary\nDebrief\nAction items\nKey moments\nTranscript\nSummary unavaila",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "146",
+      "title": "Snowflake / Innovaccer - discuss City of Hope",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7988254663098308395",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nSnowflake / Innovaccer - discuss City of Hope\nFeb 19, 2026\nShare\nAdd to library\n10\n10\n00:00 / 01:55\nSkip inactivity\n1x\nAsk Copilot for insights on this call\nSummary\nDebrief\n",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "150",
+      "title": "Innovaccer <> Community Catalyst",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1565594305231083258",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Dstojicic, Tim Wager",
+      "brand": "Unknown",
+      "summary": "The meeting involved Tim Wager, Dstojicic, and Glenn Kunigan, focusing on technical issues and team coordination.\n\nTopics Discussed:\nTechnical Issues\nDiscussion on the importance of the number 165, though the context is unclear.\nDstojicic experienced issues with the video button not working properly",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "153",
+      "title": "Innovaccer Connect - Introductory Call",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7553397399600496050",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Rich Fox, Sonali Dabas, David Kaskoun",
+      "brand": "Unknown",
+      "summary": "The meeting primarily revolved around rescheduling a session due to a participant's unavailability and addressing issues related to document sharing and RFP processes.\n\nTopics Discussed:\nRescheduling Due to Unavailability\nFreya was unable to attend due to a family emergency, and Sonali Dabas communi",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "154",
+      "title": "Elaine L. Sloan (Medical Partners Management Group ACO ) <> Innovaccer Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7660263492151884108",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Arun Maithani, Ashish Gupta",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on ongoing and upcoming business engagements, client interactions, and scheduling of calls with various medical groups and partners.\n\nTopics Discussed:\nClient Engagements\nDiscussion on reaching out to clients and scheduling meetings, including challenges in communicatio",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "158",
+      "title": "LRx / Innovaccer weekly pipeline call",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5450019013997012811",
+      "stages": [
+        "Engaged"
+      ],
+      "opportunity": "Longitude Health_Productivity_Provider",
+      "attendees": "Nicoleostrowski, Jay Levine, Kessler Brown, Sinthusinnadurai, Tatianapolin, Shilpapaul",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on updates and discussions regarding ongoing projects, client interactions, and strategic planning for upcoming events.\n\nTopics Discussed:\nHoliday Scheduling and Travel Plans\nDiscussion on the confusion around holiday schedules, particularly with U.S. and Indian holiday",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "161",
+      "title": "discuss with business API topic",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4801571165247002038",
+      "stages": [
+        "X4 – Closed Won (Contract Executed)",
+        "X1 - BANT Qualified",
+        "Upcoming Meeting"
+      ],
+      "opportunity": "CareCentrix_PriorAuth/UM, CareCentrix_platform, Walgreens-Provider-Xccelerate Conference",
+      "attendees": "Sabrina Mercedes, Lacey Smith, Shannon Ball",
+      "brand": "Unknown",
+      "summary": "The conversation centered around the topic of innovative or ambient AI and its relevance to the participants.\n\nTopics Discussed:\nInnovative or Ambient AI\nShannon Ball questioned the necessity of innovative or ambient AI.\nSabrina Mercedes responded, indicating uncertainty about ownership or relevance",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "164",
+      "title": "BSMH | Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2323072441382730171",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Achazen, Joseph Thompson",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nBSMH | Innovaccer\nFeb 18, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:23\nSkip inactivity\n1x\nJoseph Thompson\n57%\nAchazen\n43%\nAsk Copilot for insights on this call\nSummary\nDebr",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "167",
+      "title": "Innovaccer RCM POC Update",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6215328561990424978",
+      "stages": [
+        "Nurture"
+      ],
+      "opportunity": "Fresenius Kidney Care_Innovation",
+      "attendees": "Matthew G Foltz, Marissa Lee",
+      "brand": "Unknown",
+      "summary": "The conversation involved a brief exchange between Matthew G Foltz and Marissa Lee, focusing on an issue they encountered.\n\nTopics Discussed:\nTechnical Issue\nMatthew G Foltz mentioned a problem related to a setting or service.\nMarissa Lee expressed uncertainty about the situation.\nMatthew G Foltz at",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "171",
+      "title": "Healogics <> Innovaccer MNDA Legal Meeting",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3209650135720993677",
+      "stages": [
+        "X1 - BANT Qualified"
+      ],
+      "opportunity": "Healogics_Gravity",
+      "attendees": "Alex Garcia, Kritika Giri, Glenn Kunigan, JBrentjens, Emma Spight",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on discussing the terms of a Non-Disclosure Agreement (NDA) and addressing concerns related to intellectual property and reverse engineering clauses.\n\nTopics Discussed:\nIntroduction and Participant Introductions\nParticipants introduced themselves, including Alex Garcia,",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "182",
+      "title": "Innovaccer | Enable | Carequest",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8680780292641928972",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Mjones, Amallick",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nInnovaccer | Enable | Carequest\nFeb 17, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:25\nSkip inactivity\n1x\nThemes timeline\nAmallick\n73%\nMjones\n27%\nAsk Copilot for insights on ",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "186",
+      "title": "Amazon OneMedical Innovaccer Weekly Project Meeting",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7598759720876029918",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Yazan Rizeq",
+      "brand": "Unknown",
+      "summary": "The meeting centered around the need to address a specific issue related to the Sable system and the responsibilities of the meeting owner.\n\nTopics Discussed:\nSable System Issue\nDiscussion on the necessity to disable a feature or component within the Sable system.\nEmphasis on the urgency of getting ",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "187",
+      "title": "Innovaccer Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8697970231065682816",
+      "stages": [
+        "BANT Discovery"
+      ],
+      "opportunity": "Westminster Medical clinic_Value_Provider",
+      "attendees": "Hemant Jangir, Caitlin Barba",
+      "brand": "Unknown",
+      "summary": "The conversation involved Hemant Jangir and Caitlin Barba discussing the participation of Robin Smith in their meeting.\n\nTopics Discussed:\nMeeting Participation\nCaitlin Barba mentioned that Robin Smith, a physician, was expected to join the meeting.\nHemant Jangir noted that Robin was not on the invi",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "188",
+      "title": "Sync on BSIM next steps",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/901796936555634270",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Sandeep Kumar Ram, Hemant Jangir",
+      "brand": "Unknown",
+      "summary": "The conversation between Hemant Jangir and Sandeep Kumar Ram primarily revolved around technical issues with meeting recordings and some personal discussions about their living arrangements.\n\nTopics Discussed:\nMeeting Recording Issues\nHemant and Sandeep discussed unexpected auto-recording during mee",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "189",
+      "title": "Daniel Buckley(Stanford Health) <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3649131384752549950",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Runit Abraham, I Anadi Shukla, Baz Patel",
+      "brand": "Unknown",
+      "summary": "The conversation primarily revolved around technical issues related to hosting and recording a meeting.\n\nTopics Discussed:\nHost Assignment\nBaz Patel requested to be made the host of the meeting.\nAnadi Shukla mentioned that Runit Abraham created the meeting link, which might affect the ability to cha",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "193",
+      "title": "samrat connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2278042834306667903",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Yash Raj",
+      "brand": "Unknown",
+      "summary": "The meeting involved a series of discussions led by Yash Raj, focusing on various topics related to recording options, authority integration, and product updates.\n\nTopics Discussed:\nRecording Options\nDiscussion on the use of generic recordings and analysis options.\nConsideration of different recordi",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "195",
+      "title": "Lean & Innovaccer Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6989224416844137811",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nLean & Innovaccer Discussion\nFeb 17, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:57\nSkip inactivity\n1x\nAsk Copilot for insights on this call\nSummary\nDebrief\nAction items\nKey ",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "196",
+      "title": "Lean & Innovaccer Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7052205512399232865",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nLean & Innovaccer Discussion\nFeb 17, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:51\nSkip inactivity\n1x\nThemes timeline\nInnovaccer's Ambient AI\n100%\nAsk Copilot for insights o",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "197",
+      "title": "Ankit <> Deepak | Follow-up discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8852115732229153475",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Ddbarge, Deep Singh, Ankit Maheshwari",
+      "brand": "Unknown",
+      "summary": "The meeting centered around organizational changes and leadership roles within the company, focusing on platform and application leadership.\n\nTopics Discussed:\nLeadership Changes\nDiscussion on Anand's departure and the decision not to refill his position in the U.S.\nAnkit Maheshwari's plan to bring ",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "198",
+      "title": "Ankit <> Rajesh | Follow-up discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/970840024750928585",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Rajesh01, Ankit Maheshwari",
+      "brand": "Unknown",
+      "summary": "The conversation between Ankit Maheshwari and Rajesh01 primarily revolved around career progression, organizational roles, and the evolving landscape of engineering talent in the context of AI advancements.\n\nTopics Discussed:\nCareer Progression and Organizational Roles\nAnkit Maheshwari discussed the",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "202",
+      "title": "Mitch Wolf <> Innovaccer Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6429059421889382147",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Tom Sweeny, Aarti Wadhwa",
+      "brand": "Unknown",
+      "summary": "The meeting primarily involved troubleshooting audio issues and discussing scheduling conflicts for a future meeting.\n\nTopics Discussed:\nAudio Troubleshooting\nAarti Wadhwa experienced issues with hearing Tom Sweeny, who later resolved his audio settings.\nScheduling Conflicts\nDiscussion on the absenc",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "203",
+      "title": "Discuss Kickoff Meeting Agenda of Replacement of SGH KSA system with Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4944509940242821361",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Mabdulhamied, Arezk, Jeev Sahni",
+      "brand": "Unknown",
+      "summary": "The meeting centered on the challenges and strategies for a seamless transition in the healthcare industry, focusing on innovation and migration processes.\n\nTopics Discussed:\nTransition Challenges\nDiscussion on the brittleness of innovation and the need for a smooth transition in healthcare without ",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "204",
+      "title": "Gravity SOW Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6544011681540949624",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Kathryn N Butts, Hari K Gutlapalli, Baz Patel",
+      "brand": "Unknown",
+      "summary": "The conversation primarily revolved around the personal backgrounds and name origins of the participants, Hari K Gutlapalli and Baz Patel.\n\nTopics Discussed:\nName Origins and Pronunciation\nBaz Patel shared that his real name is Bernhard, but due to pronunciation challenges in England, he adopted the",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "205",
+      "title": "Kelly <> Ankit | Managing Director-Solutions-RCM | Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/9222956687913118984",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "C_sanchit Gupta, Kcanter816",
+      "brand": "Unknown",
+      "summary": "The conversation primarily addressed communication issues related to email accounts and scheduling challenges.\n\nTopics Discussed:\nEmail Communication\nDiscussion on issues with receiving emails through Hotmail.\nAgreement to use Gmail for future communications due to reliability concerns.\nScheduling a",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": true
+    },
+    {
+      "sr_no": "206",
+      "title": "Brain and Spine Center Demo",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8547219900552517072",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Hemant Jangir, Vaibhav Kapil, Bryce Bruner",
+      "brand": "Unknown",
+      "summary": "The meeting was intended to discuss participation and scheduling, but faced challenges due to connectivity issues and participant availability.\n\nTopics Discussed:\nConnectivity and Communication\nVaibhav Kapil experienced initial difficulties in hearing Bryce Bruner.\nEfforts were made to connect with ",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "208",
+      "title": "KP<>Innovaccer small team check in",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3444827719012023292",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Bryan Ness, Drew Chi, Komal Gulati, Baz Patel, Edmond X Cheng",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on discussing the status and future of the East Valley project and its implications for the involved parties.\n\nTopics Discussed:\nEast Valley Project Status\nKomal Gulati provided a background on East Valley's decision to not continue with the TAA program and their notice",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "214",
+      "title": "Ascension/Innovaccer - Weekly Meeting",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7817270422477907013",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nAscension/Innovaccer - Weekly Meeting\nFeb 13, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:13\nSkip inactivity\n1x\nAsk Copilot for insights on this call\nSummary\nDebrief\nAction i",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "218",
+      "title": "Sharon Regional Hospital <> Innovaccer: Rural Health Transformation Program",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3186239872900989023",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "iPhone, Dan Syse, Yash Rajbhar",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on connectivity issues faced by participants trying to join via Zoom and discussions about the roles and responsibilities of key individuals at Sharon Regional.\n\nTopics Discussed:\nConnectivity Issues\nSeveral participants, including Teresa and Val, faced difficulties joi",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "219",
+      "title": "Dr. Bishal Bhandari (Inova Health) <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5420524989535198975",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Brian Strok, Yash Bhandari",
+      "brand": "Unknown",
+      "summary": "The conversation was a casual exchange between Yash Bhandari and Brian Strok, focusing on personal updates.\n\nTopics Discussed:\nPersonal Updates\nYash Bhandari mentioned returning home in the morning.\nBrian Strok shared that it was still early in his day.\nConclusion:\n\nThe conversation was a brief chec",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "220",
+      "title": "Bsim- Sync with leadership",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1984461669252393707",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Hannah, Sandeep Kumar Ram, Hemant Jangir, Sandeep Duvvuru",
+      "brand": "Unknown",
+      "summary": "The meeting involved a discussion among Sandeep Kumar Ram, Hemant Jangir, Hannah, and Sandeep Duvvuru, focusing on ongoing business challenges and communication issues.\n\nTopics Discussed:\nCommunication and Collaboration\nSandeep Duvvuru expressed gratitude for Hannah's collaboration and flexibility, ",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "222",
+      "title": "Innovaccer and SMC",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6596419144823347984",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nInnovaccer and SMC\nFeb 12, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:11\nSkip inactivity\n1x\nSummary\nDebrief\nAction items\nKey moments\nTranscript\nSummary unavailable\nWe can't ",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "226",
+      "title": "Joe/Ben",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/9110504629084549763",
+      "stages": [
+        "Engaged",
+        "Upcoming Meeting",
+        "X3 - VOC & Contracting"
+      ],
+      "opportunity": "Cleveland Clinic Health System_Gravity, Cleveland Clinic Health System-Provider-Xccelerate Conference, Cleveland Clinic Health System_Value_Provider",
+      "attendees": "Ben Grothe, Joseph Thompson",
+      "brand": "Unknown",
+      "summary": "The meeting between Joseph Thompson and Ben Grothe focused on discussing work-related updates, project management, and personal training routines.\n\nTopics Discussed:\nWork and Project Updates\nJoseph shared his recent travel schedule and the challenges of balancing work while attending conferences.\nDi",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "227",
+      "title": "Chat",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7182333541935611251",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Andre Dias, Bryce Bruner, Baz Patel",
+      "brand": "Unknown",
+      "summary": "The conversation involved Baz Patel, Bryce Bruner, and Andre Dias discussing technical issues related to recording.\n\nTopics Discussed:\nTechnical Confusion\nBaz Patel expressed confusion over various technical tasks and new technology on their machine.\nThere was uncertainty about the recording process",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "234",
+      "title": "HOLD: meet w/ Todd Newby",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5286349182737340451",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nHOLD: meet w/ Todd Newby\nFeb 12, 2026\nShare\nAdd to library\n10\n10\n00:00 / 01:22\nSkip inactivity\n1x\nAsk Copilot for insights on this call\nSummary\nDebrief\nAction items\nKey mome",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "235",
+      "title": "Scott Willett (University Of Texas System) x Gravity by Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2124950481161847476",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Kevin Arlington, Sandeep Prashar",
+      "brand": "Unknown",
+      "summary": "The meeting concluded with an agreement to reschedule the session.",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "237",
+      "title": "Rich Fishback and David Friederichs",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/232488297063904690",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "David Friederichs, Fishbackrich",
+      "brand": "Unknown",
+      "summary": "The conversation was concise, focusing on immediate concerns regarding time and headcount limitations.",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "241",
+      "title": "Jennifer L. Ramirez <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1284578073119185813",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Kshitij Joshi, I_nandini Sharma",
+      "brand": "Unknown",
+      "summary": "The conversation primarily revolved around communication challenges with a colleague and the subsequent steps to address the situation.\n\nTopics Discussed:\nCommunication Issues\nI_nandini Sharma expressed difficulty in reaching a colleague whose calls are going to voicemail and emails remain unopened.",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "245",
+      "title": "LRx / Innovaccer weekly pipeline call",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3775675239364340954",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Nikita Sharma, Jay Levine, Kessler Brown, Esha Soni",
+      "brand": "Unknown",
+      "summary": "The meeting involved a casual discussion among participants, touching on various topics including communication issues and a recent call with Michigan Medicine.\n\nTopics Discussed:\nCommunication and Emails\nJay Levine mentioned not receiving emails except from Nicole and inquired if others had receive",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "248",
+      "title": "Walkthrough of Salesforce Opportunity Creation",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1878210381253251111",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Whitney Wilson, Bryan Ness, John Hickey, Ryan Grace, David Friederichs, Samrat Mehta, Anant Saksena, Glenn Kunigan, Brian Ednie, Kevin Arlington, Scott Kehn, Will Pettinger, Keg Avakian",
+      "brand": "Unknown",
+      "summary": "The meeting was centered around the opportunity creation process in Salesforce, with a detailed walkthrough provided by Samrat Mehta. The session aimed to clarify the steps involved and address any questions from the team.\n\nTopics Discussed:\nOpportunity Creation Process\nSamrat Mehta demonstrated how",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "249",
+      "title": "Akshay / AlphaSights",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5157832780156698153",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nAkshay / AlphaSights\nFeb 12, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:18\nSkip inactivity\n1x\nSummary\nDebrief\nAction items\nKey moments\nTranscript\nSummary unavailable\nWe can'",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "250",
+      "title": "Dr. Shamte - Innovaccer | Follow up",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/479375878563342268",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Hemant Jangir, Sandeep Duvvuru, Sandeep Kumar Ram",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on communication issues and coordination efforts related to a payment and scheduling a call with a third party.\n\nTopics Discussed:\nCommunication and Coordination\nDiscussion on the confusion caused by a misdirected email response, which was intended for another recipient",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "257",
+      "title": "Shivam / Keg - Sync",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3889262901657392993",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Shivam Chaddha, Keg Avakian",
+      "brand": "Unknown",
+      "summary": "The conversation was a brief check-in between Shivam Chaddha and Keg Avakian regarding their availability and participation in a recent All Hands call.\n\nTopics Discussed:\nAvailability and Connectivity\nKeg Avakian mentioned being in the car and expected to be home in about five minutes to be online i",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "265",
+      "title": "Philip Styne (Adventhealth)<> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5861985016283485658",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "John Hickey",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nPhilip Styne (Adventhealth)<> Innovaccer\nFeb 11, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:53\nSkip inactivity\n1x\nJohn Hickey\n100%\nAsk Copilot for insights on this call\nSumm",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "266",
+      "title": "Covenant Health <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4932252805153938105",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Mitch Anderson, I Anadi Shukla",
+      "brand": "Unknown",
+      "summary": "The meeting primarily revolved around personal updates and discussions on ongoing business opportunities and follow-ups.\n\nTopics Discussed:\nPersonal Updates\nMitch Anderson shared details about his son's wrist surgery follow-up. The son, who is almost 15, had a plate in his wrist that needs to be rem",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "276",
+      "title": "Paula Gustafson<>Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6764585418409706858",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Adarsh Rajput, Evan Boldt",
+      "brand": "Unknown",
+      "summary": "The meeting primarily revolved around coordinating attendance and communication with potential participants for a scheduled call.\n\nTopics Discussed:\nAttendance Confirmation\nAdarsh Rajput confirmed that an invite was accepted by a participant after a call, indicating their expected attendance.\nThere ",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "279",
+      "title": "Nicole Paulson<>Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5360143363656229287",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Adarsh Rajput, Evan Boldt",
+      "brand": "Unknown",
+      "summary": "The meeting centered around the challenges faced in ensuring a prospect's attendance for a scheduled call and the potential issues with email communication.\n\nTopics Discussed:\nProspect Attendance\nConcerns were raised about a prospect not accepting a calendar invite, despite verbal confirmation durin",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "283",
+      "title": "Amazon OneMedical Innovaccer Weekly Project Meeting",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/882287236320001322",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Kevin Weng",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nAmazon OneMedical Innovaccer Weekly Project Meeting\nFeb 10, 2026\nShare\nAdd to library\n10\n10\n00:00 / 02:16\nSkip inactivity\n1x\nKevin Weng\n100%\nAsk Copilot for insights on this",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "285",
+      "title": "Remote Patient Monitoring (HF/ HTN): Innovacer/Story Health",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/9017440283099328904",
+      "stages": [
+        "X2 - Shortlisted (Not a VOC)"
+      ],
+      "opportunity": "Northwestern Medicine_Story RFP",
+      "attendees": "Denise Nichols, David Chedester",
+      "brand": "Unknown",
+      "summary": "The meeting involved a discussion about technical issues related to flight cancellations and the use of AI for note-taking.\n\nTopics Discussed:\nFlight Cancellations\nDavid Chedester mentioned missing a meeting due to multiple flight cancellations from Sunday to Wednesday.\nAI Note-Taking\nDenise Nichols",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "287",
+      "title": "RFP Final Review: Penobscot",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/590106524418502698",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nRFP Final Review: Penobscot\nFeb 10, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:13\nSkip inactivity\n1x\nSummary\nDebrief\nAction items\nKey moments\nTranscript\nSummary unavailable\n",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "290",
+      "title": "Joseph Thompson - Todd Schwarzinger (CCF Ventures) - 30 Minutes",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1186195153385191820",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nJoseph Thompson - Todd Schwarzinger (CCF Ventures) - 30 Minutes\nFeb 10, 2026\nShare\nAdd to library\n10\n10\n00:00 / 01:18\nSkip inactivity\n1x\nSummary\nDebrief\nAction items\nKey mom",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "296",
+      "title": "WISeR Touch Base Innovaccer - CMMI",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5317421978010984236",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Claire Kihn, Nate Wienert, Chong-Kiskowski, Alexandra (CMS/CMMI), Jackie Villard",
+      "brand": "Unknown",
+      "summary": "The meeting primarily addressed technical issues related to managing participants in a virtual meeting environment.\n\nTopics Discussed:\nParticipant Management\nDiscussion on removing an unintended participant labeled as \"ambient\" from the meeting.\nNate Wienert and Alexandra Chong-Kiskowski discussed t",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "306",
+      "title": "Innovaccer Monday Meeting",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1832425877183027323",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nInnovaccer Monday Meeting\nFeb 9, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:44\nSkip inactivity\n1x\nAsk Copilot for insights on this call\nSummary\nDebrief\nAction items\nKey mome",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "307",
+      "title": "PCHC RFP Meeting",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3179929567952973103",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Wesley Sgroi, Nicoleostrowski, Glenn Kunigan, Sinthusinnadurai, Esha Soni",
+      "brand": "Unknown",
+      "summary": "The meeting centered around the team's progress on responding to a series of questions for the Penobscot RFP and the coordination of references for the proposal.\n\nTopics Discussed:\nRFP Response\nSinthusinnadurai highlighted that the team was selected as finalists for the Penobscot RFP and discussed t",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "309",
+      "title": "FW: MSO opportunity in Columbus",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3285047626751823921",
+      "stages": [
+        "X1 - BANT Qualified"
+      ],
+      "opportunity": "Trinity Health_MSO",
+      "attendees": "Bryan Ghiloni, Ross Cirincione, Stuart M. Kilpinen",
+      "brand": "Unknown",
+      "summary": "The meeting involved Bryan Ghiloni, Stuart M. Kilpinen, and Ross Cirincione, focusing on introductions and participation details.\n\nTopics Discussed:\nParticipant Introductions\nBryan Ghiloni and Stuart M. Kilpinen exchanged greetings and discussed their current states.\nRoss Cirincione joined the conve",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "313",
+      "title": "USRC, LabCorp, Innovaccer catchup",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3149631285070145373",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Will Pettinger",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nUSRC, LabCorp, Innovaccer catchup\nFeb 6, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:37\nSkip inactivity\n1x\nWill Pettinger\n100%\nAsk Copilot for insights on this call\nSummary\nD",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "323",
+      "title": "Innovaccer Friday Check-in",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8763412223957981603",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nInnovaccer Friday Check-in\nFeb 6, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:33\nSkip inactivity\n1x\nSummary\nDebrief\nAction items\nKey moments\nTranscript\nSummary unavailable\nWe",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "326",
+      "title": "ACHE dinner planning",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/126160157662222041",
+      "stages": [
+        "Engaged"
+      ],
+      "opportunity": "Longitude Health_Productivity_Provider",
+      "attendees": "Nicoleostrowski, Jay Levine, Sinthusinnadurai, Tatianapolin, Ali Zaman",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on the use of AI in meetings, logistical planning for an upcoming conference, and updates on team roles and responsibilities.\n\nTopics Discussed:\nUse of AI in Meetings\nDiscussion on the aggressive use of AI for documenting meetings and assisting with next steps.\nConcerns",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "337",
+      "title": "Innovaccer Connect - Introductory Call",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7230900465184051632",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Rich Fox, Robin McClendon, David Kaskoun, Sonali Dabas",
+      "brand": "Unknown",
+      "summary": "The meeting primarily revolved around coordinating a call with Melanie and addressing technical issues faced by the participants.\n\nTopics Discussed:\nCoordination with Melanie\nSonali Dabas attempted to contact Melanie multiple times without success.\nThe team decided to wait a few more minutes to see ",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "340",
+      "title": "Confirmed Onsite Discussion: Innovaccer l Mt. Sinai l Lisa Stump and Arshad l Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3204057677779805333",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Joseph Thompson",
+      "brand": "Unknown",
+      "summary": "The conversation appears to involve Joseph Thompson discussing a meeting setup and logistics.\n\nTopics Discussed:\nMeeting Setup\nJoseph Thompson inquires about the room availability for Sunday.\nDiscussion on who sent a particular link related to the meeting.\nMeeting Participation\nJoseph Thompson expre",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "341",
+      "title": "Daily testing with CGS",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4779500600643621641",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Sonal, Sabrina Mercedes, Sthompson, CGS, Hal Mothershed, Jackie Villard",
+      "brand": "Unknown",
+      "summary": "The meeting primarily addressed the issue of recording and sharing call transcripts for reference purposes.\n\nTopics Discussed:\nAttendance and Delays\nJackie Villard noted that some participants would be a few minutes late.\nThe group agreed to wait for all attendees to join before proceeding.\nRecordin",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": true
+    },
+    {
+      "sr_no": "346",
+      "title": "Call AI - Session 3",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1720117412418168454",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Call AI",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nCall AI - Session 3\nFeb 5, 2026\nShare\nAdd to library\n10\n10\n00:00 / 20:00\nSkip inactivity\n1x\nThemes timeline\nCall AI\n100%\nAsk Copilot for insights on this call\nSummary\nDebrie",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "350",
+      "title": "[Weekly Sync] CSH/Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5650367173119536804",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Madhu Palkar",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\n[Weekly Sync] CSH/Innovaccer\nFeb 5, 2026\nShare\nAdd to library\n10\n10\n00:00 / 01:30\nSkip inactivity\n1x\nThemes timeline\nMadhu Palkar\n100%\nAsk Copilot for insights on this call\n",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "357",
+      "title": "Greg Oelerich and David Friederichs",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2516607974964591713",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "David Friederichs, Goelerich",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nGreg Oelerich and David Friederichs\nFeb 4, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:19\nSkip inactivity\n1x\nDavid Friederichs\n55%\nGoelerich\n45%\nAsk Copilot for insights on t",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "361",
+      "title": "Srinivas Danda <> Innovaccer connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7050093076550862967",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Will Pettinger",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nSrinivas Danda <> Innovaccer connect\nFeb 4, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:54\nSkip inactivity\n1x\nWill Pettinger\n100%\nAsk Copilot for insights on this call\nSummar",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "366",
+      "title": "Michael Kozar (Alliant Management Services) <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/991735243662447025",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Prashasati Jain, Alex Garcia",
+      "brand": "Unknown",
+      "summary": "The meeting involved a discussion between Prashasati Jain and Alex Garcia regarding a scheduled consultation with a potential client in the rural healthcare sector.\n\nTopics Discussed:\nMeeting Confirmation\nConfirmation that the client accepted the meeting invite.\nDiscussion on the client's communicat",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "368",
+      "title": "Terri (Penn State Health) <> Innovaccer Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6476186130957551657",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Jayesh Jatolia, James Campbell",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on discussing campaign strategies, data management, and upcoming meetings with potential clients.\n\nTopics Discussed:\nCampaign and Data Management\nJames Campbell and Jayesh Jatolia discussed the status of a campaign involving a medical director of clinical informatics, e",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "371",
+      "title": "Goldie Olson - Ernest Health <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7541639080272286186",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "I_gunpreet Kour, Alex Garcia",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on addressing communication challenges and attendance issues related to scheduled meetings.\n\nTopics Discussed:\nMeeting Attendance\nDiscussion on the lack of response from Goldie Wilson, the National Director of Health Information Management, regarding meeting invitations",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "372",
+      "title": "Connect with Dr. Magoon",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5856897614691188475",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nConnect with Dr. Magoon\nFeb 4, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:12\nSkip inactivity\n1x\nAsk Copilot for insights on this call\nSummary\nDebrief\nAction items\nKey moment",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "373",
+      "title": "Payer Marketing (PayMark) <> Discussion | Weekly",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8876905350747266455",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Ritika Shaw, Dhanvir Singh, Hannah Schulyer, Abhishek Gautam1, Rich Fox, Krishnakant Patidar, Pankaj Deb, David Kaskoun, Alex Keltner, Lisa Lehtinen, Sonali Dabas, Pratyush Kumar, Michael Rime, I Abhinav Pandey",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on discussing strategies for improving outreach and engagement, as well as updates on ongoing projects and partnerships.\n\nTopics Discussed:\nWorkload and Meetings\nRich Fox and Sonali Dabas discussed the challenges of managing work and personal responsibilities, highlight",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "386",
+      "title": "Lacy / Innovaccer Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5643517107519111416",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "David Friederichs",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nLacy / Innovaccer Connect\nFeb 3, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:18\nSkip inactivity\n1x\nDavid Friederichs\n100%\nAsk Copilot for insights on this call\nSummary\nDebrie",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "389",
+      "title": "Amazon OneMedical Innovaccer Weekly Project Meeting",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1411140504209028717",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Npourian",
+      "brand": "Unknown",
+      "summary": "The conversation was a brief exchange of greetings between Jeremy Payonk and Anika Npourian.\n\nTopics Discussed:\nGreetings\nJeremy Payonk and Anika Npourian exchanged pleasantries.\nBoth individuals inquired about each other's well-being.\nConclusion:\n\nThe interaction was cordial, with both parties expr",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "391",
+      "title": "Philip Wu (AdventHealth) <> Innovaccer.com",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7145520172526398165",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "PKW554, John Hickey",
+      "brand": "Unknown",
+      "summary": "The meeting involved an introduction and discussion between John Hickey and PKW554, focusing on professional backgrounds and experiences.\n\nTopics Discussed:\nProfessional Introductions\nJohn Hickey introduced himself as an area vice president with Innovation, focusing on go-to-market business developm",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "394",
+      "title": "Mr. Swanstrom <> Innovaccer connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6844330213495435805",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Andy Kanwar, Yash Raj",
+      "brand": "Unknown",
+      "summary": "The conversation between Yash Raj and Andy Kanwar primarily revolved around communication and scheduling issues.\n\nTopics Discussed:\nCommunication Challenges\nDiscussion on the possibility of communication through unconventional means.\nMention of a call that was not picked up and the need to follow up",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "395",
+      "title": "IMP - SBD Deal Progression Enablement",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3523309753626643206",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Sumit Kumar, Pankaj Deb, Nalanda First Floor, Shivam Mattas",
+      "brand": "Unknown",
+      "summary": "The meeting was centered around discussing the tactics and processes involved in deal progression, particularly focusing on the stages within Salesforce and the coordination required for successful deal management.\n\nTopics Discussed:\nIntroduction and Purpose\nPankaj Deb introduced himself and outline",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "396",
+      "title": "PHM Engine SteerCo - Biweekly Rigor",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2805703091313233061",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Halenazy, Salmashari",
+      "brand": "Unknown",
+      "summary": "The meeting involved discussions on updates and changes related to routine tasks and meeting arrangements.\n\nTopics Discussed:\nRoutine Updates\nSalmashari mentioned updates related to routine tasks and a link associated with Dr. Caroline.\nThere was a brief mention of an episode titled \"hello\" and plan",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "397",
+      "title": "Innovaccer / Topmed training",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4390060586989430327",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Mtaha, Kunal Arora, Ahmed Mohamed Ragab, Maliwaly, Lwassem, Hmohamed, Swapnil (Innovaccer), Jeev Sahni, Vishal Thakur",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nInnovaccer / Topmed training\nFeb 3, 2026\nShare\nAdd to library\n10\n10\n00:00 / 2:32:54\nSkip inactivity\n1x\nThemes timeline\nKunal Arora\n49%\nSwapnil (Innovaccer)\n37%\nMaliwaly\n5%\nV",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "401",
+      "title": "Azeem and Will Touchbase",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/5391381265821974307",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nAzeem and Will Touchbase\nFeb 2, 2026\nShare\nAdd to library\n10\n10\n00:00 / 00:27\nSkip inactivity\n1x\nSummary\nDebrief\nAction items\nKey moments\nTranscript\nSummary unavailable\nWe c",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "409",
+      "title": "Asset HUB & DSR - Session 2",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2991344365468990981",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Call AI",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nAsset HUB & DSR - Session 2\nFeb 2, 2026\nShare\nAdd to library\n10\n10\n00:00 / 04:02\nSkip inactivity\n1x\nThemes timeline\nCall AI\n100%\nAsk Copilot for insights on this call\nSummar",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "412",
+      "title": "Innovaccer & CC [In-person]",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/505758412867074292",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nInnovaccer & CC [In-person]\nFeb 2, 2026\nShare\nAdd to library\n10\n10\n00:00 / 02:15\nSkip inactivity\n1x\nSummary\nDebrief\nAction items\nKey moments\nTranscript\nSummary unavailable\nW",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "415",
+      "title": "Innovaccer / Topmed training",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6602288640138627826",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Lokesh Saini, Kunal Arora, Ahmed Mohamed Ragab, Muhammad Hasballah, Maliwaly, Arpit Tyagi (Innovaccer), Jeev Sahni, Vishal Thakur, Tmaher, Amragab",
+      "brand": "Unknown",
+      "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nInnovaccer / Topmed training\nFeb 2, 2026\nShare\nAdd to library\n10\n10\n00:00 / 2:14:41\nSkip inactivity\n1x\nThemes timeline\nKunal Arora\n40%\nArpit Tyagi (Innovaccer)\n29%\nLokesh Sa",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "416",
+      "title": "Dr. Anas Hamad (HMC)<> Innovaccer || Introductory Call",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/738620535530499403",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Eashow Jacob, Jeev Sahni",
+      "brand": "Unknown",
+      "summary": "The conversation primarily revolved around coordinating a meeting and addressing scheduling conflicts.\n\nTopics Discussed:\nMeeting Coordination\nEashow Jacob attempted to contact another participant who was unavailable.\nJeev Sahni suggested waiting a few minutes for the participant to join.\nRescheduli",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "418",
+      "title": "Innovaccer <> Cedars-Sinai | Referral Management Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6704366074498036366",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Jonathan Martinezvargas",
+      "brand": "Unknown",
+      "summary": "The meeting involved Jonathan Martinezvargas and another participant discussing logistical issues and scheduling challenges due to travel delays.\n\nTopics Discussed:\nIntroduction and Roles\nJonathan Martinezvargas introduced himself as the Senior Performance Improvement Facilitator.\nThe meeting was in",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "424",
+      "title": "Innovaccer <> Community Catalyst",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2711514138280056960",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Tim Wager, Jimmy Bresee III, Glenn Kunigan",
+      "brand": "Unknown",
+      "summary": "The conversation primarily revolved around weather conditions and personal experiences related to it.\n\nTopics Discussed:\nWeather Conditions\nDiscussion on the current precipitation near Denver, where Jimmy is located.\nGlenn shared his experience of driving through the area in early February, noting t",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "426",
+      "title": "Alyssa Wren (Ohio Guidestone) <> Innovaccer Connect",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6331048390683294573",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Anshul Kumar, Arun Maithani",
+      "brand": "Unknown",
+      "summary": "The conversation between Arun Maithani and Anshul Kumar centered around coordinating a follow-up meeting and addressing a request from a client.\n\nTopics Discussed:\nClient Communication\nArun mentioned that a client expressed interest in speaking to a supervisor regarding their service needs.\nAnshul s",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "432",
+      "title": "VHC Prep | Coforge/Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8560446000340701016",
+      "stages": [
+        "X4 – Closed Won (Contract Executed)"
+      ],
+      "opportunity": "Coforge_Gravity",
+      "attendees": "Lisa Bari, Sheenu Kachru, Sandeep Joon, Wesley Sgroi, Sudeep Mehandru",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on discussing the partnership and collaboration between Innovaccer and CoForge, with a particular emphasis on their engagement with VHC.\n\nTopics Discussed:\nIntroductions and Backgrounds\nParticipants introduced themselves, sharing their roles and backgrounds. Sheenu Kach",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "435",
+      "title": "OrthoNebraska <> Innovaccer | Legal Team Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8897334698051433123",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Ryan Raess, Miranda Harrahill",
+      "brand": "Unknown",
+      "summary": "The meeting commenced with greetings and a brief discussion on the agenda, focusing on the topics to be covered and the possibility of needing an additional call.\n\nTopics Discussed:\nMeeting Agenda\nIntroduction and greetings among participants.\nDiscussion on the agenda and expected points of discussi",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": false
+    },
+    {
+      "sr_no": "441",
+      "title": "Innovaccer l Prior Auth l Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7079760996343334492",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Sandeep, Patrick Leonpacher",
+      "brand": "Unknown",
+      "summary": "The conversation appears to be a casual exchange among colleagues, focusing on light-hearted topics.\n\nTopics Discussed:\nCasual Greetings\nExchange of morning greetings among participants.\nHumor and Personalization\nLight-hearted banter about matching shirt colors to backgrounds.\nMention of personalizi",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "447",
+      "title": "Follow up - RCM Data Discussion",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/6992211618080838862",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Baz Patel, Himanshu Talwar",
+      "brand": "Unknown",
+      "summary": "The meeting was an introductory session where participants gathered to discuss updates and ensure all relevant individuals were present.\n\nTopics Discussed:\nParticipant Introduction\nHimanshu Talwar initiated the meeting with greetings and acknowledged the presence of Andre Dias and Marissa Lee.\nMaris",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": false
+    },
+    {
+      "sr_no": "448",
+      "title": "Banner 0057",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/1951078560464390767",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Akash Valecha, Varun Sirohi",
+      "brand": "Unknown",
+      "summary": "The conversation primarily revolved around pricing strategies, contract renewals, and subscription details.\n\nTopics Discussed:\nVisa and Travel Concerns\nVarun Sirohi mentioned issues related to visa stamping and travel plans involving India and the Middle East.\nPricing and Discounts\nDetailed discussi",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "452",
+      "title": "Colleen Goers and Will Peter Pettinger",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/2346914015491776089",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Colleen",
+      "brand": "Unknown",
+      "summary": "The conversation primarily revolved around Colleen's professional background and potential opportunities at Innovator, a data company focused on healthcare.\n\nTopics Discussed:\nColleen's Professional Background\nColleen shared her extensive experience in healthcare, particularly in radiation oncology ",
+      "has_budget": true,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "455",
+      "title": "Shivam / Keg - Sync",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/3619947729682729284",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Keg Avakian, Shivam Chaddha",
+      "brand": "Unknown",
+      "summary": "The meeting primarily focused on discussing ongoing tasks, addressing technical issues, and planning for upcoming events.\n\nTopics Discussed:\nTechnical Issues\nDiscussion on the Salesforce application being down, affecting access for everyone.\nShivam Chaddha has raised the issue with the relevant team",
+      "has_budget": false,
+      "has_timeline": true,
+      "has_growth": true
+    },
+    {
+      "sr_no": "457",
+      "title": "Dr. Juan Carlos Escandon <> Innovaccer",
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/8834470604762818239",
+      "stages": [],
+      "opportunity": "",
+      "attendees": "Hemant Jangir",
+      "brand": "Unknown",
+      "summary": "The conversation involved Hemant Jangir discussing communication attempts and decisions regarding a particular situation.\n\nTopics Discussed:\nCommunication Attempts\nHemant Jangir mentioned trying to reach someone who was not responding.\nHe expressed the intention to check with the individual again.\nD",
+      "has_budget": false,
+      "has_timeline": false,
+      "has_growth": true
+    }
+  ],
+  "pain_clusters": [],
+  "deal_pain_clusters": [
+    {
+      "theme": "Prospect Engagement and Communication Hurdles",
+      "description": "Prospects are unresponsive to outreach, difficult to schedule meetings with, or fail to attend scheduled calls, stalling deal progression.",
+      "count": 11,
+      "representative_sr_nos": [
+        "7",
+        "266",
+        "279"
+      ],
+      "stage_distribution": "Early Stage (Outreach, Discovery)"
+    },
+    {
+      "theme": "Prospect Internal Hurdles and Timing",
+      "description": "Qualification is blocked by prospect-side issues like budget freezes, lack of headcount, leadership changes, or unfavorable buying timelines.",
+      "count": 9,
+      "representative_sr_nos": [
+        "38",
+        "158",
+        "368"
+      ],
+      "stage_distribution": "All stages, often uncovered in Discovery/Qualification"
+    },
+    {
+      "theme": "Pricing, Contract, and Value Justification",
+      "description": "Prospects raise concerns about cost, contract terms, legal clauses, and the need for clear ROI or business value justification.",
+      "count": 7,
+      "representative_sr_nos": [
+        "12",
+        "30",
+        "118"
+      ],
+      "stage_distribution": "Mid to Late Stage (Proposal, Negotiation)"
+    },
+    {
+      "theme": "Sales Call Execution and Logistics",
+      "description": "Calls are disrupted by technical problems like audio failures, connectivity issues, or conflicts with meeting software like AI note-takers.",
+      "count": 7,
+      "representative_sr_nos": [
+        "202",
+        "285",
+        "337"
+      ],
+      "stage_distribution": "Any stage involving a virtual meeting"
+    },
+    {
+      "theme": "Vague or Undefined Pain Points",
+      "description": "The conversation lacks specific, actionable pain points, making it difficult to qualify the opportunity or determine next steps.",
+      "count": 6,
+      "representative_sr_nos": [
+        "18",
+        "126",
+        "218"
+      ],
+      "stage_distribution": "Early Stage (Discovery)"
+    },
+    {
+      "theme": "Product Fit and Technical Requirements",
+      "description": "Deals are complicated by concerns about product features, integration with existing systems, data security, and implementation complexity.",
+      "count": 5,
+      "representative_sr_nos": [
+        "11",
+        "133",
+        "203"
+      ],
+      "stage_distribution": "Mid Stage (Discovery, Evaluation, Demo)"
+    },
+    {
+      "theme": "Internal Sales Process Inefficiencies",
+      "description": "Sellers face challenges with internal tools, processes, or workflows that hinder their ability to effectively manage deals and RFPs.",
+      "count": 5,
+      "representative_sr_nos": [
+        "39",
+        "248",
+        "307"
+      ],
+      "stage_distribution": "Internal / Operational"
+    }
+  ],
+  "business_impacts": {
+    "categories": {},
+    "total_analyzed": 36
+  },
+  "growth_clusters": [],
+  "messaging": {},
+  "risk_signals": [
+    {
+      "type": "late_stage_no_budget",
+      "sr_no": "52",
+      "title": "Innovaccer <> Viva Health - Kick Off (In Person)",
+      "stages": [
+        "Nurture",
+        "X4 – Closed Won (Contract Executed)",
+        "Closed Lost"
+      ],
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7408352036184523182"
+    },
+    {
+      "type": "late_stage_no_key_players",
+      "sr_no": "52",
+      "title": "Innovaccer <> Viva Health - Kick Off (In Person)",
+      "stages": [
+        "Nurture",
+        "X4 – Closed Won (Contract Executed)",
+        "Closed Lost"
+      ],
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/7408352036184523182"
+    },
+    {
+      "type": "late_stage_no_budget",
+      "sr_no": "96",
+      "title": "Innovaccer_Cured <> HFHS Sync",
+      "stages": [
+        "X4 – Closed Won (Contract Executed)"
+      ],
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/903770332584482277"
+    },
+    {
+      "type": "late_stage_no_key_players",
+      "sr_no": "96",
+      "title": "Innovaccer_Cured <> HFHS Sync",
+      "stages": [
+        "X4 – Closed Won (Contract Executed)"
+      ],
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/903770332584482277"
+    },
+    {
+      "type": "late_stage_no_budget",
+      "sr_no": "161",
+      "title": "discuss with business API topic",
+      "stages": [
+        "X4 – Closed Won (Contract Executed)",
+        "X1 - BANT Qualified",
+        "Upcoming Meeting"
+      ],
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4801571165247002038"
+    },
+    {
+      "type": "late_stage_no_key_players",
+      "sr_no": "161",
+      "title": "discuss with business API topic",
+      "stages": [
+        "X4 – Closed Won (Contract Executed)",
+        "X1 - BANT Qualified",
+        "Upcoming Meeting"
+      ],
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/4801571165247002038"
+    },
+    {
+      "type": "late_stage_no_budget",
+      "sr_no": "285",
+      "title": "Remote Patient Monitoring (HF/ HTN): Innovacer/Story Health",
+      "stages": [
+        "X2 - Shortlisted (Not a VOC)"
+      ],
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/9017440283099328904"
+    },
+    {
+      "type": "late_stage_no_key_players",
+      "sr_no": "285",
+      "title": "Remote Patient Monitoring (HF/ HTN): Innovacer/Story Health",
+      "stages": [
+        "X2 - Shortlisted (Not a VOC)"
+      ],
+      "url": "https://innovaccer.mindtickle.com/new/ui/callai/recording/9017440283099328904"
+    }
+  ]
+}
