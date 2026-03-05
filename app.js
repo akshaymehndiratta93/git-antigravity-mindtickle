@@ -156,10 +156,6 @@ function renderOverview() {
     document.getElementById('overviewTitle').textContent = `Brand Overview — ${data.brand}`;
 
     renderStageDistribution(data.kpis.stage_distribution);
-    renderPainClusters(data.pain_clusters, data.deal_pain_clusters);
-    renderBusinessImpacts(data.business_impacts);
-    renderGrowthSignals(data.growth_clusters);
-    renderQualSnapshot(data.qualification_by_stage);
     renderOverviewCallTable(data.call_list);
     renderDrillFilters();
 }
@@ -326,11 +322,12 @@ function renderOverviewCallTable(calls, filter = '') {
     body.innerHTML = shown.map(c => `
         <tr>
             <td><strong>${c.sr_no}</strong></td>
-            <td>${truncate(c.title, 50)}</td>
+            <td>${truncate(c.title, 40)}</td>
             <td>${c.stages.map(s => `<span class="drill-btn" style="padding:2px 6px;font-size:10px;cursor:default">${s}</span>`).join(' ')}</td>
             <td>${truncate(c.opportunity, 30)}</td>
-            <td><span class="status-dot ${c.has_budget ? 'yes' : 'no'}"></span>${c.has_budget ? 'Yes' : 'No'}</td>
-            <td><span class="status-dot ${c.has_timeline ? 'yes' : 'no'}"></span>${c.has_timeline ? 'Yes' : 'No'}</td>
+            <td><div class="row-pain-point" title="${c.pain_point || ''}">${truncate(c.pain_point || '—', 60)}</div></td>
+            <td><span class="status-dot ${c.has_authority ? 'yes' : 'no'}"></span>${c.has_authority ? 'Yes' : 'No'}</td>
+            <td><span class="status-dot ${c.has_need ? 'yes' : 'no'}"></span>${c.has_need ? 'Yes' : 'No'}</td>
             <td>${c.url ? `<a href="${c.url}" target="_blank" class="link-btn"><i data-lucide="external-link"></i> Open</a>` : '—'}</td>
         </tr>
     `).join('');

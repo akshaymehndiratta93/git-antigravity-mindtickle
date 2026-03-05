@@ -378,7 +378,10 @@ def build_call_list(calls: list[dict]) -> list[dict]:
             "attendees": c.get("Attendees", ""),
             "brand": c.get("Brand Discussed", ""),
             "summary": c.get("Summary", "")[:300],
+            "pain_point": c.get("Debrief - Customer Pain Point - Problems & Challenges", "")[:200],
             "has_budget": is_defined(c.get("Debrief - Deal Qualification - Pricing & Budget", "")),
+            "has_authority": is_defined(c.get("Debrief - Deal Qualification - Key Players", "")),
+            "has_need": is_defined(c.get("Debrief - Deal Qualification - Pain Points", "")),
             "has_timeline": is_defined(c.get("Debrief - Deal Qualification - Timeline", "")),
             "has_growth": is_defined(c.get("Debrief - Account Health - Growth Opportunities", "")),
         })
