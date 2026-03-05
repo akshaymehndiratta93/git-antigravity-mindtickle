@@ -862,12 +862,15 @@ body {
     vertical-align: top;
 }
 
+/* Exact Text Column */
 .row-pain-point {
-    max-width: 300px;
-    font-size: 12px;
+    max-width: 450px;
+    min-width: 300px;
+    white-space: normal;
     color: var(--text-secondary);
+    font-size: 13px;
     line-height: 1.4;
-    cursor: help;
+    cursor: default;
 }
 
 .data-table tbody tr {

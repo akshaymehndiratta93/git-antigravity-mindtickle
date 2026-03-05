@@ -416,7 +416,10 @@
       "attendees": "Puneet Kochhar, David Friederichs, Brian Silverstein, MD, Galen Manning, Chelsea Kelley",
       "brand": "Atlas",
       "summary": "The meeting primarily focused on data validation, file extraction, and resource allocation for ongoing projects.\n\nTopics Discussed:\nMeeting Schedule\nDiscussion on the cancellation of the monthly call next week and the plan to consolidate updates in the March meeting due to scheduling challenges.\nDat",
+      "pain_point": "Difficulty in scheduling meetings due to key personnel's limited availability (e.g., \"Brian's time is incredibly hard.\").\nDelay in data onboarding, currently a couple of weeks behind schedule.\nBarriers in obtaining claims files and validating Epic data.\nLimited data extraction currently only for MSSP population; need to extend to other contracts.\nLack of data availability for independent practices, specifically THP practices.\nMissing or incomplete historical files from payers such as Blue Cross Blue Shield and Aetna.\nChallenges in accessing payer data due to site administrator issues and approval delays.\nInconsistent or missing files in archives, requiring efforts to track down or regenerate files.\nNaming convention mismatches causing difficulties in identifying files correctly.\nPotential workload increase on internal teams to expedite file acquisition.\nRisk of falling further behind schedule without forcing functions like steering committee meetings.\nNeed to validate data quality and completeness to ensure accurate quality measures.\nSome practices declining to assist with data provision, requiring alternative approaches.\nUncertainty about the impact of missing files on overall data processing and contract compliance.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -437,7 +440,10 @@
       "attendees": "Sumit Choudhary, John Hickey, Christopher Hollberg, Sandeep Duvvuru",
       "brand": "Atlas",
       "summary": "The meeting primarily focused on the analysis and improvement of care management strategies, particularly in reducing patient readmissions and the potential implementation of AI tools to enhance efficiency.\n\nTopics Discussed:\nCare Management Performance\nPresentation of positive results from the Care",
+      "pain_point": "Readmissions increase after 30 days post-discharge, indicating a gap in long-term patient follow-up.\nCurrent care management efforts reduce readmissions in first 30 days but less effective in 31-90 day window.\nData from post-acute care partners is infrequent and outcomes data is not great.\nExisting systems are fragmented across markets (multiple platforms like Nuance, Oracle Cerner, Epic, Arcadia).\nLimited capacity to scale care management to larger patient populations (e.g., Medicare fee-for-service) due to resource constraints.\nNeed for improved workflow and risk stratification to identify high-risk patients for readmission.\nContracting and service order approvals can delay pilot and rollout deployments.\nCoordination challenges in scheduling leadership strategy sessions.\nPharmacy team staffing and AI governance require alignment and support.\nPotential risk if pilot does not deliver expected value leading to stopping the rollout.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -455,7 +461,10 @@
       "attendees": "Puneet Kochhar, Jason Leonard, Amanda’s Phone, Amanda Benites, Andre Dias, Sandeep Mantri, Prasath Venkatraman, finert, Smriti Kirubanandan",
       "brand": "Atlas",
       "summary": "The meeting centered around discussing the implementation and potential pilot of a new platform, Gravity, for Prisma Health, focusing on transition care management (TCM) and other use cases.\n\nTopics Discussed:\nGravity Platform Overview\nIntroduction to the Gravity platform, which expands beyond the p",
+      "pain_point": "Buyer expressed challenges managing multiple priorities and innovation meetings.\nBuyer highlighted lack of scheduling integration for independent groups compared to Prisma practices.\nBuyer described network side lacking good processes for discharge follow-up and scheduling.\nBuyer described variability and lack of standardization across independent practices.\nBuyer described difficulty in matching correct providers for discharged patients due to payer attribution vs. actual patient visits.\nBuyer described challenges with data extraction and query flexibility in current tools, leading to high data costs and frustration.\nBuyer described the need for agents to handle outreach calls and scheduling due to lack of time and resources in practices.\nBuyer described challenges in documenting outreach attempts required for billing and compliance.\nBuyer described the risk of solutions being financially untenable or not adopted due to human behavior and workflow changes.\nBuyer described the need to avoid overly billing-centric solutions that are not patient-centric.\nBuyer described challenges with multiple EMRs and lack of assertive scheduling interfaces.\nBuyer described the need for scalable, standardized solutions to avoid highly customized workflows for each practice.\nBuyer described frustration with existing data platforms not delivering promised capabilities.\nBuyer described challenges in coordinating between practices, patients, and clinical teams for transition of care management.\nBuyer described challenges in capturing audit trails and documentation for billing purposes.\nBuyer described the need for pilot participants to agree to standardized workflows to enable scalability.\nBuyer described challenges in ensuring timely follow-up visits within expected windows to reduce readmissions.\nBuyer described challenges in integrating with multiple independent practices with different workflows and EMRs.\nBuyer described challenges in balancing ROI expectations with realistic workflow adoption and human factors.\nBuyer described challenges in managing data quality, governance, and security across multiple systems and users.\nBuyer described challenges in providing easy-to-use query tools without incurring high data costs.\nBuyer described challenges in coordinating internal teams and external vendors for outreach and scheduling.\nBuyer described challenges in ensuring agents operate within clinical guardrails and regulatory compliance.\nBuyer described challenges in monitoring agent performance and handling exceptions or failures.\nBuyer described challenges in building trust and adoption among clinical and business leaders for AI-driven solutions.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -468,7 +477,10 @@
       "attendees": "Bghiloni, Joe Thompson, Brian Silverstein, MD, Frank Fasano, Ross Cirincione",
       "brand": "Atlas",
       "summary": "The meeting centered around the completion of a discovery document and strategic discussions regarding partnerships and market expansion.\n\nTopics Discussed:\nDiscovery Document\nRoss Cirincione updated the discovery document with answers to outstanding questions and shared it with Joe Thompson.\nThe do",
+      "pain_point": "Buyer expressed concern about the fragility of their relationship with independent physicians and the need to maintain trust.\nBuyer highlighted physician burnout and resistance to EMR conversions as a significant barrier.\nBuyer acknowledged the challenge of getting independent physicians to share clinical and financial data.\nBuyer noted the competitive threat from private equity-backed models attracting practices away.\nBuyer indicated the difficulty in expanding the clinically integrated network due to suspicion and need for hand-holding.\nBuyer identified the need for a reliable product with better reimbursement rates to maintain and grow partnerships.\nBuyer mentioned the challenge of managing revenue cycle processes and payer interactions.\nBuyer recognized the importance of competitive response to OhioHealth and Privia's offerings.\nBuyer pointed out the economic impact of downstream utilization on surgery centers and hospital systems as a pain point.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -481,7 +493,10 @@
       "attendees": "Keg Avakian, Shivam Chaddha, Mmossburg",
       "brand": "Atlas",
       "summary": "The meeting centered around introductions and discussions on healthcare solutions, particularly focusing on population health management and the capabilities of Innovator's platform.\n\nTopics Discussed:\nIntroductions\nShivam Chaddha introduced Keg Avakian as the area vice president managing health sys",
+      "pain_point": "Seller questions:\n\n\"Are there gaps in solutioning or delivery perspective?\"\n\"Is there anything Athena doesn't provide that you might lose moving away from Novena?\"\n\"Are there areas that have insufficiencies that may need to be approached?\"\n\"Are there initiatives or areas you could do better?\"\n\nBuyer statements:\n\nManual processes for population health are labor-intensive and tracking data analytics is painful.\nNovena's quality solution was inferior to their manual and automated workflows, leading them to turn it off.\nPhysician participation in coding specificity improvement is low, limiting RAF score improvements.\nContract management could be improved, especially cross-referencing contracts, payments, and denials.\nCapturing quality metrics data outside the EMR system is challenging due to incomplete data from regional organizations not always members of HIE.\nProactive patient outreach is limited by lack of timely data from payers.\nParagon inpatient and Athena ambulatory systems do not communicate well, causing integration issues.\nFinancial constraints prevent switching to more expensive EMR systems like Epic.\nInternal buy-in and awareness among leaders for better solutions is limited, affecting budgeting and adoption.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -494,7 +509,10 @@
       "attendees": "Mitch Anderson, Kessler Brown, Connor Johnson, Gyarbrough, Jonathan Brown",
       "brand": "Atlas",
       "summary": "The meeting centered around discussing strategic plans and solutions for enhancing primary care growth and addressing challenges faced by the organization.\n\nTopics Discussed:\nIntroduction and Vision\nMitch Anderson introduced the meeting's purpose, focusing on discussing a five-year plan and addressi",
+      "pain_point": "Buyer faces reimbursement pressure and challenges for independent providers delivering care.\nBuyer experiences administrative burden on providers, especially independent ones.\nCurrent MSO services are clunky and lack pure base blocking and tackling for MSSP, ACO, and CIN from data integration and care management perspectives.\nBuyer has concerns about the current data warehouse (Caboodle) as a source of truth.\nSensitivity within the organization about adopting non-Epic care management solutions.\nCompetition from new market entrants with advanced capabilities recruiting primary care providers.\nDifficulty in maintaining patient attribution and managing patient churn.\nLack of care management for a large portion of lives, representing an untapped opportunity.\nNeed for better data infrastructure and analytics to support value-based care and contract analysis.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -507,7 +525,10 @@
       "attendees": "Kessler Brown, Scharioma, Joseph Thompson",
       "brand": "Atlas",
       "summary": "The meeting centered around planning and preparation for an upcoming demonstration and potential partnership, with discussions on logistics, presentation content, and strategic alignment.\n\nTopics Discussed:\nEvent Planning\nJoseph Thompson confirmed plans for a meeting next week, with key individuals ",
+      "pain_point": "Buyer acknowledges the organization has struggled with analytics and abandoned previous analytics programs.\nBuyer states that risk stratification was not actively used before and the care management model was weak (clinical referral based).\nBuyer describes the care management team as overwhelmed by the volume of patients identified through early models.\nBuyer notes resistance or lack of understanding among nurses and physicians regarding analytics and value-based care.\nBuyer indicates the primary care model is outdated and needs transformation.\nBuyer mentions that physicians have not personally felt the effects of managing care costs under value-based care.\nBuyer highlights that the care management team is not fully engaged or educated on analytics and risk stratification.\nBuyer points out that the organization has a closed environment with limited external perspectives.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -520,7 +541,10 @@
       "attendees": "Zhennessey, Kshitij Joshi, I_nandini Sharma",
       "brand": "Atlas",
       "summary": "The meeting centered around discussing the integration of technology and artificial intelligence in healthcare, particularly focusing on the Medicaid program and social care networks in New York.\n\nTopics Discussed:\nConference Feedback and Technology Strategy\nZhennessey attended a conference to explo",
+      "pain_point": "Buyer expressed concerns about overlapping capabilities within their existing technology stack.\nBuyer worried about products offering too much but lacking strength in core engineered capabilities.\nBuyer noted that the payments platform under Unite Us is not sufficiently sophisticated for their revenue cycle management needs.\nBuyer indicated that their current technology infrastructure feels rigid and requires building new connections for each new need.\nBuyer highlighted the challenge of managing a large population without robust population health capabilities.\nBuyer is uncertain about whether gaps in their technology can be solved with interoperability or if new products are needed.\nBuyer is cautious about products that have acquired features that are not their core strengths, which could lead to bad situations.\nBuyer is in the process of mapping out scenarios for building AI within their existing stack or moving to a partner solution.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -533,7 +557,10 @@
       "attendees": "Rasheed Baqai, Jay Levine, Melanie M Kuderka, Brian Ednie",
       "brand": "Atlas",
       "summary": "The meeting served as an introductory call to transition responsibilities to Brian Ednie and discuss potential collaborations between Quest and the team, focusing on physician marketing and strategic partnerships.\n\nTopics Discussed:\nTransition and Introductions\nJay Levine introduced Brian Ednie, who",
+      "pain_point": "Seller asks: \"What are the challenges? What is your wish list?\"\nBuyer states: \"Data sharing is always a big challenge.\"\nBuyer states: \"Gaps in care are a big issue, for example ensuring patients get timely A1C checks and medication tracking.\"\nSeller states: \"ACO organizations are not well capitalized and reluctant to spend money.\"\nSeller states: \"Attribution in fee-for-service memberships is hazy and membership can change daily.\"\nBuyer states: \"Challenges in tying data back to patients to ensure follow-up testing and tracking health scores.\"\nBuyer states: \"Patient engagement and behavior change is challenging both through providers and direct to consumer.\"\nSeller states: \"Need to better organize diagnostic data and find leading indicators to predict patient needs ahead of time.\"\nBuyer states: \"Data integration and interoperability issues with multiple partners and platforms.\"\nBuyer states: \"Difficulties in creating systematic engines to impact population health and cost savings.\"",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -546,7 +573,10 @@
       "attendees": "Mreed, Vaibhav Kapil",
       "brand": "Atlas",
       "summary": "The meeting was a discussion between Vaibhav Kapil and Mreed, focusing on healthcare data management and potential solutions for clinical operations.\n\nTopics Discussed:\nIntroduction and Background\nVaibhav Kapil introduced himself as a business consultant specializing in healthcare data challenges.\nM",
+      "pain_point": "Seller asks about provider burden and documentation overload.\nBuyer states:\nBiggest challenges are language and cultural barriers.\nCompliance to follow-up is difficult.\nDifficulty getting patients to complete and return colorectal cancer screening kits.\nChallenges reaching patients due to invalid phone numbers and changing addresses.\nPatient adherence to clinical recommendations is low.\nBabies in pediatric program are not compliant with monthly visits in the first year; drop-off at 6-8 months.\nStruggling with vaccine adherence for babies (pediatric immunizations).\nLosing opportunities to retain mothers in prenatal and family primary care postpartum.\nOverall patient adherence to clinical outcomes is a significant challenge.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -559,7 +589,10 @@
       "attendees": "loganferrie, Ashish Gupta",
       "brand": "Atlas",
       "summary": "The meeting centered around discussing the partnership between Ashish Gupta's organization and Logan Ferrie's company, focusing on the CMS program and the Access model.\n\nTopics Discussed:\nPartnership and Conference Insights\nLogan Ferrie expressed interest in learning more about the new racer and CMS",
+      "pain_point": "Seller asks about problems: \"How any care managers and people who are actually involved in the care delivery, how they can step out from their different processes?\"\nBuyer implies challenge: \"Trying to get more legs or more reach in terms of existing capability.\"\nBuyer implies challenge: \"We don't have RPM and CCM capabilities internally.\"\nBuyer expresses uncertainty about revenue flow and economics of Access program impacting ACO economics.\nBuyer notes challenge: \"Need to see how Access revenues factor into ACO economics and benchmarks.\"\nBuyer notes challenge: \"For smaller practices, incremental revenue is meaningful but mindshare and resources are limited.\"\nBuyer notes challenge: \"Need to keep data management light on providers and network.\"\nBuyer notes challenge: \"Uncertainty about revenue model and flow of funds with affiliate providers and story Health.\"\nSeller acknowledges: \"CMS has laid out pricing but revenue model is still being identified.\"",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -572,7 +605,10 @@
       "attendees": "Kessler Brown, Scott Kehn, Keg Avakian",
       "brand": "Atlas",
       "summary": "The meeting primarily focused on discussing the agenda and preparation for upcoming presentations, as well as addressing specific client opportunities and challenges.\n\nTopics Discussed:\nAgenda and Presentation Preparation\nKeg Avakian discussed the need to arrange the agenda based on the slide deck r",
+      "pain_point": "Buyer expresses concern that Lee Memorial is a small facility (100 beds) with low affiliation and communication with Pro Medica, making scaling difficult.\nBuyer questions whether pursuing Lee Memorial is worthwhile or if they should send a 'Dear John' letter to discontinue efforts.\nChallenge of small facility size making solutions potentially unprofitable.\nMcLaren Medical Group has paused acquisitions due to HR 1 bill and revenue loss.\nDifficulty in getting timely responses and scheduling meetings.\nConcern about whether the readmission program addresses the financial impacts of HR 1 bill.\nPotential loss of revenue due to Medicaid cuts and increase in uninsured patients affecting hospital payments.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -585,7 +621,10 @@
       "attendees": "Amurray, Vaibhav Kapil",
       "brand": "Atlas",
       "summary": "The meeting was centered around discussing the partnership between Amurray's company and Innovator, focusing on evidence-based content integration and exploring opportunities for collaboration in healthcare data management.\n\nTopics Discussed:\nPartnership Overview\nAmurray explained their role in mana",
+      "pain_point": "Buyer highlights providers face data challenges: lack of data visibility, difficulties in data reporting, and revenue leakage.\nBuyer mentions challenges with prior authorizations and denial management.\nBuyer notes the problem of disparate, non-homogenized data from multiple EHR systems across different care settings (hospital, rehab, nursing home, physician offices), causing difficulty in tracking patients and financial responsibility.\nSeller emphasizes the challenge for hospitals financially responsible for patients post-procedure to track patient data across multiple systems.\nBuyer indicates providers need to identify gaps in data and workflows to prepare for CMS Access.\nSeller notes care managers need to ensure patients with chronic conditions receive appropriate care and follow-up, which can be challenging without proper guidance and data integration.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -598,7 +637,10 @@
       "attendees": "Ashul Govil, Ellen Mcginnis, Loneal",
       "brand": "Atlas",
       "summary": "The meeting centered around discussing the collaboration between Story Health and a medical practice to enhance patient care through remote patient monitoring and care management.\n\nTopics Discussed:\nIntroduction to Story Health\nEllen McGinnis introduced Story Health's programs focused on heart failu",
+      "pain_point": "Seller asks about remote patient monitoring problems the buyer faces.\nBuyer implies challenges with current remote patient monitoring company (Health Numeric) having gaps in care.\nBuyer mentions high turnover rate at Adrian office affecting patient care.\nBuyer mentions being understaffed with only two nurses managing care, with one retiring soon.\nBuyer mentions difficulty managing all patient care needs alone.\nSeller discusses patient barriers such as transportation, medication costs, and lab access.\nBuyer acknowledges challenges in managing care with limited staff and resources.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -613,7 +655,10 @@
       "attendees": "Vaibhav Kapil, Kruti Sutaria",
       "brand": "Atlas",
       "summary": "The meeting was centered around discussing potential solutions for Brigade Health's data management and documentation challenges in their geriatric medicine practice.\n\nTopics Discussed:\nIntroduction and Background\nVaibhav Kapil introduced themselves as a business consultant specializing in healthcar",
+      "pain_point": "Providers are not fully equipped to handle all documentation requirements for value-based care.\nProviders experience burnout due to extensive documentation demands despite having support staff.\nProviders rely on pen and paper during patient visits, limiting real-time access to patient data.\nLack of pre-charting due to unpredictable patient schedules makes preparation difficult.\nFacilities' EMRs are not integrated with Brigade Health's systems, causing manual data collection and lack of timely patient information.\nNo visibility into vital signs or unusual patient behavior unless manually communicated.\nCoding gaps and condition capture rates are not well tracked or measured.\nProviders and medical assistants have limited access to suspected or missed conditions before encounters.\nDifficulty in acting on patient information during encounters due to limited technology use and workflow constraints.\nNeed for a platform that integrates seamlessly with Canvas and fits the unique workflow of mobile geriatric providers.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -626,7 +671,10 @@
       "attendees": "Arun Maithani, Ashish Gupta, Berenice V. Diaz",
       "brand": "Atlas",
       "summary": "The meeting was centered around discussing the capabilities and offerings of Innovation, particularly focusing on reducing 30-day readmissions and improving care management.\n\nTopics Discussed:\nIntroduction and Roles\nArun Maithani introduced Ashish Gupta as the subject matter expert.\nBerenice V. Diaz",
+      "pain_point": "Seller asks: \"Is there anything on top priority other than reducing 30-day readmissions in acute care settings?\"\nBuyer states: \"Trying to learn more about how to address issues and improve our Transitional Care program.\"\nBuyer mentions: \"We have seen a steady increase in admissions and complications.\"\nSeller asks: \"Do you have any challenges with prior authorization?\"\nBuyer states: \"No, keys management is usually very well.\"\nBuyer implies challenges in managing care coordination and patient follow-up to reduce readmissions and complications.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -639,7 +687,10 @@
       "attendees": "Whitney Wilson, Jmfones",
       "brand": "Atlas",
       "summary": "The meeting primarily focused on discussing the implementation of Epic tools and the challenges faced by the organization in managing population health and risk contracts.\n\nTopics Discussed:\nEpic Implementation\nThe organization is on track to go live with Epic in December.\nDiscussion on the Healthy ",
+      "pain_point": "Buyer expressed uncertainty about affordability of pricing for the solution given their size and current contracts.\nBuyer described Meditech as inadequate for population health, lacking basic reporting and usable data.\nBuyer expressed unknowns about what Epic's Healthy Planet tool can do and what additional costs might be incurred.\nBuyer uncertain about appetite and timing for investing in tools to prepare for risk contracts.\nBuyer described challenges with prior authorization and denials, particularly with MA plans.\nBuyer described issues with lab results (e.g., A1C) not making it to billing, causing missed quality measures and impacting star ratings.\nBuyer expressed concern about whether Epic's tools will solve these operational challenges or if additional solutions are needed.\nBuyer noted meeting fatigue and resource constraints during Epic implementation.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -652,7 +703,10 @@
       "attendees": "Ydelaune, John Hickey, Andrew Principe",
       "brand": "Atlas",
       "summary": "The meeting was a follow-up discussion focusing on the integration and capabilities of actuarial tools and pricing proposals for a healthcare network.\n\nTopics Discussed:\nActuarial Capabilities\nDiscussion on the need for deeper insights into actuarial capabilities, particularly in financial and cost ",
+      "pain_point": "Buyer wants to reduce duplication and overlap of analysis currently done by Wakeley.\nBuyer is concerned about noise and wants very crisp, clear answers from the system.\nBuyer highlights financial struggles of FQHCs, with an auditor predicting one in three clinics may close over the next three years.\nBuyer notes lack of agility and flexibility in current Azara platform.\nBuyer is sensitive to pricing due to limited financial resources of their network.\nBuyer expresses concern about contract and pricing complexity, especially with multiple clinics and coalition partners.\nData integration challenges: need to coordinate data feeds and mapping across multiple clinics and systems.\nNeed to avoid duplication of data feeds and interfaces to reduce costs and complexity.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -665,7 +719,10 @@
       "attendees": "Arunab Mehta, David Chedester, Keg Avakian",
       "brand": "Atlas",
       "summary": "The meeting centered on discussing the implementation and benefits of Story Health's platform for managing heart failure patients, with a focus on remote monitoring and cost-effectiveness.\n\nTopics Discussed:\nTechnical Issues and Introductions\nDavid Chedester experienced camera issues due to a recent",
+      "pain_point": "Seller asked about what is working well to keep heart failure readmission rates below penalty.\nBuyer implied challenges with patient to APP ratio in clinics (high workload).\nBuyer acknowledged internal transitions and staffing changes in Cardiology division.\nBuyer expressed concern about cost and budget constraints impacting adoption of new programs.\nBuyer noted the question of whether the cost of the service is worth the benefit.\nSeller noted Kettering had one of the worst heart failure readmission rates in the US and lacked staffing/resources to add headcount.\nBuyer acknowledged difficulty in getting budget approval for new programs due to financial constraints.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": false
     },
@@ -678,7 +735,10 @@
       "attendees": "David Willyard, Brittenymatero",
       "brand": "Atlas",
       "summary": "The meeting centered around exploring opportunities for expanding healthcare services and technology in Alaska, particularly focusing on rural populations and leveraging available funding.\n\nTopics Discussed:\nAlaska Healthcare Opportunities\nBrittenymatero shared insights about the healthcare landscap",
+      "pain_point": "Buyer mentions drifting apart from PSW and some issues that have recently been remedied, implying past relationship challenges.\nBuyer identifies technical issues related to data feeds that need to be fixed within the next two weeks.\nSeller notes a significant gap in social needs within the state of Alaska, which may be a challenge for current care models.\nNo explicit mention of dissatisfaction with current tools or processes beyond the technical data feed issues.\nNo other explicit problems or pain points discussed.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -694,7 +754,10 @@
       "attendees": "Dhanvir Singh, Rich Fox, Diem Trang Le, Smcbeth, Nikki Davis, Jim Hong, Michelle Zilisch, Abakshandeh, Nreams",
       "brand": "Atlas",
       "summary": "The meeting was centered around introductions and discussions on predictive modeling and data integration for healthcare operations.\n\nTopics Discussed:\nIntroductions\nParticipants introduced themselves, highlighting their roles and responsibilities within their respective organizations.\nPredictive Mo",
+      "pain_point": "Seller questions:\n\"How do we target patients and prioritize them within even cohorts?\"\n\"How do we prove that what we're doing is in fact working?\"\nBuyer statements:\nLack of likelihood to engage models that are machine learning based for admission prediction or readmission.\nExisting engagement likelihood models are related to campaign management, not clinical impact.\nNeed to identify modifiable impactable patients, not just high cost or high risk.\nChallenge in targeting patients for right time, right care, and likelihood to engage.\nNeed for models that can measure outcomes and prove effectiveness of interventions.\nDesire for composite models combining clinical risk and engagement likelihood.\nNeed for explainable models to guide appropriate care team interventions (e.g., health coach vs social worker).",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -707,7 +770,10 @@
       "attendees": "Bghiloni, Joe Thompson, Brian Silverstein, MD, Frank Fasano, Ross Cirincione",
       "brand": "Atlas",
       "summary": "The meeting centered around the strategic partnership between Trinity Health System and Innovator, focusing on business development and technology integration.\n\nTopics Discussed:\nIntroduction and Background\nJoe Thompson introduced the ongoing initiative with Trinity Health System, highlighting the c",
+      "pain_point": "Independent physicians lack a current referral platform after the previous solution (Crimson medical referrals) was discontinued and never replaced.\nIndependent physicians face frustration due to lower reimbursement rates compared to employed physicians and competitors like Privia.\nPayers have become less willing in recent years to give enhanced fee schedules to independent physicians using their own TINs.\nThe market is experiencing a \"war for talent\" with physician turnover driven mostly by reimbursement issues.\nPhysicians are reluctant to switch EHR systems due to the pain and disruption involved.\nThe existing referral module is not yet fully developed or elegant, especially in managing complex networks and differentiating among multiple orthopedics.\nThere is a challenge in creating a high-value network with effective referral management.\nThe administrative burden on physicians is high, and current tools are insufficient to simplify or automate workflows.\nCompetition from VC-backed companies like Privia threatens the network by attracting independent physicians away.\nDifficulty in consolidating TINs to achieve better reimbursement rates.\nThe need to create physician alignment across independent, clinically integrated, and employed groups to maintain referral networks and downstream opportunities.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -720,7 +786,10 @@
       "attendees": "Drew Chi, Shreya Bhokardankar, Himanshu Talwar, Vijaykumar Viradia, Ckim, Aaraullo, Ecuello, Aisha F Iqbal, Prashant Mishra, Amy Stevens - Innovaccer, Naquino, Ggomez",
       "brand": "Atlas",
       "summary": "The meeting was convened to discuss the termination of a program agreement between East Valley and Innovaccer, along with the decommissioning process and related topics.\n\nTopics Discussed:\nIntroductions\nParticipants introduced themselves, including Amy Stevens from Innovaccer, Himanshu Talwar, Prash",
+      "pain_point": "Buyer expresses concern about the turnover with the eye-to-eye system and the challenge of replacing its reporting data.\nBuyer notes that continuing with pH My platform would require additional resources and meetings, which is a consideration.\nBuyer mentions fear of missing out on innovations and piloting activities if they terminate the platform now.\nSeller acknowledges that measure validation has been a significant time investment for the buyer.\nBuyer highlights the complexity of managing multiple workflows for different patient populations (Medicaid assigned vs. non-Medicaid).\nDiscussion about potential risks if the eye-to-eye system sunsets and replacement tools like Med Compass are delayed.\nConcerns about data storage costs and whether they need to continue paying for additional storage purchased from MTS.\nBuyer questions what data is actually being stored on the MTS server and seeks clarity to inform leadership decisions.\nSecurity concerns raised about configuration retention and potential data breach risks if configurations are kept after decommissioning.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -733,7 +802,10 @@
       "attendees": "CHA Fiona McCaughan, Tom Sweeny, Aarti Wadhwa",
       "brand": "Atlas",
       "summary": "The meeting was centered around discussing potential collaboration opportunities and addressing challenges in healthcare data management.\n\nTopics Discussed:\nNetworking and Introductions\nAarti Wadhwa and Tom Sweeny introduced themselves and their roles in sales and business development.\nCHA Fiona McC",
+      "pain_point": "Buyer struggles with providing live, actionable information to managers and care teams to intervene during patient care rather than relying on retrospective reports.\nLack of live alerts or prompts in Epic Navigator to notify nurses or managers when screenings or care elements are missing.\nManual and retrospective reporting delays intervention opportunities.\nNurses' limited use of workstations on wheels due to safety concerns reduces real-time documentation.\nDifficulty in capturing and acting on care gaps such as smoking, alcohol, drug use screenings, and pain assessments.\nReporting teams focus on external reporting rather than improving live care delivery.\nChallenges in aggregating data from multiple venues and silos to provide a comprehensive, timely view.\nLack of reports on important clinical elements like pain medication administration and reassessment.\nDifficulty in moving data forward to improve care rather than just reporting retrospectively.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -751,7 +823,10 @@
       "attendees": "John Hickey, Lisa Stockdale",
       "brand": "Atlas",
       "summary": "The meeting primarily revolved around discussions on healthcare strategies, partnerships, and technology implementations, particularly focusing on Ascension and its affiliated entities.\n\nTopics Discussed:\nIntroduction of Dr. Clint Koenig\nLisa Stockdale introduced Dr. Clint Koenig, a medical director",
+      "pain_point": "Concern about the affordability of the platform for FQHCs like DePaul.\nFear of defunding if Ascension and DePaul are too tightly connected.\nContractual complexities with LPC A and Medicaid plans causing challenges.\nDifficulty in data sharing due to access control and privacy concerns.\nFragmented people management systems across centers.\nMedicaid plans being strict about contract terms, posing financial risks to FQHCs.\nChallenges in tracking Medicaid eligibility and patient attribution due to manual processes.\nLimited reimbursement for Care Management in fee-for-service settings.\nInsufficient Care Management resources to cover Medicaid and uninsured populations.\nPolitical dynamics among FQHCs in Louisiana affecting collaboration.\nTechnology fragmentation causing inefficiencies and piecemeal solutions.\nDifficulty in replicating unique local relationships and leadership models.\nChallenges in integrating Ascension's platform with existing contracts and systems.\nNeed to balance mission-driven goals with financial sustainability.\nComplexity in managing shared service arrangements and firewall protections.\nResistance or delays from LPC A in adopting new tools.\nConstant changes in federal rules and Medicaid contracts creating uncertainty.\nManual and labor-intensive chart harvesting and monitoring processes.\nNeed for automation to reduce human capital costs in Care Management.\nDifficulty in obtaining timely and accurate Medicaid eligibility data.\nChallenges in coordinating among multiple stakeholders and organizations.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -770,7 +845,10 @@
       "attendees": "Rasheed Baqai, Caitlin Spargo- Innovaccer, Brett, Jay Levine, Victoria Chestnut, Anil Jain MD, Richard Bitting, Rebecca Adkins, Jennifer Stephens, Ashul Govil, MD",
       "brand": "Atlas",
       "summary": "The meeting centered on discussing the integration of AI and automation in healthcare management, focusing on improving patient care and operational efficiency.\n\nTopics Discussed:\nBudget and Pricing\nRichard Bitting emphasized the need for pricing estimates by early March for budget planning.\nDiscuss",
+      "pain_point": "Manual outreach processes causing inefficiency and burden on care teams.\nHigh administrative burden on care managers, including documentation and referral processing.\nLong time (28-45 minutes) spent on processing inbound referrals.\nPatients receiving multiple redundant calls post-discharge causing dissatisfaction.\nDifficulty in coordinating care across siloed teams leading to inefficiencies.\nChallenges in patient engagement, including patients not answering calls or refusing to talk to AI agents.\nDifficulty in prior authorization processes, which can take up to an hour manually and delay patient treatment.\nAI agents sometimes struggle with accents, language barriers, background noise, requiring escalation.\nLimited resources and provider shortages impacting care delivery.\nNeed for better orchestration to prevent patients from falling through the cracks.\nChallenges in automating care gap outreach and disease management efficiently.\nNeed to improve patient participation rates in care management programs.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -783,7 +861,10 @@
       "attendees": "Mitchel Hoying - Lima Memorial Hospital, Keg Avakian",
       "brand": "Atlas",
       "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nInnovaccer <> Lima Memorial\nFeb 18, 2026\nShare\nAdd to library\n10\n10\n00:00 / 17:15\nSkip inactivity\n1x\nThemes timeline\nKeg Avakian\n69%\nMitchel Hoying - Lima Memorial Hospital\n",
+      "pain_point": "Buyer identifies readmissions, length of stay, and throughput as big initiatives and top priorities.\nBuyer is unsure about denial management solutions availability and oversees utilization review departments.\nSeller notes denial management is on Innovator's roadmap but not yet generally available.\nBuyer indicates no budget currently allocated for these initiatives.\nBuyer and seller acknowledge complexity and multiple people involved previously caused confusion (\"too many cooks in the kitchen\").",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -798,7 +879,10 @@
       "attendees": "Marcella Ruzicka, Alex Kim, Ehammond, Jmontesino, Puneet Budhiraja, Caguilar, Rajesh Manglani, Gmarrero",
       "brand": "Atlas",
       "summary": "The meeting was centered around financial projections and budget planning, with a focus on the Medicare Shared Savings Program (MSSP) and Accountable Care Organization (ACO) models.\n\nTopics Discussed:\nWork Schedule Preferences\nDiscussion on the benefits of a four-day workweek with longer hours to en",
+      "pain_point": "Seller asks: \"What ability do we have versus this projection to improve the revenue side of the equation?\"\nBuyer states: \"We have a negative 2 million projected payment for 2025 and negative 5.7 million for 2025 before needed savings.\"\nBuyer states: \"DME expenses are high, about 3 million, and may be skewing projections negatively.\"\nBuyer states: \"Our DME, Imaging, and injections expenses are two to three times more than the MSSP median nationally.\"\nBuyer states: \"There is a wide range of possible outcomes and swings in projections, making it hard to know what to believe.\"\nBuyer states: \"We need to understand which assumptions drive 80 to 90% of the difference in projections and how sensitive the model is to changes in assumptions.\"\nBuyer states: \"We have a stop-loss/truncation factor built into the CMS calculations that affects projections.\"\nBuyer states: \"We have a capped risk score limiting potential revenue growth.\"\nBuyer states: \"We have a large portion of members (7,500 out of 11,200) from Medical Clinic in Houston, which impacts projections.\"\nBuyer states: \"There is uncertainty about how skin substitutes reimbursement will affect budgets, with a potential $12 million impact in 2025.\"\nBuyer states: \"We are seeing losses projected in the millions, with different estimates from various sources (e.g., Wakeley).\"\nBuyer states: \"There is a need to adjust budgets for high-cost categories and understand the impact of regional adjustments and risk scores.\"\nBuyer states: \"We have challenges explaining complex actuarial projections to finance and board members.\"\nBuyer states: \"We need to prioritize completing the ACO reach budget before making enhancements to MSSP budget.\"\nBuyer states: \"There is a need to identify specific practices most affected by cost issues and opportunities for improvement.\"",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -811,7 +895,10 @@
       "attendees": "sskeens, Ryan Grace, Piyush Rana",
       "brand": "Atlas",
       "summary": "The meeting was an introductory session between Ryan Grace from Innovator and sskeens, focusing on understanding strategic initiatives and exploring potential collaboration opportunities.\n\nTopics Discussed:\nIntroduction and Background\nRyan Grace introduced themselves and their role at Innovator, exp",
+      "pain_point": "Lack of automation for nurses or navigators to enter data into care management platform; manual processes required.\nCare management platform does not cross platforms effectively; bidirectional communication with physicians for billing is lacking.\nRisk scoring is perceived as inaccurate or not fully leveraged, leading to missed opportunities in value-based care.\nDifficulty in aggregating and normalizing data across multiple EHR instances and external practices.\nChallenges in identifying high-risk patients early enough to intervene before costly admissions.\nLabor-intensive processes for data collection and management (e.g., MAP data scrubbing).\nCompeting priorities and system mergers complicate decision-making and implementation of solutions.\nLimited visibility and follow-up on previous pilot projects (Humvee analytics).",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -824,7 +911,10 @@
       "attendees": "Rich Fox, Sammi, David Kaskoun, Sonali Dabas, John Specht",
       "brand": "Atlas",
       "summary": "The meeting primarily focused on discussing Innovaccer's Galaxy platform and its potential benefits for Medicaid programs, particularly in Maryland.\n\nTopics Discussed:\nPersonal Introductions\nParticipants introduced themselves, including David Kaskoun, Sonali Dabas, John Specht, Rich Fox, and Sammi f",
+      "pain_point": "Seller asks about frustrations with current vendors and siloed data.\nBuyer states: \"We can't risk not motivating that 1% of population, so we have to do the total pot outreach.\"\nBuyer states: \"Medicaid in Maryland does not have a risk platform, and attempts to mimic it did not work.\"\nBuyer states: \"Providers use many different EMRs, making integration difficult.\"\nBuyer states: \"Providers typically do not allow access to their calendars, requiring three way calls.\"\nBuyer states: \"Data breaches have caused hospital entities to shut down systems, increasing hesitancy to share data.\"\nBuyer states: \"Normalizing member lists for outreach takes 3-6 weeks and multiple rounds, causing delays especially at critical times of year.\"\nBuyer states: \"Carrying multiple mortgages and personal financial strain (John Specht).\" (Note: This is personal, not business problem.)",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -837,7 +927,10 @@
       "attendees": "Dhanvir Singh, Rajesh Manglani, lhighberger",
       "brand": "Atlas",
       "summary": "The meeting primarily focused on discussing the challenges and opportunities related to AI and automation in healthcare, particularly in the context of VA and Tricare contracts.\n\nTopics Discussed:\nAI and Automation in Healthcare\nDiscussion on the use of AI in healthcare, specifically in the context ",
+      "pain_point": "Seller asked about challenges: \"How's everything going this year with initiatives?\"\nBuyer stated challenges: \"It's still quite challenging, you know, not knowing like recently we had shut down again. Our counterparts were gone again for a few days and now they're back again.\"\nBuyer described problem with AI use: \"On the VA side, they put out a clarifying statement that no AI can be used without their express approval unless it's designated in the RFP. So they put the brakes on a lot of things.\"\nBuyer described fragmented care and limited data access: \"Care is very fragmented. They might only send out to us a veteran has left knee and the rest of the care is all internal that we can't see.\"\nBuyer described lack of care coordination and case management: \"We don't have any care coordination, no case management, no population health and we don't have the money for that.\"\nBuyer described difficulty in tracking follow-up appointments and medical documentation: \"We may get a referral and be responsible for documentation but have no info when this person is being seen.\"\nBuyer described administrative burden and inefficiencies: \"Fewer phone calls and faxes going around from these offices would be a great thing for everybody.\"\nBuyer described challenges with appointment scheduling and authorization processes: \"Everything requires a referral that goes in the community, no covered care without prior auth, and it's a very different flow compared to Tricare.\"\nBuyer described uncertainty about future contract mechanisms and AI use: \"We have to wait until they award contract, hope that we get awarded and then ask questions and see what we could build in.\"\nBuyer described challenges with utilization management: \"They are bringing in utilization management for the first real time but right now we're not allowed to use AI for that.\"\nBuyer described challenges with fragmented care and incomplete information impacting operational efficiency.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -852,7 +945,10 @@
       "attendees": "David Friederichs, John Hutter, Paul F Murphy, Brian Ednie",
       "brand": "Atlas",
       "summary": "The meeting primarily focused on discussing the current state and future plans of healthcare management and value-based care initiatives at Stony Brook, with insights shared by David Friederichs, John Hutter, Brian Ednie, and Paul F Murphy.\n\nTopics Discussed:\nEnterprise Pitch and Academic Background",
+      "pain_point": "Seller asked about challenges related to skilled nursing facilities and contract negotiations.\nBuyer stated: \"Greatest challenge is leakage due to competition from other large health systems in the area, especially in cardiac care.\"\nBuyer stated: \"No ownership or financial arrangements with skilled nursing facilities, leading to utilization challenges on the post-acute side.\"\nBuyer stated: \"Contracting committee tries to maintain good fee-for-service rates and is cautious about downside risk contracts.\"\nBuyer described: \"Contact center is not yet optimized and scheduling systems are fragmented, limiting integration.\"\nBuyer described: \"CRM tool is missing, which limits ability to do automated patient outreach and improve numbers.\"\nBuyer described: \"Marketing and IT have delayed CRM project due to other priorities.\"\nBuyer described: \"Managing multiple EMRs until full migration to Cerner is complete, which has been a problem since 2020.\"",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -869,7 +965,10 @@
       "attendees": "Daniel Watson, Ben Grothe, Joseph Thompson, Mike Hill",
       "brand": "Atlas",
       "summary": "The meeting centered around discussing the opportunity analysis for ACO and Medicare Advantage contracts, focusing on aligning product goals with customer outcomes.\n\nTopics Discussed:\nTechnical Issues and Personal Updates\nDaniel Watson experienced technical difficulties with his headphones.\nPersonal",
+      "pain_point": "Buyer highlights difficulty applying current opportunity analysis due to significant changes in ACO reach contract composition this year, making it \"tough to apply these insights because it's not like an apple to apples comparison.\"\nBuyer notes lack of current publicly available data for Medicare Advantage population, complicating opportunity analysis.\nSeller acknowledges overlap in value levers and that analysis is top-down, requiring validation and detailed data.\nBuyer expresses concern about needing to provide additional data to make analysis more applicable and wants clarity on minimum data requirements.\nBuyer indicates aggressive risk strategy changes that impact analysis relevance.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -882,7 +981,10 @@
       "attendees": "Tom Sweeny, Aarti Wadhwa, Daniela I Bridgwater, Abby Machanic, Brandon Taylor",
       "brand": "Atlas",
       "summary": "The meeting centered around exploring potential collaboration opportunities between Dartmouth Health and Innovator, focusing on the Access program and technological support for healthcare management.\n\nTopics Discussed:\nIntroductions\nParticipants introduced themselves, including Tom Sweeny, Brandon T",
+      "pain_point": "Seller asks about challenges with fee-for-service exclusion in the Access program.\nBuyer states: \"The fee-for-service exclusion makes it difficult for us to be a direct participant in the Access program.\"\nBuyer states: \"Providers want to be involved in their patients' care and option 3 (full care by third party) is not attractive to them.\"\nBuyer states: \"Providers are RVU-based and won't stop their day to respond to escalations without billing incentives.\"\nBuyer states: \"We choose not to bill for remote patient monitoring or advanced practitioners going into patients' homes because it would add to total medical expense and affect downside risk.\"\nBuyer states: \"Concern about losing fee-for-service billing capabilities if participating in Access.\"\nBuyer states: \"Worried about continuity of care being disrupted if third-party tech companies enroll patients directly.\"\nBuyer states: \"Concerned about patients being enrolled by tech companies without understanding implications, leading to billing issues and patient confusion.\"\nBuyer states: \"Manual work for HCC coding is burdensome and inefficient.\"\nBuyer states: \"Need to balance participation in Access with maintaining existing care management infrastructure and billing models.\"",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": false
     },
@@ -895,7 +997,10 @@
       "attendees": "Sheenu Kachru, Anil Jain, Keg Avakian",
       "brand": "Atlas",
       "summary": "The meeting centered around strategic discussions on managing client relationships and optimizing business presentations, with a focus on Ohio Health.\n\nTopics Discussed:\nClient Engagement Strategy\nEmphasis on maintaining distinct client interactions unless bundling makes technical or market sense.\nC",
+      "pain_point": "Challenges with bundling multiple solutions leading to dilution or losing on aspects of deals.\nOhioHealth's dissatisfaction with multiple population health vendors over time, leading to frequent vendor changes.\nDifficulty in getting accurate and timely data from existing vendors (e.g., Cedar Gate's 24-month struggle to get data).\nRisk of price cutting or demands for lower prices on individual modules after proposals are given for bundled solutions.\nLimited supply of care managers and the need to make them more effective through automation.\nPotential for meetings to be unproductive if demos focus on features rather than solving business problems.\nChallenges with coordinating on-site meetings due to remote workforce and room availability.\nRisk of losing opportunities if not aligned with the right stakeholders or if the solution does not differentiate sufficiently from competitors.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -908,7 +1013,10 @@
       "attendees": "Arun Maithani, Oscar Mendez / support@mendezmedicalcenter.com, Kshitij Joshi",
       "brand": "Atlas",
       "summary": "The meeting was held to discuss potential collaboration between Mendez Medical Center and Innovacer for financial analytics solutions.\n\nTopics Discussed:\nIntroduction and Roles\nArun Maithani introduced Kshitij Joshi as the subject matter expert from Innovacer.\nJorge, representing Mendez Medical Cent",
+      "pain_point": "Buyer indicates current analytics provide only surplus or deficit at patient level but lack actionable, granular insights.\nBuyer wants to drill down into financial data to identify cost-saving opportunities (e.g., medication cost differences, specialist referral patterns).\nBuyer seeks to make data as actionable as possible to deliver best care and save money.\nBuyer is not currently interested in prior authorization solutions, implying it's not a current challenge.\nBuyer is exploring solutions to improve financial analytics capabilities beyond existing internal tools.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -921,7 +1029,10 @@
       "attendees": "Prakhar Raj, Ndykman, Saka Thapa",
       "brand": "Atlas",
       "summary": "The meeting was centered around discussing potential collaboration opportunities and understanding the challenges faced by healthcare organizations in data management and integration.\n\nTopics Discussed:\nIntroductions and Agenda\nSaka Thapa introduced the participants and handed over to Prakhar Raj.\nP",
+      "pain_point": "Seller asks: \"Is data being siloed one of the challenges you've been trying to solve?\"\nBuyer states: \"Data sharing varies wildly and is very chopped up due to multiple HIEs that don't communicate with each other.\"\nBuyer states: \"Having more than one HIE is a big stumbling block because they don't speak to each other.\"\nBuyer states: \"It's not economically feasible for health centers to participate in multiple HIEs to get all data.\"\nBuyer states: \"Incomplete data areas exist; health centers are not receiving data especially outside of claims or from different facilities or provider offices.\"\nBuyer states: \"Cost for connection and data flow to multiple HIEs is cost prohibitive.\"\nBuyer states: \"Breakdown in relationships between hospitals and health centers causes hospitals not to send patient discharge information, viewing health centers as competition.\"\nBuyer states: \"Managed Care Organizations struggle to curate and get data to health centers.\"\nBuyer states: \"Care coordination is difficult due to lack of information about patient discharges from hospitals.\"\nBuyer states: \"Budget cuts limit ability to initiate new software systems or programs.\"\nSeller asks: \"What are the key bottlenecks you are trying to overcome with your existing solutions?\"",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -937,7 +1048,10 @@
       "attendees": "Prakhar Raj, Saka Thapa, Mohammed Abdelaziz, MD",
       "brand": "Atlas",
       "summary": "The meeting was an introductory discussion between Prakhar Raj from InnoVaser and Dr. Mohammed Abdelaziz, focusing on understanding U.S. Acute Care Solutions and exploring potential synergies.\n\nTopics Discussed:\nIntroduction and Purpose\nPrakhar Raj introduced himself and outlined the purpose of the ",
+      "pain_point": "Seller asked about operational challenges or friction physicians face daily, such as admissions, discharges, follow-ups.\nBuyer identified documentation burden as a major problem.\nNavigating EHR systems and extracting useful information is difficult.\nPhysicians spend more time interacting with computers/EHRs than with patients.\nSome physicians lack sufficient training or technical skills to use EHR platforms efficiently.\nPhysicians may spend hours after shifts completing documentation.\nFriction exists between clinicians and coders over clinical documentation integrity, causing multiple queries.\nData silos across departments cause mismatched metrics and reporting challenges.\nLack of real-time actionable data for frontline staff is a struggle.\nHistorical data is often outdated and less valid for timely decision-making.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -954,7 +1068,10 @@
       "attendees": "Ben Grothe, Joseph Thompson",
       "brand": "Atlas",
       "summary": "The meeting concluded with both parties agreeing on the next steps for contract adjustments and scheduling future discussions, emphasizing the importance of clear communication and collaboration.",
+      "pain_point": "Buyer is waiting on an incidental take permit related to the endangered Alabama beach mouse, delaying construction.\nBuyer notes challenges with data lag in benchmarking tools, with some tools having a 1-2 year lag.\nBuyer indicates current vendor for patient stratification may be replaced, implying dissatisfaction.\nBuyer expresses concern about being behind the curve on adopting technological solutions, especially AI.\nBuyer highlights need for clarity on deliverables for advisory services and ongoing services.\nBuyer mentions uncertainty and sensitivity around organizational changes affecting contract scope.\nBuyer notes duplicative fees due to overlapping contracts (e.g., Arcadia contract).\nBuyer indicates need for better discounting or incentives in pricing to satisfy purchasing requirements.\nBuyer mentions challenges with change management and organizational bandwidth affecting implementation timelines.\nBuyer notes need for improved referral management and back-office automation.\nBuyer discusses need for better integration and accessibility of data for analytics and benchmarking.\nBuyer mentions internal questions about user verification for management copilot users.\nBuyer notes the need to remove omni-channel outreach from scope but keep as optional add-on due to uncertainty.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -967,7 +1084,10 @@
       "attendees": "Valecia Watson- CCHP Milwaukee, WI, Hannah Schulyer, I Abhinav Pandey",
       "brand": "Atlas",
       "summary": "The meeting was centered around exploring potential collaboration opportunities between Innovator and CCHP Milwaukee, focusing on data and technology solutions to support quality improvement and member engagement.\n\nTopics Discussed:\nMeeting Scheduling\nAbhinav Pandey discussed scheduling a meeting wi",
+      "pain_point": "Buyer notes lack of self-service analytics/reporting; current process requires analytics team to build reports, which is a long process.\nOrganization has not heavily engaged in process improvement unless tied to regulation or pay-for-performance.\nChallenges with member access to preventive care due to geographic and transportation barriers.\nLimited pharmacy engagement so far; pharmacy program for blood pressure cuff distribution not fully established.\nLow return rates on test kits for Medicaid population.\nOrganizational flux with leadership changes and HR issues causing uncertainty.\nNo current AI initiatives or movement in that area within the larger system.\nBudget constraints impacting project decisions and vendor engagements.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -984,7 +1104,10 @@
       "attendees": "David Friederichs, Rasheed Baqai, Caitlin Spargo- Innovaccer, Ryan Raess, Michele Muldoon, Jillisa McAbee, Sarah Boozer, Dr. Anna Shalkham, Beth C Shealy, Katherine Miller, Allison Sanford",
       "brand": "Atlas",
       "summary": "The meeting was centered around introducing Innovaccer's solutions to the Lexington Health team, focusing on value-based care and CRM functionalities.\n\nTopics Discussed:\nIntroduction to Innovaccer\nRyan Raess introduced Innovaccer, highlighting its history and capabilities in healthcare data integrat",
+      "pain_point": "Buyer indicated challenges with not having a clinically integrated network and not seeing paid claims from independent providers.\nBuyer indicated limited ambulatory CDI and coding resources.\nBuyer indicated that providers are responsible for coding at time of service, with limited coding team support.\nBuyer indicated that Epic does not provide strong value-based care analytics currently.\nBuyer indicated limited care management resources primarily focused on Medicare Advantage and Medicaid.\nBuyer indicated challenges in integrating data from multiple EMRs (Epic, Cerner, Meditech).\nBuyer indicated challenges in managing quality reporting across multiple registries and value-based contracts.\nBuyer indicated a need to plug gaps in payment data for outside providers.\nBuyer indicated a need for better physician workflow integration to avoid switching applications.\nBuyer indicated a need for better engagement and communication workflows for at-risk patients.\nBuyer indicated a need for consultative support to understand expenditure data and identify opportunities.\nBuyer indicated a need for tools to identify suspected and missing diagnosis codes to improve coding accuracy.\nBuyer indicated a need for better analytics and reporting to support quality improvement and population health management.\nBuyer indicated a need for tools to support care management and patient outreach programs effectively.\nBuyer indicated a need for marketing and clinical communication integration to improve patient engagement.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1005,7 +1128,10 @@
       "attendees": "Craig Carroll, Pranali Trivedi, John Hickey, Ravina Singh, Vibhor Jain, Joyce Colton, Brandon Taylor",
       "brand": "Atlas",
       "summary": "The meeting was a discussion among various team members about the Access program and its implications for healthcare management and technology integration.\n\nTopics Discussed:\nIntroduction and Team Introductions\nParticipants introduced themselves, sharing their roles and backgrounds.\nBrandon Taylor, ",
+      "pain_point": "Buyer expresses concern about additional burden on providers from multiple technology companies approaching care managers.\nBuyer highlights the complexity and potential problems with Medicare Advantage marketing towards patients.\nBuyer notes the fee-for-service exclusion criteria makes participation difficult for traditional operators.\nBuyer is uncertain about financial aspects, including payment mechanisms and fee structures.\nBuyer worries about the potential for losing patients to third-party tech companies offering free devices and aggressive marketing.\nBuyer acknowledges challenges in operationalizing the program due to its broad and not fully defined nature.\nBuyer is concerned about selective patient engagement with technology and whether those patients are the ones needing additional support.\nBuyer and seller discuss the need to adapt Care Management models to be cost-effective and scalable.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1021,7 +1147,10 @@
       "attendees": "Kuldeep Singh, Puneet Kochhar, Jason Leonard, Clayson Willis, Maddie Schults, Sandeep Mantri, Smriti Kirubanandan",
       "brand": "Atlas",
       "summary": "The meeting centered around discussing the implementation and potential benefits of AI-driven agent workflows for healthcare management, specifically focusing on transition of care management.\n\nTopics Discussed:\nIntroduction and Participant Roles\nSmriti Kirubanandan, Kuldeep Singh, Maddie Schults, C",
+      "pain_point": "Difficulty managing transition of care for independent providers due to diverse EMR systems (Epic, Greenway, ECW, Bamboo).\nLack of a great solution for scheduling follow-ups with independent providers.\nComplexity and manual effort involved in calling independent groups and scheduling appointments.\nChallenges in capturing and utilizing unstructured data such as visit notes and imaging.\nInefficiencies and wasted time in manual chart reviews and background work by care teams.\nLimitations of existing vendors like Bamboo, which provide narrow data scope (only LED data).\nNeed to prevent AI agents from providing clinical advice or misinformation.\nChallenges in coordinating pilots and deployments across multiple independent groups with varying readiness and willingness.\nFinancial considerations in passing costs to independent groups and ensuring ROI.\nDifficulty in scaling AI solutions across enterprise verticals without increasing vendor complexity.\nNeed for guardrails and boundaries in AI agent behavior to comply with clinical and administrative roles.\nChallenges in integrating multiple AI agents to collaborate effectively for complex workflows.\nNeed for customization and flexibility in AI agents to fit specific protocols and workflows.\nConcerns about user adoption and feedback from practices during pilot.\nManaging change and training for teams to effectively use new AI platforms.\nEnsuring data access and integration to enable AI agent functionality.\nBalancing automation with human intervention in patient outreach and scheduling.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1037,7 +1166,10 @@
       "attendees": "Kevin Arlington, Aaron Thompson, Yash Bhandari",
       "brand": "Atlas",
       "summary": "The meeting primarily focused on discussing healthcare innovations, patient management, and the integration of AI in healthcare systems.\n\nTopics Discussed:\nFollow-up with Nicole Swan\nKevin Arlington mentioned he would follow up with Nicole Swan regarding an email she sent, which was added to Salesfo",
+      "pain_point": "Seller asks about challenges with patient groups; buyer identifies Hispanic population as challenging due to COVID-related reluctance to leave home.\nBuyer mentions capacity issues: \"we've got so many patients trying to come in. Just not always having the capacity to get all them in a timely manner.\"\nSeller mentions challenges with attribution models in pediatric population health; buyer discusses complexity with multiple primary care physicians and specialists acting as primary care.\nBuyer notes mental health treatment is a challenge: identifying issues is done, but treating them is difficult.\nSeller mentions prior authorizations as a challenge generally; buyer does not explicitly confirm but mentions prior authorizations as a known issue in general.\nBuyer notes that some patient groups (e.g., truck drivers) have high no-show rates and difficulty engaging.\nBuyer mentions that mental health resources were cut by the state, causing ongoing struggles.\nBuyer notes challenges with patient engagement in Hispanic population due to COVID fears.\nBuyer mentions no current projects requiring new solutions, implying possible lack of resources or focus on new challenges.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1050,7 +1182,10 @@
       "attendees": "Kevin Arlington, Yash Bhandari, Babburi",
       "brand": "Atlas",
       "summary": "The meeting primarily focused on discussing patient access and healthcare management, with a particular emphasis on cardiology and emergency department operations.\n\nTopics Discussed:\nIntroduction and Technical Issues\nInitial technical difficulties with audio and video connections.\nParticipants intro",
+      "pain_point": "Seller asks about what slows down patient access and challenges faced.\nBuyer indicates issues with patient compliance to medications and diet, especially in heart failure patients.\nBuyer notes patients sometimes ignore medication and fluid restrictions, leading to fluid overload and worsening heart failure.\nBuyer describes complexity of managing patients with comorbidities like diabetes and hypertension affecting heart and kidney function.\nBuyer highlights challenges in adjusting medication doses based on kidney function and lab results.\nBuyer mentions some patients do not attend regular follow-ups, worsening their condition.\nBuyer notes difficulties in insurance verification and access to insurance information.\nBuyer describes the high acuity and volume in the emergency department, making patient access and registration challenging.\nBuyer mentions the need to coordinate with multiple departments and staff to manage patient access effectively.\nSeller notes the problem of unnecessary ED visits and readmissions in cardiology patients, especially heart failure.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1065,7 +1200,10 @@
       "attendees": "Rasheed Baqai, Jcerto, Mitch Anderson, Kessler Brown, Goldman, Jennifer, DO, Amy Stevens, Gyarbrough, Makiti",
       "brand": "Atlas",
       "summary": "The meeting was centered around a presentation by Innovator to showcase their platform's capabilities in supporting health systems with data integration, analytics, and population health management.\n\nTopics Discussed:\nIntroductions and Meeting Purpose\nThe meeting began with introductions from both t",
+      "pain_point": "Buyer expresses concern about the limitations of overlay integration with Epic, preferring a solution that feels native or closely integrated within Epic workflows.\nBuyer notes challenges with multiple disparate EHRs across employed and affiliated physicians, complicating data unification.\nBuyer highlights the cognitive burden on providers if tools require extra steps or tabs in Epic.\nBuyer implies challenges in managing quality reporting, attribution, and care coordination across diverse systems.\nBuyer is concerned about the ease of use and adoption of tools by providers and care teams.\nBuyer indicates the need to reduce lag in quality measure reconciliation and improve point-of-care data availability.\nBuyer notes the difficulty in managing data from multiple EMRs and payer sources for comprehensive population health management.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -1078,7 +1216,10 @@
       "attendees": "Prashasati Jain, Rmerritt, Alex Garcia, cmcguckin",
       "brand": "Atlas",
       "summary": "The meeting centered around discussing potential collaborations and technological advancements in healthcare systems, with a focus on data integration and automation.\n\nTopics Discussed:\nMeeting Scheduling and Introductions\nPrashasati Jain confirmed a meeting with Mike Bruce from Ivy Creek Healthcare",
+      "pain_point": "Seller asks about problems indirectly by discussing manual processes and automation needs.\nBuyer states: \"Manual processes are an issue; things we can do in our head but are manual and need automation.\"\nBuyer implies challenges with expanding outpatient services and behavioral health.\nBuyer mentions need to ensure affordability and fit of solutions.\nSeller highlights challenges with readmission rates and referral management.\nBuyer acknowledges need to look at tech or AI initiatives for 2026 to address challenges.\nBuyer mentions need to prevent readmissions and optimize outreach.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1094,7 +1235,10 @@
       "attendees": "JMH, Ravina Singh, Athan Olivier",
       "brand": "Atlas",
       "summary": "The meeting primarily revolved around discussions on healthcare technology solutions, potential pilot projects, and strategic collaborations.\n\nTopics Discussed:\nHealthcare Technology Solutions\nAthan Olivier discussed the rebranding of their organization to Tesh Health and emphasized their commitment",
+      "pain_point": "Buyer acknowledges gaps remain in their current platform (Zara) despite improved data.\nCurrent platform does not fully integrate or 'glue' all processes together as needed.\nAI projects are failing due to incomplete or unusable underlying data.\nBuyer is cautious about being sold products that may work well for some but not for all LPC-A members.\nLPC-A has not yet requested solutions for prior authorization or coding workflows.\nThere is a challenge in standing up more capability across LPC-A ACOs, especially core population health management functionality.\nBuyer implies manual data entry is required in pilot tools, which could be a burden.\nBuyer notes the complexity of multiple subsidiaries with different needs within LPC-A.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1110,7 +1254,10 @@
       "attendees": "JMH, Puneet Kochhar, Jason Leonard, Sandeep Mantri",
       "brand": "Atlas",
       "summary": "The meeting primarily focused on discussing strategies and solutions related to the implementation and demonstration of the Gravity and Galaxy platforms.\n\nTopics Discussed:\nGravity Platform\nDiscussion on the potential of the Gravity platform to build agents using client data.\nEmphasis on the need to",
+      "pain_point": "Seller asks: \"What problems or challenges are you wrestling with that you would like to solve with an agent?\"\nBuyer states: They need to see solutions working on their own data to trust and evaluate them.\nBuyer states: They have challenges with admissions and hospitalizations and want to prevent them.\nBuyer states: They want to improve star ratings for Medicare Advantage.\nBuyer states: They need better predictive analytics and risk stratification.\nBuyer states: They want to automate outreach and scheduling for providers and independent practices.\nBuyer states: They have challenges with contract management and network optimization.\nBuyer states: They want to build AI agents that can automate tasks like calling TCMs.\nBuyer states: They have concerns about impact on existing pipelines and want zero impact during testing.\nBuyer states: They have challenges with internal coordination and scheduling for demos and upgrades.\nBuyer states: They want to understand the art of the possible and see examples to identify relevant use cases.\nBuyer states: They have some roadblocks and need support from AI engineers for complex models.\nBuyer states: They want to ensure solutions fit provider-specific needs and save provider time.\nBuyer states: They have a need to manage gaps in quality measures and improve care management effectiveness.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1125,7 +1272,10 @@
       "attendees": "Jatin Dalal, Shatha Alshaibi, Jeev Sahni",
       "brand": "Atlas",
       "summary": "The meeting centered on discussing the scope of work and opportunities related to population health management (PHM) with Innovaccer's Ambient AI, focusing on care coordination and strategic partnerships.\n\nTopics Discussed:\nPHM Opportunities and Proposals\nShatha Alshaibi introduced the meeting's pur",
+      "pain_point": "Seller asks: \"Are you also looking at a solution that creates the Outreach for you? Or is it just a list of patients that will eventually have to be reached out to?\" \"How many case managers do you have?\" \"Is there a gap in current systems where physicians cannot know how many people are eligible for screenings or care?\"\nBuyer states:\nCurrent situation lacks basic information; physicians cannot know how many patients are eligible for PHM or screenings.\nLimited resources and case managers to manage the patient population.\nManaging only a fraction of the chronic condition population (less than 40,000 out of 300,000).\nData sources vary in sophistication and reliability across clusters.\nChallenges in integrating multiple EMR systems and data sources.\nNeed for a solution that can unify disparate data and provide actionable insights.\nConcerns about automating processes fully due to potential errors in healthcare.\nInternet connectivity and security issues in some hospitals.\nLack of clear scope and proposals for some parts of the project.\nNeed to limit scope to manageable parts due to data and resource constraints.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1138,7 +1288,10 @@
       "attendees": "Jatin Innovaccer, Jeev Sahni, S Alshaibi",
       "brand": "Atlas",
       "summary": "The meeting centered on discussing the Population Health Management (PHM) opportunities and the scope of work expected with the Health Holding Company (HHC) in terms of care coordination.\n\nTopics Discussed:\nPHM Opportunities\nThe meeting involved Innovaccer representatives discussing PHM opportunitie",
+      "pain_point": "Buyer states that current situation is lacking very basic information such as how many people are eligible for PHM, who missed screenings, and care gaps.\nBuyer mentions limited resources and need to start with a basic solution.\nBuyer mentions lack of enough case managers to manage the population.\nBuyer mentions data source variability and missing elements from different clusters.\nBuyer mentions challenges with interconnections between systems and data completeness.\nBuyer mentions challenges with multiple EMR systems and interoperability.\nBuyer mentions that fully automated processes can lead to errors and complications in healthcare.\nBuyer mentions current system does not provide outreach automation, only lists of patients.\nBuyer mentions need for standardized data and data maturity across clusters.\nBuyer mentions current lack of integration and seamless user experience across platforms.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1151,7 +1304,10 @@
       "attendees": "Ryan Raess, Aoto, Apoorv Malik",
       "brand": "Atlas",
       "summary": "The meeting involved a discussion between Apoorv Malik, Ryan Raess, and Aoto, focusing on Aoto's transition from a leadership role at the University of Chicago and exploring potential collaborations with Innovator.\n\nTopics Discussed:\nAoto's Professional Transition\nAoto shared their previous role as ",
+      "pain_point": "Seller asks: \"What are the areas or pain points that are not being solved by the current tech stack?\"\nBuyer states: \"Referral management has historically been a big pain point.\"\nBuyer states: \"Arcadia's care management solution was not well received by physicians and was discarded due to lack of utility and effectiveness.\"\nBuyer states: \"Integration with Arcadia has been problematic due to many physicians using different EMR systems.\"\nBuyer states: \"There is some pushback from revenue cycle people on adopting new tools for prior authorizations.\"\nBuyer expresses uncertainty about Salesforce's success and notes the system has invested heavily in it, making it difficult to engage with other vendors.\nBuyer notes that adding new vendors is a big undertaking for the IT department and must be worth the time and bandwidth.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1164,7 +1320,10 @@
       "attendees": "iPhone, I_gunpreet Kour, Alex Garcia",
       "brand": "Atlas",
       "summary": "The meeting was a discussion between Alex Garcia and a doctor, focusing on healthcare innovation and the potential collaboration on healthcare delivery models.\n\nTopics Discussed:\nIntroduction and Background\nAlex Garcia introduced themselves as the Vice President at Innovate, with a background in med",
+      "pain_point": "Seller asks: \"You guys don't follow value-based contracts or pop Health contracts?\"\nBuyer states: \"They can't see the forest through the trees.\"\nBuyer states: \"They got so complicated with the nitty gritty that we never got off the ground.\"\nBuyer states: \"It's almost near impossible today to sell your platform to healthcare entities because they all have different impressions and people who don't know what they need making decisions.\"\nBuyer states: \"The knowledge is inaccurate, untimely, fraught with ignorance.\"\nBuyer states: \"You need to base your data, your dispositions, your conclusions on hard data, hard facts.\"\nBuyer states: \"Most healthcare professionals don't care about this.\"\nBuyer states: \"The problem is we have a motto called complaint to cure to cure and if you don't start at the simplest deviation of a lab then your model is too expensive, too costly to morbidity and mortality.\"\nBuyer states: \"The knowledge is not there to act in a timely, accurate, personalized fashion when the need arises.\"\nBuyer states: \"The speed at which everything is developing AI and Robotics is making it even more difficult.\"\nBuyer states: \"Healthcare entities have no idea what they need.\"\nBuyer states: \"Wi-Fi in South Florida is much to be desired.\"\nBuyer states: \"The business aspect is much more involved than you even think.\"\nBuyer states: \"They still don't get the picture of complaint to care to cure.\"\nBuyer states: \"The knowledge is inaccurate, untimely, fraught with ignorance.\"\nBuyer states: \"The knowledge is not there to act in a timely, accurate, personalized fashion.\"\nBuyer states: \"Most healthcare professionals don't care about this.\"\nBuyer states: \"The problem is that the model is too expensive, too costly to morbidity and mortality if you don't start at the simplest deviation of a lab.\"",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -1177,7 +1336,10 @@
       "attendees": "Prakhar Raj, Saka Thapa, Constovious",
       "brand": "Atlas",
       "summary": "The meeting was an introductory call between representatives from a healthcare data analytics company and Emory Healthcare, focusing on potential collaboration opportunities.\n\nTopics Discussed:\nIntroduction and Purpose\nThe call began with introductions, where Prakhar Raj outlined the agenda, aiming ",
+      "pain_point": "Seller asked: \"What are the challenges that compete to keep your attention like from Priority standpoint?\" and \"What is it that you keeping it on top of your priority list?\"\nBuyer identified main challenge: keeping patients out of the hospital, specifically reducing readmissions.\nBuyer described issue: patients often use emergency room as point of entry unnecessarily.\nBuyer highlighted challenge in educating patients on when ER visits are necessary.\nBuyer noted that the post-discharge navigator program is new (about 3 months old) and still working out kinks due to high patient volume.\nBuyer expressed concern about whether patients have adequate understanding and resources after discharge.\nSeller acknowledged that post-discharge follow-up and care coordination is a broken process historically.\nBuyer indicated that despite efforts, sometimes patients still go to ER unnecessarily.\nBuyer mentioned challenges with high patient turnover and sick patient population making management difficult.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1190,7 +1352,10 @@
       "attendees": "Wilson Brown, Sean Bugbee, Sandeep Mantri, Badal Mangla, Will Pettinger",
       "brand": "Atlas",
       "summary": "The meeting centered around potential partnership opportunities and strategic discussions between USRC and InnoVaser, focusing on expanding services in Arizona and Colorado.\n\nTopics Discussed:\nIntroduction and Background\nParticipants introduced themselves and their roles within their respective orga",
+      "pain_point": "The buyer's current vendor or partner is not very happy or satisfactory.\nManaging multiple parties taking cuts from shared savings makes economic models difficult.\nGeographic constraints limit deployment of value-based care infrastructure, especially in Arizona.\nThe buyer lacks a value-based care partner in Arizona, which is a market they want to enter.\nChallenges in engaging nephrologists who may be aligned with other partners.\nNeed to ensure a critical mass of nephrologists in Arizona to support the model.\nDifficulty in covering all CKD and ESRD patients due to network and referral patterns.\nThe buyer is uncertain about the level of risk coverage their prospective partner wants (partial vs. full population).\nIntegration challenges with multiple EHR systems and affiliates.\nNeed for streamlined data exchange such as KDP reports for CKD 4 patients.\nThe buyer's current partner does not fully meet expectations, prompting an RFP process.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1203,7 +1368,10 @@
       "attendees": "Ryan Grace, Kathy Scott Braxton/Summersville",
       "brand": "Atlas",
       "summary": "The meeting centered around discussing potential collaboration opportunities between Innovator and Summersville Regional and Braxton County Memorial hospitals, focusing on healthcare management and data solutions.\n\nTopics Discussed:\nIntroduction to Innovator\nRyan Grace introduced Innovator, highligh",
+      "pain_point": "Transportation is a significant issue affecting patient follow-up and care.\nCare Management is taxing and requires special personnel; there are not enough care managers.\nCurrent management is largely manual, lacking tools outside the EHR to assist with Care Management.\nDifficulty moving patients between hospitals due to acuity and capacity issues.\nChallenges in aggregating patient data across different EHR systems outside the main network.\nManual work in finding patients and following up is time-consuming.\nSocial determinants of health require attention but are challenging to manage effectively.\nPrior authorization processes can delay patient care and are time-consuming.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -1216,7 +1384,10 @@
       "attendees": "Bhupendra Awasthi, dko9143, Arlene Constantino, Irene Logis, Greg, Jimmy Bresee III, Danielle Strother",
       "brand": "Atlas",
       "summary": "The meeting primarily focused on discussing the quality management solutions and the integration of data feeds for healthcare management.\n\nTopics Discussed:\nWeather and Travel Updates\nDanielle Strother shared updates on weather conditions in Nashville and her travel experiences to San Francisco for ",
+      "pain_point": "Buyer expresses confusion about separate quality workflows and contracting.\nBuyer highlights manual process for managing quality gaps using Excel spreadsheets.\nBuyer notes small independent practices lack data connections, complicating data integration.\nBuyer mentions difficulty in managing and reconciling manual comments monthly.\nBuyer indicates some EMR data feeds are weak or unavailable.\nBuyer and seller discuss challenges in closing care gaps when data is not integrated.\nBuyer concerned about paying for overlapping platforms (quality worklist vs care management).",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1231,7 +1402,10 @@
       "attendees": "Marcella Ruzicka, Alex Kim, Puneet Budhiraja, Caguilar, Rajesh Manglani, Gmarrero",
       "brand": "Atlas",
       "summary": "The meeting primarily focused on discussing the optimization of network models and budget projections for the upcoming years.\n\nTopics Discussed:\nNetwork Optimization\nDiscussion on the need to optimize network models, particularly MSSP and Reach, in light of upcoming changes and deadlines.\nEmphasis o",
+      "pain_point": "Buyer expresses concern about member suppression in data affecting projections (initially 15% suppression, improved to 2%).\nChallenge in optimizing network with uncertainty about LEAD program details for 2027.\nDifficulty in mixing and matching practices between MSSP and REACH programs due to timing and complexity.\nData suppression issues related to small row records complicate aggregation and analysis.\nComplexity and effort required to implement rigorous suspect logic for RAF coding within budgeting timeframes.\nImpact of skin substitutes and DME claims related to fraud affecting 2026 projections.\nChallenges in projecting claims accurately due to Flex model claim reductions starting July 1st.\nConcerns about timing and urgency for decision-making and contracting (April-May decision point, early-mid March for internal ideas).\nDifficulty in aligning eligibility files and membership counts across different data sources and time periods.\nNeed to separate out certain claims (e.g., skin substitutes) for accurate budget analysis.\nUncertainty about how to handle claims reductions and medical expense adjustments under Flex model.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1249,7 +1423,10 @@
       "attendees": "Priyank, Lillian Dittrick, Joseph Thompson",
       "brand": "Atlas",
       "summary": "The meeting centered around discussing strategies to improve utilization and adoption of services, particularly focusing on independent providers and potential collaborations.\n\nTopics Discussed:\nUtilization and Adoption\nDiscussion on improving utilization and adoption of services in the community.\nE",
+      "pain_point": "Slow adoption and utilization of the platform among independent providers.\nPushback from clinics due to perceived high effort and unclear value.\nVendor EMRs pose challenges including reluctance to engage and charging high fees.\nLack of effective communication and feedback loops leading to providers feeling they are doing work for the seller, not for themselves.\nPHI security concerns and need for separate contract documents.\nDifficulty in obtaining clinical data feeds from EMR vendors.\nManaging disparate technology systems and lack of standardization.\nCompetition from other models like Privia partnered with OhioHealth offering better fee schedules.\nChallenges in contracting and payer negotiations.\nAdministrative burdens and revenue cycle management complexities.\nNeed for better training, education, and process follow-through to ensure implementation success.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1262,7 +1439,10 @@
       "attendees": "Apoorv Malik, Gweyer, Ryan Raess, Kessler Brown",
       "brand": "Atlas",
       "summary": "The meeting was centered around discussing potential collaborations and solutions between Innovacer and the University of Chicago's healthcare system, focusing on data integration and value-based care.\n\nTopics Discussed:\nMeeting Scheduling and Coordination\nRyan Raess and Apoorv Malik discussed sched",
+      "pain_point": "Buyer dissatisfied with Arcadia's Amar widget: heavy lift to operate, maintenance challenging, poor quality, providers abandoned it.\nProviders felt the widget was like malware, causing political issues.\nIndependent providers do not have full clinical integration experience compared to Epic instances.\nData integration and building interoperable data sets is costly and difficult, a major rate-limiting step for partnerships.\nMaintenance and troubleshooting of data interfaces is a never-ending cycle, especially with Epic upgrades.\nLimited access to external data restricts analytical capacity.\nChallenges in assessing network integrity and specialty referral integration with independents.\nDifficulty engaging independent providers effectively with current tools.\nTight bandwidth and resources for technology projects.\nNeed to avoid overloading organization with complex integrations.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1277,7 +1457,10 @@
       "attendees": "Kinjal Zaveri, Eashow Jacob, Jeev Sahni",
       "brand": "Atlas",
       "summary": "The meeting was centered around introductions and exploring potential collaboration opportunities between the participants' organizations.\n\nTopics Discussed:\nIntroductions\nJeev Sahni introduced themselves as the Director of Go-to-Market Strategy and Operations for Innovation across the Middle East a",
+      "pain_point": "Seller asks if maintaining organization-wide visibility and standardization is a challenge; buyer acknowledges some nuances but states it is not critical today.\nBuyer indicates a need to improve efficiencies despite existing processes working adequately.\nBuyer acknowledges the presence of gaps where added value and efficiencies could be provided.\nBuyer mentions the need to embed AI solutions within processes to enhance efficiencies.\nBuyer notes patient experience and patient journey management as a priority area for improvement.\nBuyer implies challenges in operational visibility and decision support that large health organizations typically face.\nBuyer suggests that while current systems exist, there is always room for improvement in processes and efficiencies.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -1293,7 +1476,10 @@
       "attendees": "Tripp Lyles, Vaibhav Jain, David Friederichs",
       "brand": "Atlas",
       "summary": "The meeting was an introductory call between David Friederichs from Innovate and Tripp Lyles, the Chief Strategy Officer for the Baptist region, to discuss potential collaboration opportunities.\n\nTopics Discussed:\nIntroduction to Innovate\nInnovate is a healthcare data platform company that started i",
+      "pain_point": "Buyer notes the ACO model is changing and they don't do much of it anymore.\nBuyer acknowledges the challenge of understanding costs they don't control, especially with new CMS payment models holding them accountable.\nDifficulty in getting data back from skilled nursing facilities to understand length of stay and treatment progress.\nAccess to facilities still needs a lot of improvement.\nConservative marketing approach due to past difficulty in showing true ROI on consumer engagement programs.\nRevenue cycle and access call centers are handled by third parties, possibly limiting internal control or integration.\nSurgery center market is smaller and fragmented with many private specialists owning centers, possibly complicating coordination.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1308,7 +1494,10 @@
       "attendees": "Jill Marie Shewmake, Jimmy Bresee III, David Overton, Amarjit Rai, John Hickey, Irene Logis, Jonathan Owens, Nikita Sharma, Ashul Govil, David Friederichs, Heather Galanis, Brian Silverstein, MD",
       "brand": "Atlas",
       "summary": "The meeting was centered around a comprehensive demonstration of Innovaccer's healthcare platform, focusing on population health management, analytics, and care management workflows.\n\nTopics Discussed:\nIntroduction and Team Overview\nJohn Hickey introduced the Innovaccer team and outlined the meeting",
+      "pain_point": "Buyer challenge: Current patient identification for Care Management is not using plans and clinical data to slice population; limited to FMC and TRC following ER and acute discharge.\nBuyer challenge: Current assignment process has clunkiness; migrated from spreadsheets to Compass Rose but some spreadsheets still in use.\nBuyer challenge: Claims data from value-based care is not fully representative of practice patterns, especially in fee-for-service environments.\nBuyer challenge: Large number of affiliate practices with multiple EMRs (e.g., ECW, Athena, homegrown) complicate data integration.\nBuyer challenge: Each ECW instance is a direct contract with independent practices, making integration complex and potentially requiring individual integrations.\nBuyer challenge: Need for better integration and automation between Care Management documentation and Epic.\nBuyer challenge: Managing multiple disparate EMRs and data sources to provide consistent analytics and workflows.\nBuyer challenge: Manual patient outreach is inefficient; patients often do not pick up phones.\nBuyer challenge: Providers have limited capacity to manage patients in clinic and need support for remote monitoring and medication management.\nBuyer challenge: Need to engage caregivers as well as patients for effective care management.\nBuyer challenge: Need for clinical decision support that guides but does not replace clinician judgment.\nBuyer challenge: Need to manage social determinants of health and provide closed-loop referrals.\nBuyer challenge: Need to balance workload among care managers and avoid overwhelming clinicians.\nBuyer challenge: Need for flexible, customizable analytics and workflows to meet diverse organizational needs.\nBuyer challenge: Need to reconcile payer claims data with EMR data for accurate performance measurement.\nBuyer challenge: Need for a managed service to handle complex data connections and integrations to reduce burden on buyer's organization.\nBuyer challenge: Need for efficient documentation and communication workflows that integrate with existing EMRs.\nBuyer challenge: Need to support multiple clinical programs (heart failure, cardiometabolic, hypertension, COPD, diabetes) with appropriate care plans and monitoring.\nBuyer challenge: Need to extend care beyond traditional clinic walls to home and remote settings.\nBuyer challenge: Need to maintain high patient engagement over time, especially beyond acute phase.\nBuyer challenge: Need to support affiliate providers with consistent tools and data access across different EMRs.\nBuyer challenge: Need to manage and monitor risk stratification and quality measures effectively.\nBuyer challenge: Need to automate and streamline care gap closure and documentation processes.\nBuyer challenge: Need to provide actionable insights and workflows to improve population health and value-based care outcomes.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -1321,7 +1510,10 @@
       "attendees": "Kshitij Joshi, LeaCarino, I_nandini Sharma",
       "brand": "Atlas",
       "summary": "The meeting was centered around discussing potential collaboration and solutions for healthcare management and technology integration between Innovator and a healthcare practice.\n\nTopics Discussed:\nIntroductions\nI_nandini Sharma introduced Kshitij Joshi, a regional director at Innovator, to Leah Car",
+      "pain_point": "Current Athena EMR does not fully support the practice’s population health management needs; roadmap features are delayed (3-5 years away).\nManaging complex ACO REACH and upcoming ACO LEAD program requirements without an adequate platform.\nCurrent care management documentation and billing processes are fragmented across multiple tools (TimeDoc, RPM devices, Salesforce).\nDifficulty managing and integrating multiple data sources and spreadsheets.\nNeed for better care coordination, beneficiary engagement, and compliance management.\nLack of predictive models and insights to identify high-risk patients early.\nChallenges in scaling provider panel and managing operational and platform excellence.\nNeed to ensure documentation meets audit compliance (MEAT criteria) to avoid claim denials or recoupments.\nLimited direct access to payer claims data; reliant on Athena for claims and diagnosis codes.\nBudget constraints require clear pricing and ROI justification for new technology investments.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1334,7 +1526,10 @@
       "attendees": "Jbruinsma, Ryan Grace",
       "brand": "Atlas",
       "summary": "The meeting was centered around discussing potential collaboration opportunities between Innovator and Beacon Health System, focusing on data management and population health solutions.\n\nTopics Discussed:\nIntroduction and Background\nRyan Grace introduced Innovator, highlighting its history and exper",
+      "pain_point": "Seller asks about challenges with current solutions.\nBuyer states: Turnaround times and latency for health information exchange records coming into HDI are problematic, impacting workflows for discharge follow-up and Transitional Care Management outreach.\nBuyer states: Internal frustrations with responsiveness and making changes on the user end of the Oracle HDI platform.\nBuyer states: Transitional Care Management workflow is a pain point.\nBuyer states: Uncertainty about embedding AI into workflows and whether to partner externally or rely on Oracle HDI solutions.\nBuyer states: Concern about whether Innovator's solution would contradict Oracle's strategy.\nBuyer states: Need for optimization of current Oracle Cerner and Oracle partner solutions.\nBuyer states: Challenges with latency and responsiveness from vendor impacting actionable workflows.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -1347,7 +1542,10 @@
       "attendees": "Kane, Sheryl M, Donald B Rindal, Weidner, Heather A, Mark W Jurkovich, DeFor, Teri A, Connor Johnson, Amallick",
       "brand": "Atlas",
       "summary": "The meeting centered on structuring a productive discussion regarding integrated medical and dental care, focusing on research aims and objectives.\n\nTopics Discussed:\nMeeting Structure and Focus\nHeather Weidner emphasized the importance of structuring the meeting to maintain focus and productivity.\n",
+      "pain_point": "Seller asks about challenges related to network leakage and member retention.\nBuyer acknowledges network leakage as a widely acknowledged challenge that undermines continuity of care and raises costs.\nBuyer and participants discuss the complexity of measuring improved member retention using claims data.\nBuyer highlights poor capabilities in dentistry for electronic transfer of information and lack of certified record systems in many dental clinics.\nBuyer and participants note barriers to implementation including technology barriers, payment barriers, and systemic issues.\nBuyer mentions that some pilot programs were resource intensive and unsustainable for scaling.\nBuyer and participants discuss limitations of claims data and the need for deeper dives into medical records for fuller understanding.\nBuyer notes difficulty in quantifying certain measures like antibiotic prescribing comparisons within network.\nBuyer and participants discuss the challenge of integrating medical and dental data across different systems and providers.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1360,7 +1558,10 @@
       "attendees": "Wolfew, Grotheb, Medinam, Brian Silverstein, MD",
       "brand": "Atlas",
       "summary": "The meeting centered around the strategic planning and implementation of a new platform for Cleveland Clinic, focusing on risk adjustment and data management.\n\nTopics Discussed:\nPlatform Implementation\nDiscussion on the integration of a new platform to replace the current vendor, Arcadia, with a foc",
+      "pain_point": "Concern about losing customization and configuration when switching platforms.\nFear of buying software that is not used ('don't buy shelfware').\nDifficulty in achieving provider adoption and behavior change with current tools.\nChallenges with multiple alerts from different platforms causing confusion for providers.\nComplexity in managing multiple contracts with different supports and services.\nLegal and contractual challenges related to data usage rights.\nVariable cloud hosting costs causing budgeting difficulties.\nNeed for efficient and intentional use of technology to avoid wasted resources.\nDifficulty in integrating ambient scribing technology with risk adjustment documentation.\nChallenges in tracking provider usage and attributing actions to outcomes.\nRisk of paying for unused or underutilized software features.\nComplexity in negotiating contracts that allow scaling and optionality for different plans.\nProvider workflow friction with current alert systems leading to low engagement.\nNeed to demonstrate ROI and justify advisory services costs to leadership.\nDifficulty in managing documentation initiatives across diverse workflows and legacy systems.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1373,7 +1574,10 @@
       "attendees": "Tkennedy, Heather - Community Care KS, Vaibhav Kapil",
       "brand": "Atlas",
       "summary": "The meeting centered around discussing the Atlas platform, a population health management tool designed to provide healthcare providers with comprehensive patient information to enhance value-based care delivery.\n\nTopics Discussed:\nRecap of Previous Meeting\nDiscussion on the use of EHR systems like ",
+      "pain_point": "Buyer is struggling with attributed member information for Medicaid contracts.\nProviders do not have established processes or practices for patient record management or attributed patient lists.\nProviders lack time to explore population health tools and need assistance navigating and pulling reports.\nThere are delays in connecting with current products and payers.\nRevenue and patient leakage issues exist, with ongoing work to address coding and billing challenges.\nHealth centers are new to value-based care contracting and face challenges in collaboration and mindset shift.\nLack of unified patient record at point of care hinders value-based care delivery.\nDifficulty in producing network-wide reports due to lack of established processes.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1386,7 +1590,10 @@
       "attendees": "John Hickey, mlarrieu",
       "brand": "Atlas",
       "summary": "The meeting centered around strategic planning and collaboration between DePaul and Ascension, focusing on the implementation of health systems and funding arrangements.\n\nTopics Discussed:\nPricing and Implementation\nDiscussion on preparing pricing for DePaul and the potential integration with TL and",
+      "pain_point": "Buyer faces complexity in managing separate instances and timelines for DePaul and LPC A due to independence and legal requirements.\nDifficulty in executing contracts and arrangements with Ascension due to their ownership model and legal constraints.\nChallenges with Ascension's understanding and execution of FQHC guidelines and regulations.\nLegal complexities requiring separate counsel to maintain independence and comply with HERSA regulations.\nNegotiations with state and payers leading to unrealistic expectations and the need to back out of certain risk arrangements.\nLimited shared savings and reliance on per-click incentives, requiring effective care management systems.\nChallenges in managing specialty services access and reducing Medicaid patient wait times.\nNeed to manage multiple carve-outs (e.g., HIV, cancer) with specific analytics and care models.\nDifficulty in interpreting and applying social determinants of health data effectively within clinical workflows.\nComplexity in coordinating multiple stakeholders within Ascension and other organizations, leading to repeated conversations and slow decision-making.\nManaging rapid growth and expansion into multiple states with varying regulations and political dynamics.\nEnsuring compliance with on-site visits and audits by HERSA and other regulatory bodies.\nBalancing funding received from health systems with maintaining operational independence.\nChallenges in implementing comprehensive care management and predictive analytics tailored to specific disease states and populations.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1399,7 +1606,10 @@
       "attendees": "John Hickey, mlarrieu",
       "brand": "Atlas",
       "summary": "The meeting underscored the challenges of recruitment and retention, the importance of strategic growth, and the need for careful management of organizational changes.",
+      "pain_point": "Difficulty recruiting for certain positions due to pay and stigma.\nBudget constraints limit ability to offer competitive pay compared to larger organizations.\nHigh turnover risk with new graduates who may not stay long.\nLosing key employees who outgrow the organization.\nStaffing challenges in data roles and need for redundancy.\nManual and time-consuming data curation tasks consuming skilled staff's time.\nManaging growth from 15 to 30 clinics creating staffing and budget pressures.\nComplexity in network structure and managing risk due to federal funding restrictions.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     }
@@ -1411,7 +1621,162 @@
     "total_analyzed": 50
   },
   "growth_clusters": [],
-  "messaging": {},
+  "messaging": {
+    "repeated_value_props": [
+      {
+        "theme": "Automation & Operational Efficiency",
+        "frequency": 11,
+        "representative_sr_nos": [
+          "14",
+          "81",
+          "83",
+          "92",
+          "163",
+          "165",
+          "185",
+          "200",
+          "233",
+          "263",
+          "272"
+        ]
+      },
+      {
+        "theme": "Data Integration & Unified Platform",
+        "frequency": 9,
+        "representative_sr_nos": [
+          "4",
+          "28",
+          "50",
+          "148",
+          "185",
+          "191",
+          "261",
+          "263",
+          "278"
+        ]
+      },
+      {
+        "theme": "Improved Financial Outcomes & Revenue Generation",
+        "frequency": 8,
+        "representative_sr_nos": [
+          "15",
+          "69",
+          "71",
+          "77",
+          "94",
+          "178",
+          "209",
+          "256"
+        ]
+      },
+      {
+        "theme": "Enhanced Patient Care & Clinical Outcomes (esp. Readmissions)",
+        "frequency": 8,
+        "representative_sr_nos": [
+          "6",
+          "14",
+          "58",
+          "71",
+          "81",
+          "83",
+          "172",
+          "217"
+        ]
+      },
+      {
+        "theme": "Actionable Analytics & Predictive Insights",
+        "frequency": 7,
+        "representative_sr_nos": [
+          "50",
+          "82",
+          "111",
+          "155",
+          "185",
+          "256",
+          "278"
+        ]
+      },
+      {
+        "theme": "Improved Provider Workflow & Reduced Burnout",
+        "frequency": 4,
+        "representative_sr_nos": [
+          "15",
+          "26",
+          "82",
+          "138"
+        ]
+      }
+    ],
+    "inconsistent_narratives": [
+      {
+        "conflict_description": "Positioning as a SaaS tool for existing teams vs. a tech-enabled service that replaces/acts as the team. In some calls, the value is enabling the customer's own care management team with technology (#217, #163). In others, the pitch is a full service that takes over tasks like patient monitoring and outreach (#81, #94), which is a fundamentally different business model and value proposition.",
+        "sr_nos": [
+          "81",
+          "94",
+          "163",
+          "217"
+        ]
+      },
+      {
+        "conflict_description": "Selling a broad, all-encompassing 'unified platform' vs. a targeted point solution for a specific problem. Multiple calls promote a grand vision of a 'single source of truth' or a 'platform for multiple use cases' (#28, #191, #261). However, other conversations are narrowly focused on solving one acute pain point, such as 30-day readmissions (#83, #172) or Transition Care Management (#14). This can create confusion about the product's core identity and implementation scope.",
+        "sr_nos": [
+          "14",
+          "28",
+          "83",
+          "172",
+          "191",
+          "261"
+        ]
+      }
+    ],
+    "proof_signals": [
+      {
+        "proof_type": "Case Studies / Peer Outcomes",
+        "sr_nos": [
+          "24",
+          "28",
+          "58",
+          "233"
+        ]
+      },
+      {
+        "proof_type": "Metrics / ROI / Financial Impact",
+        "sr_nos": [
+          "24",
+          "71",
+          "94",
+          "165",
+          "178",
+          "256"
+        ]
+      }
+    ],
+    "content_gaps": [
+      {
+        "gap_description": "Need for concrete Case Studies and ROI models. Buyers repeatedly ask for or express value in seeing results from peer organizations and understanding the financial impact (ROI) of the solution. The sales team even proactively asks if this content would be helpful, indicating it's a known requirement.",
+        "sr_nos": [
+          "24",
+          "28",
+          "58",
+          "94"
+        ]
+      },
+      {
+        "gap_description": "Lack of technical deep-dive assets on data modeling and analytics. Technically-minded buyers want to understand the methodology behind the analytics, such as how impactability scores are developed or the specifics of actuarial capabilities. This suggests a need for whitepapers or detailed product documentation.",
+        "sr_nos": [
+          "92",
+          "111"
+        ]
+      },
+      {
+        "gap_description": "Absence of clear pricing and financial benefit information. Prospects explicitly requested pricing estimates for budgeting and inquired about the cost-benefit analysis of the service, indicating a need for standardized pricing sheets or an ROI calculator to justify the expense.",
+        "sr_nos": [
+          "94",
+          "165"
+        ]
+      }
+    ]
+  },
   "risk_signals": [
     {
       "type": "late_stage_no_budget",

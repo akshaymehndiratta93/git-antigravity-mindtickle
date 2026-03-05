@@ -327,9 +327,7 @@ function renderOverviewCallTable(calls, filter = '') {
             <td>${truncate(c.title, 40)}</td>
             <td>${c.stages.map(s => `<span class="drill-btn" style="padding:2px 6px;font-size:10px;cursor:default">${s}</span>`).join(' ')}</td>
             <td>${truncate(c.opportunity, 30)}</td>
-            <td><div class="row-pain-point" title="${safeTitle}">${truncate(c.pain_point || '—', 60)}</div></td>
-            <td><span class="status-dot ${c.has_authority ? 'yes' : 'no'}"></span>${c.has_authority ? 'Yes' : 'No'}</td>
-            <td><span class="status-dot ${c.has_need ? 'yes' : 'no'}"></span>${c.has_need ? 'Yes' : 'No'}</td>
+            <td><div class="row-pain-point" title="${safeTitle}">${c.pain_point || '—'}</div></td>
             <td>${c.url ? `<a href="${c.url}" target="_blank" class="link-btn"><i data-lucide="external-link"></i> Open</a>` : '—'}</td>
         </tr>
     `}).join('');
