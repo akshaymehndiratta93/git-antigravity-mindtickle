@@ -319,18 +319,20 @@ function renderOverviewCallTable(calls, filter = '') {
 
     const shown = filtered.slice(0, 15);
 
-    body.innerHTML = shown.map(c => `
+    body.innerHTML = shown.map(c => {
+        const safeTitle = (c.pain_point || '').replace(/"/g, '&quot;');
+        return `
         <tr>
             <td><strong>${c.sr_no}</strong></td>
             <td>${truncate(c.title, 40)}</td>
             <td>${c.stages.map(s => `<span class="drill-btn" style="padding:2px 6px;font-size:10px;cursor:default">${s}</span>`).join(' ')}</td>
             <td>${truncate(c.opportunity, 30)}</td>
-            <td><div class="row-pain-point" title="${c.pain_point || ''}">${truncate(c.pain_point || '—', 60)}</div></td>
+            <td><div class="row-pain-point" title="${safeTitle}">${truncate(c.pain_point || '—', 60)}</div></td>
             <td><span class="status-dot ${c.has_authority ? 'yes' : 'no'}"></span>${c.has_authority ? 'Yes' : 'No'}</td>
             <td><span class="status-dot ${c.has_need ? 'yes' : 'no'}"></span>${c.has_need ? 'Yes' : 'No'}</td>
             <td>${c.url ? `<a href="${c.url}" target="_blank" class="link-btn"><i data-lucide="external-link"></i> Open</a>` : '—'}</td>
         </tr>
-    `).join('');
+    `}).join('');
 
     // Re-init lucide icons for the new links
     if (typeof lucide !== 'undefined') lucide.createIcons();
