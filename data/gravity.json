@@ -377,7 +377,10 @@
       "attendees": "Sammy Gershon, Seth Nye, Michael Duddy, Frank Fasano, Prasath Venkatraman, Will Pettinger, Smriti Kirubanandan",
       "brand": "Gravity",
       "summary": "The meeting centered around discussing the CMS Access program and its potential impact on business operations, as well as exploring data infrastructure solutions.\n\nTopics Discussed:\nCMS Access Program\nThe potential impact of the CMS Access program on business operations was highlighted, with concern",
+      "pain_point": "Buyer expresses uncertainty about the CMS Access program impact: \"I can't say, I can't say, I know a whole lot about a whole lot about that.\"\nSeller and buyer discuss risk of customers losing influence and referral control over patient populations due to digital vendors capturing patients, leading to leakage and difficulty managing value-based care arrangements.\nConcern about significant cloud costs during the pilot phase.\nPotential challenges with data access and vendor cooperation for data transfer.\nLegal and contracting processes may delay project start.\nComplexity and variability in data sources and formats requiring mapping and transformation.\nNeed to avoid unexpected expenses related to compute usage (HIU units).",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -390,7 +393,10 @@
       "attendees": "Dan Syse, Sgodon, Kessler Brown, StaceyHale_i, Laura Stierle",
       "brand": "Gravity",
       "summary": "The meeting was centered around discussing pharmacy services at Marshall, focusing on specialty pharmacy operations and potential optimizations.\n\nTopics Discussed:\nPharmacy Services Overview\nStephanie Godon provided an overview of Marshall's pharmacy services, including inpatient, outpatient, and sp",
+      "pain_point": "Seller asks about problems: \"Prior authorization was a big one, also 340b.\"\nBuyer mentions challenges with provider sending prescriptions to their Pharmacy, impacting capture rates.\nBuyer mentions manufacturer restrictions limiting use of contract pharmacies for 340b capture.\nBuyer mentions risk tolerance decisions to not do alternative distribution programs.\nBuyer mentions concern about market access to limited distribution drugs (LDD).\nBuyer mentions challenges with 340b claims not qualifying and needing to understand reasons for failure.\nBuyer mentions concern about data elements needed for accreditation if moving away from vendor-run Specialty Pharmacy.\nBuyer mentions wanting to optimize capture rates and reduce operational leakage.\nBuyer mentions current contract pharmacy relationships and efforts to optimize them.\nBuyer mentions challenges with payer lockout and limitations on contract pharmacies.\nBuyer mentions need to understand workflows and capabilities of current vendor (CPS).",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -405,7 +411,10 @@
       "attendees": "Prashasati Jain, Alex Garcia, Rasheed Baqai, Michael Simon, Glenn Kunigan, Rex Lam, bduncan, Emma Spight, Brad Vontur",
       "brand": "Gravity",
       "summary": "The meeting centered around discussing data integration and predictive analytics for wound care management across multiple clinics.\n\nTopics Discussed:\nData Integration Challenges\nThe primary challenge is extracting wound care data from hospital EHRs to use for various reporting and predictive modeli",
+      "pain_point": "Seller asks: \"What is the key use cases of that data from those different locations?\"\nBuyer states: Problem number one is getting wound care data out of hospital EHRs (THR) which is cumbersome.\nBuyer states: They do not own the hospital EHRs; data extraction must be outside the EHR.\nBuyer states: Setting up HL7 or FHIR feeds with each hospital individually is cumbersome and undesirable.\nBuyer states: Their current EHR data entry involves transcription and copy-pasting, causing duplicated effort.\nBuyer states: The hospital EHRs may not have all the data they need; their proprietary wound care data is more robust.\nBuyer states: Data latency is currently overnight batch; they want faster data availability.\nBuyer states: They lack a delivery method to present predictive models and clinical data effectively to providers.\nBuyer states: They cannot integrate directly with hospital EHRs to protect their IP.\nBuyer states: They face complexity and risk of 600 points of failure if integrating individually with each hospital EHR.\nBuyer states: They want to avoid double data entry and improve data extraction and usability.\nBuyer states: They need consistent terminology and structured notes to reliably extract wound care data.\nBuyer states: They want to improve clinical decision-making with predictive analytics but face challenges in data integration and presentation.\nBuyer states: They want to avoid duplicative and inefficient workflows in data management.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -422,7 +431,10 @@
       "attendees": "Daniel Steinberg, Ryan Raess, Leighton Johnson, Clayson Willis, Smriti Kirubanandan",
       "brand": "Gravity",
       "summary": "The meeting centered around discussing the integration and deployment of agentic AI within existing healthcare systems, particularly focusing on Epic EMR systems.\n\nTopics Discussed:\nIntegration Challenges\nDiscussion on the integration of new platforms into existing ecosystems, particularly focusing ",
+      "pain_point": "Seller asks about challenges and resourcing: \"How do you feel about the resourcing that it takes and do you feel enabled or is it kind of a challenge?\"\nBuyer states: \"We have tons of challenges.\"\nBuyer highlights integration challenges: \"There's definitely a lot of challenges integrating a new platform in our existing ecosystem.\"\nBuyer emphasizes data security and networking challenges: \"Data sharing even if encrypted over open public IP space is something we do not allow.\"\nBuyer expresses concern about adding another platform for users: \"Nobody from the Healthy Planet team is going to log into your platform; they want integration into their existing workflow.\"\nBuyer states: \"We already have a platform similar to yours for technical folks, but non-technical users do not want to log into another platform.\"\nBuyer highlights the pain point of integration in and out of the platform: \"How do you get the data in and how do we get the data out and how does it interface?\"\nBuyer notes the challenge of writing back data into Epic: \"It's actually fairly challenging to write back to Epic.\"\nBuyer stresses the importance of integration over technical platform capabilities: \"Our pain point is not the technical details but the integration piece and workflow embedding.\"\nBuyer concerned about adding complexity to existing workflows: \"Adding more to my flow that I already have is not helping.\"",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -435,7 +447,10 @@
       "attendees": "Room.SF.SanfordCenter.CorporateLeadershipConfRm, Jill Shewmake",
       "brand": "Gravity",
       "summary": "The meeting centered around discussing strategic partnerships and technological integration within the healthcare sector, focusing on data management and AI capabilities.\n\nTopics Discussed:\nIntroduction and Agenda\nQuick introductions of key participants including Sandy Gupta, Mike Sutton, and Amy St",
+      "pain_point": "Provider shortages, especially pronounced in rural areas and in specialties like behavioral care.\nChallenges associated with large geographic footprint with more cows than people, impacting care delivery.\nComplexity of integrating multiple legacy systems and multiple versions of transactional systems.\nDifficulty in harmonizing large volumes of diverse healthcare data (e.g., 32,000 attributes in Watson project that failed).\nNeed for governance and guardrails around AI usage to prevent misuse or data exposure.\nChallenges in data quality and standardization across multiple systems and environments.\nPotential bottlenecks in accessing data if not using open architecture.\nNeed to avoid automating existing bad processes; requires mindset and paradigm shift in AI adoption.\nManaging growth and integration challenges from mergers and acquisitions (e.g., Marshfield Clinic integration).\nNeed to accelerate data hydration and integration for clinical, HR, and finance data.\nEnsuring security and compliance in data handling and AI model usage.\nManaging diverse AI models and ensuring consistent outcomes across them.\nDifficulty in scaling virtual care and specialty access across rural and underserved populations.\nNeed for workforce development to enable AI adoption across the entire organization, not just select roles.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -448,7 +463,10 @@
       "attendees": "Akhter Mubarki, Bharat Sobti",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on discussing various aspects of project implementation, resource management, and contract negotiations.\n\nTopics Discussed:\nProject Implementation\nDiscussion on the Atomic hmd value RFP and its implications.\nConsideration of license or implementation strategies for the ",
+      "pain_point": "Buyer indicates the need to trim down hours on the project but maintain quality of resources.\nBuyer highlights the high cost of cloud infrastructure architects.\nBuyer points out that the contract is one-sided with an unfavorable exit clause.\nBuyer mentions challenges with payment terms and delays (payment in 50 days).\nBuyer implies difficulties with managing external charges and cloud costs.\nBuyer expresses concern about resource allocation and the need to reduce cloud-related expenses.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -461,7 +479,10 @@
       "attendees": "Aisha F Iqbal, Brian Silverstein, MD, Baz Patel",
       "brand": "Gravity",
       "summary": "The meeting was centered around planning and organizing a presentation for an upcoming conference, focusing on population health and value-based care.\n\nTopics Discussed:\nPresentation Content\nDiscussion on the abstract and the main themes of the presentation, which include the integration of third-pa",
+      "pain_point": "Buyer mentions challenges clinics face such as manual processes and lack of reporting capabilities.\nBuyer notes difficulties with multiple logins and fragmented data systems.\nBuyer highlights the pain points for clinics related to data use cases.\nBuyer and seller discuss the complexity of integrating multiple data sources to create a comprehensive patient view.\nBuyer notes the importance of addressing socio-economic and environmental factors beyond traditional healthcare.\nBuyer and seller acknowledge the need for infrastructure to support value-based care delivery.\nBuyer mentions the challenge of maintaining provider workflow while delivering intelligence at the point of care.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -478,7 +499,10 @@
       "attendees": "Bryan Ness, Kessler Brown, Dichted, Ben Grothe, Joseph Thompson",
       "brand": "Gravity",
       "summary": "The meeting centered around the ongoing RFP process and contract negotiations for transitioning from Arcadia to Innovacer, with a focus on cost management and timeline considerations.\n\nTopics Discussed:\nIntroductions and Roles\nBryan Ness, Kessler Brown, and Danielle introduced themselves and their r",
+      "pain_point": "Seller asks about challenges in getting the price down.\nBuyer states leadership demands price reduction, possibly more than half the current projection.\nBuyer expresses difficulty in negotiating price reductions without sales tactics.\nBuyer highlights the challenge of balancing necessary services with budget constraints.\nBuyer notes uncertainty about which services are absolutely necessary versus nice to have.\nBuyer mentions the complexity of managing multiple contracts with different scopes and priorities.\nBuyer indicates difficulty in justifying ongoing advisory and program transformation service fees.\nBuyer and seller discuss the challenge of aligning contract scope and pricing with leadership expectations.\nBuyer notes the challenge of evolving contract terms and service order details causing delays.\nBuyer expresses concern about AI-related contract clauses and their impact on solution deployment.\nBuyer highlights the risk of paying for two parallel solutions if migration timelines are not met.\nBuyer and seller acknowledge the difficulty in correlating technology investment to direct financial returns due to multiple variables.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -491,7 +515,10 @@
       "attendees": "Brian Cummins, Paulina Kaminski, Frank Fasano, Akash Valecha",
       "brand": "Gravity",
       "summary": "The meeting centered around cost reduction strategies and pricing models for various services, with a focus on infrastructure and operational costs.\n\nTopics Discussed:\nCost Reduction Strategies\nDiscussion on creating a list of potential tracks to reduce costs, particularly focusing on infrastructure",
+      "pain_point": "Current financial models and pricing may be overly optimistic or not fully accurate.\nLack of hard data on achievable cost savings; some estimates are \"soft\" or \"finger in the air.\"\nPricing pressures to meet market prices while maintaining margins.\nDifficulty balancing margin targets with the need to win business.\nHigh infrastructure and hosting costs, especially related to data platform (DAP) usage.\nComplexity and cost of integrating multiple EHR systems and maintaining unified patient records.\nCustomer sticker shock at pricing when workflows involve multiple actions charged separately.\nHuman-intensive service delivery leading to sustainability concerns.\nChallenges in managing ongoing customer requests for tweaks and fixes, increasing operational costs.\nUncertainty about how to price handoffs and support calls appropriately.\nRisk of pricing being uncompetitive or upside down, especially with new customers incurring DAP costs.\nDifficulty in controlling and reducing costs related to vendor dependencies.\nSlowed progress on developing lighter versions of technology solutions due to pilot customer disengagement.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -504,7 +531,10 @@
       "attendees": "Shivam Chaddha, Keg Avakian",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on discussing the challenges and strategies related to engaging with a potential client who is currently using an EMR platform that is not ideal but functional.\n\nTopics Discussed:\nClient Engagement\nShivam Chaddha and Keg Avakian discussed the difficulty in reaching a cl",
+      "pain_point": "The current EMR platform used by the buyer is described as \"not ideal\".\nThe buyer is not currently in the market for new solutions, indicating possible hesitation or timing challenges.\nThe buyer's organization is small with limited scale, which may pose challenges for selling large solutions.\nThe existing systems and platforms may be outdated or not fully integrated, as implied by the discussion about operational enablement and workflow integration.\nThe buyer's health system uses multiple legacy systems (Paragon, Athena One) and has a complex vendor history, which may complicate solution adoption.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -520,7 +550,10 @@
       "attendees": "L898453M, Kaylee Adams, Maddie Schults, Sabrina Roude, Swapnil Bhagat, Sandeep Duvvuru, Smriti Kirubanandan",
       "brand": "Gravity",
       "summary": "The meeting centered on the introduction and demonstration of the Gravity platform, a next-generation healthcare AI platform, and its potential applications for the participants' organization.\n\nTopics Discussed:\nIntroduction to Gravity Platform\nOverview of the Gravity platform as an upgraded version",
+      "pain_point": "Buyer notes that chronic care management data and interventions data currently reside in Epic and Cerner and may not be fully accessible.\nBuyer concerned about impact if AI platform does not have full clinical data picture, especially since current data is primarily claims and some CCDA.\nBuyer questions about integration complexity and setup process for Epic data connection.\nSeller acknowledges challenges in scaling AI and data integration across enterprise.\nBuyer notes that clinical connection setup into the platform is not fully established for care management aspects.\nBuyer highlights that some clinical data is missing or not currently procured.\nSeller notes that building AI solutions internally can take multiple years and is complex.\nBuyer concerned about implementation timeline for AI agents using existing data.\nBuyer mentions need for streamlined processes and integration across systems.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -537,7 +570,10 @@
       "attendees": "Ben Grothe, Joseph Thompson",
       "brand": "Gravity",
       "summary": "The conversation touched on future opportunities and the importance of maintaining regular communication with key stakeholders like Todd and Rohit.\nConclusion:\n\nThe call concluded with both parties agreeing to continue discussions in a future meeting, focusing on aligning project scope, timeline, an",
+      "pain_point": "Challenges with scheduling and coordinating meetings due to complex calendars and travel times.\nConcern about potential misunderstandings or misrepresentations about the use of claims data and business intelligence in the future.\nNeed to adjust scope and budget to meet leadership's financial directives.\nDifficulty in finding an enterprise solution that covers all service lines and CPT codes; current solutions do not exist.\nManaging expectations around pricing and scope changes, including justifying adjustments to leadership.\nCommunication challenges with contractors (e.g., asbestos check) due to language barriers (mentioned in opening but not directly related to business).",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -550,7 +586,10 @@
       "attendees": "Aneeta Takhar, Joseph Thompson",
       "brand": "Gravity",
       "summary": "Sales Hub\nCopilot\n0\nAM\nHome\nYour team\nCoaching\nILT Sessions\nCall AI\nTeam analytics\nFor you\nTraining\nAssets\nDigital Sales Rooms\nPittsburgh Mercy l Innovaccer l Connect\nFeb 24, 2026\nShare\nAdd to library\n10\n10\n00:00 / 19:40\nSkip inactivity\n1x\nThemes timeline\nJoseph Thompson\n86%\nAneeta Takhar\n14%\nAsk Co",
+      "pain_point": "Buyer mentions that prior to using Innovator, reporting and dashboards were manual and spreadsheet-driven, implying inefficiency.\nNo active implementations currently ongoing, indicating possible stagnation or uncertainty in moving forward.\nLack of controls on AI initiatives across organizations, leading to potential data governance issues.\nUncertainty about future direction as leadership is meeting internally to decide how to proceed.\nNo replacement found yet for Tony, possibly causing delays or gaps in leadership or project continuity.\nPotential misalignment or incorrect build of Innovator modules in the portfolio, as buyer suspects they may be built incorrectly.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": false
     },
@@ -565,7 +604,10 @@
       "attendees": "Lauren Rashford, Cindy Friend, Jsallans, Nilav Ghosh, Mahendran Madhavan, Amit Varangaonkar, DMunkwitz, Shanthi Sivakumar, Venkata Ayyagari, Joshua Lashley, Raymond Schade, James Range, Michael Jamason, Vishal Jain",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on aligning schedules for a security meeting, updates on user enrollment, and discussions on data models and project status.\n\nTopics Discussed:\nSecurity Meeting Scheduling\nCindy Friend and James Range discussed coordinating times for a security meeting, with flexibility",
+      "pain_point": "Difficulty in scheduling meetings due to interim revenue issues and busy schedules.\nChallenges in user provisioning for attorneys and adjusters who do not have Paradigm email addresses.\nDelays or lack of feedback on SFTP connection provisioning and configuration.\nNeed to track and close open questions and deliverables to meet tight deadlines, especially for data gap analysis.\nComplexity in managing multiple contracts per patient and simplifying data models for MSK use cases.\nPotential issues with syncing client and employer data if mastered outside of Arch.\nNeed to finalize specifications timely to avoid delays in building to spec.\nChallenges in tracking eligibility and enrollment metrics accurately.\nManaging multiple attorneys per episode and capturing attorney types (e.g., paralegals).\nDifficulty in chasing down attachments and documents sent via email, leading to preference for shared drives.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -578,7 +620,10 @@
       "attendees": "Bienville Medical Center-Kirk Lemoine CEO, Alex Garcia",
       "brand": "Gravity",
       "summary": "The meeting between Kirk Lemoine, CEO of Bienville Medical Center, and Alex Garcia, Area VP, focused on exploring potential collaborations and understanding the 340b program's applicability to the medical center.\n\nTopics Discussed:\nIntroduction and Roles\nAlex Garcia introduced himself as the Area VP",
+      "pain_point": "Buyer is not currently qualified for the 340b program due to lack of an in-house pharmacy.\nBuyer is uncertain about the current rules and eligibility criteria for 340b qualification, especially regarding rural health initiatives.\nBuyer has difficulty connecting with vendors or resources that could help them qualify for 340b.\nBuyer notes that patients often do not answer calls from their current patient outreach company, reducing effectiveness.\nBuyer is concerned about the cost of expensive specialty drugs for patients with rare diseases and the financial impact on the hospital.\nBuyer mentions limited space and infrastructure to have an in-house pharmacy.\nBuyer is unsure about the implications of new laws affecting 340b rebates and pharmacy purchasing costs.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -593,7 +638,10 @@
       "attendees": "John Hickey, Lacy Heiberger",
       "brand": "Gravity",
       "summary": "The meeting between John Hickey and Lacy Heiberger focused on discussing the integration and capabilities of Innovaccer's platform for VCU, as well as Lacy's role in the process.\n\nTopics Discussed:\nIntroduction and Background\nJohn and Lacy discussed their previous interactions and Lacy's new role ak",
+      "pain_point": "Buyer notes missing view of the system and workflow perspective: \"I really felt like I was missing a view of the system... I don't know what it actually looks like from a workflow perspective.\"\nBuyer highlights Epic limitations: \"some of these Epic shops are being sold that Epic solves for everything... but it's not really kind of in her space.\"\nBuyer describes challenges with Epic implementations: \"I don't have five years to wait... they will build it or they will build it.\"\nBuyer describes difficulty managing mixed patient populations and contracts: \"I also couldn't cleanly carve those out of the contracts while still having to build my own infrastructure for all of the adults.\"\nBuyer mentions leadership changes and cultural challenges: \"leadership was changing over every other second... cultural things too... trying to grow and innovate and standardize all at the same time and in different directions sometimes.\"\nSeller notes that academic medical centers are behind community systems in network development and standardization.\nBuyer implies dissatisfaction with current manual and fragmented tools: Epic's CRM tool has \"not a lot of automation to it at all.\"\nBuyer notes challenges with multiple EMRs in network and varying functionality.\nSeller mentions customers struggling with building data models on Snowflake without Innovator's platform.\nBuyer indicates need for more efficient and integrated solutions to avoid duplicative efforts.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -606,7 +654,10 @@
       "attendees": "Agerez, Dan Syse, Kdostart, Joel Engelmann, msayer, Spassanisi, Jimmy Bresee III, Madison, Rpeigh",
       "brand": "Gravity",
       "summary": "The meeting was centered around discussing the integration of data systems and the potential benefits of Innovaccer's platform for Marshall's healthcare operations.\n\nTopics Discussed:\nIntroduction and Participant Roles\nDan Syse introduced the meeting, highlighting the presence of key participants in",
+      "pain_point": "Buyer Mike mentions 340b program complexity and challenges managing it from compliance and data integration standpoints.\nBuyer Alex highlights the biggest gap as data integration from major sources to provide comprehensive analytics for assessing potential partnerships.\nBuyer Alex notes challenges with feeding contract information into systems and obtaining dashboards stratified by contract with retrospective and prospective analytics.\nBuyer Alex points out a gap in external data integration with Epic's Healthy Planet module, specifically integrating open care gaps closed outside Marshall and updating the system automatically to reduce manual work and administrative burden.\nBuyer Karen questions the age and update frequency of claims data, implying concerns about data timeliness.\nBuyer Alex asks about handling frequently changing member attribution, especially for Medicaid plans, to ensure data and outreach are current.\nBuyer Rachel mentions missing the middle segment of case management between high-touch and low-touch outreach.\nBuyer Karen notes that contract modeling currently sits in a separate place and is not integrated, making it difficult to model contracts effectively.\nGeneral challenge of managing multiple data sources, ensuring data quality, and integrating diverse data for actionable insights.\nDifficulty in managing attribution and contract performance analytics effectively across multiple lines of business and payers.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -622,7 +673,10 @@
       "attendees": "Lauren Rashford, Cindy Friend, Tabitha.Vieweg@paradigmcorp.com, Parthkumar Patel, JLashley, DMunkwitz, Amit Varangaonkar, Mahendran, Rujuta Vidal, Venkata Ayyagari, Paige Pugh, Michael Jamason, Sgabriele, Divyansh Mahajan, Vishal Jain",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on discussing the workflow and data management related to attorney involvement in patient care, as well as the configuration and functionality of protocols within the Innovaccer platform.\n\nTopics Discussed:\nAttorney Workflow\nDiscussion on handling attorney workflow, par",
+      "pain_point": "Challenge in defining and aligning on the concept of claim IDs and attorney association (patient-level vs claim-level).\nComplexity and confusion around multiple claims, multiple attorneys, and how to handle communication rules per claim.\nNeed for clarity on data modeling and entity relationships between patients, claims, attorneys, and cases.\nDifficulty in ensuring clean and consistent data entry to avoid garbage data (e.g., misspelled body parts).\nAuto-population of protocol fields depends on data feed completeness and engineering effort.\nManual assignment workflows lack auto-population, increasing manual effort.\nPotential delays or inefficiencies if data definitions and relationships are not clearly established early.\nLow attorney representation rate makes some workflows rare but still necessary to handle.\nNeed for clear understanding of who maintains attorney master data and how updates propagate.\nRisk of time drag and lack of conclusion if too many Arch entities and contract-related entities are discussed for MVP.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -635,7 +689,10 @@
       "attendees": "Timothy Slowick, Tom Sweeny, Bryan Ness",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on discussing potential collaboration opportunities between UMass and Innovacare, with a particular emphasis on data integration and AI applications in healthcare.\n\nTopics Discussed:\nGeographic and Professional Backgrounds\nTimothy Slowick and Tom Sweeny discussed their ",
+      "pain_point": "Buyer expresses dissatisfaction with the complexity and volume of contract review, especially redlining contracts and negotiating terms related to cyber coverage and liability.\nChallenges with managing insurance claims related to complex incidents such as ruptured pipes, freeze losses, cyber breaches, and malpractice.\nThe organization faces challenges with multiple AI projects and apps being requested by different departments, leading to a heavy workload on the Chief Informatics Officer.\nDifficulty in integrating AI projects effectively, as many pilots tend to fizzle out due to lack of infrastructure and integration.\nManual and labor-intensive processes in revenue cycle and patient management leading to high turnover and inefficiencies (discussed by seller, buyer not directly involved but acknowledges).\nParking costs at airports (mentioned humorously) as a minor challenge.\nWeather-related challenges impacting travel and logistics (snow and flight cancellations).",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -648,7 +705,10 @@
       "attendees": "Maddie Schults (Innovaccer), Mtaha, Shossam, Ashish Mishra, Arezk, Mabdulhamied, Ahmed Mohamed Ragab, Muhammad Hasballah, Maliwaly, Sanjay J. (Innovaccer)",
       "brand": "Gravity",
       "summary": "The meeting was centered around gathering feedback on the Innovaccer Gravity platform, focusing on user experiences and areas for improvement.\n\nTopics Discussed:\nIntroduction and Purpose\nMaddie Schults introduced the session as a feedback gathering exercise to understand user experiences with the Gr",
+      "pain_point": "Buyer finds the platform lacks user-friendly, non-technical capabilities for patient engagement and other use cases.\nMissing functionalities were noted during meetings but not all recalled; feedback document to be shared later.\nPlatform lacks customization and personalization for different user personas; currently one-size-fits-all dashboards.\nLack of consultancy or professional services focused on subject matter expertise within the platform.\nDifficulty finding uploaded data files in the sandbox environment; unclear naming conventions and file locations.\nLack of clear resources or documentation on how to create SFTP ports and upload files.\nSome features demonstrated in training videos (e.g., drag-and-drop course builder) are not available or fully functional in the sandbox.\nIntelligent search in the chord builder is not working, causing errors.\nNeed for more confidence and trust in the platform due to missing or unclear features.\nChallenges in migrating data from legacy systems (Holtz Catalyst) to Innovaccer platform.\nNeed for more structured and comprehensive training to cover all features and use cases.\nDelays in receiving answers to previously asked questions and feedback.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -661,7 +721,10 @@
       "attendees": "Dan Syse, Bday, Diya Sharma, Jcortes",
       "brand": "Gravity",
       "summary": "The meeting was an introductory discussion between Dan Syse, Brianna, and Dr. Cortes, focusing on the potential collaboration with Innovacer and the current technological transitions at North Country Healthcare.\n\nTopics Discussed:\nIntroduction and Attendees\nDan Syse introduced the meeting, mentionin",
+      "pain_point": "Seller asks about impact of acquisition on day-to-day life and initiatives.\nBuyer states: \"Transition from old EHR to Epic has a very short timeline with unclear actions needed.\"\nBuyer states: \"Current AI scribing tool has limited integration with EHR, relying on copy-paste, which some clinicians find unhelpful.\"\nBuyer states: \"Financial complications are part of the reason for moving away from the old EHR.\"\nBuyer states: \"Prior authorization automation is not a top priority because they have staff currently handling it, but it could save money and reduce jobs, raising ethical concerns.\"\nBuyer states: \"Uncertainty about what tools will be useful post-acquisition.\"\nBuyer states: \"Challenge in knowing what the future holds with the organizational transition.\"\nBuyer states: \"Some clinicians have not adopted AI scribing tool, indicating resistance or dissatisfaction.\"\nBuyer states: \"Operations team wants to improve care management workflow to bring in more revenue.\"\nBuyer states: \"Limited integration and automation in current systems causing clinician burden.\"",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -674,7 +737,10 @@
       "attendees": "Lmeade, Ryan Raess",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on discussing the current challenges and potential solutions related to system growth and operational efficiencies.\n\nTopics Discussed:\nSystem Growth and Pricing\nRyan Raess inquired about the team's thoughts on the pricing and scope of the system growth project.\nLmeade m",
+      "pain_point": "Concerns about the price point of the proposed solution.\nLimited internal bandwidth and resources to execute new initiatives.\nManual, clunky processes requiring spreadsheets and logging.\nEntire hospital phone system outage causing communication failures.\nDifficulty obtaining timely financial data from Finance.\nHeavy reliance on IT team for system changes, causing delays.\nNeed to submit IT tickets for every change, leading to inefficiency.\nCultural resistance within IT departments to decentralize control.\nChallenges with Epic system integration and slow response from IT.\nLack of alignment and multiple reporting lines previously causing confusion.\nConcerns about the effort and complexity involved in running pilots due to contracting and legal requirements.\nLimited relationships with key stakeholders like Heather, affecting communication.\nRisk of pilot failure due to redundancy and trust issues with existing processes.\nExecutive focus on revenue and operational targets consuming bandwidth.\nDifficulty balancing process improvements with financial constraints.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": false
     },
@@ -689,7 +755,10 @@
       "attendees": "Bryan Mccormick, Brian Ednie, David Friederichs",
       "brand": "Gravity",
       "summary": "The meeting centered around discussing the 340b program, its current management, and potential improvements through technology solutions.\n\nTopics Discussed:\n340b Program Management\nDiscussion on the eligibility of hospitals for the 340b program, with most being eligible, including seven Passionate s",
+      "pain_point": "Seller asks: \"Do you think the 340b leakage is a significant issue for you all?\"\nBuyer acknowledges: \"There is some leakage but way better than in years past.\"\nBuyer states: \"We haven't found the benefit of centralized warehouse or procurement in the pharmacy world due to overhead required.\"\nBuyer states: \"We are not putting in nearly any overhead that we don't already have, and our ROI is around 50-60% of what others are generating.\"\nBuyer states: \"The 340b world has been 'hurry up and wait' with uncertainty about what is needed or wanted.\"\nBuyer states: \"We don't know what we're going to need or want until almost time to implement.\"\nBuyer states: \"The rebate model is a primary concern and focus right now.\"\nBuyer states: \"If we engage in other initiatives and the rebate model comes back, we would have two concurrent initiatives, which is challenging.\"\nBuyer states: \"We want to be ready to handle the rebate rather than start other large integrations that might conflict.\"",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -702,7 +771,10 @@
       "attendees": "Ashish Grover, Anand Asokan, Sourav Bhattacharya, Ratankumar Nampelly, Tvashisth, Adwait Gore, Akash Valecha",
       "brand": "Gravity",
       "summary": "The meeting was centered around demonstrating a proof of concept (POC) for an automated Statement of Work (SOW) generation and its integration with a quoting process.\n\nTopics Discussed:\nSOW Generation and Customization\nThe team demonstrated the automatic generation of SOWs attached to quotes, using ",
+      "pain_point": "Buyer questions how custom deals with no existing bundles and unique pricing are handled.\nBuyer concerned about deal governance committee needing to review multiple deal attributes beyond pricing.\nBuyer notes lack of out-of-the-box deal review screen; current solution only supports price review.\nBuyer highlights limitations in handling price ranges and iterative quoting in early deal stages.\nBuyer points out absence of redlining and detailed approval tracking in SOW generation within POC.\nBuyer surprised by need for custom screens and lack of standard out-of-the-box features for deal reviews.\nBuyer queries about editing costs for unique or new product integrations.\nBuyer notes technical issues with approval triggers during discount changes.\nBuyer questions how AI is integrated into what appears to be traditional software.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -715,7 +787,10 @@
       "attendees": "Justin Magnan, JoannaLosier, MagnanDavid, Sandeep Kumar Ram, WendiMcNeilly, Sandeep Duvvuru",
       "brand": "Gravity",
       "summary": "The meeting centered on the progress and challenges of a data integration project, with a focus on file validation, data transfer, and project milestones.\n\nTopics Discussed:\nFile Validation and Transfer\nDiscussion on ensuring files are correctly placed in the CK environment.\nChallenges with limited ",
+      "pain_point": "Seller asks about validation if files are where they should be.\nBuyer states files have not yet come through SFTP as expected.\nBuyer and seller discuss delays in file movement from staging to production environment.\nBuyer states limited access to environment causes dependency on others to move files.\nBuyer and seller discuss manual process and lack of automation causing delays.\nBuyer expresses frustration that files have been sitting for two days without notification.\nBuyer states a relay race issue where handoffs are not smooth.\nBuyer concerned about missing deadlines due to delays in file transfer.\nBuyer notes that initial data files may require tweaks due to guesses made where answers were unavailable.\nBuyer notes potential discrepancies in dashboard metrics requiring validation and adjustments.\nBuyer notes data dependencies and risk that delays in data receipt will impact ingestion and analytics timelines.\nBuyer notes that some data is older or dated, limiting current insights.\nBuyer notes limited benchmarking data available for validation.\nBuyer notes need for collaboration to resolve discrepancies and validate data.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -728,7 +803,10 @@
       "attendees": "Divyansh Mahajan, Ashish Mishra, Ravi Manik, Ankit Maheshwari, Krishna Kumar, Dhruv Singhal, Harshit Kohli",
       "brand": "Gravity",
       "summary": "The meeting centered around technical discussions on code deployment, security, and system architecture improvements.\n\nTopics Discussed:\nCode Deployment and Security\nAnkit Maheshwari discussed the compliance checklist and deployment strategies, emphasizing the importance of code readability, maintai",
+      "pain_point": "Difficulty in managing complex code bases and migrations.\nChallenges in deployment processes and infrastructure access.\nIssues with code readability, maintainability, and security vulnerabilities.\nProblems with integration testing and running test cases effectively.\nLack of consistency across systems and organizational policies.\nChallenges in handling security approvals and compliance.\nDifficulty in achieving fast and reliable deployment cycles.\nLimitations in testing tools and environments, especially for leadership roles.\nNeed for improved critical thinking and comprehensive problem-solving among engineers.\nChallenges in data integration and delivery from legacy systems.\nProblems with managing and improving design systems and component reuse.\nDifficulty in coordinating among teams for code reviews and deployment standards.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -741,7 +819,10 @@
       "attendees": "Ashish Shukla, David Friederichs, Brian Strok, Adam Stewart, Zachary Rothenberg",
       "brand": "Gravity",
       "summary": "The meeting centered around introductions and discussions on potential collaborations between the teams from Univac and Snowflake, focusing on healthcare data solutions.\n\nTopics Discussed:\nIntroductions and Roles\nBrian Strok introduced himself as a new member of Dave's team at Univac, covering MUSC.",
+      "pain_point": "Seller asks: \"Do you know like are they these data bricks or Fabric or Oracle or like do they have anything along those lines building on those lines?\" (implying challenge understanding current infrastructure)\nBuyer states: \"They have no choreographed Enterprise data strategy yet.\"\nBuyer states: \"No much engagement from the prospect; only luminary conversations.\"\nBuyer states: \"They don't have a mock data model especially for a health system, which is a challenge for customers who don't want to hire extra resources.\"\nBuyer states: \"Epic's analytics might not be good enough for certain use cases like improved operations or throughput time.\"\nBuyer states: \"Lack of a coordinated data strategy and reliance on multiple vendors to piece together data governance, quality, and ingestion.\"\nBuyer states: \"Customer declined some meetings, indicating possible lack of interest or engagement.\"",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -754,7 +835,10 @@
       "attendees": "Kessler Brown, Scharioma, Joseph Thompson",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on planning and logistics for an upcoming on-site event, including participant details and technical requirements.\n\nTopics Discussed:\nEvent Planning\nDiscussion on the excitement for the upcoming event in February and March.\nClarification on who will be attending on-site",
+      "pain_point": "Buyer acknowledges a lot of manual lift in current processes, implying inefficiency.\nBuyer notes the loss of 340b status, which is described as a \"big hit\" and a significant financial loss (\"million sucking out of that\").\nBuyer expresses concern about managing multiple small systems and the complexity they bring, which has hindered entry into programs.\nBuyer indicates uncertainty and lack of commitment from some participants about attendance, complicating planning.\nBuyer mentions that the use of 340b funds is not as originally expected, causing dissatisfaction.\nBuyer implies challenges with integrating various technologies and portfolio companies.\nBuyer notes that prior consulting involvement (McKinsey) pushed for rushed timelines, which was not ideal.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -772,7 +856,10 @@
       "attendees": "Rex Lam (Innovaccer), Kathryn Burch, Kellen Roth, Varun Sirohi, David Sirmans, Maddie Schults, Julie Mcnamara, Keri Kugler, Claire Peters, Rebecca Thorsness, Laura Kempf, Smriti Kirubanandan",
       "brand": "Gravity",
       "summary": "The meeting centered on the demonstration and discussion of the new Gravity platform, an evolution of the Innovator's data platform, aimed at enhancing enterprise readiness and AI capabilities.\n\nTopics Discussed:\nIntroduction to Gravity Platform\nKeri Kugler introduced the Gravity platform as an evol",
+      "pain_point": "Seller questions about problems: None explicitly asked.\n\nBuyer statements indicating challenges or limitations:\n\nCurrent platform (DAP) is not enterprise-ready and limited in functionality.\nLimited ability to change or customize dashboards in current system.\nConcern about validation and governance of data queries and dashboards to ensure accuracy and consistency.\nNeed to get state approval (HICUP) for AI use on data, which can be a lengthy process (previous approval took six months).\nConcern about potential bias and accuracy in AI models and queries.\nNeed for better self-service capabilities for ad hoc queries and dashboard building.\nCurrent dashboarding process is slow and involves multiple steps (requirements, development, QA).\nNeed for governance and validation processes to avoid inconsistent or incorrect data presentation.\nConcern about AI agents providing clinical guidance when not appropriate (need for guardrails).\nNeed to ensure compliance with security and regulatory requirements for upgrade.\n\nSeller questions probing problems:\n\n\"How do you validate that queries are getting the right answers?\"\n\"How do you manage governance and access controls?\"\n\"Are there concerns about bias or algorithmic fairness?\"\n\nOverall, challenges relate to platform limitations, governance, validation, regulatory approval, and AI trustworthiness.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -793,7 +880,10 @@
       "attendees": "Sumit Choudhary, Ryan Mackman, John Hickey, Rasheed Baqai, Dhence, Christopher Hollberg, Antara Jha, Afrah Khan, Irene Logis, Aeron Sheeley, Deedee Baka, Danuta Lesnicki",
       "brand": "Gravity",
       "summary": "The meeting was centered around a demonstration by Innovator, the fourth and final vendor being considered for clinical quality reporting solutions. The session aimed to explore Innovator's capabilities in providing enterprise solutions for electronic clinical quality measures (eCQMs) and other qual",
+      "pain_point": "Challenges with integrating QRDA files from diverse EMR sources, especially Epic requiring blueprint files alongside QRDA files.\nIssues with data completeness and ensuring 100% acquisition of all required measures.\nDifficulty distinguishing whether data quality issues stem from EMR extraction or clinical documentation/workflow.\nPotential problems in data exchange between vendors causing validation issues.\nChallenges in mapping data stored in different locations within EMRs.\nNeed to meet CMS data completeness thresholds (e.g., 75% for eCQM reporting).\nChallenges in manual data entry limitations for certain reporting methods (e.g., eCQM does not allow manual abstraction).\nNeed for ongoing performance tracking to avoid surprises during reporting periods.\nComplexity in managing multiple reporting programs and measure definitions.\nNeed for widespread adoption and success with the reporting tools across multiple markets and practices.\nChallenges in onboarding new data sources and integrating them timely (typically three weeks per data source).",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -806,7 +896,10 @@
       "attendees": "Ddbarge, Deep Singh, Ankit Maheshwari",
       "brand": "Gravity",
       "summary": "The meeting centered around organizational changes and leadership roles within the company, focusing on platform and application leadership.\n\nTopics Discussed:\nLeadership Changes\nDiscussion on Anand's departure and the decision not to refill his position in the U.S.\nAnkit Maheshwari's plan to bring ",
+      "pain_point": "Buyer expresses dissatisfaction with the current title hierarchy and the confusion it causes: \"I'm trying any which way to get away from this whole title sheet across the org.\"\nBuyer indicates challenges in attracting and retaining top engineering talent: need for \"super smart software engineers\" who understand architecture and design choices.\nBuyer highlights the issue of slow progress or lack of movement in the platform development: \"If you use a clod code or an Antigravity, like nothing has been moving so fast right now.\"\nBuyer notes the challenge of managing a large engineering team (350 engineers) and the need to reduce headcount while increasing quality.\nBuyer points out the complexity of managing multiple distinct teams (platform and application) that operate almost like separate companies.\nBuyer mentions the difficulty in defining clear growth paths and recognition for leaders within the organization.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -819,7 +912,10 @@
       "attendees": "Rajesh01, Ankit Maheshwari",
       "brand": "Gravity",
       "summary": "The conversation between Ankit Maheshwari and Rajesh01 primarily revolved around career progression, organizational roles, and the evolving landscape of engineering talent in the context of AI advancements.\n\nTopics Discussed:\nCareer Progression and Organizational Roles\nAnkit Maheshwari discussed the",
+      "pain_point": "Seller notes that internal approval processes are slow and challenging: \"Rather they are not giving approval... we have to still go through the motions.\"\nBuyer implies challenges with traditional coding methods being slow: \"A traditional go, those are locked in a week.\"\nBuyer highlights talent bottleneck: \"The people is becoming the biggest bottleneck for them.\"\nBuyer points out the need for smarter, more intelligent engineers rather than a large volume of engineers.\nBuyer mentions budget constraints impacting team composition: \"Maybe those will be a little expensive though... much easier to make the budget cutting... volume cut.\"\nBuyer discusses the challenge of evolving application architecture to adapt to AI and chat interface paradigms.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -832,7 +928,10 @@
       "attendees": "Mabdulhamied, Arezk, Jeev Sahni",
       "brand": "Gravity",
       "summary": "The meeting centered on the challenges and strategies for a seamless transition in the healthcare industry, focusing on innovation and migration processes.\n\nTopics Discussed:\nTransition Challenges\nDiscussion on the brittleness of innovation and the need for a smooth transition in healthcare without ",
+      "pain_point": "Buyer highlights the challenge of ensuring no interruption or downtime during migration due to the critical nature of healthcare processes.\nBuyer points out the complexity of migration because users are accustomed to current systems and overcoming challenges daily.\nBuyer expresses concern about managing people during migration while they continue their daily work.\nSeller acknowledges the difficulty of migration and the need for careful planning and coordination.\nConcern about managing legal systems and deciding whether migration will be partial or full at once.\nManaging people's time carefully during Ramadan to avoid overworking.\nPotential delays or challenges from Meco or other teams that could affect migration timelines.\nNeed to avoid surprises and ensure all prerequisites are met before migration steps.\nCoordination challenges due to team members being on vacation during Ramadan.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -845,7 +944,10 @@
       "attendees": "John Hickey, Amcclellan, Clayson Willis, Shiatt, Ashish Singh, Maddie Schults, Sandeep Mantri, Kvenugopal, Smriti Kirubanandan",
       "brand": "Gravity",
       "summary": "The meeting centered around the demonstration and discussion of the Gravity platform, focusing on its capabilities and potential use cases within healthcare.\n\nTopics Discussed:\nIntroduction and Platform Overview\nIntroduction of key participants, including Krishna Venugopal, CTO at CC&C, and Adam McC",
+      "pain_point": "Buyer faces resource constraints on their end for implementation and data integration.\nBuyer has concerns about AI usage, specifically regarding patient data privacy, training of models, and compliance with fiduciary responsibilities.\nBuyer needs to manage rapid incoming new requirements and use cases without impacting existing scope of work.\nBuyer needs to ensure trust and data quality in their data pipelines to avoid business users distrusting data.\nBuyer is navigating market uncertainty and competitive threats from AI and software players.\nBuyer needs to educate customers on AI benefits while addressing their concerns.\nBuyer wants to avoid disruption to existing population health management (PHM) programs during new deployments.\nBuyer needs auditability, security, and transparency in AI agent operations to meet compliance requirements.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -858,7 +960,10 @@
       "attendees": "Grotheb, Beiene, Michael, Welchc2, Joe Thompson, Grossb, McLellan, Donald, Priyank, Medinam, Anand Dedhia",
       "brand": "Gravity",
       "summary": "The meeting was convened to discuss the pre-implementation phase of a project between Cleveland Clinic and Innovator, focusing on data integration and preparation before the formal contract is signed.\n\nTopics Discussed:\nPre-Implementation Strategy\nThe meeting emphasized the importance of completing ",
+      "pain_point": "Challenge in reconciling patient population lists between buyer's system and Innovator's platform.\nConcern about discrepancies between raw data loaded into buyer's system and data received by Innovator, making reconciliation difficult.\nArchitectural decisions needed regarding data processing: whether to send pre-processed claims data or raw claims data to Innovator.\nPotential delays in contract execution impacting implementation timeline.\nNeed to identify and prioritize appropriate stakeholders for breakout sessions and detailed discussions.\nManaging data sharing and access without a signed contract limits ability to share actual patient data.\nComplexity in setting up data connections and ensuring data governance and access controls.\nUncertainty about ramp-up of payer contracts and lives beyond initial scope.\nCloud hosting cost considerations and impact on data transfer costs depending on cloud platform used.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -871,7 +976,10 @@
       "attendees": "Hemant Jangir, Afsheen",
       "brand": "Gravity",
       "summary": "The meeting was a discussion between Afsheen and Hemant Jangir regarding Afsheen's interest in an implementation role at Population Health Learning Centre and insights into successful platform rollouts.\n\nTopics Discussed:\nRole and Company Overview\nAfsheen is interviewing for an implementation role a",
+      "pain_point": "Buyer acknowledges that sometimes customers have misunderstandings about what was promised, leading to conversations about scope and expectations.\nBuyer notes that nickel-and-diming customers for minor changes is avoided, but configuration changes or additional resources may require adjustments.\nBuyer points out that complexity is often underestimated in clinical data integration, with many clinical data sources and large data volumes.\nBuyer mentions that in implementations, sometimes data or processes get left behind or not transitioned properly, requiring manual processes.\nBuyer indicates that clarity can get lost due to multiple time zones and travel, causing communication challenges.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -886,7 +994,10 @@
       "attendees": "Greg_nocito, Kessler Brown, Shivam Chaddha, Keg Avakian",
       "brand": "Gravity",
       "summary": "The meeting centered around discussing the 340b program, pharmacy management, and potential collaboration opportunities.\n\nTopics Discussed:\n340b Program\nGreg Nocito shared that their health system has two covered entities eligible for the 340b program, including a newly acquired hospital, Clinton Re",
+      "pain_point": "Seller asks: \"Did you get what you needed on ums?\"\nSeller asks: \"What's been something that you all think you could probably use something like that for?\"\nBuyer states: \"We're always looking at managing our 340b program efficiently, especially on the inpatient side to keep things waxed.\"\nBuyer states: \"From outpatient standpoint, especially specialty pharmacy, trying to find ways to optimize.\"\nBuyer states: \"We've had a ton of growth, technology changes, and leadership changes causing pressure to fund the future and meet expectations.\"\nBuyer states: \"We don't have good visibility or control on pre-certification processes, which may not be as efficient as desired.\"\nBuyer states: \"We are fairly manual in processes, which creates a lot of work and inefficiency.\"\nBuyer states: \"We had an AI product two years ago to help with contract pharmacy scripts but it did not pan out.\"\nBuyer states: \"Need to be more effective at using biosimilars with highest margin producing options when physicians have no preference.\"\nBuyer states: \"Onboarding new FTE with new responsibilities may increase workload.\"\nBuyer states: \"Preparing for HERSA audit, which is a mad dash to get all data submitted.\"",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -901,7 +1012,10 @@
       "attendees": "Sanjeeb Khatua, Rasheed Baqai, Ryan Raess, Clayson Willis, Smriti Kirubanandan",
       "brand": "Gravity",
       "summary": "The meeting centered around discussing the integration and data strategy for a healthcare system, with a focus on leveraging the Gravity platform to enhance data management and operational efficiency.\n\nTopics Discussed:\nIntroduction and Background\nRyan Raess and Smriti Kirubanandan introduced themse",
+      "pain_point": "Seller asked: \"What is there any kind of immediate need that's kind of spiking at you?\"\nBuyer stated: \"We have a lot of work to do with data integration and unifying philosophies across different entities.\"\nBuyer stated: \"Different parts of the institution have varying levels of automation and manual processes, leading to inefficiencies.\"\nBuyer stated: \"Our data processes are highly manual and don't work out really well.\"\nBuyer stated: \"We have internal battles about how much to lean into Epic strategy versus other tools and AI solutions.\"\nBuyer stated: \"We are trying to figure out how to pilot Epic's AI tools but are not convinced about an internal Epic pathway versus bolt-on solutions.\"\nBuyer stated: \"We have put a freeze on IT and data initiatives until after Epic go-live, causing delays in data strategy progress.\"",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -914,7 +1028,10 @@
       "attendees": "Yash Bhandari, David Friederichs, Rhill, Kevin Arlington",
       "brand": "Gravity",
       "summary": "The meeting primarily revolved around discussions on vendor relationships, value-based care, and upcoming engagements at the HIMSS conference.\n\nTopics Discussed:\nVendor Relationships and Challenges\nYash Bhandari discussed issues with vendor registration at Parkland and the need for updates on the ve",
+      "pain_point": "Seller notes that a contact was hesitant to share information about Parkland and related details.\nBuyer mentions difficulty in getting updates or engagement through the Vendor Portal.\nBuyer notes that Epic's batch communication capabilities are limited; cannot easily send one message to a large group of patients meeting multiple criteria.\nBuyer indicates challenges integrating data from multiple EMR systems, as many providers in their CIN use different EMRs (Athena, eClinicalWorks) and will not use their Epic instance.\nBuyer acknowledges that implementing and maintaining Epic's HeB BPM product requires significant people power.\nBuyer mentions email server rejecting messages, indicating communication challenges.\nBuyer notes that the initial project scope does not include integrating data from all providers in the CIN, only those using Epic.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -927,7 +1044,10 @@
       "attendees": "Kelley Gray, A236577, A234504, Rishav S",
       "brand": "Gravity",
       "summary": "The meeting was centered around discussing AI solutions and their integration within healthcare systems, particularly focusing on oncology programs.\n\nTopics Discussed:\nAI Solutions and Integration\nKelley Gray introduced AI solutions aimed at reducing administrative burdens and enhancing operational ",
+      "pain_point": "Seller asked: \"Is AI solutions to reduce administrative burden something you are interested in?\"\nBuyer acknowledged: \"Yes, Allina has significant investment in AI.\"\nBuyer implied challenges with AI integration: \"There may be areas where AI agents do not have cross compatibility.\"\nBuyer implied some overlap and potential gaps: \"It seems like there is a little overlap with what we are currently doing.\"\nBuyer implied complexity in workflows: \"Many organizations have complex workflows that simple AI agents do not handle.\"\nBuyer implied integration challenges: \"We might not have as integrated a system as what you are offering.\"\nBuyer implied need for better orchestration: \"Looking for a layer to provide orchestration capability on top of existing data and systems.\"\nBuyer implied need for improved automation in prior authorization and specialty pharmacy workflows.\"\nBuyer implied challenges with patient scheduling optimization and no-show management.\"\nBuyer implied need for better coding and denial management support.\"\nBuyer implied need for improved utilization management and cost data integration.\"\nBuyer implied need for better self-service analytics and user-friendly AI agent building tools.\"\nBuyer implied challenges with data deduplication and matching (empi failures).",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -942,7 +1062,10 @@
       "attendees": "Justin Line, Prachi Chandak, Rosie Simonetti, Maddie Schults, Smriti Kirubanandan",
       "brand": "Gravity",
       "summary": "The meeting centered on discussing enhancement requests and user experience improvements for the Cohort Builder tool.\n\nTopics Discussed:\nEnhancement Requests\nRosie Simonetti and Maddie Schults discussed various enhancement requests for the Cohort Builder, focusing on improving user experience and fu",
+      "pain_point": "Difficulty with column width in reports: columns cannot be resized, causing data in cells (especially with long names) to be cut off and hard to read.\nEnd users lose their place when clicking on EMPI links because it navigates away from the report, and using the back button loses filter settings.\nFilters are persistent across all users and cannot be deleted, leading to clutter and confusion as many users create their own filters.\nUsers have to recreate filters each time or deal with seeing all filters created by others.\nCurrent filter view management is not intuitive and causes difficulty in finding personal filters.\nBugs with CSV export: file names are long, non-user-friendly codes, requiring manual renaming.\nMinor bug where users with read-only access get a generic error message when trying to refresh data sets, which is confusing.\nLack of ability for users to delete their own filter views.\nNavigation and usability issues with cohort deletion and editing features not yet implemented.\nOverall usability challenges with cohort Builder, especially for end users and developers managing filters and reports.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -955,7 +1078,10 @@
       "attendees": "Brent, Evan Boldt, Rasheed Baqai",
       "brand": "Gravity",
       "summary": "The meeting was centered around exploring potential solutions for improving safety event reporting and quality management systems at a critical access hospital.\n\nTopics Discussed:\nHospital Overview\nThe hospital is an independent community critical access hospital with 14 clinics, including five rura",
+      "pain_point": "Seller asks about key metrics of OPPE and struggles with current system being very generic and not specialty-based.\nBuyer states difficulty with current safety event reporting and quality management product needing a lot of support and not evolving as desired.\nBuyer states current system does not track specialty-specific metrics (e.g., cardiology, general surgery, GI/IR).\nBuyer states manual data abstraction is frustrating and causes inefficiency.\nBuyer states biggest gap is figuring out how to track and report specialty-specific quality metrics.\nBuyer states challenges with integrating payer data and quality metrics.\nBuyer states siloed data and processes across departments causing coordination issues.\nBuyer states limited experience in quality work and reliance on team members with more experience.\nBuyer states challenges with recent 340b program changes impacting pharmacy and financials.\nBuyer states difficulty in aligning with industry standard metrics and libraries for specialties.\nBuyer states need to improve quality reporting for re-credentialing and corrective actions.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -970,7 +1096,10 @@
       "attendees": "Ryan Grace, David Friederichs, Hilary Behrens, Jimmy Bresee III, Jess Heckman",
       "brand": "Gravity",
       "summary": "The meeting was a detailed discussion between representatives from Innovator and Bryan Health Connect, focusing on potential collaboration and solutions for healthcare data management and analytics.\n\nTopics Discussed:\nIntroduction and Background\nDavid Friederichs and Ryan Grace from Innovator introd",
+      "pain_point": "Seller questions about problems: \"Can you expand on some of the challenges your space is facing today that prompted this conversation?\"; \"Are there any loose ends around reporting and the ability to slice that data?\"; \"Do you have to rely on Health Catalyst for internal reporting?\"; \"Do you have struggles with data analytics resources?\"; \"Have you had issues with measure definition and algorithms?\"; \"Are there challenges with eCQM submission from certain EHRs like Practice Fusion?\"- Buyer statements about problems:\nRegulatory reporting is a pain point due to multiple ACO participants with different EHRs, requiring a two-step data aggregation and normalization process.\nData normalization takes longer than anticipated.\nReliance on Health Catalyst for all internal reporting; lack of internal data analytics resources.\nLimited to 15 quality measures at current price point, making prioritization difficult.\nSome EHRs (e.g., Practice Fusion) are not capable of producing QRDA-1 files needed for eCQM submission.\nChallenges with measure definitions and algorithms.\nManual input required for contract modeling.\nDifficulty in aggregating and harmonizing data from diverse sources.\nIssues with data quality and trust in aggregated data.\nNeed for row-level security to restrict data access appropriately.\nLimited ability to do self-service reporting and analytics.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -983,7 +1112,10 @@
       "attendees": "Aarti Wadhwa, Tom Sweeny, Kessler Brown, Laura E. Murphy",
       "brand": "Gravity",
       "summary": "The meeting was centered around discussing pharmacy operations, technology integration, and potential collaboration opportunities between the parties involved.\n\nTopics Discussed:\nIntroduction and Backgrounds\nLaura E. Murphy introduced herself as the 340b Operations Director for Beth Israel Health, d",
+      "pain_point": "Seller asks about pain points and challenges in operations and technology.\nBuyer states: Capture rate is low (40-50%) compared to competitors (some at 80%).\nBuyer states: Difficulty getting hospitals and clinics to consistently refer internally to their pharmacies.\nBuyer states: Challenges expanding market access and payer base.\nBuyer states: Sentry has not been the best business partner for their 340b program.\nBuyer states: Operational nightmare converting clinics to Epic EMR.\nBuyer states: Struggled to onboard nursing staff for home infusion despite market saturation.\nBuyer states: Slow progress in increasing capture rate despite strong push.\nBuyer states: Prior authorization is a pain point for clinics; clinics can't independently support volume.\nBuyer states: Need to manage prior authorization volume to avoid tripling patient access team again.\nBuyer states: Market access expansion is hard and slow.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -998,7 +1130,10 @@
       "attendees": "John Hickey, David Nace, Joseph Thompson, David Johnson",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on discussing strategic partnerships and initiatives with Mayo Clinic and Baylor Scott & White, as well as addressing patient care concerns.\n\nTopics Discussed:\nPatient Care Concerns\nDavid Johnson expressed frustration over his wife's discharge from Northwestern with a c",
+      "pain_point": "Buyer expresses frustration with Northwestern regarding patient discharge practices, specifically about discharging a patient with a catheter to save money, which is not seen as best patient care.\nDifficulty engaging Mayo Clinic contacts and challenges in timing for sales discussions, with silence from contacts since the end of the year.\nMayo Clinic platform team having significant trouble getting data into their platform.\nEpic is described as a major obstacle to innovation in healthcare, particularly by the CEO of Baylor Scott and White.\nBaylor Scott and White's CEO sees Epic as a barrier due to data ownership disputes, hindering app co-development.\nBaylor Scott and White's internal development of tools rather than adopting external solutions, making sales efforts less fruitful.\nLogistical issues at a dinner event limited engagement opportunities with guests.\nChallenges in getting Mayo Clinic and Baylor Scott and White to move off self-developed contract modeling products.\nRapid growth and population expansion at Baylor Scott and White creating operational challenges.\nPolicy changes and AI management in patient care creating complexity and uncertainty.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1011,7 +1146,10 @@
       "attendees": "Whitney Wilson, MagnanDavid, Harsh Pathak, WendiMcNeilly",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on updates and coordination regarding file delivery and data management processes.\n\nTopics Discussed:\nAttendance and Scheduling\nHarsh Pathak and Wendi McNeilly discussed the absence of a team member due to illness and the attendance of others, including Dave and Ellie.\n",
+      "pain_point": "Concern about potential issues if files sent on the 18th have problems that are not detected beforehand.\nNeed to ensure provider file matches hierarchy for security and data slicing/dicing.\nUncertainty about who exactly will have access to the data and ensuring proper access control.\nPotential need to tweak files after initial runs to make everything work correctly.\nCoordination challenges around getting the hierarchy and provider files ready in time.\nNeed to confirm claims volume and ensure claims are flowing correctly.\nManaging multiple file layouts and deciding on mapping approach for claims data.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1024,7 +1162,10 @@
       "attendees": "Sanjay J, Mabdulhamied, Mridul Saran, Jeev Sahni",
       "brand": "Gravity",
       "summary": "The meeting was centered around aligning teams for the data integration project with a focus on data acquisition methods and timelines.\n\nTopics Discussed:\nPurpose and Alignment\nThe primary goal was to align teams on the data integration project with a German partner.\nDiscussion on the importance of ",
+      "pain_point": "Buyer indicates that planning and coordination for connectivity and integration can take some time.\nBuyer notes that hospital has been asking about next steps due to delay since contract signing months ago.\nImplicit challenge in needing to coordinate multiple teams (security, infrastructure, hospital IT) to establish connectivity.\nPotential complexity in setting up ODBC connections and future API integrations.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1045,7 +1186,10 @@
       "attendees": "Sumit Choudhary, John Hickey, Christopher Hollberg, Andre Dias, Afrah Khan, Rangeley King, Samir Modi, Sandeep Duvvuru",
       "brand": "Gravity",
       "summary": "The meeting centered around the integration of data environments and the necessary contractual amendments to facilitate this process.\n\nTopics Discussed:\nData Environment Integration\nDiscussion on connecting the Snowflake environment with the Essentials GCP environment.\nAcknowledgment of security lim",
+      "pain_point": "Seller asks: \"What is the risk?\"\nBuyer states: \"Innovator requires a unique acknowledgement of security limitations for this connection, which is not standard.\"\nBuyer states: \"Direct access to Snowflake outside of Citrix is not usually allowed, posing a security concern.\"\nBuyer states: \"Allowing a new way of accessing data could be construed as materially weakening security measures.\"\nBuyer states: \"There is frustration due to delays in approval for about 4 months.\"\nBuyer states: \"The current process is slow and involves multiple approvals and signatures.\"\nBuyer states: \"Emails are considered insufficient for formalizing changes due to difficulty in tracking.\"\nBuyer states: \"Need to ensure proper contractual amendments to address security and data access concerns.\"",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1060,7 +1204,10 @@
       "attendees": "Cnorwood, Ryan Raess, Jennifer Rozenich, Kessler Brown, Sinthusinnadurai, Spihlstrom",
       "brand": "Gravity",
       "summary": "The meeting was centered around understanding the operations and needs of Cook County Health, particularly in relation to specialty pharmacy and 340b programs, with the aim of exploring potential collaboration opportunities.\n\nTopics Discussed:\nIntroduction and Purpose\nThe meeting was initiated to de",
+      "pain_point": "Seller asks about limitations in contract pharmacy program at Cook County.\nBuyer states no external contract pharmacies due to financial non-benefit and Illinois regulations (carve-out rules).\nPharmaceutical companies have contract pharmacy restrictions limiting contract pharmacy pricing.\nChallenges with payer and market access and drug access in specialty pharmacy.\nDifficulty servicing patients due to limited distribution and exclusive markets.\nNeed to unify member organizations on one technology platform to negotiate with payers and manufacturers.\nConcern about risk and legal compliance regarding alternative distribution models for 340B.\nData warehouse does not have all needed data; reinvention causes issues.\nManual or spreadsheet-based workflows needing digitization and automation.\nNeed to optimize 340B capture and contract pharmacy program.\nPrior authorization process is manual and requires coordination between pharmacy and clinics.\nChallenges competing against large vertically integrated specialty pharmacies like CVS Specialty.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1073,7 +1220,10 @@
       "attendees": "Kdostart, Dan Syse, Jennifer Ray, Spassanisi, Lhadgis, Jill Shewmake",
       "brand": "Gravity",
       "summary": "The meeting was centered around discussing the capabilities and integration of Innovator Health's AI solutions for patient access, referrals, and prior authorizations.\n\nTopics Discussed:\nIntroduction and Team Introductions\nDan Syse introduced the Innovator Health team and mentioned the AHA Rural Hea",
+      "pain_point": "Buyer describes the referral process as very manual, especially tracking outgoing specialty referrals to close the loop.\nBuyer notes challenges with multiple faxes coming in daily, requiring team members to sort through large volumes.\nBuyer highlights lack of a single tool aggregating pharmacy data to ensure compliance with 340b requirements.\nBuyer mentions difficulty communicating and closing the loop with providers outside their health system.\nBuyer notes challenges with insurance portals: some allow electronic submission, others require fax, and no single solution covers all payers.\nBuyer indicates current AI agents for initial patient contact cannot schedule initial appointments.\nBuyer expresses need to understand workflow impact and ROI before project approval.\nBuyer notes variability in prior authorization handling across departments, complicating standardization.\nBuyer mentions gaps in benefits checks and the importance of accurate benefit verification.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1086,7 +1236,10 @@
       "attendees": "Rishav S, Bryan Haugen, Kelley Gray",
       "brand": "Gravity",
       "summary": "The meeting was an introductory discussion between Kelley Gray from Innovator and Bryan Haugen from Fairview Solutions, focusing on potential partnerships and solutions in pharmacy data management and automation.\n\nTopics Discussed:\nIntroductions and Roles\nBryan Haugen introduced himself as a pharmac",
+      "pain_point": "Buyer indicates a challenge with current 340b processes being labor-intensive and paper-based.\nBuyer describes the need to align and optimize workflows across disparate pharmacy data locations.\nBuyer mentions they are in a holding pattern due to ongoing data platform transformation, delaying 340b solution partnerships.\nBuyer notes the current prior authorization process can take 10 to 15 days.\nBuyer implies difficulty in integrating data from multiple EHRs and claims systems.\nBuyer acknowledges the complexity of managing 340b pathways and the need for automation and improvements.\nBuyer states they have not yet found a partner solution that meets their needs.\nBuyer mentions challenges in data normalization, standardization, and governance across systems.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1101,7 +1254,10 @@
       "attendees": "Lauren Rashford, Cindy Friend, Katie.Pongratz@paradigmcorp.com, Jsallans, DMunkwitz, Mahendran Madhavan, Amit Varangaonkar, Clayson Willis, Selina Gabriele, Raymond Schade, James Range, Arpit Tyagi",
       "brand": "Gravity",
       "summary": "The meeting centered around discussing project plans, data synchronization, and email integration for a system implementation.\n\nTopics Discussed:\nProject Plan Feedback\nAmit Varangaonkar sought feedback on areas needing more focus in the project plan.\nJames Range mentioned a follow-up call to discuss",
+      "pain_point": "Challenge in data management: ensuring changes made in Innovator or Paradigm do not overwrite each other incorrectly.\nNeed for clear business rules to determine source of truth for data updates (e.g., patient demographic updates from case manager vs. claim file).\nConcern about potential duplicate entries and data inconsistencies (e.g., changes from conservative to surgical care bundles).\nDifficulty balancing automation and business process complexity; avoiding overly complex processes that are hard to train on or costly to automate.\nUncertainty about how to handle data updates that do not meet strict SLAs (e.g., nightly batch updates vs. real-time updates).\nSecurity concerns regarding forwarding emails and access to Exchange mailboxes across systems.\nPotential delays in processing email attachments (e.g., authorization requests) and impact on workflow.\nNeed to avoid downstream issues caused by early decisions in data synchronization and integration.\nConfusion around terminology differences (e.g., 'claim' meaning referral vs. billing claim) causing communication challenges.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1114,7 +1270,10 @@
       "attendees": "Madhu Palkar, Tpappas, Jim Campbell, Cdorazio, Prasath, Andre Dias, Smriti (Simi), Sandeep Duvvuru",
       "brand": "Gravity",
       "summary": "The meeting centered around introductions and discussions on digital AI strategy, focusing on the integration and potential of the Gravity platform.\n\nTopics Discussed:\nIntroductions\nJim Campbell and Madhu Palkar introduced themselves and their roles.\nSmriti (Simi) and others shared their backgrounds",
+      "pain_point": "Buyer is uncertain about the future of Cerner due to potential divestiture.\nBuyer is behind on digital tools for clinicians, lacking even basic equipment and technology.\nBuyer faces complexity and decision challenges regarding how many bolt-on tools to add before committing to a single EMR.\nBuyer is bombarded daily by vendors pushing AI tools, creating complexity and potential vendor overload.\nBuyer concerned about data security and governance related to AI implementations.\nBuyer needs to manage multiple vendors and avoid chasing numerous point solutions.\nBuyer faces challenges in integrating data from various sources and operationalizing it effectively.\nBuyer needs to improve real-time data access for operational decision-making and process improvement.\nBuyer requires better tools for point-of-care decision making but has not yet deeply explored this due to focus on EMR selection.\nBuyer needs to ensure AI use cases align with business priorities and cost control.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1130,7 +1289,10 @@
       "attendees": "Sandeep Prashar, David Friederichs, Travis Crum, Kent, Jimmy Bresee III, Kevin Arlington, Andrew Herndon, Sachin Kulkarni",
       "brand": "Gravity",
       "summary": "The meeting was centered around discussing the capabilities and potential implementation of a contract modeling and financial analytics tool for value-based care.\n\nTopics Discussed:\nIntroduction and Purpose\nThe meeting began with introductions and a brief discussion about the weather.\nThe main purpo",
+      "pain_point": "Buyer indicated that Epic's capabilities may not be sufficient or fast enough for their needs.\nBuyer finds integrating claims data from payers into their system challenging due to inconsistent and slow data feeds.\nBuyer noted that implementing tools within Epic can be burdensome and slow.\nBuyer faces procurement challenges as a state institution requiring a lengthy RFP process.\nBuyer leadership is very Epic-focused, making it difficult to adopt external solutions.\nBuyer is concerned about the cost and timeliness of solutions.\nBuyer has to manage multiple contracts with varying populations and complexities.\nData quality and timely ingestion of claims and EMR data are concerns.\nBuyer needs to balance cloud costs with data ingestion frequency.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1143,7 +1305,10 @@
       "attendees": "Caitlin Spargo- Innovaccer, Jennifer Ray, Jay Levine, mike sutten | innovaccer, Kmyers5",
       "brand": "Gravity",
       "summary": "The meeting was a follow-up discussion focusing on exploring potential collaborations and understanding the current technological landscape and needs of the organization.\n\nTopics Discussed:\nWeather and Introductions\nBrief exchange about the weather in different locations.\nIntroduction of participant",
+      "pain_point": "Buyer struggles with managing a fragmented data environment transitioning to a unified system.\nChallenges in integrating and governing data from multiple sources and platforms.\nDifficulty in identifying gaps in care and workflow due to the current stage of Epic rollout.\nCrowded landscape of prior authorization platforms causing decision complexity.\nNeed for efficient prior authorization processes; current manual processes in some practices.\nConcern about vendor lock-in and platform diversification, especially regarding AI agentic platforms.\nManaging multiple strategic partnerships and ensuring new tools add value beyond existing platforms.\nChallenges in data quality, ingestion, and unified data modeling.\nNeed for better payer connectivity for real-time prior authorization automation.\nDifficulty in justifying additional tools without clear specific use cases or benefits.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1156,7 +1321,10 @@
       "attendees": "Jay Levine, Varun Sirohi, Shilpapaul, Shikha Sidana, Lokesh S, Laura Stierle",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on discussing the progress and challenges related to various projects, including dispensing automation, 340b optimization, and strategic partnerships with health systems.\n\nTopics Discussed:\nDispensing Automation and 340b Optimization\nDiscussion on the status of dispensi",
+      "pain_point": "Dispensing automation delayed due to scoping and mapping issues.\nDifficulty in releasing full 340b optimization due to incomplete internal scoping.\nChallenges in prioritizing platform adoption within health systems due to IT bandwidth and internal project priorities.\nRestrictions on data usage and lack of permission to utilize certain data sources (e.g., gravity) at Ascension.\nNeed to find creative solutions to use platform without accessing PHI or D-identified data.\nDelays in getting sign-offs due to key personnel being out (e.g., Michael at conference).\nDifficulty in training staff and managing workflow disruptions when making platform enhancements.\nRisk of being deprioritized as platform is not among main strategic initiatives at some health systems.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1171,7 +1339,10 @@
       "attendees": "Mahendran Madhavan, Amit Varangaonkar, Andy Kanwar, Sandeep Duvvuru",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on discussing the setup and management of development environments for the MVP phase and beyond.\n\nTopics Discussed:\nWeather and Personal Updates\nBrief discussion on the weather conditions in Austin and Texas.\nPersonal interactions and plans for future meetings in Austin",
+      "pain_point": "Buyer expresses concern about development, QA, and UAT activities interfering with each other if sharing the same environment.\nBuyer highlights the challenge of managing multiple project managers and potential communication gaps leading to diluted technical agreements.\nBuyer references previous negative experience with a vendor who lacked a dedicated Dev environment, resulting in quality issues and stress.\nSeller notes concern about both teams doing development simultaneously in the same environment during MVP.\nCoordination and timing of integration testing and deployments are complex and require careful management to avoid conflicts.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1184,7 +1355,10 @@
       "attendees": "Nandini, Kshitij Joshi, Connor Johnson, Jill Marie Shewmake",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on discussing the status of ongoing projects and potential opportunities with various clients. The team also addressed scheduling issues and the need to reschedule a meeting with a key prospect.\n\nTopics Discussed:\nProject Updates\nDiscussion on the status of a proposal s",
+      "pain_point": "Buyer indicates they are very swamped with New Year's planning, implying limited availability.\nBuyer describes difficulty managing thousands of providers using Excel sheets and no own servers.\nBuyer mentions losing a deal previously because the provider scoring tool was not ready.\nBuyer implies challenges with traditional processes and lack of modern infrastructure.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1197,7 +1371,10 @@
       "attendees": "Nicoleostrowski, Jay Levine, Sinthusinnadurai, Tonigiglio, Shilpapaul, Esha Soni",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on updates and discussions regarding various business deals and partnerships, with an emphasis on pipeline management and strategic planning.\n\nTopics Discussed:\nPipeline Management\nEsha Soni and Jay Levine discussed the current status of their pipeline, highlighting eig",
+      "pain_point": "Interim CEO at Baptist is overwhelmed, causing stalled progress.\nSalem unexpectedly chose a different vendor, halting current engagement.\nDifficulty scheduling meetings with Cedric and admin at Common Spirit; engagement put on back burner.\nMeeting with Prime Health ended awkwardly without clear next steps.\nPrisma considered a hard sell due to being highly operational and performing.\nChallenges with data sharing and assessment processes; need for NDA and BAA agreements.\nLack of clarity on scope for New Orleans FQHC in contract.\nChallenges with scheduling and engagement at Common Spirit due to organizational changes.\nNeed to accelerate approval of Gravity through IT for SOC 2 compliance.\nChallenges with internal coordination and communication among teams.\nLack of formal presentations to some prospects (e.g., John Muir).\nNeed to better leverage internal and external networks for outreach.\nChallenges with building dashboards and reporting tools.\nUncertainty about next steps and follow-up actions after meetings.\nDifficulty in balancing provider and payer perspectives in complex health systems.\nNeed for more proactive data analysis and assessment to identify opportunities.\nChallenges with conference attendance and access to attendee lists via apps.\nSome deals and opportunities moving slowly or stalled due to external factors.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1210,7 +1387,10 @@
       "attendees": "Ashish Mishra, Arezk, Mridul Saran, Shailaja Shah, Maliwaly, Radhika Berry, Jeev Sahni",
       "brand": "Gravity",
       "summary": "The meeting was centered around understanding the functionalities and workflows of the Pop Analyzer tool, focusing on population health and patient engagement.\n\nTopics Discussed:\nPop Analyzer Overview\nIntroduction to the Pop Analyzer tool, which helps stratify populations such as diabetic and hypert",
+      "pain_point": "Buyer mentions a challenge: \"To be honest, I like the The gravity tool rather than Pop analyzer because we have the pi integrated risk of analyzer in one place which is not here in health Catalyst to use AI.\"\nBuyer indicates a limitation: \"I don't have the answer actually right now\" regarding stopping automatic refresh of populations.\nBuyer notes that some features are missing or unclear: \"I don't know why the add additional constraint button is missing here.\"\nBuyer indicates some data quality issues: \"We have data from a study German Hospital from 2001 and then the historical data is not accurate... doctors in this period was writing the description and that may write ICD-10 and the description is not right.\"\nBuyer notes that SQL editing is not allowed in the tool, limiting advanced customization.\nBuyer notes that some users have limited permissions restricting their ability to edit or define populations.\nBuyer mentions that the tool is designed for non-technical users, implying limitations for advanced users.\nBuyer notes that some features like print version are not well known or used.\nBuyer notes that the tool does not currently integrate AI capabilities as desired.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -1223,7 +1403,10 @@
       "attendees": "Ahmed Mohamed Ragab, Muhammad Hasballah, Maliwaly, Swapnil (Innovaccer), Jeev Sahni, Vishal Thakur, Amragab",
       "brand": "Gravity",
       "summary": "The meeting was centered around the functionalities and features of the Cohort Builder and Actionable Dashboard within the Gravity platform, with a focus on data management and visualization.\n\nTopics Discussed:\nCohort Builder\nSwapnil provided a detailed explanation of the Cohort Builder, which allow",
+      "pain_point": "Buyer asked about configuration for row-level security and how to grant access to certain users.\nBuyer inquired about column-level security to restrict access to certain attributes; seller confirmed this feature is not currently available.\nBuyer expressed need for more advanced filters in cohort builder beyond simple equals, less than, or greater than.\nBuyer raised concern about inability to delete published cohorts, which is a gap for population health use cases where flexibility is needed.\nBuyer questioned if dashboard user access control in Gravity respects Power BI workspace permissions; seller clarified it does not.\nBuyer asked if dashboards can restrict visibility of specific cards/visuals within a dashboard; seller confirmed this is not possible.\nBuyer highlighted the lack of role-based access control at entity level within dashboards.\nBuyer questioned the value of embedding Power BI dashboards in Gravity if Power BI service handles access control better.\nBuyer requested logs or reports for refresh failures or errors; seller explained audit logs exist but detailed error logs are backend only.\nBuyer asked about potential conflicts when multiple users refresh or replace cohorts simultaneously; seller confirmed no conflicts occur.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1236,7 +1419,10 @@
       "attendees": "iPhone, Kjenkins, Kuldeep Singh",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on discussing the ongoing collaboration and future plans between the parties involved, particularly in the context of AI solutions for orthopedic practices.\n\nTopics Discussed:\nConference Experience\nThe iPhone participant shared their experience at a recent conference, h",
+      "pain_point": "Concern about the pace of progress and getting things done not meeting expectations, specifically noted by Greg Bird.\nChallenge of coordinating among over 100 independent orthopedic practices within OVN.\nPotential inefficiency if each practice deploys its own AI solution rather than a unified platform.\nNeed to clearly define data ownership, tool ownership, and migration rights to avoid being beholden to a single vendor.\nComplexity in structuring reseller agreements and pricing models.\nManaging multiple irons in the fire causing potential lack of focus.\nTechnical challenge with BMI calculation inconsistencies in queries (counting unique visits vs. unique patients).\nNeed for quick turnaround on customization and adjustments to AI tools.\nEnsuring security and safety in the AI platform environment.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1249,7 +1435,10 @@
       "attendees": "Jcusimano, Andre Dias, Will Pettinger, Smriti Kirubanandan",
       "brand": "Gravity",
       "summary": "The meeting centered around discussing a potential partnership and data monetization strategies between the parties involved.\n\nTopics Discussed:\nPartnership and Data Monetization\nThe team presented ideas to improve predictability and outcomes, focusing on platform license expansion and maintenance.\n",
+      "pain_point": "Seller asks about challenges with current analytics and data ingestion.\nBuyer states: \"Current analytics are basic and not evolving; benchmarking and risk adjustment only.\"\nBuyer states: \"No common data model exists; each program has its own data model.\"\nBuyer states: \"Uncertainty about the value and quality of Epic data.\"\nBuyer states: \"Planning a slower ramp to avoid disruption to current hospitals.\"\nBuyer states: \"Current vendor might increase costs significantly or withdraw, forcing accelerated migration.\"\nBuyer states: \"No database access currently; only extracts and monthly or bi-annual reports.\"\nBuyer states: \"Lack of real-time data and self-service capabilities.\"\nBuyer states: \"Need to modernize analytics visuals and capabilities.\"\nBuyer states: \"Desire for bi-directional data flow with EHRs for clinical decision support is years away.\"\nBuyer states: \"Need to understand current vendor's support and managed services to plan transition.\"\nBuyer states: \"Need to be intentional about commitments until data ingestion and value are better understood.\"\nBuyer states: \"Concern about disruption during vendor switchover.\"\nBuyer states: \"Need for scalable and consistent model over five years for 2500 surgery centers.\"\nBuyer states: \"Need to test and understand managed services capabilities of vendors.\"\nBuyer states: \"Current data monetization is limited and not fully leveraged.\"\nBuyer states: \"Need to put pen to paper on revenue share and go-to-market models.\"\nBuyer states: \"Need for onshore support initially, with cost-effective offshore delivery.\"\nBuyer states: \"Need references and confidence in vendor's managed services delivery.\"\nBuyer states: \"Need to ensure vendor can be a reliable partner, not just technology provider.\"",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1262,7 +1451,10 @@
       "attendees": "Don, Maddie Schults, Joseph Thompson, Mike Sutten, Prasath Venkatraman",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on discussing the features and capabilities of the Gravity platform and its integration with existing systems.\n\nTopics Discussed:\nMiscommunication Issues\nJoseph Thompson expressed disappointment over miscommunication issues related to bugs and mentioned plans to address",
+      "pain_point": "Buyer expressed disappointment and frustration with misalignment and miscommunication regarding team instructions and expectations.\nBuyer is buried in emails and overwhelmed with follow-ups from recent events.\nBuyer indicated challenges with fragmented healthcare data due to multiple siloed applications causing inefficiencies and slowing innovation.\nBuyer is concerned about data quality issues, such as errors in EHR data flow for specific contracts and measures.\nBuyer wants to proactively detect and address data issues before sending data to payers to avoid payer-initiated corrections.\nBuyer needs better governance and management of AI applications to reduce risk and liability.\nBuyer is unsure about the differences and advantages of the new Gravity platform tools compared to current vendors.\nBuyer is concerned about understanding and replicating AI-generated prompts and queries for analytics results.\nBuyer is uncertain about the management responsibilities between their team and the seller's team regarding data quality and rule implementation.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -1278,7 +1470,10 @@
       "attendees": "Joshua Lashley, Sandeep Duvvuru, Parthkumar Patel, Sarah Martinez, DMunkwitz, Venkata Ayyagari, Michael Jamason, Sgabriele, Nilav Ghosh, Lauren Rashford, Cindy Friend, Vishal Jain, Tabitha.Vieweg@paradigmcorp.com, katie.pongratz, Amit Varangaonkar, Anurag Sinha, Rujuta Vidal, Paige Pugh",
       "brand": "Gravity",
       "summary": "The meeting was centered around the Paradigm Omsk program, focusing on developing and deploying a patient engagement and clinical management platform. The discussion involved various team members introducing themselves and outlining their roles and goals for the program.\n\nTopics Discussed:\nMeeting S",
+      "pain_point": "Buyer expresses concern about lack of visibility into the platform and understanding of what is being built, risking inefficiency and spinning wheels.\nBuyer highlights the challenge of aligning terminology and understanding data dictionary fields without sufficient descriptions.\nBuyer notes the complexity of managing communication preferences, such as DND (Do Not Disturb) settings and attorney overrides.\nBuyer is concerned about balancing MVP scope to avoid pushing out go-live dates due to overloading features.\nBuyer indicates the need for clear process and training for super users to effectively use and configure the platform.\nBuyer points out the challenge of extracting relevant data attributes from medical records and documents, especially regarding OCR and metadata.\nBuyer notes the difficulty in coordinating multiple teams and ensuring all stakeholders have the necessary knowledge and tools.\nBuyer mentions the challenge of ensuring that training and knowledge transfer happen at the right time in the project lifecycle.\nBuyer expresses concern about potential delays if the project plan and timelines are not clearly communicated and agreed upon.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1293,7 +1488,10 @@
       "attendees": "Lisa Bari, Sheenu Kachru, Sandeep Joon, Wesley Sgroi, Sudeep Mehandru",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on discussing the partnership and collaboration between Innovaccer and CoForge, with a particular emphasis on their engagement with VHC.\n\nTopics Discussed:\nIntroductions and Backgrounds\nParticipants introduced themselves, sharing their roles and backgrounds. Sheenu Kach",
+      "pain_point": "Buyer describes current CIO at VHC came from Inova Health and brought in changes; buyer implies previous IT environment was problematic (\"if I start telling you how bad their idea was it will become a five hour conversation\").\nBuyer highlights clinician experience challenges: clinicians face back and forth issues determining if problems are with fax, Epic system, or physical hardware.\nBuyer identifies the \"big mountain\" to move is improving the condition experience related to end-user and help desk services.\nBuyer notes VHC is landlocked, making expansion and infrastructure build difficult.\nBuyer implies challenges with current IT service delivery model being centralized in main hospital, causing long travel times to ambulatory sites.\nBuyer indicates that revenue cycle management is outsourced and not a pain point, but analytics and intelligence capabilities are areas of interest and potential challenge.\nBuyer notes that many on their team are unfamiliar with Innovator's offerings, indicating a knowledge gap.\nBuyer and seller discuss the difficulty in tying analytics platform capabilities to specific outcomes and pricing.\nBuyer mentions entrenched use of ServiceNow in ITSM world, making it challenging to differentiate or compete.\nBuyer implies that while VHC has plans for revenue cycle management, no organization has fully solved it yet, indicating ongoing challenges in that area.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1308,7 +1506,10 @@
       "attendees": "Mahendran Madhavan, Arpit Tyagi, Michael Jamason, Sandeep Kumar Ram, Joshua Lashley, Amit Bansal, Jsallans, Katie.Pongratz@paradigmcorp.com, Venkata Ayyagari, Harsh Pathak, Amit Varangaonkar, Aluru Santosh, Raymond Schade, Cindy Friend",
       "brand": "Gravity",
       "summary": "The meeting primarily focused on addressing open questions, discussing data integration processes, and exploring solutions for data management between Innovator and Paradigm.\n\nTopics Discussed:\nOpen Questions and Workflow\nDiscussion on the workflow for forwarding faxes to the mailroom and the need f",
+      "pain_point": "Missing mandatory columns in sample data impacting data model extension.\nLimitations on email attachment sizes causing challenges in forwarding faxes.\nManual work for mailroom team to upload faxes into Content Library and tag them.\nPotential issues with large file attachments exceeding email limits.\nDifficulty in identifying duplicate fax requests leading to possible duplicate tasks.\nSecurity concerns around forwarding faxes via email without encryption or password protection.\nComplexity in establishing secure and controlled access to Snowflake database.\nScheduling data sync to avoid conflicts with downstream nightly jobs.\nChallenges in real-time or near real-time data synchronization.\nNeed for secret rotation and secure management of authentication keys.\nPotential delays due to site holidays affecting communication and development timelines.\nUncertainty about exact timing and readiness for integration testing.\nNeed to finalize data specifications and required fields for integration.\nRisk of duplicate documents being created in the system due to fax forwarding and nightly processes.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1321,7 +1522,10 @@
       "attendees": "Amy Stevens - Innovaccer, Pbutler, David Friederichs",
       "brand": "Gravity",
       "summary": "The meeting involved a detailed discussion on the history and current state of healthcare systems, focusing on value-based care and strategic partnerships.\n\nTopics Discussed:\nHealthcare System Evolution\nDavid Friederichs and Pbutler discussed the evolution of healthcare systems, particularly Advocat",
+      "pain_point": "Difficulty justifying investment in technology due to limited financial upside in value-based work.\nData analytics capability is weak; lack of analytic expertise hampers risk management.\nChallenges in managing risk contracts, especially downside risk; they only take upside risk.\nDifficulty controlling medical loss ratio (MLR) and risk factors outside their control.\nVolatile market with health plans dropping membership, complicating risk-based contracting.\nComplex and conflicting financial models, including 340B program and Medicaid supplemental payments.\nCapacity constraints limit ability to accept more patients or expand narrow networks.\nDifficulty maximizing upside risk earnings; lack of discipline and clear steps to increase savings.\nValue-based contracts often break even financially, raising questions about resource allocation.\nChanging policies and regulations in Washington create uncertainty and delay decision-making.\nIntegration of physician hospital organization into health system has increased scrutiny and control, causing dissatisfaction.\nCompetition from other health systems and new market entrants.\nChallenges in negotiating contracts that integrate fee-for-service and value-based components.\nDifficulty in referral management and patient engagement as the region grows and competition increases.\nConcerns about overbuilding physical infrastructure and associated fixed costs.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1334,7 +1538,10 @@
       "attendees": "Sinthusinnadurai, John Hickey, Jay Levine",
       "brand": "Gravity",
       "summary": "The meeting primarily revolved around discussing the logistics and potential collaborations with Prisma Health, focusing on pharmacy benefits and strategic partnerships.\n\nTopics Discussed:\nWeather and Snow Management\nInitial conversation about recent snowstorms in New York City and the challenges of",
+      "pain_point": "Difficulty finding places to put snow in New York City, leading to snow being left on streets and in parking garages.\nPrisma's health plan lacks a data platform and infrastructure, indicating a gap in analytics and operational capabilities.\nSpecialty drug spend is a significant and challenging area for many health plans, including Prisma's.\n340B program utilization is low (about 20-25%) among health plans, representing a missed margin opportunity.\nRegulatory changes and increased scrutiny around 340B program create uncertainty and complexity.\nChallenges in engaging key decision-makers at Prisma, such as CFO and pharmacy benefit managers, who are hard to pin down or have established favorites.\nManaging pharmacy benefits through white-labeled PBM services without integrated services or optimization.\nLimited staff and infrastructure at Prisma's health plan to manage pharmacy benefits effectively.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -1347,214 +1554,19 @@
       "attendees": "Jcurrie, Mike Sutten, Tom Sweeny",
       "brand": "Gravity",
       "summary": "The meeting centered around discussions on upcoming events, strategic priorities, and technological innovations within the healthcare sector.\n\nTopics Discussed:\nEvent Participation\nMike Sutten discussed his potential participation in the HIMSS event, pending ticket approval from the marketing team.\n",
+      "pain_point": "Need to democratize AI governance as current governance is too complex and has too many things to look at.\nUncertainty about the value of translation services from Jade Health compared to Google Gemini.\nChallenges with linguistic diversity requiring solutions in multiple languages.\nNeed to reduce call volume on main operator lines (addressed partially by phone triaging).\nNot loving early-stage chart summarization tools.\nNeed for a viable Blood Bank option in Beaker lab system.\nDecision pending on ERP supply chain and general financial systems.\nLimited strategy or preparedness for CMS Access Model rollout.\nManaging multiple patient identities and data integration complexity.\nControlling proliferation of AI models and data pipelines used by various business units.\nBalancing innovation with organizational size and resources.\nNeed to maintain doors open for underserved populations with social determinants of health challenges.\nManaging cybersecurity risks and continuous evolution in that area.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     }
   ],
   "pain_clusters": [],
   "deal_pain_clusters": [],
-  "business_impacts": {
-    "categories": {},
-    "total_analyzed": 50
-  },
+  "business_impacts": {},
   "growth_clusters": [],
-  "messaging": {
-    "repeated_value_props": [
-      {
-        "theme": "Workflow Automation & Efficiency Improvement",
-        "frequency": 18,
-        "description": "Unifying data and applying AI/automation to reduce manual tasks, streamline workflows, and improve operational efficiency for clinical and administrative staff.",
-        "representative_sr_nos": [
-          "10",
-          "22",
-          "84",
-          "104",
-          "116",
-          "210",
-          "221"
-        ]
-      },
-      {
-        "theme": "Unified Data Platform & Integration",
-        "frequency": 12,
-        "description": "Aggregating and harmonizing data from disparate sources (like EHRs) into a single platform to create a comprehensive patient view and enable advanced analytics.",
-        "representative_sr_nos": [
-          "5",
-          "16",
-          "27",
-          "101",
-          "142",
-          "212",
-          "221"
-        ]
-      },
-      {
-        "theme": "AI & Predictive Analytics Enablement",
-        "frequency": 10,
-        "description": "Providing an AI-ready platform with governance to build, deploy, and scale AI models and agents for tasks like predictive modeling, patient outreach, and decision support.",
-        "representative_sr_nos": [
-          "16",
-          "23",
-          "41",
-          "84",
-          "90",
-          "168"
-        ]
-      },
-      {
-        "theme": "Cost Reduction & Financial Optimization",
-        "frequency": 7,
-        "description": "Reducing operational costs through automation, infrastructure savings, predictable pricing models, and optimizing programs like 340B.",
-        "representative_sr_nos": [
-          "5",
-          "25",
-          "32",
-          "90",
-          "105",
-          "127"
-        ]
-      },
-      {
-        "theme": "Improved Patient Care & Outcomes",
-        "frequency": 6,
-        "description": "Using data and analytics to close care gaps, improve clinical decision-making, manage patient populations proactively, and enhance patient engagement.",
-        "representative_sr_nos": [
-          "16",
-          "23",
-          "27",
-          "90",
-          "183",
-          "210"
-        ]
-      },
-      {
-        "theme": "Self-Service Capabilities & User Empowerment",
-        "frequency": 5,
-        "description": "Enabling users, including non-technical staff, to build their own dashboards, run queries, and create AI agents without heavy reliance on IT or the vendor.",
-        "representative_sr_nos": [
-          "110",
-          "120",
-          "168",
-          "183",
-          "210"
-        ]
-      }
-    ],
-    "inconsistent_narratives": [
-      {
-        "conflict": "Turnkey Solution vs. Highly Customizable Platform",
-        "description": "In some calls, the platform is positioned as a 'turnkey solution' that accelerates time to value and reduces the need for extra resources. In other discussions, the emphasis is on its high degree of customizability and configurability (e.g., custom dashboards, quotes, workflows), which implies a more significant implementation and configuration effort from the client.",
-        "sr_nos": [
-          "142",
-          "110",
-          "129"
-        ]
-      },
-      {
-        "conflict": "Self-Service Enablement vs. Managed Services",
-        "description": "The narrative shifts between empowering client teams with 'self-service' capabilities to build their own tools and the value of providing 'managed services' that reduce the people power and effort required from the client to implement and maintain solutions. This creates ambiguity about the expected level of client involvement.",
-        "sr_nos": [
-          "168",
-          "210",
-          "224"
-        ]
-      },
-      {
-        "conflict": "Premium AI Platform vs. Cost-Reduction Tool",
-        "description": "Positioning varies between a cutting-edge, 'next-generation AI platform' for advanced innovation and a practical tool focused on significant cost savings (e.g., '50% savings on infrastructure'). This could confuse buyers about whether the primary value is top-line innovation or bottom-line savings.",
-        "sr_nos": [
-          "32",
-          "25",
-          "23",
-          "41"
-        ]
-      }
-    ],
-    "proof_signals": [
-      {
-        "type": "Demonstrations & Proof of Concepts (POCs)",
-        "description": "Directly showing the platform's functionality, either through a general demo or a specific POC tailored to the client's needs, such as generating a Statement of Work.",
-        "sr_nos": [
-          "41",
-          "129",
-          "168",
-          "183",
-          "210"
-        ]
-      },
-      {
-        "type": "Quantifiable Metrics & ROI",
-        "description": "Referencing specific, measurable outcomes such as percentage cost savings, reduction in time for processes (from weeks to days), and achieving 100% compliance.",
-        "sr_nos": [
-          "32",
-          "183",
-          "210"
-        ]
-      },
-      {
-        "type": "Specific Use Cases",
-        "description": "Discussing concrete applications of the technology, such as running diabetes management campaigns, improving wound care analytics, or managing 340B programs, which makes the value tangible.",
-        "sr_nos": [
-          "16",
-          "41",
-          "46",
-          "127"
-        ]
-      },
-      {
-        "type": "Buyer Validation & Testimonials",
-        "description": "Capturing direct statements from buyers expressing excitement or articulating the value they see in specific features, which serves as a form of social proof during the call.",
-        "sr_nos": [
-          "10",
-          "22",
-          "95",
-          "116",
-          "216",
-          "221"
-        ]
-      }
-    ],
-    "content_gaps": [
-      {
-        "gap": "Clear Pricing & ROI Models",
-        "description": "Repeated discussions around cost reduction, contract terms, creating lighter versions for competitive pricing, and sellers having to probe for the value of cost avoidance suggest a need for clearer, more proactive sales assets. This could include ROI calculators, tiered pricing sheets, and case studies focused specifically on financial impact.",
-        "sr_nos": [
-          "25",
-          "30",
-          "32",
-          "105"
-        ]
-      },
-      {
-        "gap": "Technical Integration Guides (especially for EHRs)",
-        "description": "Frequent questions and challenges are raised regarding integration with existing systems, particularly EHRs like Epic. This indicates a need for detailed technical documentation, one-pagers on EHR integration, and clear architecture diagrams to address technical buyer concerns early.",
-        "sr_nos": [
-          "16",
-          "22",
-          "95",
-          "213"
-        ]
-      },
-      {
-        "gap": "Implementation & Onboarding Process Documentation",
-        "description": "Discussions about pre-implementation work, the need for a 'thorough discovery process', and insights into 'successful platform rollouts' highlight customer anxiety and interest in the implementation journey. A clear 'What to Expect' guide, a sample project plan, or a pre-implementation checklist would be a valuable asset.",
-        "sr_nos": [
-          "203",
-          "212",
-          "213"
-        ]
-      },
-      {
-        "gap": "Persona-Based Training & User-Friendly Resources",
-        "description": "Feedback sessions reveal a desire for enhanced user-friendly capabilities for non-technical users and requests for 'clear resources, documentation, and training'. This suggests a gap in content tailored to different user personas, such as short video tutorials, non-technical user guides, and persona-based onboarding journeys.",
-        "sr_nos": [
-          "110",
-          "197"
-        ]
-      }
-    ]
-  },
+  "messaging": {},
   "risk_signals": [
     {
       "type": "late_stage_no_budget",

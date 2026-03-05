@@ -83,7 +83,10 @@
       "attendees": "Nikhil Roy, Ankit Maheshwari, Achintya Moulick, anu, Derek Pineda, Brandon Taylor, Vengrenyuk, Andriy, Ashul Govil, MD",
       "brand": "Story Health",
       "summary": "The meeting centered around the integration of advanced technology in healthcare, specifically focusing on cardiology and emergency response systems.\n\nTopics Discussed:\nIntroduction and Team Introductions\nAchintya Moulick introduced the purpose of the meeting and the participants, including Dr. Kinn",
+      "pain_point": "Difficulty in improving the emergency communication system due to multiple layers and bureaucracy.\nOnly 25-30% of heart attack patients are transferred to cath labs within the recommended 90-minute window.\nTransport times in rural areas are increasing, leading to higher mortality.\nExisting AI tools (e.g., ACS platform) are rule-based and linear, leading to false alarms and inability to handle edge cases.\nChallenges in scaling clinical applications across different hospitals with varying providers and workflows.\nHigh costs associated with case management and follow-up in cardiology.\nLack of integration and communication among multiple AI agents leading to siloed solutions.\nDifficulty in building long-term clinical solutions due to lack of clinical expertise in some AI development teams.\nNeed for faster throughput and better patient support in cardiology and other time-sensitive emergencies.\nChallenges in getting FDA approval for AI tools, leading to long development pathways.\nDifficulty in coordinating among academic centers, software companies, rural hospitals, and provider groups for access to care.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -96,7 +99,10 @@
       "attendees": "Neil, Kshitij Joshi",
       "brand": "Story Health",
       "summary": "The meeting was centered around discussing the CMS access and the integration of remote care solutions with Kshitij Joshi and Neil. The conversation highlighted the potential collaboration between their organizations.\n\nTopics Discussed:\nIntroduction and Background\nNeil shared his background in remot",
+      "pain_point": "Seller asks about challenges with current platforms and care coordination: \"Are these built-in house or are you taking support of partners and vendors?\"\nBuyer discusses problems and challenges:\nPatients often do not disclose their true condition, leading to late discovery of issues (e.g., only found out when patient is in ER or ambulance).\nWearable fall detection devices are not effective because patients do not like to wear them.\nPull cords for falls in assisted living are often ineffective due to distance or unconsciousness.\nCaregivers in assisted living are non-clinical and may not understand medical conditions like CHF.\nHigh cost of physical care and 24-hour care is prohibitive for many consumers.\nFragmented data sources and reliance on human interpretation of data create inefficiencies.\nMultiple systems require logging in separately, wasting provider and patient time.\nChallenges in preventing rehospitalization and managing chronic ailments in assisted living.\nDifficulty in filling care gaps when caregivers are only present for limited hours.\nPatients' loneliness and isolation require remote care coordination beyond clinical visits.\nTechnology and human coordination needed to monitor patients effectively in their homes.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -109,7 +115,10 @@
       "attendees": "Scottrifkinmd, Lisa Bari, Glenn Kunigan, JimStaska, TimBuono, Will Pettinger",
       "brand": "Story Health",
       "summary": "The meeting centered around discussing potential partnerships and strategies for rural health initiatives, with a focus on leveraging data and forming strategic alliances.\n\nTopics Discussed:\nConference Feedback\nGlenn Kunigan shared feedback on a recent conference, noting the lack of engagement and t",
+      "pain_point": "Buyer notes that states are hesitant to create assisted living programs, leading to unnecessary nursing home admissions.\nStates face Medicaid budget problems due to patients occupying nursing home beds who could be cared for in less intensive settings.\nState survey agencies are behind schedule (e.g., four years behind in Maryland) causing legal and care quality issues.\nHospitals and health systems experience bed shortages in nursing homes despite apparent empty beds due to reimbursement and operational challenges.\nNursing home staff turnover is very high (70-80% annually for charge nurses and directors of nursing), impacting care quality.\nDifficulty in accessing and integrating electronic medical record data from nursing homes.\nStates and health systems lack real-time visibility into nursing home bed availability and quality metrics.\nPolitical and operational challenges in selling programs directly to states due to lack of manpower and political sway.\nComplexity in coordinating efforts across multiple organizational groups and sales categories within the buyer's organization.\nNeed to partner with large health systems and insurers who have established relationships with states to be competitive for funding.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -122,7 +131,10 @@
       "attendees": "Neil, Will Pettinger",
       "brand": "Story Health",
       "summary": "The meeting concluded with a focus on potential collaborations and strategies to enhance service delivery and financial sustainability in the healthcare sector.",
+      "pain_point": "COVID caused many home health agencies to close or be acquired, reducing market.\nBudget cuts led to inability of home health agencies to afford connected home living.\nHome care agencies sometimes only use technology as a marketing tool without real adoption.\nDifficulty in recruiting and retaining care coordinators at low reimbursement rates.\nMedicaid recipients receive reduced in-person care hours (e.g., from 6 to 2 hours), leading to unmet care needs.\nMedicaid recipients often lonely, isolated, with mental health concerns.\nHigh rates of avoidable ER visits and hospital readmissions among Medicaid recipients.\nStates have different Medicaid program nuances, complicating scaling.\nNeed to certify technology and train remote care coordinators per state requirements.\nCapital constraints limit ability to purchase hardware in large quantities.\nDifficulty scaling outreach and recruitment of patients due to local community trust requirements.\nNeed to balance capital burn with growth ambitions.\nRestrictive conditions on grant funding limit flexibility.\nChallenges in negotiating with multiple Managed Care Organizations in large states like Texas.\nNeed to tailor services for different patient populations including IDD and those with degenerative diseases.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": false
     },
@@ -137,258 +149,18 @@
       "attendees": "Van Thanh Nguyen, Miriam Rosenau, Jay Levine, Brandon Taylor, Amy Stevens, Anita Patel1, Nikhil Roy, Tristin Chan, Sarah Freedman, Chelsea",
       "brand": "Story Health",
       "summary": "The meeting centered around the introduction and discussion of Story Health's capabilities and its integration with Innovacer, focusing on strategic alignment with Walgreens.\n\nTopics Discussed:\nIntroductions and Background\nParticipants introduced themselves, including Jay Levine, Nikhil Roy, Brandon",
+      "pain_point": "Seller asks: \"What role do they see themselves playing in Access given they've eliminated all of their risk bearing Services already?\"\nBuyer states: \"We're unclear if we're a participant or not in the new access CMS model. There's nuances with that that we're working through with legal.\"\nBuyer mentions challenges with medical billing and credentialing.\nBuyer raises questions about security and data transfer: \"Questions of course that we immediately get into with Lee. Wait labeling do the security, you know, really almost pieces.\"\nBuyer expresses need to understand how data from their systems can be pushed into Story Health's platform and how information transfer works.\nBuyer notes challenges with care model being episodic, limited follow-up, and poor patient retention.\nBuyer implies challenges with patient engagement and continuous care delivery in current setup.\nBuyer mentions need to figure out potential synergies and how to play in access programs.\nBuyer mentions need to understand capabilities of Story Health's AI and human-in-the-loop components for patient identification and care orchestration.\nBuyer mentions need to move fast and coordinate with multiple teams and partners to address these challenges.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     }
   ],
-  "pain_clusters": [
-    {
-      "theme": "Operational & Technological Inefficiencies",
-      "description": "Systems are hindered by bureaucratic slowness, logistical delays in patient transport, and legacy technology that cannot handle complex cases or scale effectively.",
-      "count": 1,
-      "representative_sr_nos": [
-        "45"
-      ],
-      "stage_distribution": "Primarily discovery or early-stage"
-    },
-    {
-      "theme": "Patient Behavior & Tech Adoption",
-      "description": "Challenges arise from patients who are non-compliant with monitoring devices or do not accurately disclose their health status, leading to delayed interventions.",
-      "count": 1,
-      "representative_sr_nos": [
-        "119"
-      ],
-      "stage_distribution": "Primarily discovery or early-stage"
-    },
-    {
-      "theme": "Systemic, Regulatory & Policy Barriers",
-      "description": "Macro-level problems related to state policies, Medicaid budget constraints, and regulatory backlogs create significant bottlenecks in the care continuum.",
-      "count": 1,
-      "representative_sr_nos": [
-        "180"
-      ],
-      "stage_distribution": "Primarily discovery or early-stage"
-    },
-    {
-      "theme": "Economic & Staffing Constraints",
-      "description": "Financial pressures, including budget cuts and low reimbursement rates, lead to agency closures, reduced care hours, and difficulties in recruiting and retaining staff.",
-      "count": 1,
-      "representative_sr_nos": [
-        "252"
-      ],
-      "stage_distribution": "Primarily discovery or early-stage"
-    },
-    {
-      "theme": "Administrative & Strategic Uncertainty",
-      "description": "Organizations face ambiguity about their role in new CMS models, coupled with administrative hurdles in billing, legal compliance, and data security.",
-      "count": 1,
-      "representative_sr_nos": [
-        "379"
-      ],
-      "stage_distribution": "Primarily discovery or early-stage"
-    }
-  ],
-  "deal_pain_clusters": [
-    {
-      "theme": "Fragmented Communication & Coordination",
-      "description": "Communication and process breakdowns between different healthcare stakeholders, such as hospitals, EMTs, and state agencies, are delaying care and creating inefficiencies.",
-      "count": 3,
-      "representative_sr_nos": [
-        "45",
-        "180",
-        "379"
-      ],
-      "stage_distribution": "Mid-stage (Problem Identification)"
-    },
-    {
-      "theme": "Unsustainable Financial Models",
-      "description": "The high cost of in-person care, coupled with budget cuts and reimbursement challenges, makes current care models financially inaccessible and unsustainable for patients and providers.",
-      "count": 3,
-      "representative_sr_nos": [
-        "252",
-        "119",
-        "180"
-      ],
-      "stage_distribution": "Early-stage (Initial Discovery)"
-    },
-    {
-      "theme": "Inadequate Existing Technology",
-      "description": "Current technological solutions, like basic apps or wearable devices, are unreliable or too simplistic, leading to poor outcomes and user dissatisfaction.",
-      "count": 2,
-      "representative_sr_nos": [
-        "119",
-        "45"
-      ],
-      "stage_distribution": "Mid-stage (Solution Validation)"
-    },
-    {
-      "theme": "Gaps in Continuous Care",
-      "description": "Episodic and reactive care models lead to poor follow-up, low patient engagement, and missed opportunities for timely intervention, especially for chronic conditions.",
-      "count": 2,
-      "representative_sr_nos": [
-        "379",
-        "119"
-      ],
-      "stage_distribution": "Mid-stage (Strategic Alignment)"
-    },
-    {
-      "theme": "Systemic and Bureaucratic Complexity",
-      "description": "Navigating multi-state regulations, data silos in EMRs, and administrative hurdles like billing and credentialing creates significant operational barriers.",
-      "count": 2,
-      "representative_sr_nos": [
-        "180",
-        "379"
-      ],
-      "stage_distribution": "Late-stage (Implementation Planning)"
-    }
-  ],
-  "business_impacts": {
-    "categories": {
-      "Cost": {
-        "count": 5,
-        "key_themes": [
-          "High rehospitalization/admission rates",
-          "Inefficient case management driving up expenses",
-          "Budget strain on Medicaid programs"
-        ],
-        "is_quantified_pct": 60,
-        "representative_sr_nos": [
-          "180",
-          "252",
-          "379"
-        ]
-      },
-      "Time": {
-        "count": 4,
-        "key_themes": [
-          "Delays in patient care and treatment",
-          "Inefficient processes for providers/staff",
-          "Delays in hospital discharge due to bed blockages"
-        ],
-        "is_quantified_pct": 0,
-        "representative_sr_nos": [
-          "45",
-          "180"
-        ]
-      },
-      "Revenue": {
-        "count": 1,
-        "key_themes": [
-          "Reduced market opportunities",
-          "Agency closures post-COVID"
-        ],
-        "is_quantified_pct": 0,
-        "representative_sr_nos": [
-          "252"
-        ]
-      },
-      "Risk": {
-        "count": 4,
-        "key_themes": [
-          "Increased patient mortality and injury",
-          "Legal action and compliance failures",
-          "Failure to detect critical patient events (e.g., falls)"
-        ],
-        "is_quantified_pct": 25,
-        "representative_sr_nos": [
-          "180",
-          "45",
-          "379"
-        ]
-      },
-      "Operational": {
-        "count": 5,
-        "key_themes": [
-          "Fragmented data and inefficient communication systems",
-          "Process breakdowns in patient care workflow (e.g., discharge)",
-          "High staff turnover impacting care quality"
-        ],
-        "is_quantified_pct": 0,
-        "representative_sr_nos": [
-          "119",
-          "180"
-        ]
-      },
-      "Patient/Customer Experience": {
-        "count": 5,
-        "key_themes": [
-          "Poor health outcomes (mortality, rehospitalization)",
-          "Reduced access to timely care",
-          "Negative emotional impact (loneliness, reduced well-being)"
-        ],
-        "is_quantified_pct": 20,
-        "representative_sr_nos": [
-          "379",
-          "45",
-          "252"
-        ]
-      }
-    },
-    "total_analyzed": 5
-  },
-  "growth_clusters": [
-    {
-      "theme": "Strategic Partnerships and Integrations",
-      "description": "Growth is identified through collaboration with other organizations and deeper technical integration of platforms to create a combined offering.",
-      "count": 3,
-      "representative_sr_nos": [
-        "119",
-        "379",
-        "180"
-      ],
-      "stage_distribution": "Appears in strategic, mid-to-late stage discussions focused on joint value creation."
-    },
-    {
-      "theme": "Leveraging Government and Payer Programs",
-      "description": "Opportunities are centered on aligning with and participating in government or major payer initiatives like CMS and state Medicaid.",
-      "count": 3,
-      "representative_sr_nos": [
-        "119",
-        "379",
-        "180"
-      ],
-      "stage_distribution": "Common in discovery and solutioning stages when exploring market access and reimbursement strategies."
-    },
-    {
-      "theme": "Expanding to New Markets/Uses",
-      "description": "Discussions focus on applying existing products to new clinical areas, patient populations, or geographic regions.",
-      "count": 2,
-      "representative_sr_nos": [
-        "45",
-        "180"
-      ],
-      "stage_distribution": "Often discussed in account planning or expansion-focused calls with existing customers."
-    },
-    {
-      "theme": "Large-Scale Infrastructure and Scaling",
-      "description": "Significant growth is planned through major infrastructure projects, such as building new facilities, or scaling core service operations.",
-      "count": 2,
-      "representative_sr_nos": [
-        "45",
-        "119"
-      ],
-      "stage_distribution": "Typically found in long-term strategic planning sessions or calls with executive leadership."
-    },
-    {
-      "theme": "Exploring New Service Delivery Models",
-      "description": "Conversations involve evaluating alternative business approaches, such as fully outsourced or hybrid care delivery models.",
-      "count": 1,
-      "representative_sr_nos": [
-        "379"
-      ],
-      "stage_distribution": "Appears in solution design or negotiation stages where commercial models are being defined."
-    },
-    {
-      "theme": "Future Product and Tech Development",
-      "description": "Long-term growth is linked to the strategic development of new, advanced technological capabilities and products.",
-      "count": 1,
-      "representative_sr_nos": [
-        "45"
-      ],
-      "stage_distribution": "Often arises in roadmap discussions or strategic alignment calls with key innovation stakeholders."
-    }
-  ],
+  "pain_clusters": [],
+  "deal_pain_clusters": [],
+  "business_impacts": {},
+  "growth_clusters": [],
   "messaging": {},
   "risk_signals": []
 }

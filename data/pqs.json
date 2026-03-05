@@ -188,7 +188,10 @@
       "attendees": "Lena Abdul-aziz, Sara Bonenfant, Kessler Brown, Jimmy Bresee III, Richard Romaniszyn, Keg Avakian",
       "brand": "PQS",
       "summary": "The meeting was centered around discussing medication adherence solutions and exploring potential collaborations to enhance healthcare operations.\n\nTopics Discussed:\nMedication Adherence Challenges\nRichard Romaniszyn highlighted the bottleneck in managing medication adherence with only two dedicated",
+      "pain_point": "Limited staffing: only two dedicated FTE pharmacists to support over 500,000 patients, causing bottlenecks.\nPopulation health efforts lagging behind due to staffing constraints.\nExisting Epic system not triggering many needed alerts for medication adherence and quality measures.\nHeavy reliance on PBM and Surescripts data, which have data refresh and encounter trigger limitations.\nManual, Excel-based tracking of patients leading to inefficiencies.\nDifficulty in stratifying high-risk patients and preventing redundant outreach.\nHigh percentage (60-70%) of patient calls result in no engagement, wasting pharmacist time.\nConcern about potential overload if AI agents generate too many patient callbacks for limited staff.\nChallenges with scheduling appointments automatically due to provider resistance.\nNeed for better integration and documentation to avoid double documentation in EMR.\nData refresh frequency limitations, especially with claims data, impacting real-time updates.\nUncertainty about direct connections to PBMs and data sources.\nNeed to balance AI automation with human oversight to handle complex cases.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -203,7 +206,10 @@
       "attendees": "Emily Endres, Lin, Tracy T (CTR), Austin Albaugh, Mitch_weishaar, Jeffrey Tunney, Alen Pajazetovic, Joanne_wilson",
       "brand": "PQS",
       "summary": "The meeting was centered around introductions and discussions on pharmacy engagement strategies, particularly focusing on the LAMP program and its integration with health plans.\n\nTopics Discussed:\nIntroductions\nEmily Endres introduced herself as the Vice President of Pharmacy at PQS, along with Aust",
+      "pain_point": "Buyer mentions ongoing challenges with integration post-transaction, specifically IT infrastructure and system integration.\nDifficulty in setting up direct vendor relationships due to complex IT and claims data exchange requirements.\nConcerns about relying on PBMs adding margins to products, making direct connections preferable but harder to implement.\nPharmacy engagement varies, with some pharmacies less engaged and lacking clinical confidence to perform interventions.\nChallenges in targeting and engaging the right pharmacies to maximize results within budget constraints.\nVariability in pharmacy engagement and effectiveness, with some chains performing better than others.\nThe need to manage patient behavior change and pharmacy behavior change over time, with some patients difficult to engage or who change plans.\nLack of clinical confidence among pharmacy staff is a barrier to effective intervention delivery.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": false
     },
@@ -216,7 +222,10 @@
       "attendees": "Jill Marie Shewmake, Emily Endres, Jennifer Lynn Ray, Kessler Brown, Jimmy Bresee III, Keg Avakian",
       "brand": "PQS",
       "summary": "The meeting centered around discussing medication adherence measures and the preparation for an upcoming demo related to pharmacy operations and quality management.\n\nTopics Discussed:\nNew Role and Responsibilities\nJennifer Lynn Ray expressed excitement about her new role, which involves engaging wit",
+      "pain_point": "Buyer is overwhelmed with sales calls, being pulled into calls they shouldn't be on, impacting their ability to focus on product and design work.\nThe organization has had trouble with data integration capabilities and standing up the medication adherence process in Epic.\nThe demo system lacks some current medication adherence measures and exclusions, requiring updates or custom builds.\nThere is confusion or lack of clarity about roles and ticket assignments, e.g., quality management team member Ashley was not assigned a ticket and lacks knowledge of the demo.\nThe buyer's team does not currently have a demo for the Part D medication adherence measure (S upd).\nThe demo system may be basic and not sophisticated enough for pharmacy users, raising concerns about appearing amateurish.\nRight back functionality is down, limiting the ability to show longitudinal documentation records.\nThere is a need to clarify which team members should be involved in the demo and their roles.\nThe buyer's team is missing some pharmacy claims data in the demo system, affecting measure calculation accuracy.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -233,7 +242,10 @@
       "attendees": "Hannah Schulyer, Jessica Abraham, David Willyard, Ruchira Mishra",
       "brand": "PQS",
       "summary": "The meeting primarily focused on discussing pharmacy programs and potential collaborations to enhance medication adherence and healthcare services.\n\nTopics Discussed:\nTime Management and Travel Plans\nParticipants discussed how quickly time is passing and shared their travel plans, including work tri",
+      "pain_point": "Buyer notes that pharmacies are not fully tapping into available programs despite having access to Equip.\nPharmacies face time constraints and staffing challenges, making it difficult to justify participation in programs.\nSome pharmacies have left networks due to insufficient financial incentives for additional work.\nLack of clarity and understanding about program fees and reimbursement structures among pharmacies.\nDifficulty in obtaining eligibility and claims data directly from pharmacies; reliance on health plans for data.\nChallenges in coordinating data flow and documentation requirements for program participation.\nTelehealth services have limitations in meeting certain program documentation and reimbursement criteria.\nNeed to minimize additional effort for pharmacy staff in managing program data and outreach.\nConcerns about the cost impact of program fees on pharmacies' budgets.\nUncertainty about how to integrate pharmacy dispensing data with clinical program requirements.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -246,7 +258,10 @@
       "attendees": "Samrat Mehta, Manu Naik, Rishabh Garg, Udit Bansal",
       "brand": "PQS",
       "summary": "The meeting centered around the integration of various systems for better tracking and management of healthcare and pharmacy data.\n\nTopics Discussed:\nDashboard and Integration Requirements\nDiscussion on creating a dashboard for healthcare tracking.\nIntegration of accounts and contacts into Salesforc",
+      "pain_point": "Seller asks: \"Do we store the NPI number on Stripe as well?\"\nBuyer states: \"The problem is matching data between Stripe and Salesforce, especially matching payments to NPIs.\"\nBuyer states: \"Invoices from Stripe do not contain NPI numbers, only number of NPIs purchased per email address.\"\nBuyer states: \"There is difficulty in tracking multi-store pharmacies because grouping data is incomplete or changes frequently.\"\nBuyer states: \"Challenge in identifying the primary contact person among multiple contacts associated with NPIs.\"\nBuyer states: \"Tracking payments and subscriptions accurately at the NPI level is complex due to data spread across Stripe, Mixpanel, and Salesforce.\"\nBuyer states: \"Need to split payments correctly among multiple NPIs under a parent pharmacy to get accurate sales data.\"\nBuyer states: \"Chain pharmacies are only tracked at chain level, not individual stores, limiting granularity.\"\nBuyer states: \"Data refresh and updates are needed monthly due to pharmacies moving between independent and chain status.\"\nBuyer states: \"Sales team needs to chase unpaid NPIs but lacks clear grouping and contact ownership information.\"\nBuyer states: \"Mixpanel currently lacks subscription type and dollar value data, limiting reporting capabilities.\"",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -267,7 +282,10 @@
       "attendees": "Sumit Choudhary, Sheila Jackson, John Hickey, Erin Carter, Christopher Hollberg, Bhandari Ashmit, Natalie DeVellis, Afrah Khan, Ashley Van Allen",
       "brand": "PQS",
       "summary": "The meeting was centered around discussing the integration and capabilities of the Innovaccer platform, particularly focusing on medication management and care management functionalities.\n\nTopics Discussed:\nTechnical Issues and Introductions\nInitial technical difficulties with video and audio were a",
+      "pain_point": "Buyer indicates challenges with integrating internal programs such as Dispensary of Hope for referrals within the Innovator platform.\nBuyer notes lack of ability currently to upload custom formularies (e.g., employee health plan formulary) into the product.\nBuyer highlights the need for better linkage between medication adherence dashboards and patient-level care management workflows.\nBuyer expresses need for filtering dashboards by region/state to ensure pharmacists only work within licensed areas.\nBuyer points out current medication adherence data is received as spreadsheets from payers, which is a manual and cumbersome process.\nBuyer notes that medication management dashboards and outreach capabilities are not yet live or fully integrated.\nBuyer mentions disconnected EHR systems complicate data integration.\nBuyer raises concern about the need for Surescripts data feed to cover Medicare Advantage patients adequately.\nBuyer indicates that outreach workflows are varied and not fully streamlined across EMRs, Salesforce, and Innovator platform.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -282,7 +300,10 @@
       "attendees": "David Kaskoun, Loriann Collins, Sonali Dabas, Drake Reiter",
       "brand": "PQS",
       "summary": "The meeting was an introductory call with Drake Reiter, the Director of Pharmacy Operations at Priority Health, to discuss potential synergies and collaboration opportunities with Innovacer.\n\nTopics Discussed:\nIntroduction and Background\nDavid Kaskoun introduced Innovacer, highlighting its focus on ",
+      "pain_point": "Buyer identified Pharmacy prior authorization as a major area needing evolution in 2026.\nBuyer indicated challenges with siloed departments and disparate data sources.\nBuyer and seller discussed issues with multiple chart requests for the same patient (up to 8-10 times).\nBuyer concerned about integration with new Epic platform.\nSeller noted medication adherence as a key area where current metrics are not as high as desired, especially for diabetes and hypertension.\nBuyer acknowledged lowest ratings in certain contracts (e.g., D-SNP contract 83-79) leading to financial losses.\nBuyer uncertain about organizational structure for quality and risk adjustment, indicating potential coordination challenges.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -295,7 +316,10 @@
       "attendees": "Dr. Anas Ahmad Hamad, Eashow Jacob, Jeev Sahni",
       "brand": "PQS",
       "summary": "The meeting was a reconnection between Jeev Sahni and Dr. Anas Ahmad Hamad, focusing on updates in their professional journeys and discussing potential collaboration opportunities in healthcare technology.\n\nTopics Discussed:\nProfessional Updates\nJeev Sahni shared his career progression, including hi",
+      "pain_point": "Buyer acknowledges that Cerner's tools for data extraction are feasible but not user-friendly or presentable.\nBuyer points out that current reporting for inventory and reordering is imperfect and requires manual calculations.\nBuyer identifies the challenge of tracking thousands of items and needing a smarter system to recommend what and when to order.\nBuyer notes the disconnect between consumption data (dispensed to patients) and stock issuance data, which complicates costing and management.\nBuyer implies inefficiencies in current pharmacy and drug supply management processes due to fragmented data and lack of integration.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -311,7 +335,10 @@
       "attendees": "Puneet Kochhar, David Friederichs, Thomas Mcquillan, Madhu Palkar, BoxAJ, Clayson Willis, Kessler Brown, Smriti Kirubanandan",
       "brand": "PQS",
       "summary": "The meeting centered around the demonstration and discussion of the Gravity platform, focusing on its capabilities in supply chain management and data integration.\n\nTopics Discussed:\nIntroduction and Setup\nInitial greetings and technical setup issues were addressed.\nParticipants included David Fried",
+      "pain_point": "Buyer currently uses batch processing for data extracts, which is disliked.\nBuyer does not want to build data extracts manually.\nBuyer wants to avoid batch processing and move to API-generated data integration.\nBuyer faces challenges in validating rebates, tracking denials, and managing resubmissions.\nBuyer needs transparent, resilient supply chain tracking (\"glass box model\") to track vendors, payments, and accuracy.\nBuyer has challenges with data quality and trust in analytics due to retrospective data governance.\nBuyer team is used to cookie-cutter reporting and may find platform engagement advanced.\nBuyer is concerned about change management and training for their team.\nBuyer is unsure about metrics or number value gaps they want to close.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -324,17 +351,17 @@
       "attendees": "Dhanvir Singh, Michael Rime, Jay",
       "brand": "PQS",
       "summary": "The meeting primarily revolved around discussions on travel experiences, work arrangements, and a detailed conversation about the Galaxy platform and its potential benefits.\n\nTopics Discussed:\nTravel and Personal Experiences\nMichael Rime shared his recent travel experiences to Phoenix and San Franci",
+      "pain_point": "Seller asks about how layoffs affected the department: \"How has that affected you and your department?\"\nBuyer states increased workload and challenges: \"It's more of an 8-hour work day instead of a 12-hour workday. Now plus no vacation for a few months for me. I'm 18 and getting their weekly. Working on the weekends.\"\nBuyer mentions managing automation is a big hassle: \"Managing the automation is only a big, big hassle because we couldn't set up all the jobs, or I mean all the alerting system that we would like to hopefully end of the, in the next part of the quarter, we would be able to do it.\"\nBuyer acknowledges gap reporting is late and inefficient: \"Currently, we are a little bit late on the Gap reporting and also the gaps. Why don't we have a very efficient system?\"\nBuyer describes manual outreach processes: \"For medication adherence, we have a pharmacy person, will pass that along to her and she will reach out manually to everyone.\"\nBuyer indicates that gap reports and medication adherence reports built from scratch are not 100% correct: \"We built it from scratch. It's still not 100% correct but just with two people or three people in the team.\"\nBuyer mentions layoffs leading to a smaller team: \"We laid off a lot of people. So it's like very small genome.\"",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     }
   ],
   "pain_clusters": [],
   "deal_pain_clusters": [],
-  "business_impacts": {
-    "categories": {},
-    "total_analyzed": 9
-  },
+  "business_impacts": {},
   "growth_clusters": [],
   "messaging": {},
   "risk_signals": [

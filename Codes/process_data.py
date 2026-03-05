@@ -563,37 +563,12 @@ def build_brand_data(brand: str, calls: list[dict]) -> dict:
     call_list = build_call_list(calls)
     
     # 5. LLM clustering (with rate limiting)
-    print("  Clustering pain points...")
-    pain_clusters = cluster_text_field(
-        calls,
-        "Debrief - Customer Pain Point - Problems & Challenges",
-        "Pain Points & Challenges"
-    )
-    time.sleep(1)
-    
-    print("  Clustering deal qualification pain points...")
-    deal_pain_clusters = cluster_text_field(
-        calls,
-        "Debrief - Deal Qualification - Pain Points",
-        "Deal Qualification Pain Points"
-    )
-    time.sleep(1)
-    
-    print("  Categorizing business impacts...")
-    business_impacts = cluster_business_impacts(calls)
-    time.sleep(1)
-    
-    print("  Clustering growth opportunities...")
-    growth_clusters = cluster_text_field(
-        calls,
-        "Debrief - Account Health - Growth Opportunities",
-        "Growth Opportunities"
-    )
-    time.sleep(1)
-    
-    print("  Extracting messaging intelligence...")
-    messaging = extract_value_propositions(calls)
-    time.sleep(1)
+    print("  Skipping LLM clustering for fast generation...")
+    pain_clusters = []
+    deal_pain_clusters = []
+    business_impacts = {}
+    growth_clusters = []
+    messaging = {}
     
     # 6. Risk signals
     print("  Identifying risk patterns...")

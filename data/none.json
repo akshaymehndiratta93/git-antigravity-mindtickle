@@ -2086,78 +2086,8 @@
   ],
   "pain_clusters": [],
   "deal_pain_clusters": [],
-  "business_impacts": {
-    "categories": {},
-    "total_analyzed": 31
-  },
-  "growth_clusters": [
-    {
-      "theme": "Upselling and Cross-selling Solutions",
-      "description": "Opportunities centered on expanding product adoption, adding new features, or selling additional services to new or existing customers.",
-      "count": 12,
-      "representative_sr_nos": [
-        "12",
-        "73",
-        "312"
-      ],
-      "stage_distribution": "Primarily mid-to-late stage deals or with existing customers where a clear need for expansion is identified."
-    },
-    {
-      "theme": "Expanding Stakeholder Engagement",
-      "description": "Growth is pursued by identifying and connecting with new, higher-level, or more influential contacts within the prospect's organization.",
-      "count": 9,
-      "representative_sr_nos": [
-        "7",
-        "18",
-        "47"
-      ],
-      "stage_distribution": "Common in early-to-mid stages, focusing on discovery, relationship building, and multi-threading across the account."
-    },
-    {
-      "theme": "Resolving Operational & Technical Hurdles",
-      "description": "Opportunities arise from addressing and solving immediate communication breakdowns, scheduling conflicts, or technical issues to build trust and move deals forward.",
-      "count": 9,
-      "representative_sr_nos": [
-        "205",
-        "220",
-        "279"
-      ],
-      "stage_distribution": "Can occur at any stage, often tactical and requiring immediate attention to prevent stalling."
-    },
-    {
-      "theme": "Improving Sales & Outreach Processes",
-      "description": "Focuses on internal enhancements to sales operations, such as improving data management, outreach strategies, and communication tactics to increase efficiency.",
-      "count": 8,
-      "representative_sr_nos": [
-        "63",
-        "248",
-        "368"
-      ],
-      "stage_distribution": "Internal focus applicable across all deal stages, related to team performance and process optimization."
-    },
-    {
-      "theme": "Strategic Growth & Market Expansion",
-      "description": "High-level initiatives involving new market entry, major partnerships, significant business unit growth, or positioning against large competitors.",
-      "count": 7,
-      "representative_sr_nos": [
-        "137",
-        "392",
-        "395"
-      ],
-      "stage_distribution": "Appears in both very early stages (market strategy) and late stages (long-term account planning)."
-    },
-    {
-      "theme": "Deepening Product & Data Collaboration",
-      "description": "Opportunities involve working closely with clients on platform integrations, data management enhancements, and co-developing solutions, indicating a deeper partnership.",
-      "count": 5,
-      "representative_sr_nos": [
-        "35",
-        "171",
-        "269"
-      ],
-      "stage_distribution": "Typically found in mid-to-late stages, during solutioning, implementation, or post-sale engagement."
-    }
-  ],
+  "business_impacts": {},
+  "growth_clusters": [],
   "messaging": {},
   "risk_signals": [
     {

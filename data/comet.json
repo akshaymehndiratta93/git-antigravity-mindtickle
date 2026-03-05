@@ -257,7 +257,10 @@
       "attendees": "Brian Cummins, Wesley Sgroi, Bellowsm, Glenn Kunigan, romanop, Paulina Kaminski",
       "brand": "Comet",
       "summary": "The meeting centered around discussing the integration and functionality of a proposed solution for insurance verification and call center operations.\n\nTopics Discussed:\nCall Center Operations\nWesley Sgroi inquired about the current status of the call center, noting it was busy but typical for a Fri",
+      "pain_point": "Buyer’s current insurance verification process is multi-step and time-consuming, requiring schedulers and financial counselors to manually interpret data.\nCalls in the call center take too long, leading to complaints despite not dropping calls.\nBuyer needs to automate insurance verification to reduce human touches and speed up scheduling.\nCurrent system requires manual initiation of insurance verification and manual reading of complex data.\nDifficulty in interpreting primary vs specialty copays and different copay levels.\nChallenges with payer websites and data availability, especially for key local payers (Fidelis, CDPHP, MVP).\nExisting AI solutions only get about 80-85% of the way, lacking full automation.\nNeed to avoid additional platforms or landing pages that add complexity and cost.\nBuyer’s CFO is concerned about contract length (three-year lock-in) and pricing.\nBuyer must ensure any solution is budget neutral and shows clear ROI.\nNeed for better organization and summarization of insurance data to avoid human parsing.\nNeed for integration with Cerner as source of truth without duplicating data.\nNeed for AI to infer context (e.g., appointment type) and suggest financial responsibility automatically.\nNeed for faster scheduling and insurance verification in one step rather than two.\nNeed to handle interpreter needs and patient preferences efficiently.\nConcern about vendor solutions requiring additional platforms or add-ons increasing cost.\nNeed to balance functionality with cost and practicality for a small community hospital.\nNeed to avoid giving out personal cell phone numbers to clients to reduce complexity.\nNeed to handle multiple vendors and proposals for comparison.\nNeed to ensure AI agents and copilot can effectively assist human agents and patients.\nNeed to avoid solutions that require separate landing pages or platforms not integrated with telephony.\nNeed to ensure solution can handle all payer data including Medicaid HMOs and Medicare details.\nNeed to reduce call length and improve patient experience with faster verification.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -270,7 +273,10 @@
       "attendees": "Whitney Wilson, Irene Logis, Patrick Leonpacher",
       "brand": "Comet",
       "summary": "The meeting primarily focused on discussing recent challenges and feedback related to business deals and planning for future meetings.\n\nTopics Discussed:\nAttendance and Scheduling\nScott was unable to join the call due to travel commitments.\nDiscussion on rescheduling the meeting to include key team ",
+      "pain_point": "Official reason for losing a deal was that the solution was \"not automated enough.\"\nAn executive indicated they would stick with Epic tools instead of the seller's solution.\nThere is a perception or impression that the seller's solution might not be fully integrated with Epic.\nThe buyer notes that vendors sometimes go to third parties because it is faster than working with Epic processes and tools.\nDifficulty in getting a better debrief from the client as they did not respond to queries.\nChallenges in securing meetings with executives.\nThe seller's team was calling other individuals to secure meetings, indicating difficulty in engagement.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -286,7 +292,10 @@
       "attendees": "Dan Syse, Shawn Davis, JYazzie11, Caitlin Spargo, Jeremy Yazzie",
       "brand": "Comet",
       "summary": "The meeting centered on discussing the current status and challenges of the call center operations at Tuba City Regional, with a focus on leveraging AI tools for efficiency.\n\nTopics Discussed:\nCall Center Operations\nThe call center handles a high volume of calls, primarily for scheduling and resched",
+      "pain_point": "Buyer indicated high call volume (40,817 calls over 3 days) creating a significant burden on call center staff.\nBuyer expressed concern about the need to keep up with call volume and resource constraints.\nBuyer mentioned challenges with insurance verification processes being behind and potentially burdensome.\nBuyer indicated potential inefficiencies with current call center module and reporting tools.\nBuyer suggested interest in offloading burden from service representatives handling high call volumes.\nBuyer noted challenges with multiple disparate systems requiring logging information separately (e.g., scheduling, billing, insurance).\nBuyer implied some callers may be resistant to adopting self-service or AI tools, leading to continued call volume.\nBuyer expressed need to improve efficiency in handling inbound and outbound calls.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -299,7 +308,10 @@
       "attendees": "Robert, Anamika Mali",
       "brand": "Comet",
       "summary": "The meeting was centered around discussing the potential integration of voice AI technology to automate cold calling and other communication processes in a B2B sales context, particularly within the healthcare sector.\n\nTopics Discussed:\nIntroduction and Background\nRobert introduced himself as an acc",
+      "pain_point": "Seller asks about problems or struggles with current agents.\nBuyer states current agents face turnover as many leave to join other companies.\nBuyer states limited level of output from current agents.\nBuyer implies inefficiency in the cold calling process.\nBuyer wants to automate cold calling and outreach to improve efficiency.\nBuyer is confused by many tools available and wants clarity on what is included in the solution.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -314,7 +326,10 @@
       "attendees": "osteeto, Dan Syse, Kevin Woodward, Lisa Stark, Glenn Kunigan, Caitlin Spargo",
       "brand": "Comet",
       "summary": "The meeting centered around discussing AI-driven solutions for improving scheduling, referral management, and authorization processes within healthcare settings.\n\nTopics Discussed:\nMeeting Dynamics\nLisa Stark and Dan Syse discussed the challenges of back-to-back meetings and the preference for longe",
+      "pain_point": "Seller asks about challenges in access centers: \"It's probably the same across the board long. Hold times. Referral leakage. Staffing shortages. Rising administrative costs.\"\nBuyer describes scheduling utilization challenges: \"Right now our current Schedule utilization within epic is a challenge for us. In some of our ambulatory areas, the Clinic's don't necessarily use their schedules the same way.\"\nBuyer notes infrastructure work needed to prepare for technology use: \"There's a lot of infrastructure work that we would have to do in order to prepare us to be able to utilize this technology.\"\nBuyer mentions complexity in ambulatory scheduling preventing Epic auto-scheduling use: \"Epic has capability of letting patients Auto schedule with an epic, right? We haven't done it in a lot of areas because it's become really complex.\"\nSeller highlights multiple challenges in access centers: \"Hold times, referral leakage, staffing shortages, rising administrative costs.\"\nBuyer notes manual processing of imaging referrals: \"The piece was around Of that manually processing of Imaging referrals.\"\nBuyer mentions multiple entry points and complexity in call centers: \"There's a lot of different entry points. So what Caitlyn will do? She'll kind of walk through and let me know of one area is more important to start.\"\nBuyer notes need for synchronization of schedules to avoid conflicts: \"I have to have immediate ability to lock in that patient because there's either another AI scheduling agent or there's somebody who just met with the physician and they're now checking out. And if we don't immediately lock that down, then that somebody else can take that appointment. And then there's a conflict that is only realized after the fact.\"",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -327,7 +342,10 @@
       "attendees": "Pradhan Joshua, Cleslie, Tpawlik, Paulina Kaminski, Keg Avakian",
       "brand": "Comet",
       "summary": "The meeting was centered around discussing potential partnerships and solutions for scheduling and referral management in a healthcare setting.\n\nTopics Discussed:\nWeather and Introductions\nThe call began with casual conversation about the weather in Fort Wayne, Indiana, and the western suburbs of Ch",
+      "pain_point": "Buyer indicates Clearwave contract is ending and Clearwave is not maintaining special scheduling rules.\nBuyer expresses concern about how AI scheduling agent will know which appointment to reschedule when patients call to reschedule.\nBuyer highlights complexity in scheduling when patients have multiple body parts treated over time and need correct appointment scheduling.\nBuyer notes that the automatic creation of codes for scheduling depends on Clearwave, which may be discontinued, raising workflow concerns.\nBuyer questions how the AI agent will handle visit type restrictions and scheduling rules.\nBuyer is uncertain about pricing structure, especially if referral copilot and voice-based scheduling agent are charged separately.\nBuyer wants clarity on integration capabilities with Athena practice platform and API usage.\nBuyer wants to understand update turnaround times for scheduling rule changes.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -340,7 +358,10 @@
       "attendees": "Ananth Bhaskarla, Sudhanshu Shekhar, Anant Saksena, Adrienne White",
       "brand": "Comet",
       "summary": "The meeting was centered around the implementation and usage of the MindTickle platform, focusing on coaching, analytics, and user interface customization.\n\nTopics Discussed:\nIntroduction and Roles\nAnanth Bhaskarla introduced as the Customer Success Manager for MindTickle, responsible for product ad",
+      "pain_point": "Difficulty in managing and organizing coaching forms and sessions.\nManagers do not create coaching forms; only admins do, which may limit manager flexibility.\nLack of aggregated summary reports for multiple calls; managers must review calls individually.\nCopilot AI tool limitations: can summarize calls but not provide comprehensive analytics or reports.\nHigh call volume makes manual review of each call impractical.\nAsset library issues: videos and decks are not electronically linked, causing confusion.\nAsset display using thumbnails leads to inefficiency and difficulty in finding content.\nFilters for internal vs external assets are not working correctly due to tagging errors.\nSearch functionality is poor due to inconsistent naming and tagging.\nNavigation includes tabs/features not used by the buyer, causing clutter.\nDigital sales rooms lack templates with collapsible sections, leading to excessive scrolling.\nAI companion features may not be fully enabled or functional for all users.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -356,7 +377,10 @@
       "attendees": "Ryan Grace, David Friederichs, Rohit Narayan, Janet Cole, Cornwell, Jordan L., Olivia Zurcher, David Walker, Carr, Pamela K., Anna Wetzel, Peterson, Kassie P., Ari Natansohn",
       "brand": "Comet",
       "summary": "The meeting was centered around introductions and discussions on the integration and capabilities of Innovaccer's platform, particularly focusing on its application in healthcare marketing and patient engagement.\n\nTopics Discussed:\nIntroductions\nParticipants from UnityPoint Health and Innovaccer int",
+      "pain_point": "Buyer indicated challenges with the lack of a centralized patient access and scheduling platform, as current processes are market-based and fragmented.\nBuyer noted that deployment of open Epic scheduling on the website is incomplete and ongoing.\nBuyer expressed challenges related to compliance and conservative approaches limiting use of third-party data and retargeting in marketing.\nBuyer acknowledged difficulties in tracking consent and preferred communication channels within Epic.\nBuyer described organizational resistance or uphill challenges in adopting additional tools beyond Epic due to toolset simplification initiatives.\nSeller mentioned prior authorization in revenue cycle as a known challenge area, though buyer was unsure of specific issues.\nBuyer highlighted the complexity and workload involved in data ingestion and field requests from IT for marketing campaigns.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -373,7 +397,10 @@
       "attendees": "Caitlin Spargo, Evan Boldt, Marcus King",
       "brand": "Comet",
       "summary": "The meeting centered around discussing the capabilities and potential applications of an AI-powered Access Center platform specifically designed for healthcare.\n\nTopics Discussed:\nIntroduction and Background\nEvan Boldt, Marcus King, and Caitlin Spargo engaged in initial pleasantries and discussed pa",
+      "pain_point": "Buyer mentions staffing shortages and difficulty keeping staff.\nBuyer describes high volume of calls that can be cumbersome.\nBuyer notes long hold times in their current system.\nBuyer highlights challenges with referral leakage.\nBuyer indicates administrative costs are rising.\nBuyer describes cumbersome referral processes including insurance verification and prior authorization.\nBuyer mentions the complexity of managing multiple systems and screens for agents.\nBuyer indicates challenges in tracking financial counseling applications and approvals over the phone.\nBuyer notes the need to handle a range of patient questions, including low-value tasks that burden staff.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -386,7 +413,10 @@
       "attendees": "Brian Cummins, Keg Avakian",
       "brand": "Comet",
       "summary": "The meeting between Keg Avakian and Brian Cummins focused on discussing the challenges and opportunities related to referral management and AI solutions. The conversation revolved around the financial viability and strategic approach for implementing these solutions.\n\nTopics Discussed:\nReferral Mana",
+      "pain_point": "Referral volume at the buyer's organization is very small, limiting revenue potential (\"The challenge with umms is that their referral volume is Tiny.\")\nMargins on AI solutions are low or potentially negative due to high costs (\"our margins at that level are not great.\", \"I can't even guarantee you that we'd be margin positive.\")\nPilot implementations require significant effort and resources despite small deal size (\"every time I sign up to do one of these that's capacity that I'm not going to have...\")\nPricing per referral is high compared to what the customer is willing to pay (\"we'd be going from like something like four or five dollars a referral to like $34 a referral, which I'm just guessing is probably not going to hunt.\")\nAI solutions require ongoing hands-on management and customization for each customer (\"every single time you start with the new customer, you got to learn all the quirks of their business...\")\nCompetitive pressure in referral management is low, but pricing is commoditized in other areas (\"there's so many other competitors that they're all offering bargain-basement pricing to try to get market share.\")\nDifficulty in making small pilots financially viable (\"trying to do yet an additional like favor of making it like a free pilot just feels really tough.\")\nCustomers are not interested in partial solutions, preferring more complete offerings (\"The customer wasn't interested in just buying the agents. So we're selling them a more complete version of Access Center.\")",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -399,7 +429,10 @@
       "attendees": "I_gunpreet Kour, pch001, Alex Garcia",
       "brand": "Comet",
       "summary": "The meeting centered around discussing potential solutions for reducing the high cancellation rates at surgery centers, particularly focusing on the integration of AI technology to improve patient engagement and retention.\n\nTopics Discussed:\nIntroduction and Background\nAlex Garcia introduced the mee",
+      "pain_point": "Seller asks about cancellation issues and patient no-shows.\nBuyer states: \"Cancellation rate is 18%, with many patients disappearing after scheduling surgery.\"\nBuyer states: \"Nine people cancel out of 40 scheduled surgeries, causing overstaffing and operational inefficiencies.\"\nBuyer states: \"Patients often don't respond to texts or emails, sometimes say they will come but then no-show.\"\nBuyer states: \"Cancellation problem has increased in 2023-2025, partly due to economic pressures and high deductibles.\"\nBuyer states: \"Patients have high out-of-pocket costs, e.g., deductibles up to $7000, which affects surgery decisions.\"\nBuyer states: \"Patients don't know the surgery center well, never met the staff, leading to lack of engagement and cancellations.\"\nBuyer states: \"Revenue cycle management and patient follow-up processes are challenging and contribute to the problem.\"",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -417,7 +450,10 @@
       "attendees": "Yash Bhandari, David Friederichs, Kendra Gerlach, Jennifer Lynn Ray, Caitlin Spargo, Brian Strok, Stephen Hughes, Mahogany Hart",
       "brand": "Comet",
       "summary": "The meeting centered around discussing potential solutions for managing call volumes and improving patient engagement and access within healthcare systems.\n\nTopics Discussed:\nBackground and Introductions\nParticipants introduced themselves and shared their professional backgrounds, particularly their",
+      "pain_point": "Multiple phone numbers from acquisitions causing confusion and lack of coordination.\nHigh call volume with many calls to fax numbers and spam bots.\nDifficulty in identifying and blocking non-human calls (spam bots).\nLack of a unified Access Center solution leading to inefficiencies.\nChallenges with managing referrals coming from multiple sources including fax.\nStaffing shortages and rising administrative costs impacting call center operations.\nLong hold times and referral leakage.\nNeed to reduce call volume and improve call routing.\nDifficulty in scheduling patients efficiently, including after-hours and for patients with complex schedules.\nConcerns about integration with existing Epic system and workflows.\nNeed for a solution that can be modular and flexible to meet current and future needs.\nDesire to avoid double booking and ensure real-time scheduling synchronization.\nNeed to improve patient engagement and reduce no-shows.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -430,7 +466,10 @@
       "attendees": "Pradhan Joshua, Paulina Kaminski, Keg Avakian",
       "brand": "Comet",
       "summary": "The meeting centered around discussing the scheduling and support needs of a client, focusing on the integration and optimization of scheduling systems.\n\nTopics Discussed:\nScheduling System Integration\nKeg Avakian discussed the client's current use of Clear Wave, which only handles about 4% of sched",
+      "pain_point": "Buyer dissatisfaction with Clearwave's limited scheduling capability (only about 4% of appointments).\nClearwave does not maintain physician scheduling rules, only provides low-level scheduling.\nIntegration challenges with Athena practice product, which is legacy and less supported compared to Athena one.\nPotential high integration costs from Athena side (e.g., $70,000).\nLack of access for customers to edit provider scheduling rules directly.\nNeed for ongoing updates and sustaining changes to scheduling rules.\nComplexity in scheduling due to multiple appointment types with different workflows.\nCurrent dashboards do not support provider template optimization.\nConcern about timelines and implementation duration (previous vendor took nine months).\nNeed to address internal questions and justify pricing and ROI estimations.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -443,7 +482,10 @@
       "attendees": "ryan, Alexs, Jsladky, Prakhar Raj, Kshitij Joshi",
       "brand": "Comet",
       "summary": "The meeting primarily focused on discussing the feedback and potential collaboration regarding a demonstration of a new tool, as well as exploring opportunities for workflow automation and data integration.\n\nTopics Discussed:\nFeedback on Demonstration\nDr. Summers and Justin Ryan provided feedback on",
+      "pain_point": "Buyer finds current referral workflows manual, inefficient, and reliant on spreadsheets and meetings.\nLack of transparency and quality data in prior EMR (Elation) made it difficult to track referrals and outcomes.\nCurrent staff are frustrated with unstructured data entry and lack of guardrails in EMR.\nBuyer is wasting money and resources on unnecessary tasks such as preparing charts and making multiple phone calls for scheduling.\nDifficulty in automating tasks due to firewalls and PHI protection.\nConcern about AI tools potentially diminishing patient experience and trust due to lack of human interaction.\nNo dedicated EMR superuser internally, limiting optimization.\nCost constraints limit ability to adopt new solutions.\nNeed for better integration and customization of tools to fit workflows.\nChallenges in operationalizing AI tools and protecting medical/legal information.\nDifficulty in quantifying referral volumes and costs due to data limitations.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -458,7 +500,10 @@
       "attendees": "Brian Cummins, Patrick Leonpacher, Kessler Brown, David Chedester, Amy Stevens, Scott Kehn, Anil Jain, Keg Avakian",
       "brand": "Comet",
       "summary": "The meeting centered on preparing for an upcoming strategic discussion with a major health system in Maryland, focusing on financial impact and innovation.\n\nTopics Discussed:\nMeeting Preparation\nKeg Avakian emphasized the importance of a prep document to streamline the meeting agenda.\nThe meeting is",
+      "pain_point": "Seller asked about problems: \"What are the problems they're trying to solve in the Access Center?\"\nBuyer acknowledged the Access Center is \"disjointed.\"\nBuyer mentioned an accounts receivable (AR) problem and collections challenges.\nBuyer noted the need to reduce physician time spent on prior authorizations by 50% and double productivity.\nBuyer highlighted challenges with prior authorizations, denials, and revenue cycle inefficiencies.\nBuyer and team discussed that agents in call centers miss multiple opportunities during calls (e.g., not identifying unfilled prescriptions or vaccination needs).\nBuyer indicated the need to improve performance in quality, finance, productivity, experience, and engagement.\nBuyer noted the complexity of Maryland's unique reimbursement and regulatory environment as a challenge.\nBuyer expressed lack of detailed feedback from procurement on why their RFP response was not selected.\nBuyer mentioned the challenge of aligning internal AI initiatives with external solutions in revenue cycle.\nBuyer and team recognized the difficulty in engaging the right executives and balancing meeting attendees to avoid ineffective participation.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -473,7 +518,10 @@
       "attendees": "Ryan Raess, Kessler Brown, Gerrit VanBruggen, Tcausey1",
       "brand": "Comet",
       "summary": "The meeting primarily revolved around discussing potential collaborations and solutions between the teams, focusing on healthcare technology and data management.\n\nTopics Discussed:\nPersonal Updates\nTcausey1 shared that it was their last day before a month of paternity leave, and there was a brief di",
+      "pain_point": "Referral workflows are problematic, with lapses in follow-up and difficulty ensuring scheduling teams have accurate information.\nThe referral process is clunky due to multiple independent EMRs and lack of interoperability.\nScheduling pain points exist, including manual workflows and challenges in getting patients scheduled efficiently.\nOutreach is currently unidirectional and limited, lacking automated, omni-channel communication.\nPractices do not maximize use of innovative technologies available to them.\nClosing the referral loop and ensuring referring providers receive follow-up information is a challenge.\nManaging prior authorizations and patient access involves manual and time-consuming processes.\nThe IT team and Epic integration concerns limit changes to existing platforms.\nThe buyer expresses that making a change from Arcadia would require something \"astronomical\" due to the effort already invested.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -486,7 +534,10 @@
       "attendees": "Frank Fasano, Scott Kehn, Bharat Sobti, Keg Avakian",
       "brand": "Comet",
       "summary": "The meeting primarily revolved around strategic discussions on pricing and potential opportunities with the University of Maryland Medical System (UMMS).\n\nTopics Discussed:\nPersonal Updates\nKeg Avakian shared personal news about attending a funeral, which led to a brief discussion on personal histor",
+      "pain_point": "Lost two prior RFPs without clear reasons, including one in January.\nReferral volume is low for the post-acute services use case.\nPricing and minimum volume commitments are challenges; concern about margins if volume is too low.\nCurrent SKU sheet and discovery documents are incomplete or in development, causing confusion.\nPilot for referrals is complex, requiring integration and data aggregation, not a simple atomic pilot.\nPrevious proposal was considered cost prohibitive by the prospect.\nDifficulty in getting definitive feedback on why prior proposals were rejected.\nNeed to balance pricing to cover implementation and customer success costs.\nUncertainty about minimum commitments and volume thresholds.\nHesitation from product team about fitting referral pilot into current product framework.\nPotential challenges in coordinating product team availability for meetings and pilot planning.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -499,7 +550,10 @@
       "attendees": "Vaibhav Kumar, Amarjit Rai, John Hickey",
       "brand": "Comet",
       "summary": "The meeting primarily focused on discussing the challenges and strategies related to digital health solutions and innovation management.\n\nTopics Discussed:\nDigital Health Solutions\nDiscussion on the current portfolio of digital health companies and the challenges of managing multiple solutions.\nEmph",
+      "pain_point": "Seller asks about challenges with referral intake scheduling.\nBuyer states capacity issues limiting ability to implement new solutions.\nBuyer highlights scheduling as a big question mark with multiple systems involved.\nBuyer describes bandwidth constraints in technology teams making progress difficult.\nBuyer notes fragmentation and multiple teams involved complicating scheduling and referral optimization.\nBuyer mentions lack of a process for scheduling referral optimization.\nBuyer states lack of visibility on nuts and bolts of Longitude RX modules and feature sets.\nBuyer indicates no tools currently to influence scheduling access decisions.\nBuyer describes challenges managing and orchestrating multiple point solutions across the health system.\nBuyer mentions financial performance issues related to Epic causing revenue recognition and denials problems.\nBuyer notes that despite acceleration of solutions like CDI and denial management, impact is still needed.\nBuyer indicates priorities are stacked and progress may not move quickly due to fiscal year constraints and financial pressures.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -515,7 +569,10 @@
       "attendees": "Michele Sutton, FACHE, Alex Garcia",
       "brand": "Comet",
       "summary": "The meeting was centered around discussing the existing relationship and potential expansion of services between Michele Sutton, FACHE, and Alex Garcia, VP at Interfacer, focusing on the healthcare platform \"Cured.\"\n\nTopics Discussed:\nIntroduction to Cured\nMichele Sutton was introduced to \"Cured,\" a",
+      "pain_point": "Seller asks: \"Wait times any of that stuff coming to you as far as something you want to want to fix?\"\nBuyer does not explicitly state problems but implies interest in improving call center efficiency.\nSeller implies manual prior authorization processes are costly and inefficient: \"Go back to those manual processes that you think not adding more workers would really do anything other than just more expense.\"\nBuyer states: \"The only thing we're not doing is prior authorization, currently?\" implying a gap in current processes.\nBuyer expresses concern about call center workload and interest in virtual attendant capabilities.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -531,7 +588,10 @@
       "attendees": "Kevin Arlington, Debbie Voyles, David Friederichs",
       "brand": "Comet",
       "summary": "The meeting primarily focused on discussing virtual care strategies and patient engagement initiatives, with insights shared by Debbie Voyles, Kevin Arlington, and David Friederichs.\n\nTopics Discussed:\nVirtual Care and Telehealth Programs\nDebbie Voyles shared her experience in building telehealth pr",
+      "pain_point": "Seller questions:\n\"How do you determine which patients go to virtual care and which have to be on site?\"\n\"How would patient outreach factor into managing those care journeys?\"\nBuyer statements:\nThe organization is experiencing growing pains transitioning from a rigid corporate structure to an academic medical center.\nThere is uncertainty and ongoing work to set up policies, expectations, and processes for virtual care.\nPatient engagement and access center projects have been delayed or unsettled due to leadership changes.\nChallenges exist in managing patients who frequently visit the ED due to lack of access to regular care.\nPatients sometimes use the ED because they cannot get timely access to their doctors or do not know what to do.\nThere is a need to identify appropriate patients for virtual care and manage them effectively to reduce unnecessary hospital visits.\nThe organization is still figuring out the best approach to patient engagement and virtual care management.\nThere is a need to develop personal relationships with patients rather than relying solely on AI.\nThe buyer acknowledges they do not know everything and are eager to learn about potential solutions.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -544,7 +604,10 @@
       "attendees": "ryan, AlexSommersMD, Prakhar Raj, Kshitij Joshi, Irene Logis, Connor Johnson, Jimmy Bresee III, Kartik Jataria",
       "brand": "Comet",
       "summary": "The meeting was centered around introducing team members and discussing potential collaboration opportunities between Innovator and Dr. Summers' organization, focusing on referral management and network configuration.\n\nTopics Discussed:\nIntroductions\nKshitij Joshi, Prakhar Raj, Irene Logis, Connor J",
+      "pain_point": "Seller questions about problems:\n\"How are you getting that employer sort of registry for what they approved for specialist?\"\n\"Is that something that could be customized to a given employer?\"\nBuyer statements about problems and challenges:\nManaging multiple employer-specific referral networks is complex and challenging.\nProviders struggle with knowing where to send patients for specialist referrals due to varying benefit designs.\nReferral navigation is a giant problem and number one barrier to job satisfaction for advanced direct primary care.\nCurrent workflows involve semi-manual processes with spreadsheets and multiple logins.\nLack of integrated, automated referral navigation tools.\nAdministrative burden on providers and staff is high, with repetitive low-value tasks.\nDifficulty in providing referrals that consider cost, quality, patient outcomes, and proximity.\nChallenges in managing network leakage and understanding where patients are referred outside the network.\nNeed for automation to reduce labor costs and administrative overhead.\nDifficulty in consolidating data from multiple sources and systems.\nLack of real-time or integrated cost and quality information in referral workflows.\nComplexity in managing referrals for multi-employer near-site clinics with dozens of employers.\nNeed for better tools to make the easy choice the obvious choice for providers at point of care.\nCurrent reliance on fax and manual document attachments in referral processes.\nNeed to reduce back-and-forth and streamline referral documentation and scheduling.\nDifficulty in tracking and reporting referral success and network leakage effectively.\nChallenges in integrating various data sources and platforms for comprehensive analytics.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -557,7 +620,10 @@
       "attendees": "Wesley Sgroi, Bellowsm, Amink, Glenn Kunigan, Caitlin Spargo, pamela romano, Frank Fasano",
       "brand": "Comet",
       "summary": "The meeting was centered around discussing a proposal for implementing AI solutions in a call center to improve efficiency and reduce workload.\n\nTopics Discussed:\nIntroduction and Team Introductions\nWesley Sgroi introduced Frank Fasano, a VP on the product strategy team, to support the proposal disc",
+      "pain_point": "Staffing challenges: 7 open FTE positions in the call center, leading to hiring pressure.\nHigh turnover and burnout among call center agents due to workload.\nManual and slow insurance verification process requiring two-step verification.\nInefficiency in assigning copays manually after insurance verification.\nDisparate call center systems across Ellis Medicine causing complexity.\nKnowledge guides for IT service desk are outdated and scattered, complicating automation efforts.\nConcerns about call handling time and patient experience due to current processes.\nBudgeting challenges due to variable monthly fees and volume fluctuations.\nConcerns about contract flexibility and risk of vendor relationship issues.\nNeed for automation to reduce repetitive tasks and improve agent efficiency.\nDesire to automate insurance copay assignment during calls to reduce manual work.\nUncertainty about AI agent capabilities in fully handling calls and data entry.\nConcern about legal and disclosure requirements when using AI agents in calls.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -570,7 +636,10 @@
       "attendees": "Caitlin Spargo, Vaibhav Kapil, Drollins",
       "brand": "Comet",
       "summary": "The meeting centered on discussing the potential replacement of Salesforce as a CRM system and exploring alternative solutions to enhance operational efficiency and patient engagement.\n\nTopics Discussed:\nSalesforce Replacement\nVaibhav Kapil and Caitlin Spargo discussed the need to replace Salesforce",
+      "pain_point": "Buyer is looking to replace Salesforce not primarily due to cost or contract issues but due to accumulated tech debt over seven years.\nSalesforce workflows are heavily customized, which may contribute to complexity.\nChallenges with data integration and data quality, such as duplicate patient records due to inconsistent data (e.g., phone numbers).\nManual input processes for financial transactions, such as credit card payments and third-party financing, lacking automation.\nManaging multiple EMR instances separately due to regulatory constraints, complicating data unification.\nNeed for operational standardization across franchises to maintain consistency.\nPotential difficulties in managing referral leakage and appointment no-shows.\nDesire to reduce operational burnout and improve efficiency in contact center workflows.\nNeed for better visibility and coordination across franchise clinics and provider networks.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -583,7 +652,10 @@
       "attendees": "Lmeade, Ryan Raess, Jphilippsen, Sroberts3",
       "brand": "Comet",
       "summary": "The meeting centered around discussing a pricing proposal and the capabilities of a platform offered by Innovator, focusing on data integration, campaign management, and call center solutions.\n\nTopics Discussed:\nWeather and Personal Updates\nBrief exchange about weather conditions in Milwaukee and So",
+      "pain_point": "Buyer expresses concern about limited budget and cost containment pressures impacting investment decisions.\nBuyer notes internal IT turnover and limited bandwidth to implement new systems.\nBuyer highlights challenge of integrating multiple data sources and platforms (e.g., Epic, Salesforce, Innovator).\nBuyer indicates difficulty in achieving a universal dashboard across service lines.\nBuyer mentions limitations in current analytics capabilities, including manual data handling and lack of scalable solutions.\nBuyer expresses concern about consumption-based pricing model for call center platform being a challenging mindset shift.\nBuyer notes difficulty in tracking downstream revenue impact from SMS campaigns.\nBuyer highlights challenge of prioritizing work queues and managing different types of calls with varying importance.\nBuyer indicates concern about potential overage fees or contract amendments with variable usage.\nBuyer discusses challenge of balancing speed to market with custom build times for campaigns and dashboards.\nBuyer notes difficulty in comparing different vendors due to differing capabilities and pricing models.\nBuyer expresses concern about internal leadership's appetite for investment given other capital expenditures.\nBuyer mentions challenge of managing call volumes and staffing to meet minimum usage thresholds.\nBuyer highlights difficulty in quantifying value and ROI for proposed solutions.\nBuyer notes licensing restrictions limiting data export and sharing with agencies.\nBuyer expresses concern about the complexity of contract terms, including CPI increases and consumption-based fees.\nBuyer indicates challenge in aligning internal teams on priorities and timelines for decision-making.\nBuyer discusses difficulty in scaling analytics capabilities without proportionally increasing human capital.\nBuyer notes challenge in managing multiple marketing tactics and integrating them into cohesive reporting.\nBuyer expresses concern about potential over-investment in capabilities not immediately needed.\nBuyer highlights challenge in managing expectations around minimum viable product versus full capabilities.\nBuyer mentions difficulty in justifying per-call pricing to internal stakeholders accustomed to fixed pricing models.\nBuyer notes challenge in managing data ingestion costs from third-party sources like HRA and Experian.\nBuyer expresses concern about the need for clear definitions and alignment on metrics within dashboards.\nBuyer highlights challenge in managing multiple campaigns and ensuring effective targeting without excessive manual effort.\nBuyer indicates concern about the potential complexity and cost of adding propensity scoring models.\nBuyer discusses challenge in balancing flexibility and scalability with budget constraints.\nBuyer notes difficulty in managing internal change and turnover impacting project timelines.\nBuyer expresses concern about the need for clear communication and support from vendor during contract negotiations.\nBuyer highlights challenge in managing multiple stakeholders with varying priorities and understanding of technology.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -600,7 +672,10 @@
       "attendees": "Adarsh Rajput, Evan Boldt, Marcus King",
       "brand": "Comet",
       "summary": "The meeting was an introductory discussion between Evan Boldt and Marcus King, focusing on potential collaboration and technology solutions for contact center operations.\n\nTopics Discussed:\nIntroduction and Roles\nEvan Boldt introduced himself as the AVP for the Upper Midwest, including Indiana.\nMarc",
+      "pain_point": "Seller asks: \"Is there a staffing shortage or lack of ability for patients to contact you?\"\nBuyer states: \"Not currently, but looking towards future efficiency needs.\"\nBuyer states: \"The process of going back into notes to retrieve patient information is manual and time-consuming.\"\nBuyer states: \"The Medicaid application process is painful and slow.\"\nBuyer states: \"There is a need to automate note-taking and provide basic information without a live agent.\"\nBuyer states: \"Efficiency pressures due to budget cuts and need to redeploy staff.\"\nBuyer states: \"Language barriers are a challenge in patient communications.\"",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -616,7 +691,10 @@
       "attendees": "Yash Bhandari, Parth Arora, David Friederichs, Brian Strok, Stephen Hughes",
       "brand": "Comet",
       "summary": "The meeting centered around discussing potential collaborations and solutions for healthcare management and patient engagement challenges.\n\nTopics Discussed:\nIntroduction and Background\nDavid Friederichs introduced the team members and their roles.\nStephen Hughes shared his background and connection",
+      "pain_point": "Buyer states: They have a significant shortage of physicians (100-160 primary care physicians short).\nBuyer states: Rapid population growth has increased demand for care.\nBuyer states: Acquisitions of practices were not always strategic, leading to many unmanaged phone numbers and voicemails.\nBuyer states: Difficulty managing and routing approximately 30,000 incoming calls effectively.\nBuyer states: Current CRM solutions (lightweight Salesforce, Epic) are inadequate for their needs.\nBuyer states: Epic is not effective for referral management and does not provide timely or actionable data on specialty leakage.\nBuyer states: Challenges in identifying why patients are referred outside their system and acting on that information in real time.\nBuyer states: Need for better integration and automation in scheduling and referral ingestion.\nBuyer states: Complexity in triaging calls to determine urgency and appropriate routing.\nBuyer states: Managing multiple phone numbers and ensuring a single published number for patients is a challenge.\nBuyer states: Current tools may not scale or meet future needs for call center and CRM functions.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": false
     },
@@ -634,7 +712,10 @@
       "attendees": "James Robertshaw, Chelsea Christopher, Daniel Watson, Ishmeet Singh, Jay Levine, Shikha Sidana",
       "brand": "Comet",
       "summary": "The meeting primarily focused on discussing the expansion of a contract and the integration of new data feeds for a healthcare project.\n\nTopics Discussed:\nContract Expansion\nThe team discussed the expansion of the contract to include 70,000 new lives, focusing on Medicare and Medicaid populations.\nC",
+      "pain_point": "Buyer mentions the current outreach process involves a lot of cold calling, which is not very effective.\nThere is a challenge in managing two separate telephony systems and workflows for different teams.\nThe measurement year for the new population has already started, causing some urgency and delay.\nThere is some uncertainty about the frequency of data feeds from Horizon.\nBuyer notes the need to streamline reporting and reduce labor intensity compared to current dashboards.\nOrganizational changes have affected appetite for transitioning to new platforms.\nManaging new measures and protocols for the expanded population requires effort and coordination.\nNeed to ensure data feeds and files are consistent and require minimal new development.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -647,7 +728,10 @@
       "attendees": "Rasheed Baqai, Riddhimaan Bhattacharyya, Jay Levine, Jennifer Lynn Ray, Mchadha, Caitlin Spargo, Jill Marie Shewmake",
       "brand": "Comet",
       "summary": "The meeting was centered around discussing various healthcare solutions and innovations, particularly focusing on value-based care, patient engagement, and administrative automation.\n\nTopics Discussed:\nIntroduction and Team Introductions\nParticipants introduced themselves, highlighting their roles a",
+      "pain_point": "Buyer states they have \"piecemeal solutions\" from multiple vendors causing confusion.\nBuyer describes prior authorization process as \"old way\" and decentralized, implying inefficiency.\nBuyer notes difficulty in booking calendars and scheduling.\nBuyer implies administrative burden on staff handling prior authorizations and scheduling.\nBuyer mentions that staff can only handle a fraction of prior authorizations received daily, leading to lost revenue opportunities.\nBuyer expresses need for better integration and rationalization of technology solutions.\nBuyer concerned about rejection rates and handling of denied prior authorizations.\nBuyer mentions challenges in managing complex prior authorizations involving multiple providers and external documents.\nBuyer notes need to reduce cognitive and administrative burden on staff.\nBuyer wants AI agents to follow decision trees to triage and schedule appointments appropriately, reducing unnecessary physician scheduling.\nBuyer wants to offload routine patient follow-up and monitoring tasks from nurses to AI agents.\nBuyer concerned about ensuring agents can handle complex specialty workflows and escalate appropriately.\nBuyer notes current scheduling and prior authorization processes are inefficient and outdated.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -660,7 +744,10 @@
       "attendees": "Alex Garcia, Mbruce",
       "brand": "Comet",
       "summary": "The meeting was centered around discussing the integration of AI solutions for healthcare data management and improving operational efficiencies at Ivy Creek.\n\nTopics Discussed:\nIntroduction and Background\nAlex Garcia introduced themselves as the Area VP and provided an overview of their role in sup",
+      "pain_point": "Seller asks: \"If you were to say, where can we really use some help? Is there anything top of mind for your organization you want to improve?\"\nBuyer states: \"The biggest thing is making sure I've got clean claims going to the insurance company.\"\nBuyer states: \"The hospital billing EMR and clinic billing system companies don't want to give access to anybody and are begrudging on integration.\"\nBuyer states: \"They want me to upload schedules daily for call systems, which is cumbersome and doesn't work well.\"\nBuyer states: \"Serious problems with EMR companies willing to help with interfaces.\"\nBuyer expresses difficulty with AI call systems that require manual upload and download of schedules, making it inefficient.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -675,7 +762,10 @@
       "attendees": "Nandini, Kshitij Joshi, Matthew Kaminske, Jill Marie Shewmake",
       "brand": "Comet",
       "summary": "The meeting was centered around discussing referral management and prior authorization processes, with a demonstration of relevant tools.\n\nTopics Discussed:\nIntroduction and Participant Roles\nKshitij Joshi introduced the participants and their roles, including Jill Marie Shewmake and Nandini, who ar",
+      "pain_point": "Seller asks about referral management challenges.\nBuyer states referrals are a pain point from previous experience.\nReferral tracking is limited; current system tracks large buckets but not individual work contributions.\nReferral process is complex and decentralized with many one-offs.\nDifferent facilities and departments have unique and varying rules.\nScheduling is time-consuming due to individualized patient needs and facility rules.\nLack of integration and automation leads to inefficiency.\nManual prior authorization process with low first pass rates (implied by seller's mention of improvement).\nNeed to avoid adding more coordinators by improving efficiency.\nDifficulty in managing outbound referrals and tracking productivity.\nChallenges in managing multiple health plans with different referral and prior authorization requirements.\nNo transportation services provided; arranging transportation is a challenge for some patients.\nLanguage barriers and patient competency add complexity to scheduling and referral management.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -688,7 +778,10 @@
       "attendees": "Learl, Utkarsh Sriram, Vaibhav Kapil",
       "brand": "Comet",
       "summary": "The meeting centered around the introduction and discussion of NaOH Pi's platform and its integration with healthcare systems, focusing on occupational health practices and potential collaboration with Innovation.\n\nTopics Discussed:\nNaOH Pi's Platform\nNaOH Pi is a professional association with appro",
+      "pain_point": "Seller asks: \"But the problem is that you're looking to kind of you know give this place a phone to use it groan the same platform right?\"\nBuyer implies challenges with interoperability due to some EHR systems not allowing write-back of data, which disrupts seamless data exchange.\nSeller highlights revenue leakage issues due to lack of control over referrals and denials, causing lost patients and lost revenue for health systems.\nBuyer mentions the challenge of deciding on a payment model for the platform (transaction fee vs. monthly fee).\nSeller notes the complexity of integrating with multiple EHR systems and managing patient flow across a distributed network.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -701,7 +794,10 @@
       "attendees": "Bashayer AlTamimi, Sandesh, Y Alanazi, Norah Alshahrani",
       "brand": "Comet",
       "summary": "The meeting was centered around discussing the capabilities and integration of AI-driven solutions for healthcare operations, specifically focusing on referral and access center functionalities.\n\nTopics Discussed:\nIntroduction and Team Introductions\nBashayer AlTamimi introduced the team and the purp",
+      "pain_point": "Long wait times on traditional voice channels leading to patient call abandonment.\nMissed appointments and lost revenue due to poor access experience.\nPatients switching providers after poor access experiences, causing retention issues.\nDisconnected workflows for agents juggling multiple systems that do not communicate.\nManual referral processing requiring 10-15 minutes per referral.\nManual insurance verification prone to errors (false negatives/positives).\nLack of Arabic language support in AI agents currently.\nInsufficient care agents to handle incoming calls and decipher data.\nAI agents unable to handle calls when patients do not cooperate or provide insufficient information.\nTechnical errors during AI call placement requiring retries.\nNeed to reduce errors and save time in referral scheduling and prior authorization workflows.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -714,7 +810,10 @@
       "attendees": "osvaldo, Arun Maithani, Ashish Gupta",
       "brand": "Comet",
       "summary": "The meeting was a discussion between Ashish Gupta from Innovation and Dr. Osvaldo Ramirez, focusing on Innovation's capabilities and potential collaboration with Dr. Ramirez's clinic.\n\nTopics Discussed:\nIntroduction and Background\nAshish Gupta introduced himself as a Senior Business Executive at Inn",
+      "pain_point": "Seller asks about struggles with referral management.\nBuyer states struggles include scheduling access issues, time-consuming manual work, chasing faxes and notes for care coordinators, and concerns about network liquidity.\nSeller notes challenges with chart retrievals and manual burdensome tasks in referral management.\nBuyer currently uses spreadsheets for tracking, implying lack of efficient technology.\nManual processes involved in prior authorization such as robotic process automation, faxes, and calling are burdensome.\nReferral management suffers from dropped referrals, slow scheduling, and poor turn-up ratios.\nManual and complex workflows in referral scheduling and tracking.\nLack of centralized view of provider performance and clinical outcomes analytics.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -727,186 +826,19 @@
       "attendees": "IsaacOwusu, Sasikiran Vakkalagadda, Fahim Falzada",
       "brand": "Comet",
       "summary": "The meeting primarily focused on the progress and planning for the User Acceptance Testing (UAT) and the upcoming launch of the Access Center.\n\nTopics Discussed:\nGeopolitical Concerns\nBrief discussion on the current geopolitical climate and its impact on business operations, particularly in regions ",
+      "pain_point": "Licensing issues with the new email domain caused suspension, forcing use of the District Health domain.\nLack of response from EHR vendor regarding right back functionality (creating appointment records), causing delays.\nCurrent ticket management system is primitive (spreadsheet-based), limiting efficiency.\nConnectivity issues with ADT data feed from the EHR, impacting data availability.\nUncertainty about the new CGI vendor selection, causing delays.\nSome providers do not yet have access to the provider copilot tool.\nInternal approvals pending for license provisioning, causing minor delays.\nManual appointment scheduling and incomplete CCI (Clinical Care Integration) functionality remain unresolved.\nNeed to finalize ticket types and workflows for the Access Center module.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     }
   ],
   "pain_clusters": [],
   "deal_pain_clusters": [],
-  "business_impacts": {
-    "categories": {},
-    "total_analyzed": 34
-  },
+  "business_impacts": {},
   "growth_clusters": [],
-  "messaging": {
-    "repeated_value_props": [
-      {
-        "theme": "Automation of Manual/Repetitive Tasks",
-        "description": "Automating workflows like scheduling, insurance verification, referral processing, and prior authorizations to reduce manual effort, errors, and administrative burden.",
-        "frequency": 16,
-        "representative_sr_nos": [
-          "3",
-          "93",
-          "106",
-          "124",
-          "238",
-          "273",
-          "322",
-          "356",
-          "376"
-        ]
-      },
-      {
-        "theme": "Reduce Call Center Workload & Increase Staff Efficiency",
-        "description": "Using AI agents and self-service options to offload call volume, reduce handle times, and free human agents to focus on more complex, high-value tasks, thereby reducing staff burnout.",
-        "frequency": 11,
-        "representative_sr_nos": [
-          "17",
-          "34",
-          "48",
-          "93",
-          "143",
-          "238",
-          "273"
-        ]
-      },
-      {
-        "theme": "Improve Patient Access & Experience",
-        "description": "Providing patients with self-service options (scheduling, lookups), reducing wait times, and enabling asynchronous communication to enhance satisfaction and retention.",
-        "frequency": 8,
-        "representative_sr_nos": [
-          "3",
-          "48",
-          "88",
-          "179",
-          "238",
-          "280",
-          "316",
-          "356"
-        ]
-      },
-      {
-        "theme": "Enhance Referral Management",
-        "description": "Streamlining the referral process to reduce manual work, improve processing time (from minutes to seconds), increase visibility, and close care gaps.",
-        "frequency": 7,
-        "representative_sr_nos": [
-          "70",
-          "93",
-          "215",
-          "322",
-          "356",
-          "376",
-          "436"
-        ]
-      },
-      {
-        "theme": "Demonstrate Financial Impact & ROI",
-        "description": "Positioning the solution in terms of direct financial benefits, such as reducing costs, improving revenue cycle management, and proving value to C-level executives.",
-        "frequency": 6,
-        "representative_sr_nos": [
-          "112",
-          "132",
-          "254",
-          "318",
-          "143",
-          "70"
-        ]
-      },
-      {
-        "theme": "Unified Platform & Data Integration",
-        "description": "Offering a single, integrated platform that connects disparate systems (EMR, CRM, telephony) to create a unified patient record or a single-pane-of-glass for agents.",
-        "frequency": 6,
-        "representative_sr_nos": [
-          "17",
-          "43",
-          "48",
-          "242",
-          "316",
-          "329"
-        ]
-      }
-    ],
-    "inconsistent_narratives": [
-      {
-        "conflict_description": "Positioning as a Specific Point Solution vs. a Broad Unified Platform. In some calls, the solution is narrowly focused on a single pain point like insurance verification (3) or cold calling (21). In others, it's presented as a comprehensive, unified platform that replaces multiple piecemeal solutions and provides a holistic patient view (43, 316, 329). This creates ambiguity about whether the product is a suite of standalone tools or a true integrated platform.",
-        "sr_nos": [
-          "3",
-          "21",
-          "43",
-          "316",
-          "329"
-        ]
-      },
-      {
-        "conflict_description": "AI as Human Replacement vs. AI as Human Augmentation. The narrative shifts between replacing human workers and augmenting them. Some calls emphasize AI handling tasks 'without human intervention' to 'reduce reliance on human SDRs' (21, 34). Others focus on AI as a 'smart assist' to 'reduce human effort and errors' and provide a 'unified desktop for agents' to improve efficiency (3, 48), suggesting the AI is a tool for humans rather than a replacement.",
-        "sr_nos": [
-          "3",
-          "21",
-          "34",
-          "48",
-          "273"
-        ]
-      }
-    ],
-    "proof_signals": [
-      {
-        "type": "Financial Metrics & ROI",
-        "description": "References to specific cost savings, efficiency gains, and financial impact to justify the investment, often targeted at C-level stakeholders.",
-        "sr_nos": [
-          "34",
-          "70",
-          "93",
-          "112",
-          "132",
-          "318"
-        ]
-      },
-      {
-        "type": "Pilots & Proof of Concept",
-        "description": "Discussions around starting with a pilot program to demonstrate value and success in a controlled environment before a wider rollout.",
-        "sr_nos": [
-          "132",
-          "316"
-        ]
-      },
-      {
-        "type": "Product Demonstrations",
-        "description": "Direct requests for or feedback on demonstrations of the tool, particularly deep dives into specific functionalities like the authorization process.",
-        "sr_nos": [
-          "33",
-          "106",
-          "322"
-        ]
-      }
-    ],
-    "content_gaps": [
-      {
-        "gap_description": "Need for Clear ROI & Business Case Models. Prospects repeatedly ask for demonstrated financial impact and an understanding of the ROI. This indicates a need for a standardized ROI calculator, business case templates, or case studies with specific, quantifiable financial outcomes.",
-        "sr_nos": [
-          "112",
-          "132",
-          "318"
-        ]
-      },
-      {
-        "gap_description": "Demand for Feature-Specific Deep Dives. Buyers request deep dives on particular functionalities (e.g., 'the authorization piece'). This suggests that general platform demos are insufficient and that more focused, modular demo assets or one-pagers are needed to address specific, high-priority pain points.",
-        "sr_nos": [
-          "33"
-        ]
-      },
-      {
-        "gap_description": "Questions on Integration with Existing Systems (EMR/Telephony). The importance of integration with existing systems like Epic and Athena is a recurring theme. This points to a need for clear, readily available content like technical one-pagers, integration guides, or case studies focused on specific EMR/telephony integrations.",
-        "sr_nos": [
-          "3",
-          "11",
-          "17",
-          "99",
-          "132"
-        ]
-      }
-    ]
-  },
+  "messaging": {},
   "risk_signals": [
     {
       "type": "late_stage_no_budget",

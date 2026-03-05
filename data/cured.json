@@ -124,7 +124,10 @@
       "attendees": "Diya Sharma, Dan Syse, Yash Rajbhar",
       "brand": "Cured",
       "summary": "The meeting primarily focused on scheduling and communication challenges related to upcoming events and interactions with key stakeholders.\n\nTopics Discussed:\nScheduling and Communication\nDiya Sharma and Dan Syse discussed the rescheduling of a meeting and the lack of response from certain individua",
+      "pain_point": "Joshua Wood's phone numbers are out of service, making contact difficult.\nLack of confirmation or response from key contacts (e.g., Will) for meetings.\nDifficulty in getting meetings scheduled or confirmed with Confluence Health representatives.\nUncertainty about who manages or oversees the CRM system at Confluence Health.\nChallenges in coordinating schedules and ensuring attendance at meetings or events.\nDatabase inaccuracies affecting contact information.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -137,7 +140,10 @@
       "attendees": "Tracy Cobb, Mitch Anderson, Mitch Holdwick",
       "brand": "Cured",
       "summary": "The meeting primarily focused on discussing the ongoing partnership and renewal opportunities with Henry Ford, particularly in the context of their frustrations with the current system and potential expansions.\n\nTopics Discussed:\nPartnership with Henry Ford\nDiscussion on the renewal opportunities in",
+      "pain_point": "Seller asks: \"Is the level of frustration with Cheers getting to a point where they're willing to fight that battle internally?\"\nBuyer states: There are frustrations with Cheers, including inability to build out needed campaigns.\nBuyer mentions that the data ingestion with Cheers is minimal and the tool is oversimplified.\nBuyer notes that Henry Ford's team is beyond frustrated with Cheers as it is not working for their needs.\nBuyer highlights that the current process involves manual SFTP uploads into Salesforce, which seems inefficient.\nBuyer indicates no reminder or abandoned cart emails are set up in the current system.\nBuyer mentions that the current RFP does not include HRAs, limiting expansion opportunities.\nBuyer notes that procurement processes are lengthy and challenging.\nBuyer and seller discuss that the current use of Cheers is fine for existing patients but inadequate for acquiring new patients.\nBuyer points out that the Salesforce integration was shut off recently, but SFTP remains active, causing confusion and inefficiency.\nBuyer indicates that the current system lacks advanced automation and nurturing capabilities.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -152,7 +158,10 @@
       "attendees": "Mitch Anderson, Maryn Klosterman, Ryan Grace",
       "brand": "Cured",
       "summary": "The meeting primarily focused on introducing Ryan Grace to the team and discussing the integration of data platforms and tools for Kettering Health.\n\nTopics Discussed:\nIntroduction of Ryan Grace\nMitch Anderson introduced Ryan Grace, who will be working on the Kettering account.\nRyan shared his backg",
+      "pain_point": "Buyer acknowledges silos exist within their organization, leading to lack of knowledge about what other departments are doing.\nBuyer and seller mention limitations and challenges with relying solely on Epic platform.\nEpic is described as sometimes being a 'beast' and not always mobile or focused on smaller organizational needs.\nBuyer faces challenges in patient growth beyond retention.\nThere is a need to avoid using multiple disconnected systems for marketing.\nBuyer is weighing options between different platforms (Cheers and Salesforce) to meet operational needs.\nThere is a challenge in coordinating and aligning multiple conversations and solutions across departments.\nSeller notes that internal restructuring was needed because teams were siloed and unaware of overlapping conversations with the buyer.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -165,7 +174,10 @@
       "attendees": "Aditya Bhatt, David Friederichs, Brian Ednie, Angela Blair",
       "brand": "Cured",
       "summary": "The meeting centered around discussing strategic marketing initiatives and exploring potential CRM solutions for healthcare services.\n\nTopics Discussed:\nStrategic Marketing and CRM Needs\nDavid Friederichs and Brian Ednie discussed the integration of strategic marketing with individualized care journ",
+      "pain_point": "Previous Salesforce CRM implementation failed due to excessive build/customization requirements and lack of dedicated resources.\nBuyer has been without a CRM system for about two years.\nDifficulty attributing marketing campaigns directly to appointment volume and ROI.\nMarketing attribution is complex and can lead to circular conversations.\nLimited internal IT resources to manage complex software or data pulls.\nCall center is outsourced and currently does not do outbound calling; integration with call center systems may be complicated.\nCompetitive pressure from nearby health systems with new hospitals and shiny facilities.\nPatient leakage to other hospitals despite geographic proximity.\nNeed to increase physician productivity by filling appointment slots, especially with newly recruited physicians.\nCurrent population health outreach tools (Epic) are limited and still in early phases, with room for enhancement.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -178,7 +190,10 @@
       "attendees": "Utkarsh Sriram, Vaibhav Kapil, Drollins",
       "brand": "Cured",
       "summary": "The meeting was an introductory session between Vaibhav Kapil and Drollins, focusing on understanding each other's roles and discussing potential collaboration opportunities.\n\nTopics Discussed:\nIntroductions\nVaibhav Kapil introduced themselves as a business analyst at Innovation, with a background i",
+      "pain_point": "Seller asks: \"What are you planning to move to from Salesforce?\" and \"Do you have any sort of use case about prior authorization denials or reference management?\"\nBuyer states:\nSalesforce instance has issues; they've spent years trying to fix what wasn't working.\nCurrent Salesforce setup is not sustainable from a cash flow perspective due to contract growth.\nLooking at different options for CRM.\nNo significant medical insurance prior authorization issues, but they do handle third-party financing creditworthiness analysis.\nConcern about data silos and need for secure, connected, automated platform to ease clinic staff workload.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -193,7 +208,10 @@
       "attendees": "Alex Garcia, Rohit Narayan, North Oaks Health System, Christine Albert, Ari Natansohn",
       "brand": "Cured",
       "summary": "The meeting centered around introductions, strategic planning, and marketing initiatives for North Oaks Health System, with a focus on leveraging technology and data integration.\n\nTopics Discussed:\nIntroductions and Backgrounds\nParticipants introduced themselves, including Ari Natansohn, Alex Garcia",
+      "pain_point": "Buyer experienced challenges with manual data feeds into the Cured platform, making data integration difficult.\nPrevious attempts to connect directly to EMR required significant IT resources and custom components, which had incorrect logic and hindered outreach programs.\nBuyer faces patient outmigration in key service lines (oncology, OBGYN) to competitors, especially among commercially insured patients.\nPerception challenges exist, with North Oaks seen as more Medicaid-based compared to competitors.\nBuyer needs to manage PHI compliance carefully in external communications.\nMarketing team has limited automation and relies on manual processes for campaign execution.\nDifficulty in measuring marketing ROI and attribution due to fragmented data.\nLimited capacity and resources to handle increased patient demand and appointment scheduling.\nNeed to improve patient access and reduce inbound call volume to call centers.\nChallenges in orchestrating multi-channel marketing campaigns with conditional logic and behavioral insights.\nLimited experience with AI-driven marketing tools and segmentation.\nNeed to better understand patient responses and behavioral data to optimize campaigns.\nMarketing team has not historically been tasked with revenue generation, presenting a cultural shift.\nManaging relocations and office moves on campus adds communication complexity.\nNeed to expand marketing reach within a prescribed geographic area due to regulatory constraints.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -208,7 +226,10 @@
       "attendees": "Ryan Raess, allisonsanford",
       "brand": "Cured",
       "summary": "The meeting between Ryan Raess and Allison Sanford focused on discussing strategic initiatives related to Medicare shared savings and the potential collaboration with Alliant, a company offering actuarial, data science, and risk management services.\n\nTopics Discussed:\nMedicare Shared Savings\nDiscuss",
+      "pain_point": "Buyer states: Cheers CRM does not meet their needs.\nBuyer states: The quality team is not satisfied with Cheers and it may be manual intensive and not bring much value.\nBuyer states: The current third-party data integration is limited; Experian data is inexpensive but only available as a monthly feed, limiting real-time integration.\nBuyer states: They do not have a clinically integrated network yet.\nBuyer states: There is some confusion or lack of clarity about the strategic approach and technology stack to support the ACO.\nBuyer states: They want to ensure the CRM can support both marketing and quality team needs effectively.\nBuyer states: There is a need to align internal teams and decision-makers on CRM and quality management solutions.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -223,7 +244,10 @@
       "attendees": "Mitch Anderson, Maryn Klosterman",
       "brand": "Cured",
       "summary": "The meeting between Mitch Anderson and Maryn Klosterman focused on organizational changes and CRM strategy updates.\n\nTopics Discussed:\nOrganizational Restructuring\nMitch discussed recent internal reshuffling aimed at aligning teams more effectively.\nThe restructuring involved a shift from a pillar-b",
+      "pain_point": "Seller acknowledges a reshuffling and alignment changes internally causing some confusion.\nSeller mentions being new to selling value-based care solutions and needing to learn on the job.\nBuyer expresses difficulty understanding some technical calls and needing help to clarify.\nBuyer notes that demos are often not sufficient to fully understand the product.\nBuyer implies challenges in coordinating and activating multiple team members for CRM evaluation.\nBuyer mentions the difficulty of managing CRM spread across the organization and the need to clarify its importance and usage.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     },
@@ -239,7 +263,10 @@
       "attendees": "Megan Progar, Ryan Raess, Jim Campbell, Kenneth Szydlow, Ari Natansohn",
       "brand": "Cured",
       "summary": "The meeting was centered around discussing CRM solutions and strategies for enhancing digital marketing efforts at St. Luke's.\n\nTopics Discussed:\nIntroduction and Purpose\nThe meeting began with introductions and a recap of a previous virtual wine tasting event where CRM needs were identified.\nThe ma",
+      "pain_point": "Buyer experiences frequent snags with their current email marketing system (Acoustic), which is not nimble.\nUnable to sync email lists into the system due to HIPAA and privacy restrictions, causing segmentation to happen outside the system.\nMultiple disparate systems managing different audience segments, leading to fragmentation.\nDuplication and crossover of messages causing patient confusion and frustration.\nLack of a true CRM system; past attempts to implement CRM have been inconsistent and incomplete.\nConcern about overlapping communications from different departments (e.g., development) annoying patients.\nDifficulty consolidating data and communications across diverse areas (medical education, med spa, pickleball, development).\nNeed to manage a large volume of emails (11 million annually) with limited staff (one person).\nCurrent reporting and attribution data is strong but engagement with the data is low; need to make it more compelling.\nLack of integration between email outreach and social media engagement data.\nNeed for a unified platform to avoid tripping over each other and creating internal communication problems.",
       "has_budget": false,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": false,
       "has_growth": true
     },
@@ -252,165 +279,17 @@
       "attendees": "Lmeade, Ryan Raess",
       "brand": "Cured",
       "summary": "The meeting primarily revolved around discussions on conference experiences, customer interactions, and strategic planning related to marketing and technology solutions.\n\nTopics Discussed:\nConference Feedback\nRyan Raess and Lmeade discussed the positive outcomes of a recent conference, highlighting ",
+      "pain_point": "Complexity and lack of clarity in Epic system structure and terminology (e.g., 'units' related to emails).\nDisparate systems requiring manual integration and workarounds, leading to inefficiency.\nHigh level of IT involvement required for marketing and communications tasks, causing bureaucracy and delays.\nDifficulty in understanding and managing marketing attribution and demonstrating marketing ROI.\nInternal communication challenges due to reliance on email attachments and limited inbox capacity.\nLack of agility and speed in executing marketing campaigns, requiring long lead times (90-120 days).\nLimited reporting and analytics capabilities within Epic, requiring manual data extraction and Excel manipulation.\nOrganizational disdain and low confidence in marketing effectiveness.\nChallenges in employee communication distribution and potential gaps in available systems.\nDifficulty in comparing and contrasting vendor solutions due to differing approaches and lack of standardized documentation.\nConcerns about scalability and manual repetition of workaround solutions for multiple campaigns.\nLimited access to comprehensive data for reporting, especially marketing spend and campaign effectiveness.\nPotential intellectual property concerns with Epic potentially replicating agency solutions.\nLack of dedicated resources for managing complex systems within the organization.\nChallenges in integrating population health data and leveraging existing registries effectively.\nAmbiguity and lack of transparency in Epic's capabilities and delivery timelines.\nNeed for multiple data feeds and complexity in data ingestion.\nLimited internal analytics expertise to build advanced dashboards and reports.",
       "has_budget": true,
+      "has_authority": true,
+      "has_need": true,
       "has_timeline": true,
       "has_growth": true
     }
   ],
-  "pain_clusters": [
-    {
-      "theme": "Current Tool Inadequacy & Frustration",
-      "description": "Buyers express significant frustration with their existing CRM or marketing tools, citing a lack of necessary features, manual workarounds, and overall dissatisfaction.",
-      "count": 4,
-      "representative_sr_nos": [
-        "240",
-        "320",
-        "374"
-      ],
-      "stage_distribution": "Early to Mid-stage (Discovery, Evaluation)"
-    },
-    {
-      "theme": "Fragmented Systems & Data Silos",
-      "description": "Organizations struggle with multiple disconnected systems, leading to manual data integration, operational inefficiencies, and a fragmented view of the customer or patient journey.",
-      "count": 4,
-      "representative_sr_nos": [
-        "259",
-        "374",
-        "382"
-      ],
-      "stage_distribution": "Mid-stage (Problem Identification, Scoping)"
-    },
-    {
-      "theme": "Failed Implementations & Resource Constraints",
-      "description": "Previous attempts to implement solutions failed due to a lack of dedicated internal resources or excessive IT dependency, creating hesitancy for new projects.",
-      "count": 3,
-      "representative_sr_nos": [
-        "277",
-        "303",
-        "291"
-      ],
-      "stage_distribution": "Mid to Late-stage (Evaluation, Justification)"
-    },
-    {
-      "theme": "Inability to Measure Marketing ROI",
-      "description": "Marketing teams cannot effectively attribute their campaigns to business outcomes like appointments or revenue, making it difficult to prove value and optimize spending.",
-      "count": 2,
-      "representative_sr_nos": [
-        "277",
-        "382"
-      ],
-      "stage_distribution": "Mid-stage (Justification, Scoping)"
-    },
-    {
-      "theme": "Poor Data Quality & Contactibility",
-      "description": "Fundamental issues with database accuracy, such as out-of-service numbers and unclear roles, prevent basic outreach and scheduling with key contacts.",
-      "count": 1,
-      "representative_sr_nos": [
-        "2"
-      ],
-      "stage_distribution": "Early-stage (Prospecting, Qualification)"
-    },
-    {
-      "theme": "Internal Misalignment & Process Inefficiency",
-      "description": "Challenges stem from internal organizational issues, including departmental silos, communication breakdowns, and difficulty coordinating teams for evaluation and decision-making.",
-      "count": 2,
-      "representative_sr_nos": [
-        "259",
-        "348"
-      ],
-      "stage_distribution": "All stages"
-    }
-  ],
+  "pain_clusters": [],
   "deal_pain_clusters": [],
-  "business_impacts": {
-    "categories": {
-      "Cost": {
-        "count": 4,
-        "key_themes": [
-          "Difficulty measuring and justifying marketing ROI",
-          "Unsustainable system costs impacting cash flow",
-          "Increased workload on staff leading to higher operational costs"
-        ],
-        "is_quantified_pct": 0,
-        "representative_sr_nos": [
-          "291",
-          "303",
-          "277"
-        ]
-      },
-      "Time": {
-        "count": 6,
-        "key_themes": [
-          "Inefficiencies and delays from manual processes",
-          "Slow campaign planning and execution",
-          "Wasted staff time on administrative tasks"
-        ],
-        "is_quantified_pct": 0,
-        "representative_sr_nos": [
-          "382",
-          "303",
-          "291"
-        ]
-      },
-      "Revenue": {
-        "count": 7,
-        "key_themes": [
-          "Patient leakage and outmigration to competitors",
-          "Lost revenue from underutilized capacity and missed appointments",
-          "Limited ability to attract and reach new patients"
-        ],
-        "is_quantified_pct": 14,
-        "representative_sr_nos": [
-          "277",
-          "303",
-          "291"
-        ]
-      },
-      "Risk": {
-        "count": 5,
-        "key_themes": [
-          "Risks associated with manual processes (e.g., data errors)",
-          "Potential negative impact on patient care quality and outcomes",
-          "Security concerns due to lack of automation and integration"
-        ],
-        "is_quantified_pct": 0,
-        "representative_sr_nos": [
-          "240",
-          "382",
-          "320"
-        ]
-      },
-      "Operational": {
-        "count": 7,
-        "key_themes": [
-          "Inefficiencies from data silos and lack of system integration",
-          "Burdensome manual processes and workflows",
-          "Lack of alignment and poor communication across departments"
-        ],
-        "is_quantified_pct": 0,
-        "representative_sr_nos": [
-          "291",
-          "259",
-          "382"
-        ]
-      },
-      "Patient/Customer Experience": {
-        "count": 6,
-        "key_themes": [
-          "Confusing or frustrating patient communications",
-          "Negative impact on patient care and quality outcomes",
-          "Poor patient access and engagement experience"
-        ],
-        "is_quantified_pct": 0,
-        "representative_sr_nos": [
-          "374",
-          "303",
-          "320"
-        ]
-      }
-    },
-    "total_analyzed": 8
-  },
+  "business_impacts": {},
   "growth_clusters": [],
   "messaging": {},
   "risk_signals": []
